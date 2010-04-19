@@ -16,6 +16,7 @@
 /configure.ac -text
 dev/cross-model-fr-es-pt.xml -text
 dev/cross.xml -text
+dev/patterns-not-detected.xml -text
 /filterrules.xsl -text
 /fr-pt.prob -text
 /principal.xsl -text
