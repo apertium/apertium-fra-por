@@ -4,6 +4,7 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-fr-pt.fr-pt.dix -text
 /apertium-fr-pt.fr-pt.t1x -text
 /apertium-fr-pt.fr.metadix -text
 /apertium-fr-pt.fr.tsx -text
@@ -13,6 +14,8 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
+dev/cross-model-fr-es-pt.xml -text
+dev/cross.xml -text
 /filterrules.xsl -text
 /fr-pt.prob -text
 /principal.xsl -text
