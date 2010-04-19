@@ -1,14 +1,22 @@
 * text=auto !eol
+/AUTHORS -text
 /COPYING -text
 /ChangeLog -text
 /Makefile.am -text
 /NEWS -text
 /README -text
+/alt.xsl -text
 /apertium-fr-pt.fr-pt.dix -text
 /apertium-fr-pt.fr-pt.t1x -text
+/apertium-fr-pt.fr-pt.t2x -text
+/apertium-fr-pt.fr-pt.t3x -text
+/apertium-fr-pt.fr.acx -text
 /apertium-fr-pt.fr.metadix -text
 /apertium-fr-pt.fr.tsx -text
 /apertium-fr-pt.post-fr.dix -text
+/apertium-fr-pt.pt-fr.t1x -text
+/apertium-fr-pt.pt-fr.t2x -text
+/apertium-fr-pt.pt-fr.t3x -text
 /apertium-fr-pt.pt.dix -text
 /apertium-fr-pt.pt.tsx -text
 /autogen.sh -text
@@ -19,5 +27,6 @@ dev/cross.xml -text
 dev/patterns-not-detected.xml -text
 /filterrules.xsl -text
 /fr-pt.prob -text
+/modes.xml -text
 /principal.xsl -text
 /pt-fr.prob -text svneol=unset#unset
