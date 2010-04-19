@@ -1,0 +1,21 @@
+French and Spanish
+===================================================================
+
+You need apertium and lttoolbox, either version 3.0 or higher, to use
+this language-pair package with Apertium.  To compile the linguistic
+data simply do:
+
+$ ./configure
+
+to generate a Makefile file and then
+
+$ make
+
+inside of this directory.
+
+===================================================================
+
+More information about this module, and others can be found on 
+the Apertium: Wiki, http://wiki.apertium.org
+
+
