@@ -177,10 +177,10 @@
 <e>       <p><l>accabler<s n="vblex"/></l>             <r>pressionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>accalmir<s n="vblex"/></l>             <r>tranqüilizar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>accalmir<s n="vblex"/></l>             <r>tranqüilizar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>accalmir<s n="vblex"/></l>             <r>tranquilizar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>accalmir<s n="vblex"/></l>             <r>tranquilizar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>accentuer<s n="vblex"/></l>            <r>acentuar<s n="vblex"/></r></p></e>
@@ -285,10 +285,10 @@
 <e>       <p><l>acroissement<s n="n"/><s n="m"/></l>   <r>ampliação<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>actionner<s n="vblex"/></l>            <r>acionar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>actionner<s n="vblex"/></l>            <r>acionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>actionner<s n="vblex"/></l>            <r>accionar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>actionner<s n="vblex"/></l>            <r>accionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>actualiser<s n="vblex"/></l>           <r>actualizar<s n="vblex"/></r></p></e>
@@ -327,10 +327,10 @@
 <e>       <p><l>adonner<s n="vblex"/></l>              <r>consagrar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>adopter<s n="vblex"/></l>              <r>adotar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>adopter<s n="vblex"/></l>              <r>adotar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>adopter<s n="vblex"/></l>              <r>adoptar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>adopter<s n="vblex"/></l>              <r>adoptar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>adorer<s n="vblex"/></l>               <r>adorar<s n="vblex"/></r></p></e>
@@ -357,10 +357,10 @@
 <e>       <p><l>affamé<s n="adj"/></l>                 <r>faminto<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>affecter<s n="vblex"/></l>             <r>afectar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>affecter<s n="vblex"/></l>             <r>afectar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>affecter<s n="vblex"/></l>             <r>afetar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>affecter<s n="vblex"/></l>             <r>afetar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       norestrictions-4 -->
 <e>       <p><l>affiche<s n="n"/><s n="f"/></l>        <r>cartaz<s n="n"/><s n="m"/></r></p></e>
@@ -909,13 +909,13 @@
 <e>       <p><l>attentivement<s n="adv"/></l>          <r>atentamente<s n="adv"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>atterrir<s n="vblex"/></l>             <r>aterrar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>atterrir<s n="vblex"/></l>             <r>aterrar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>atterrir<s n="vblex"/></l>             <r>aterrissar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>atterrir<s n="vblex"/></l>             <r>aterrissar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>atterrir<s n="vblex"/></l>             <r>aterrizar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>atterrir<s n="vblex"/></l>             <r>aterrizar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       norestrictions-4 -->
 <e>       <p><l>attestation<s n="n"/><s n="f"/></l>    <r>depoimento<s n="n"/><s n="m"/></r></p></e>
@@ -1158,10 +1158,10 @@
 <e>       <p><l>banquette<s n="n"/><s n="f"/></l>      <r>banco<s n="n"/><s n="m"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>baptiser<s n="vblex"/></l>             <r>baptizar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>baptiser<s n="vblex"/></l>             <r>baptizar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>baptiser<s n="vblex"/></l>             <r>batizar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>baptiser<s n="vblex"/></l>             <r>batizar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       adv-simple -->
 <e>       <p><l>bas<s n="adv"/></l>                    <r>baixo<s n="adv"/></r></p></e>
@@ -1581,16 +1581,16 @@
 <e>       <p><l>cher<s n="adj"/></l>                   <r>caro<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>chercher<s n="vblex"/></l>             <r>procurar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>chercher<s n="vblex"/></l>             <r>procurar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>chercher<s n="vblex"/></l>             <r>buscar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>chercher<s n="vblex"/></l>             <r>buscar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>chercher<g><b/>à</g><s n="vblex"/></l> <r>procurar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>chercher<g><b/>à</g><s n="vblex"/></l> <r>procurar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>chercher<g><b/>à</g><s n="vblex"/></l> <r>buscar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>chercher<g><b/>à</g><s n="vblex"/></l> <r>buscar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       norestrictions-4 -->
 <e>       <p><l>cheville<s n="n"/><s n="f"/></l>       <r>tornozelo<s n="n"/><s n="m"/></r></p></e>
@@ -2022,10 +2022,10 @@
 <e>       <p><l>consécutif<s n="adj"/></l>             <r>consecutivo<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>contacter<s n="vblex"/></l>            <r>contactar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>contacter<s n="vblex"/></l>            <r>contactar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>contacter<s n="vblex"/></l>            <r>contatar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>contacter<s n="vblex"/></l>            <r>contatar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>contaminer<s n="vblex"/></l>           <r>contaminar<s n="vblex"/></r></p></e>
@@ -2805,19 +2805,19 @@
 <e>       <p><l>déclasser<s n="vblex"/></l>            <r>descatalogar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>déclencher<s n="vblex"/></l>           <r>activar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>déclencher<s n="vblex"/></l>           <r>activar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>déclencher<s n="vblex"/></l>           <r>ativar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>déclencher<s n="vblex"/></l>           <r>ativar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       norestrictions-3 -->
 <e>       <p><l>déclin<s n="n"/><s n="m"/></l>         <r>decadência<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>décoller<s n="vblex"/></l>             <r>descolar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>décoller<s n="vblex"/></l>             <r>descolar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>décoller<s n="vblex"/></l>             <r>decolar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>décoller<s n="vblex"/></l>             <r>decolar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>déconcerter<s n="vblex"/></l>          <r>desconcertar<s n="vblex"/></r></p></e>
@@ -3105,10 +3105,10 @@
 <e>       <p><l>effaroucher<s n="vblex"/></l>          <r>assustar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>effectuer<s n="vblex"/></l>            <r>efectuar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>effectuer<s n="vblex"/></l>            <r>efectuar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>effectuer<s n="vblex"/></l>            <r>efetuar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>effectuer<s n="vblex"/></l>            <r>efetuar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       adv-simple -->
 <e>       <p><l>efficacement<s n="adv"/></l>           <r>eficazmente<s n="adv"/></r></p></e>
@@ -3366,10 +3366,10 @@
 <e>       <p><l>enregistrer<s n="vblex"/></l>          <r>gravar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>enregistrer<s n="vblex"/></l>          <r>registrar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>enregistrer<s n="vblex"/></l>          <r>registrar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>enregistrer<s n="vblex"/></l>          <r>registar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>enregistrer<s n="vblex"/></l>          <r>registar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>enrichir<s n="vblex"/></l>             <r>enriquecer<s n="vblex"/></r></p></e>
@@ -4038,10 +4038,10 @@
 <e>       <p><l>frère<s n="n"/><s n="m"/></l>          <r>irmão<s n="n"/><s n="m"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>fréquenter<s n="vblex"/></l>           <r>frequentar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>fréquenter<s n="vblex"/></l>           <r>frequentar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>fréquenter<s n="vblex"/></l>           <r>freqüentar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>fréquenter<s n="vblex"/></l>           <r>freqüentar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>fuir<s n="vblex"/></l>                 <r>fugir<s n="vblex"/></r></p></e>
@@ -4212,10 +4212,10 @@
 <e>       <p><l>générer<s n="vblex"/></l>              <r>gerar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>gérer<s n="vblex"/></l>                <r>gerir<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>gérer<s n="vblex"/></l>                <r>gerir<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>gérer<s n="vblex"/></l>                <r>gerenciar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>gérer<s n="vblex"/></l>                <r>gerenciar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>gésir<s n="vblex"/></l>                <r>jazer<s n="vblex"/></r></p></e>
@@ -4263,10 +4263,10 @@
 <e>       <p><l>handicap<s n="n"/><s n="m"/></l>       <r>discapacidade<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>hanter<s n="vblex"/></l>               <r>frequentar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>hanter<s n="vblex"/></l>               <r>frequentar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>hanter<s n="vblex"/></l>               <r>freqüentar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>hanter<s n="vblex"/></l>               <r>freqüentar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>harasser<s n="vblex"/></l>             <r>esgotar<s n="vblex"/></r></p></e>
@@ -4692,10 +4692,10 @@
 <e>       <p><l>insister<s n="vblex"/></l>             <r>insistir<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>inspecter<s n="vblex"/></l>            <r>inspeccionar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>inspecter<s n="vblex"/></l>            <r>inspeccionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>inspecter<s n="vblex"/></l>            <r>inspecionar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>inspecter<s n="vblex"/></l>            <r>inspecionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>inspirer<s n="vblex"/></l>             <r>inspirar<s n="vblex"/></r></p></e>
@@ -4968,10 +4968,10 @@
 <e>       <p><l>juvénile<s n="adj"/></l>               <r>juvenil<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>kidnapper<s n="vblex"/></l>            <r>sequestrar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>kidnapper<s n="vblex"/></l>            <r>sequestrar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>kidnapper<s n="vblex"/></l>            <r>seqüestrar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>kidnapper<s n="vblex"/></l>            <r>seqüestrar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       adv-simple -->
 <e>       <p><l>l'un<b/>de<b/>l'autre<s n="adv"/></l>  <r>mutuamente<s n="adv"/></r></p></e>
@@ -5058,10 +5058,10 @@
 <e>       <p><l>lier<s n="vblex"/></l>                 <r>unir<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>lier<s n="vblex"/></l>                 <r>engatar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>lier<s n="vblex"/></l>                 <r>engatar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>lier<s n="vblex"/></l>                 <r>paquerar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>lier<s n="vblex"/></l>                 <r>paquerar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>lier<s n="vblex"/></l>                 <r>vincular<s n="vblex"/></r></p></e>
@@ -6306,10 +6306,10 @@
 <e>       <p><l>plaire<s n="vblex"/></l>               <r>gostar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>planer<s n="vblex"/></l>               <r>planear<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>planer<s n="vblex"/></l>               <r>planear<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>planer<s n="vblex"/></l>               <r>planejar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>planer<s n="vblex"/></l>               <r>planejar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>planifier<s n="vblex"/></l>            <r>planificar<s n="vblex"/></r></p></e>
@@ -6507,10 +6507,10 @@
 <e>       <p><l>prendre<s n="vblex"/></l>              <r>tomar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>prendre<g><b/>en<b/>otage</g><s n="vblex"/></l><r>sequestrar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>prendre<g><b/>en<b/>otage</g><s n="vblex"/></l><r>sequestrar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>prendre<g><b/>en<b/>otage</g><s n="vblex"/></l><r>seqüestrar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>prendre<g><b/>en<b/>otage</g><s n="vblex"/></l><r>seqüestrar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>prendre<g><b/>la<b/>relève<b/>de</g><s n="vblex"/></l><r>relevar<s n="vblex"/></r></p></e>
@@ -6618,10 +6618,10 @@
 <e>       <p><l>projeter<s n="vblex"/></l>             <r>tencionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>projeter<s n="vblex"/></l>             <r>projectar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>projeter<s n="vblex"/></l>             <r>projectar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>projeter<s n="vblex"/></l>             <r>projetar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>projeter<s n="vblex"/></l>             <r>projetar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>prolonger<s n="vblex"/></l>            <r>prolongar<s n="vblex"/></r></p></e>
@@ -6897,10 +6897,10 @@
 <e>       <p><l>quotidiennement<s n="adv"/></l>        <r>diariamente<s n="adv"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>quérir<s n="vblex"/></l>               <r>procurar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>quérir<s n="vblex"/></l>               <r>procurar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>quérir<s n="vblex"/></l>               <r>buscar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>quérir<s n="vblex"/></l>               <r>buscar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>raccorder<s n="vblex"/></l>            <r>enlaçar<s n="vblex"/></r></p></e>
@@ -6981,10 +6981,10 @@
 <e>       <p><l>rassembler<s n="vblex"/></l>           <r>reunir<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>rassurer<s n="vblex"/></l>             <r>tranqüilizar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>rassurer<s n="vblex"/></l>             <r>tranqüilizar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>rassurer<s n="vblex"/></l>             <r>tranquilizar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>rassurer<s n="vblex"/></l>             <r>tranquilizar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>rater<s n="vblex"/></l>                <r>perder<s n="vblex"/></r></p></e>
@@ -7060,10 +7060,10 @@
 <e>       <p><l>recruter<s n="vblex"/></l>             <r>recrutar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>rectifier<s n="vblex"/></l>            <r>rectificar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>rectifier<s n="vblex"/></l>            <r>rectificar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>rectifier<s n="vblex"/></l>            <r>retificar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>rectifier<s n="vblex"/></l>            <r>retificar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>recueillir<s n="vblex"/></l>           <r>recolher<s n="vblex"/></r></p></e>
@@ -7177,10 +7177,10 @@
 <e>       <p><l>remettre<s n="vblex"/></l>             <r>pôr<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>remettre<g><b/>en<b/>question</g><s n="vblex"/></l><r>questionar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>remettre<g><b/>en<b/>question</g><s n="vblex"/></l><r>questionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>remettre<g><b/>en<b/>question</g><s n="vblex"/></l><r>qüestionar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>remettre<g><b/>en<b/>question</g><s n="vblex"/></l><r>qüestionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>remonter<s n="vblex"/></l>             <r>remontar<s n="vblex"/></r></p></e>
@@ -7459,10 +7459,10 @@
 <e>       <p><l>rumeur<s n="n"/><s n="f"/></l>         <r>boato<s n="n"/><s n="m"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>réactiver<s n="vblex"/></l>            <r>reactivar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>réactiver<s n="vblex"/></l>            <r>reactivar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>réactiver<s n="vblex"/></l>            <r>reativar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>réactiver<s n="vblex"/></l>            <r>reativar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>réaffirmer<s n="vblex"/></l>           <r>reafirmar<s n="vblex"/></r></p></e>
@@ -7612,10 +7612,10 @@
 <e>       <p><l>résister<s n="vblex"/></l>             <r>resistir<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>résister<s n="vblex"/></l>             <r>aguentar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>résister<s n="vblex"/></l>             <r>aguentar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>résister<s n="vblex"/></l>             <r>agüentar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>résister<s n="vblex"/></l>             <r>agüentar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb -->
 <e>       <p><l>résonner<s n="vblex"/></l>             <r>ressoar<s n="vblex"/></r></p></e>
@@ -8296,10 +8296,10 @@
 <e>       <p><l>séduire<s n="vblex"/></l>              <r>seduzir<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>sélectionner<s n="vblex"/></l>         <r>seleccionar<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>sélectionner<s n="vblex"/></l>         <r>seleccionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>sélectionner<s n="vblex"/></l>         <r>selecionar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>sélectionner<s n="vblex"/></l>         <r>selecionar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       norestrictions-3 -->
 <e>       <p><l>sénateur<s n="n"/><s n="m"/></l>       <r>senador<s n="n"/><s n="f"/></r></p></e>
@@ -9109,10 +9109,10 @@
 <e>       <p><l>échapper<s n="vblex"/></l>             <r>escapar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-pt -->
-<e>       <p><l>échauffer<s n="vblex"/></l>            <r>aquecer<s n="vblex"/></r></p></e>
+<e v="pt"><p><l>échauffer<s n="vblex"/></l>            <r>aquecer<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       basic-verb-br -->
-<e>       <p><l>échauffer<s n="vblex"/></l>            <r>esquentar<s n="vblex"/></r></p></e>
+<e v="br"><p><l>échauffer<s n="vblex"/></l>            <r>esquentar<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       norestrictions-1 -->
 <e>       <p><l>échelle<s n="n"/><s n="f"/></l>        <r>escada<s n="n"/><s n="f"/></r></p></e>
