@@ -35,10 +35,10 @@ $(PREFVAR1)$(LANG1).dix: $(BASENAME).$(LANG1).dix
 #$(PREFVAR2)$(LANG2).dix: $(BASENAME).$(LANG2).dix
 #	xsltproc --stringparam alt $(VAR2) alt.xsl $< >$@
 	
-$(PREFVAR1)$(PREFIX1).dix: common-$(PREFIX1).dix
+$(PREFVAR1)$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix
 	./filter.sh pt right $(BASENAME).$(PREFIX1).dix >$@
 
-$(PREFVAR1)$(PREFIX1b).dix: common-$(PREFIX1).dix
+$(PREFVAR1)$(PREFIX1b).dix: $(BASENAME).$(PREFIX1).dix
 	./filter.sh br right $(BASENAME).$(PREFIX1).dix >$@
 
 #$(PREFVAR2)$(PREFIX1).dix: common-$(PREFIX1).dix
