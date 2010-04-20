@@ -24,6 +24,8 @@
 /autogen.sh -text
 /buscaPar.xsl -text
 /configure.ac -text
+dev/apertium-fr-pt.fr.metadix -text
+dev/apertium-fr-pt.pt.dix -text
 dev/cross-model-fr-es-pt.xml -text
 dev/cross.xml -text
 dev/patterns-not-detected.xml -text
