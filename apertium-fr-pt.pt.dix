@@ -132106,10 +132106,12 @@
         <par n="quem__rel"/>
       </e>
       
+<!--
       <e lm="quanto">
         <i>quant</i>
         <par n="quant/o__rel"/>
       </e>
+-->
       
 <!-- entrades "vbhaber" -->
       <e lm="ter">
@@ -138205,6 +138207,12 @@
         <par n="nos__prn"/>
       </e>
       
+<!--
+
+<e lm="bravo">
+	<i>bravo</i>
+	<par n="adeus__ij"/>
+</e>
       <e lm="eh">
         <i>eh</i>
         <par n="adeus__ij"/>
@@ -138259,6 +138267,7 @@
         <i>por<b/>favor</i>
         <par n="adeus__ij"/>
       </e>
+
       <e lm="faz favor">
         <i>faz<b/>favor</i>
         <par n="adeus__ij"/>
@@ -138318,6 +138327,7 @@
         <i>oh</i>
         <par n="adeus__ij"/>
       </e>
+-->
       
       <e lm="engenharia">
         <i>engenharia</i>
@@ -143684,10 +143694,6 @@
 <e lm="bravo">
 	<i>brav</i>
 	<par n="abert/o__adj"/>
-</e>
-<e lm="bravo">
-	<i>bravo</i>
-	<par n="adeus__ij"/>
 </e>
 <e lm="brejo" r="LR">
 	<i>brejo</i>

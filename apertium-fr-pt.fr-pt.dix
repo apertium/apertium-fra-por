@@ -183,6 +183,22 @@
           <e><p><l>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></l><r>algo<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
           <e><p><l>rien<s n="prn"/><s n="tn"/><s n="nt"/></l><r>nada<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 
+          <e><p><l>comme<s n="rel"/></l><r>como<s n="rel"/></r></p></e>
+          <e><p><l>que<s n="rel"/></l><r>que<s n="rel"/></r></p></e>
+          <e><p><l>quand<s n="rel"/></l><r>quando<s n="rel"/></r></p></e>
+          <e><p><l>où<s n="rel"/></l><r>onde<s n="rel"/></r></p></e>
+          <e><p><l>qui<s n="rel"/></l><r>quem<s n="rel"/><s n="nn"/></r></p></e>
+          <e r="RL"><p><l>comme<s n="rel"/><s n="adv"/></l><r>qual<s n="rel"/><s n="adv"/></r></p></e>
+          <e><p><l>celui<b/>que<s n="rel"/></l><r>o<b/>qual<s n="rel"/><s n="an"/></r></p></e>
+
+          <e r="LR"><p><l>dont<s n="rel"/><s n="mf"/><s n="sp"/></l><r>cujo<s n="rel"/><s n="aa"/><s n="GD"/><s n="ND"/></r></p></e>
+          <e r="RL"><p><l>dont<s n="rel"/><s n="mf"/><s n="sp"/></l><r>cujo<s n="rel"/><s n="aa"/><s n="m"/><s n="sg"/></r></p></e>
+          <e r="RL"><p><l>dont<s n="rel"/><s n="mf"/><s n="sp"/></l><r>cujo<s n="rel"/><s n="aa"/><s n="m"/><s n="pl"/></r></p></e>
+          <e r="RL"><p><l>dont<s n="rel"/><s n="mf"/><s n="sp"/></l><r>cujo<s n="rel"/><s n="aa"/><s n="f"/><s n="sg"/></r></p></e>
+          <e r="RL"><p><l>dont<s n="rel"/><s n="mf"/><s n="sp"/></l><r>cujo<s n="rel"/><s n="aa"/><s n="f"/><s n="pl"/></r></p></e>
+
+
+
     <e r="RL">
       <p>
         <l>haber<s n="vbhaver"/></l>
@@ -601,6 +617,7 @@
 <e>       <p><l>beau<s n="adj"/></l>                   <r>formoso<s n="adj"/></r></p></e>
 <e>       <p><l>beau<s n="adj"/></l>                   <r>belo<s n="adj"/></r></p></e>
 <e>       <p><l>beaucoup<s n="adv"/></l>               <r>muito<s n="adv"/></r></p></e>
+<e>       <p><l>beaucoup<s n="preadv"/></l>            <r>muito<s n="preadv"/></r></p></e>
 <e>       <p><l>beaucoup<b/>plus<s n="adv"/></l>       <r>bem<b/>mais<s n="adv"/></r></p></e>
 <e>       <p><l>besoin<s n="n"/><s n="m"/></l>         <r>necessidade<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>bien<s n="adv"/></l>                   <r>bem<s n="adv"/></r></p></e>

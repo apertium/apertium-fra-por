@@ -13068,6 +13068,7 @@
 <e lm="majoritairement" a="webform"><i>majoritairement</i><par n="hier__adv"/></e>
 <e lm="mal">             <i>mal</i><par n="hier__adv"/></e>
 <e lm="mal">             <i>mal</i><par n="très__preadv"/></e>
+<e lm="beaucoup">        <i>beaucoup</i><par n="très__preadv"/></e>
 <e lm="maldonne">        <i>maldonne</i><par n="abeille__n"/></e>
 <e lm="malencontreusement"><i>malencontreusement</i><par n="hier__adv"/></e>
 <e lm="malheur">         <i>malheur</i><par n="livre__n"/></e>
