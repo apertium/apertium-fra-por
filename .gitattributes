@@ -28,7 +28,10 @@ dev/apertium-fr-pt.fr.metadix -text
 dev/apertium-fr-pt.pt.dix -text
 dev/cross-model-fr-es-pt.xml -text
 dev/cross.xml -text
+dev/inconsistency-summary.sh -text
+dev/inconsistency.sh -text
 dev/patterns-not-detected.xml -text
+dev/summary -text
 /filter.sh -text
 /filter.xsl -text
 /filterrules.xsl -text
