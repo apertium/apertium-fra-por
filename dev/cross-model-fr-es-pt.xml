@@ -91,96 +91,6 @@
 </action-set>
 
 </cross-action>
-<!-- 2761 entries like this -->
-
-<cross-action id="basic-verb">
-	<pattern>
-    <e>
-      <p>
-        <l>$lemmaA<s n="vblex"/></l> 
-        <r>$lemmaB<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>$lemmaB<s n="vblex"/></l> 
-        <r>$lemmaC<s n="vblex"/></r> 
-      </p>
-    </e>
-
-	</pattern>
-<action-set>
-<action>
-    <e>
-      <p>
-        <l>$lemmaA<s n="vblex"/></l> 
-        <r>$lemmaC<s n="vblex"/></r> 
-      </p>
-    </e>
-</action>
-</action-set>
-
-</cross-action>
-<cross-action id="basic-verb-pt">
-	<pattern>
-    <e>
-      <p>
-        <l>$lemmaA<s n="vblex"/></l> 
-        <r>$lemmaB<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <e v="pt">
-      <p>
-        <l>$lemmaB<s n="vblex"/></l> 
-        <r>$lemmaC<s n="vblex"/></r> 
-      </p>
-    </e>
-
-	</pattern>
-<action-set>
-<action>
-    <e v="pt">
-      <p>
-        <l>$lemmaA<s n="vblex"/></l> 
-        <r>$lemmaC<s n="vblex"/></r> 
-      </p>
-    </e>
-</action>
-</action-set>
-
-</cross-action>
-<cross-action id="basic-verb-br">
-	<pattern>
-    <e>
-      <p>
-        <l>$lemmaA<s n="vblex"/></l> 
-        <r>$lemmaB<s n="vblex"/></r> 
-      </p>
-    </e>
-
-    <e v="br">
-      <p>
-        <l>$lemmaB<s n="vblex"/></l> 
-        <r>$lemmaC<s n="vblex"/></r> 
-      </p>
-    </e>
-
-	</pattern>
-<action-set>
-<action>
-    <e v="br">
-      <p>
-        <l>$lemmaA<s n="vblex"/></l> 
-        <r>$lemmaC<s n="vblex"/></r> 
-      </p>
-    </e>
-</action>
-</action-set>
-
-</cross-action>
-
 <cross-action id="norestrictions-3">
 	<pattern>
     <e>
@@ -363,39 +273,6 @@
 </action-set>
 
 </cross-action>
-<!-- 5 entries like this -->
-
-<cross-action id="npal-311">
-	<pattern>
-    <e>
-      <p>
-        <l>$lemmaA<s n="np"/><s n="al"/><s n="mf"/><s n="sg"/></l> 
-        <r>$lemmaB<s n="np"/><s n="al"/></r> 
-      </p>
-    </e>
-
-    <e a="eleka">
-      <p>
-        <l>$lemmaB<s n="np"/></l> 
-        <r>$lemmaC<s n="np"/></r> 
-      </p>
-    </e>
-
-	</pattern>
-<action-set>
-<action>
-    <e>
-      <p>
-        <l>$lemmaA<s n="np"/><s n="al"/><s n="mf"/><s n="sg"/></l> 
-        <r>$lemmaC<s n="np"/><s n="al"/></r> 
-      </p>
-    </e>
-</action>
-</action-set>
-
-</cross-action>
-<!-- 5 entries like this -->
-
 <cross-action id="rmrestricts-207">
 	<pattern>
     <e r="LR">
