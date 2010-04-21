@@ -28,15 +28,15 @@
 	<pattern>
     <e r="LR">
       <p>
-        <l>abaisser<s n="vblex"/></l>
-        <r>bajar<s n="vblex"/></r>
+        <l>$lemmaA<s n="vblex"/></l>
+        <r>$lemmaB<s n="vblex"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>bajar<s n="vblex"/></l>
-        <r>baixar<s n="vblex"/></r>
+        <l>$lemmaB<s n="vblex"/></l>
+        <r>$lemmaC<s n="vblex"/></r>
       </p>
     </e>
 
@@ -93,48 +93,6 @@
 </cross-action>
 <!-- 1149 entries like this -->
 
-<cross-action id="ND-4">
-	<pattern>
-    <e>
-      <p>
-        <l>administratif<s n="adj"/></l>
-        <r>administrativo<s n="adj"/></r>
-      </p>
-    </e>
-
-    <e>
-        <i>administrativo<s n="adj"/></i>
-    </e>
-
-	</pattern>
-<action-set>
-</action-set>
-
-</cross-action>
-<!-- 1023 entries like this -->
-
-<cross-action id="ND-5">
-	<pattern>
-    <e r="LR">
-      <p>
-        <l>basque<s n="adj"/><s n="mf"/></l>
-        <r>vasco<s n="adj"/><s n="GD"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>vasco<s n="adj"/></l>
-        <r>basco<s n="adj"/></r>
-      </p>
-    </e>
-
-	</pattern>
-<action-set>
-</action-set>
-
-</cross-action>
-<!-- 599 entries like this -->
 
 <cross-action id="ND-6">
 	<pattern>

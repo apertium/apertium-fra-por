@@ -2854,10 +2854,12 @@
 <e>       <p><l>arabe<s n="adj"/></l>                  <r>árabe<s n="adj"/></r></p></e>
 <e c="new-category"><p><l>argentin<s n="adj"/></l>     <r>argentino<s n="adj"/></r></p></e>
 <e r="LR"><p><l>arrière<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posterior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>arrière<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posterior<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>atroce<s n="adj"/></l>                 <r>atroz<s n="adj"/></r></p></e>
 <e>       <p><l>attentif<s n="adj"/></l>               <r>atento<s n="adj"/></r></p></e>
 <e>       <p><l>autrichien<s n="adj"/></l>             <r>austríaco<s n="adj"/></r></p></e>
 <e r="LR"><p><l>azur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>azul<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>azur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>azul<s n="adj"/><s n="mf"/></r></p></e>
 <e c="quin exemple més bonic..."><p><l>aérien<s n="adj"/></l><r>aéreo<s n="adj"/></r></p></e>
 <e>       <p><l>beau<s n="adj"/></l>                   <r>formoso<s n="adj"/></r></p></e>
 <e>       <p><l>beau<s n="adj"/></l>                   <r>belo<s n="adj"/></r></p></e>
@@ -3259,6 +3261,1242 @@
 <e>       <p><l>étonnant<s n="adj"/></l>               <r>assombroso<s n="adj"/></r></p></e>
 <e>       <p><l>étranger<s n="adj"/></l>               <r>estrangeiro<s n="adj"/></r></p></e>
 <e>       <p><l>étroit<s n="adj"/></l>                 <r>estreito<s n="adj"/></r></p></e>
+<e r="RL"><p><l>abondant<s n="adj"/><s n="GD"/></l>    <r>abundante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>absent<s n="adj"/><s n="GD"/></l>      <r>ausente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>absurde<s n="adj"/><s n="mf"/></l>     <r>absurdo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>additionnel<s n="adj"/><s n="GD"/></l> <r>adicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>adroit<s n="adj"/><s n="GD"/></l>      <r>hábil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>agraire<s n="adj"/><s n="mf"/></l>     <r>agrário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>aisé<s n="adj"/><s n="GD"/></l>        <r>fácil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>alimentaire<s n="adj"/><s n="mf"/></l> <r>alimentário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>aléatoire<s n="adj"/><s n="mf"/></l>   <r>aleatório<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>amateur<s n="adj"/><s n="mf"/></l>     <r>aficionado<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>ample<s n="adj"/><s n="mf"/></l>       <r>amplo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>américain<s n="adj"/><s n="GD"/></l>   <r>estadounidense<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>annal<s n="adj"/><s n="GD"/></l>       <r>anual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>annuel<s n="adj"/><s n="GD"/></l>      <r>anual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>antique<s n="adj"/><s n="mf"/></l>     <r>antigo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>antérieur<s n="adj"/><s n="GD"/></l>   <r>anterior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>apparent<s n="adj"/><s n="GD"/></l>    <r>aparente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>apte<s n="adj"/><s n="mf"/></l>        <r>apto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>arbitraire<s n="adj"/><s n="mf"/></l>  <r>arbitrário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>archéologique<s n="adj"/><s n="mf"/></l><r>arqueológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>artificiel<s n="adj"/><s n="GD"/></l>  <r>artificial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>artisanal<s n="adj"/><s n="GD"/></l>   <r>artesanal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>artistique<s n="adj"/><s n="mf"/></l>  <r>artístico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>asiatique<s n="adj"/><s n="mf"/></l>   <r>asiático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>audacieux<s n="adj"/><s n="GD"/></l>   <r>audaz<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>audiovisuel<s n="adj"/><s n="GD"/></l> <r>audiovisual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>automatique<s n="adj"/><s n="mf"/></l> <r>automático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>automobile<s n="adj"/><s n="mf"/></l>  <r>automobilístico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>aveugle<s n="adj"/><s n="mf"/></l>     <r>cego<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>bancaire<s n="adj"/><s n="mf"/></l>    <r>bancário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>barbare<s n="adj"/><s n="mf"/></l>     <r>bárbaro<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>basique<s n="adj"/><s n="mf"/></l>     <r>básico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR" c="new-category"><p><l>basque<s n="adj"/><s n="mf"/></l><r>basco<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>bibliographique<s n="adj"/><s n="mf"/></l><r>bibliográfico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>biblique<s n="adj"/><s n="mf"/></l>    <r>bíblico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>bilatéral<s n="adj"/><s n="GD"/></l>   <r>bilateral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>biologique<s n="adj"/><s n="mf"/></l>  <r>biológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>bizarre<s n="adj"/><s n="mf"/></l>     <r>estranho<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL" c="new-category"><p><l>bleu<s n="adj"/><s n="GD"/></l><r>azul<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>bon<b/>marché<s n="adj"/><s n="mf"/></l><r>barato<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>boursier<s n="adj"/><s n="GD"/></l>    <r>bursátil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>bref<s n="adj"/><s n="GD"/></l>        <r>breve<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>britannique<s n="adj"/><s n="mf"/></l> <r>britânico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>brutal<s n="adj"/><s n="GD"/></l>      <r>brutal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>bête<s n="adj"/><s n="mf"/></l>        <r>tonto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>capital<s n="adj"/><s n="GD"/></l>     <r>capital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>cardiaque<s n="adj"/><s n="mf"/></l>   <r>cardíaco<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>catastrophique<s n="adj"/><s n="mf"/></l><r>catastrófico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR" c="new-category"><p><l>catholique<s n="adj"/><s n="mf"/></l><r>católico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>central<s n="adj"/><s n="GD"/></l>     <r>central<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>chimique<s n="adj"/><s n="mf"/></l>    <r>químico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>choral<s n="adj"/><s n="GD"/></l>      <r>coral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>cinquième<s n="adj"/><s n="mf"/></l>   <r>quinto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>cinématographique<s n="adj"/><s n="mf"/></l><r>cinematográfico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>civil<s n="adj"/><s n="GD"/></l>       <r>civil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>classique<s n="adj"/><s n="mf"/></l>   <r>clássico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>climatique<s n="adj"/><s n="mf"/></l>  <r>climático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>commercial<s n="adj"/><s n="GD"/></l>  <r>comercial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>communautaire<s n="adj"/><s n="mf"/></l><r>comunitário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>complexe<s n="adj"/><s n="mf"/></l>    <r>complexo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>constitutionnel<s n="adj"/><s n="GD"/></l><r>constitucional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>continental<s n="adj"/><s n="GD"/></l> <r>continental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>contraire<s n="adj"/><s n="mf"/></l>   <r>contrário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>cordial<s n="adj"/><s n="GD"/></l>     <r>cordial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>critique<s n="adj"/><s n="mf"/></l><r>crítico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>crucial<s n="adj"/><s n="GD"/></l>     <r>crucial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>cruel<s n="adj"/><s n="GD"/></l>       <r>cruel<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>culturel<s n="adj"/><s n="GD"/></l>    <r>cultural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>cérébral<s n="adj"/><s n="GD"/></l>    <r>cerebral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dense<s n="adj"/><s n="mf"/></l>       <r>denso<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>destinataire<s n="adj"/><s n="mf"/></l><r>destinatário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>deuxième<s n="adj"/><s n="mf"/></l>    <r>segundo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>différent<s n="adj"/><s n="GD"/></l>   <r>diferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>digital<s n="adj"/><s n="GD"/></l>     <r>digital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>digne<s n="adj"/><s n="mf"/></l>       <r>digno<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>diplomatique<s n="adj"/><s n="mf"/></l><r>diplomático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>dirigeant<s n="adj"/><s n="GD"/></l>   <r>dirigente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distant<s n="adj"/><s n="GD"/></l>     <r>distante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distinct<s n="adj"/><s n="GD"/></l>    <r>diferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distinctif<s n="adj"/><s n="GD"/></l>  <r>diferencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dixième<s n="adj"/><s n="mf"/></l>     <r>décimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>domestique<s n="adj"/><s n="mf"/></l>  <r>doméstico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>dominant<s n="adj"/><s n="GD"/></l>    <r>dominante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>doux<s n="adj"/><s n="GD"/></l>        <r>suave<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dramatique<s n="adj"/><s n="mf"/></l>  <r>dramático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>durable<s n="adj"/><s n="mf"/></l>     <r>duradouro<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>dynamique<s n="adj"/><s n="mf"/></l>   <r>dinâmico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>dégradant<s n="adj"/><s n="GD"/></l>   <r>degradante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>démocratique<s n="adj"/><s n="mf"/></l><r>democrático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>démographique<s n="adj"/><s n="mf"/></l><r>demográfico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>déterminant<s n="adj"/><s n="GD"/></l> <r>determinante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ecclésiastique<s n="adj"/><s n="mf"/></l><r>eclesiástico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>enfantin<s n="adj"/><s n="GD"/></l>    <r>infantil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>environnemental<s n="adj"/><s n="GD"/></l><r>ambiental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>esthétique<s n="adj"/><s n="mf"/></l>  <r>estético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>ethnique<s n="adj"/><s n="mf"/></l>    <r>étnico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>excellent<s n="adj"/><s n="GD"/></l>   <r>excelente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>exceptionnel<s n="adj"/><s n="GD"/></l><r>excepcional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>existant<s n="adj"/><s n="GD"/></l>    <r>existente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>extraordinaire<s n="adj"/><s n="mf"/></l><r>extraordinário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>extrême<s n="adj"/><s n="mf"/></l>     <r>extremo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>extérieur<s n="adj"/><s n="GD"/></l>   <r>exterior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>facial<s n="adj"/><s n="GD"/></l>      <r>facial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>familial<s n="adj"/><s n="GD"/></l>    <r>familiar<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>familier<s n="adj"/><s n="GD"/></l>    <r>familiar<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fanatique<s n="adj"/><s n="mf"/></l>   <r>fanático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>fantastique<s n="adj"/><s n="mf"/></l> <r>fantástico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>fatal<s n="adj"/><s n="GD"/></l>       <r>fatal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ferroviaire<s n="adj"/><s n="mf"/></l> <r>ferroviário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR" c="new-category"><p><l>filial<s n="adj"/><s n="GD"/></l><r>filial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>fiscal<s n="adj"/><s n="GD"/></l>      <r>fiscal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fixe<s n="adj"/><s n="mf"/></l>        <r>fixo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>fondamental<s n="adj"/><s n="GD"/></l> <r>fundamental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>foral<s n="adj"/><s n="GD"/></l>       <r>foral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>formel<s n="adj"/><s n="GD"/></l>      <r>formal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>frontal<s n="adj"/><s n="GD"/></l>     <r>frontal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>fédéral<s n="adj"/><s n="GD"/></l>     <r>federal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>gauche<s n="adj"/><s n="mf"/></l>      <r>esquerdo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>gigantesque<s n="adj"/><s n="mf"/></l> <r>gigantesco<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>grand<s n="adj"/><s n="GD"/></l>       <r>grande<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>graphique<s n="adj"/><s n="mf"/></l><r>gráfico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>grotesque<s n="adj"/><s n="mf"/></l>   <r>grotesco<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>géant<s n="adj"/><s n="GD"/></l>       <r>gigante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>génétique<s n="adj"/><s n="mf"/></l>   <r>genético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>géographique<s n="adj"/><s n="mf"/></l><r>geográfico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>géologique<s n="adj"/><s n="mf"/></l>  <r>geológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>habituel<s n="adj"/><s n="GD"/></l>    <r>habitual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>historique<s n="adj"/><s n="mf"/></l>  <r>histórico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>homologue<s n="adj"/><s n="mf"/></l>   <r>homólogo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>honnête<s n="adj"/><s n="mf"/></l>     <r>honesto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>horaire<s n="adj"/><s n="mf"/></l>     <r>horário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>huitième<s n="adj"/><s n="mf"/></l>    <r>oitavo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>humanitaire<s n="adj"/><s n="mf"/></l> <r>humanitário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>identique<s n="adj"/><s n="mf"/></l>   <r>idêntico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>idiot<s n="adj"/><s n="GD"/></l>       <r>idiota<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>idéal<s n="adj"/><s n="GD"/></l>       <r>ideal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>idéologique<s n="adj"/><s n="mf"/></l> <r>ideológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>illicite<s n="adj"/><s n="mf"/></l>    <r>ilícito<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>illégal<s n="adj"/><s n="GD"/></l>     <r>ilegal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>illégitime<s n="adj"/><s n="mf"/></l>  <r>ilegítimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>immense<s n="adj"/><s n="mf"/></l>     <r>imenso<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>impartial<s n="adj"/><s n="GD"/></l>   <r>imparcial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>important<s n="adj"/><s n="GD"/></l>   <r>importante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>impuissant<s n="adj"/><s n="GD"/></l>  <r>impotente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inaugural<s n="adj"/><s n="GD"/></l>   <r>inaugural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inconditionnel<s n="adj"/><s n="GD"/></l><r>incondicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inconvenant<s n="adj"/><s n="GD"/></l> <r>inconveniente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>indifférent<s n="adj"/><s n="GD"/></l> <r>indiferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>individuel<s n="adj"/><s n="GD"/></l>  <r>individual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>industriel<s n="adj"/><s n="GD"/></l>  <r>industrial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>infernal<s n="adj"/><s n="GD"/></l>    <r>infernal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>informatique<s n="adj"/><s n="mf"/></l><r>informático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>informel<s n="adj"/><s n="GD"/></l>    <r>informal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inférieur<s n="adj"/><s n="GD"/></l>   <r>inferior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>initial<s n="adj"/><s n="GD"/></l>     <r>inicial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>injuste<s n="adj"/><s n="mf"/></l>     <r>injusto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>innocent<s n="adj"/><s n="GD"/></l>    <r>inocente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>insignifiant<s n="adj"/><s n="GD"/></l><r>insignificante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>insolite<s n="adj"/><s n="mf"/></l>    <r>insólito<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>institutionnel<s n="adj"/><s n="GD"/></l><r>institucional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>insuffisant<s n="adj"/><s n="GD"/></l> <r>insuficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>intellectuel<s n="adj"/><s n="GD"/></l><r>intelectual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>intelligent<s n="adj"/><s n="GD"/></l> <r>inteligente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>intense<s n="adj"/><s n="mf"/></l>     <r>intenso<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>intermédiaire<s n="adj"/><s n="mf"/></l><r>intermediário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>international<s n="adj"/><s n="GD"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>interne<s n="adj"/><s n="mf"/></l>     <r>interno<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>intime<s n="adj"/><s n="mf"/></l>      <r>íntimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>intérimaire<s n="adj"/><s n="mf"/></l> <r>interino<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>inverse<s n="adj"/><s n="mf"/></l>     <r>inverso<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>irrégulier<s n="adj"/><s n="GD"/></l>  <r>irregular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>islamique<s n="adj"/><s n="mf"/></l>   <r>islâmico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>islamiste<s n="adj"/><s n="mf"/></l>   <r>islâmico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>ivre<s n="adj"/><s n="mf"/></l>        <r>ébrio<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>jaune<s n="adj"/><s n="mf"/></l>       <r>amarelo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>journalistique<s n="adj"/><s n="mf"/></l><r>jornalístico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>joyeux<s n="adj"/><s n="GD"/></l>      <r>feliz<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>juridique<s n="adj"/><s n="mf"/></l>   <r>jurídico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>juste<s n="adj"/><s n="mf"/></l>       <r>justo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>kurde<s n="adj"/><s n="mf"/></l>       <r>curdo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>laïque<s n="adj"/><s n="mf"/></l>      <r>laico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>libéral<s n="adj"/><s n="GD"/></l>     <r>liberal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>licite<s n="adj"/><s n="mf"/></l>      <r>lícito<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>liquide<s n="adj"/><s n="mf"/></l>     <r>líquido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>littéraire<s n="adj"/><s n="mf"/></l>  <r>literário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>littéral<s n="adj"/><s n="GD"/></l>    <r>literal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>local<s n="adj"/><s n="GD"/></l>       <r>local<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>logique<s n="adj"/><s n="mf"/></l>     <r>lógico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>logistique<s n="adj"/><s n="mf"/></l>  <r>logístico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>ludique<s n="adj"/><s n="mf"/></l>     <r>lúdico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>légal<s n="adj"/><s n="GD"/></l>       <r>legal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>légitime<s n="adj"/><s n="mf"/></l>    <r>legítimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>létal<s n="adj"/><s n="GD"/></l>       <r>letal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>magique<s n="adj"/><s n="mf"/></l>     <r>mágico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/></l>  <r>magnífico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>magnétique<s n="adj"/><s n="mf"/></l>  <r>magnético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>maigre<s n="adj"/><s n="mf"/></l>      <r>delgado<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>majoritaire<s n="adj"/><s n="mf"/></l> <r>maioritário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>maladroit<s n="adj"/><s n="GD"/></l>   <r>torpe<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>manquant<s n="adj"/><s n="GD"/></l>    <r>ausente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>manuel<s n="adj"/><s n="GD"/></l>      <r>manual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>maritime<s n="adj"/><s n="mf"/></l>    <r>marítimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>mathématique<s n="adj"/><s n="mf"/></l><r>matemático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>matinal<s n="adj"/><s n="GD"/></l>     <r>matinal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>matériel<s n="adj"/><s n="GD"/></l>    <r>material<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>mental<s n="adj"/><s n="GD"/></l>      <r>mental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>millionnaire<s n="adj"/><s n="mf"/></l><r>milionário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>mince<s n="adj"/><s n="mf"/></l>       <r>delgado<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>minime<s n="adj"/><s n="mf"/></l>      <r>mínimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>ministériel<s n="adj"/><s n="GD"/></l> <r>ministerial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>minoritaire<s n="adj"/><s n="mf"/></l> <r>minoritário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>mixte<s n="adj"/><s n="mf"/></l>       <r>misto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>modal<s n="adj"/><s n="GD"/></l>       <r>modal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>moderne<s n="adj"/><s n="mf"/></l>     <r>moderno<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>modeste<s n="adj"/><s n="mf"/></l>     <r>modesto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>mondial<s n="adj"/><s n="GD"/></l>     <r>mundial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>monétaire<s n="adj"/><s n="mf"/></l>   <r>monetário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>moral<s n="adj"/><s n="GD"/></l>       <r>moral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>mortel<s n="adj"/><s n="GD"/></l>      <r>mortal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>municipal<s n="adj"/><s n="GD"/></l>   <r>municipal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>musical<s n="adj"/><s n="GD"/></l>     <r>musical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>mythique<s n="adj"/><s n="mf"/></l>    <r>mítico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>médiatique<s n="adj"/><s n="mf"/></l>  <r>mediático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>mélancolique<s n="adj"/><s n="mf"/></l><r>melancólico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>métallique<s n="adj"/><s n="mf"/></l>  <r>metálico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>météorologique<s n="adj"/><s n="mf"/></l><r>meteorológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>même<s n="adj"/><s n="mf"/></l>        <r>mesmo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>natal<s n="adj"/><s n="GD"/></l>       <r>natal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>national<s n="adj"/><s n="GD"/></l>    <r>nacional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>naturel<s n="adj"/><s n="GD"/></l>     <r>natural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>naval<s n="adj"/><s n="GD"/></l>       <r>naval<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>navigant<s n="adj"/><s n="GD"/></l>    <r>navegante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>neuvième<s n="adj"/><s n="mf"/></l>    <r>nono<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>normal<s n="adj"/><s n="GD"/></l>      <r>normal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>nègre<s n="adj"/><s n="mf"/></l>       <r>negro<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>nécessaire<s n="adj"/><s n="mf"/></l>  <r>necessário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>obligatoire<s n="adj"/><s n="mf"/></l> <r>obrigatório<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>occulte<s n="adj"/><s n="mf"/></l>     <r>oculto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>officiel<s n="adj"/><s n="GD"/></l>    <r>oficial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>olympique<s n="adj"/><s n="mf"/></l>   <r>olímpico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>ombilical<s n="adj"/><s n="GD"/></l>   <r>umbilical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ordinaire<s n="adj"/><s n="mf"/></l>   <r>ordinário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>organique<s n="adj"/><s n="mf"/></l>   <r>orgânico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>oriental<s n="adj"/><s n="GD"/></l>    <r>oriental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>original<s n="adj"/><s n="GD"/></l>    <r>original<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>orthodoxe<s n="adj"/><s n="mf"/></l>   <r>ortodoxo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>ortodoxe<s n="adj"/><s n="mf"/></l>    <r>ortodoxo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>pacifique<s n="adj"/><s n="mf"/></l>   <r>pacífico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>parallèle<s n="adj"/><s n="mf"/></l>   <r>paralelo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>parasite<s n="adj"/><s n="mf"/></l>    <r>parasita<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL" c="new-category"><p><l>parisien<s n="adj"/><s n="GD"/></l><r>parisiense<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>particulier<s n="adj"/><s n="GD"/></l> <r>particular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>partiel<s n="adj"/><s n="GD"/></l>     <r>parcial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>pastoral<s n="adj"/><s n="GD"/></l>    <r>pastoral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patent<s n="adj"/><s n="GD"/></l>      <r>patente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patient<s n="adj"/><s n="GD"/></l>     <r>paciente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patrimonial<s n="adj"/><s n="GD"/></l> <r>patrimonial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>performant<s n="adj"/><s n="GD"/></l>  <r>eficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>permanent<s n="adj"/><s n="GD"/></l>   <r>permanente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>physique<s n="adj"/><s n="mf"/></l>    <r>físico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR" c="new-category"><p><l>plastique<s n="adj"/><s n="mf"/></l><r>plástico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>pluriel<s n="adj"/><s n="GD"/></l>     <r>plural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>policier<s n="adj"/><s n="GD"/></l>    <r>policial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>politique<s n="adj"/><s n="mf"/></l>   <r>político<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>portuaire<s n="adj"/><s n="mf"/></l>   <r>portuário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>poétique<s n="adj"/><s n="mf"/></l>    <r>poético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>pratique<s n="adj"/><s n="mf"/></l>    <r>prático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>pressant<s n="adj"/><s n="GD"/></l>    <r>urgente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>primaire<s n="adj"/><s n="mf"/></l>    <r>primário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>primordial<s n="adj"/><s n="GD"/></l>  <r>primordial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>principal<s n="adj"/><s n="GD"/></l>   <r>principal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>proche<s n="adj"/><s n="mf"/></l>      <r>próximo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>profitable<s n="adj"/><s n="mf"/></l>  <r>proveitoso<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>promotionnel<s n="adj"/><s n="GD"/></l><r>promocional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>propice<s n="adj"/><s n="mf"/></l>     <r>propício<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>propre<s n="adj"/><s n="mf"/></l>      <r>próprio<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>prospère<s n="adj"/><s n="mf"/></l>    <r>próspero<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>provincial<s n="adj"/><s n="GD"/></l>  <r>provincial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>prudent<s n="adj"/><s n="GD"/></l>     <r>prudente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>préalable<s n="adj"/><s n="mf"/></l>   <r>prévio<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>précédent<s n="adj"/><s n="GD"/></l>   <r>precedente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>préoccupant<s n="adj"/><s n="GD"/></l> <r>preocupante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>présent<s n="adj"/><s n="GD"/></l>     <r>presente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>présidentiel<s n="adj"/><s n="GD"/></l><r>presidencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>psychologique<s n="adj"/><s n="mf"/></l><r>psicológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>publicitaire<s n="adj"/><s n="mf"/></l><r>publicitário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>puissant<s n="adj"/><s n="GD"/></l>    <r>potente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>pâle<s n="adj"/><s n="mf"/></l>        <r>pálido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>pénal<s n="adj"/><s n="GD"/></l>       <r>penal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>pénitentiaire<s n="adj"/><s n="mf"/></l><r>penitenciário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>périodique<s n="adj"/><s n="mf"/></l>  <r>periódico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>quatrième<s n="adj"/><s n="mf"/></l>   <r>quarto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>racial<s n="adj"/><s n="GD"/></l>      <r>racial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>radical<s n="adj"/><s n="GD"/></l>     <r>radical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>rapide<s n="adj"/><s n="mf"/></l>      <r>rápido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>rare<s n="adj"/><s n="mf"/></l>        <r>escasso<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>respiratoire<s n="adj"/><s n="mf"/></l><r>respiratório<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>restant<s n="adj"/><s n="GD"/></l>     <r>restante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>riche<s n="adj"/><s n="mf"/></l>       <r>rico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>ridicule<s n="adj"/><s n="mf"/></l>    <r>ridículo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>rigide<s n="adj"/><s n="mf"/></l>      <r>rígido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>romantique<s n="adj"/><s n="mf"/></l>  <r>romântico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>rouge<s n="adj"/><s n="mf"/></l>       <r>vermelho<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>royal<s n="adj"/><s n="GD"/></l>       <r>real<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>rural<s n="adj"/><s n="GD"/></l>       <r>rural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>russe<s n="adj"/><s n="mf"/></l><r>russo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>rustique<s n="adj"/><s n="mf"/></l>    <r>rústico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>réciproque<s n="adj"/><s n="mf"/></l>  <r>recíproco<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>réel<s n="adj"/><s n="GD"/></l>        <r>real<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>régional<s n="adj"/><s n="GD"/></l>    <r>regional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>régulier<s n="adj"/><s n="GD"/></l>    <r>regular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résidentiel<s n="adj"/><s n="GD"/></l> <r>residencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résistant<s n="adj"/><s n="GD"/></l>   <r>resistente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résultant<s n="adj"/><s n="GD"/></l>   <r>resultante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>révolutionnaire<s n="adj"/><s n="mf"/></l><r>revolucionário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>salarial<s n="adj"/><s n="GD"/></l>    <r>salarial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sale<s n="adj"/><s n="mf"/></l>        <r>sujo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>sanitaire<s n="adj"/><s n="mf"/></l>   <r>sanitário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>scientifique<s n="adj"/><s n="mf"/></l><r>científico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>secondaire<s n="adj"/><s n="mf"/></l>  <r>secundário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>sectoriel<s n="adj"/><s n="GD"/></l>   <r>sectorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>semestriel<s n="adj"/><s n="GD"/></l>  <r>semestral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>sentimental<s n="adj"/><s n="GD"/></l> <r>sentimental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>septième<s n="adj"/><s n="mf"/></l>    <r>sétimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>serbe<s n="adj"/><s n="mf"/></l>       <r>sérvio<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>sexuel<s n="adj"/><s n="GD"/></l>      <r>sexual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>simple<s n="adj"/><s n="mf"/></l>      <r>mero<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>singulier<s n="adj"/><s n="GD"/></l>   <r>singular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sixième<s n="adj"/><s n="mf"/></l>     <r>sexto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>social<s n="adj"/><s n="GD"/></l>      <r>social<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>solide<s n="adj"/><s n="mf"/></l>      <r>sólido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>solitaire<s n="adj"/><s n="mf"/></l>   <r>solitário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>sombre<s n="adj"/><s n="mf"/></l>      <r>sombrio<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>sonore<s n="adj"/><s n="mf"/></l>      <r>sonoro<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>soutenu<s n="adj"/><s n="GD"/></l>     <r>constante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>soviétique<s n="adj"/><s n="mf"/></l>  <r>soviético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>spatial<s n="adj"/><s n="GD"/></l>     <r>espacial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>spirituel<s n="adj"/><s n="GD"/></l>   <r>espiritual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>spécial<s n="adj"/><s n="GD"/></l>     <r>especial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>spécifique<s n="adj"/><s n="mf"/></l>  <r>específico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>statistique<s n="adj"/><s n="mf"/></l> <r>estatístico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>statutaire<s n="adj"/><s n="mf"/></l>  <r>estatutário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>stimulant<s n="adj"/><s n="GD"/></l>   <r>estimulante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>stratégique<s n="adj"/><s n="mf"/></l> <r>estratégico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>stupide<s n="adj"/><s n="mf"/></l>     <r>estúpido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>suffisant<s n="adj"/><s n="GD"/></l>   <r>suficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>suisse<s n="adj"/><s n="mf"/></l>      <r>suíço<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>superficiel<s n="adj"/><s n="GD"/></l> <r>superficial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>suprême<s n="adj"/><s n="mf"/></l>     <r>supremo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>supérieur<s n="adj"/><s n="GD"/></l>   <r>superior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>symbolique<s n="adj"/><s n="mf"/></l>  <r>simbólico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>syndical<s n="adj"/><s n="GD"/></l>    <r>sindical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sévère<s n="adj"/><s n="mf"/></l>      <r>severo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>tchèque<s n="adj"/><s n="mf"/></l>     <r>checo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>technique<s n="adj"/><s n="mf"/></l>   <r>técnico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>technologique<s n="adj"/><s n="mf"/></l><r>tecnológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>tendre<s n="adj"/><s n="mf"/></l>      <r>terno<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>territorial<s n="adj"/><s n="GD"/></l> <r>territorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>thermique<s n="adj"/><s n="mf"/></l>   <r>térmico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>thérapeutique<s n="adj"/><s n="mf"/></l><r>terapêutico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>théâtral<s n="adj"/><s n="GD"/></l>    <r>teatral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>timide<s n="adj"/><s n="mf"/></l>      <r>tímido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>total<s n="adj"/><s n="GD"/></l>       <r>total<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>touristique<s n="adj"/><s n="mf"/></l> <r>turístico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>toxique<s n="adj"/><s n="mf"/></l>     <r>tóxico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>traditionnel<s n="adj"/><s n="GD"/></l><r>tradicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>tragique<s n="adj"/><s n="mf"/></l>    <r>trágico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>transparent<s n="adj"/><s n="GD"/></l> <r>transparente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>trimestriel<s n="adj"/><s n="GD"/></l> <r>trimestral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>trivial<s n="adj"/><s n="GD"/></l>     <r>trivial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>troisième<s n="adj"/><s n="mf"/></l>   <r>terceiro<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>tropical<s n="adj"/><s n="GD"/></l>    <r>tropical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ultime<s n="adj"/><s n="mf"/></l>      <r>último<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>unilatéral<s n="adj"/><s n="GD"/></l>  <r>unilateral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>unique<s n="adj"/><s n="mf"/></l>      <r>único<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>universel<s n="adj"/><s n="GD"/></l>   <r>universal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>universitaire<s n="adj"/><s n="mf"/></l><r>universitário<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>urgent<s n="adj"/><s n="GD"/></l>      <r>urgente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>valable<s n="adj"/><s n="mf"/></l>     <r>válido<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>vaste<s n="adj"/><s n="mf"/></l>       <r>vasto<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>verbal<s n="adj"/><s n="GD"/></l>      <r>verbal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vert<s n="adj"/><s n="GD"/></l>        <r>verde<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vertical<s n="adj"/><s n="GD"/></l>    <r>vertical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>vide<s n="adj"/><s n="mf"/></l>        <r>vazio<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>vingtième<s n="adj"/><s n="mf"/></l>   <r>vigésimo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>virtuel<s n="adj"/><s n="GD"/></l>     <r>virtual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>virtuose<s n="adj"/><s n="mf"/></l>    <r>virtuoso<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>visuel<s n="adj"/><s n="GD"/></l>      <r>visual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vital<s n="adj"/><s n="GD"/></l>       <r>vital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vocal<s n="adj"/><s n="GD"/></l>       <r>vocal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>volcanique<s n="adj"/><s n="mf"/></l>  <r>vulcânico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>véritable<s n="adj"/><s n="mf"/></l>   <r>autêntico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>véritable<s n="adj"/><s n="mf"/></l>   <r>verdadeiro<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>âpre<s n="adj"/><s n="mf"/></l>        <r>áspero<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>éblouissant<s n="adj"/><s n="GD"/></l> <r>deslumbrante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>écologique<s n="adj"/><s n="mf"/></l>  <r>ecológico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>éditorial<s n="adj"/><s n="GD"/></l>   <r>editorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>égal<s n="adj"/><s n="GD"/></l>        <r>igual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>élégant<s n="adj"/><s n="GD"/></l>     <r>elegante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>émergent<s n="adj"/><s n="GD"/></l>    <r>emergente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>émotionnel<s n="adj"/><s n="GD"/></l>  <r>emocional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>énergique<s n="adj"/><s n="mf"/></l>   <r>enérgico<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>énergétique<s n="adj"/><s n="mf"/></l> <r>energético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>énigmatique<s n="adj"/><s n="mf"/></l> <r>enigmático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>équivalent<s n="adj"/><s n="GD"/></l>  <r>equivalente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>éthique<s n="adj"/><s n="mf"/></l>     <r>ético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>étrange<s n="adj"/><s n="mf"/></l>     <r>estranho<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>éventuel<s n="adj"/><s n="GD"/></l>    <r>eventual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>évident<s n="adj"/><s n="GD"/></l>     <r>evidente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>abondant<s n="adj"/><s n="m"/></l>    <r>abundante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>absent<s n="adj"/><s n="m"/></l>      <r>ausente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>absurde<s n="adj"/><s n="mf"/></l>     <r>absurdo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>additionnel<s n="adj"/><s n="m"/></l> <r>adicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>adroit<s n="adj"/><s n="m"/></l>      <r>hábil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>agraire<s n="adj"/><s n="mf"/></l>     <r>agrário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>aisé<s n="adj"/><s n="m"/></l>        <r>fácil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>alimentaire<s n="adj"/><s n="mf"/></l> <r>alimentário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>aléatoire<s n="adj"/><s n="mf"/></l>   <r>aleatório<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>amateur<s n="adj"/><s n="mf"/></l>     <r>aficionado<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ample<s n="adj"/><s n="mf"/></l>       <r>amplo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>américain<s n="adj"/><s n="m"/></l>   <r>estadounidense<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>annal<s n="adj"/><s n="m"/></l>       <r>anual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>annuel<s n="adj"/><s n="m"/></l>      <r>anual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>antique<s n="adj"/><s n="mf"/></l>     <r>antigo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>antérieur<s n="adj"/><s n="m"/></l>   <r>anterior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>apparent<s n="adj"/><s n="m"/></l>    <r>aparente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>apte<s n="adj"/><s n="mf"/></l>        <r>apto<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>arbitraire<s n="adj"/><s n="mf"/></l>  <r>arbitrário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>archéologique<s n="adj"/><s n="mf"/></l><r>arqueológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>artificiel<s n="adj"/><s n="m"/></l>  <r>artificial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>artisanal<s n="adj"/><s n="m"/></l>   <r>artesanal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>artistique<s n="adj"/><s n="mf"/></l>  <r>artístico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>asiatique<s n="adj"/><s n="mf"/></l>   <r>asiático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>audacieux<s n="adj"/><s n="m"/></l>   <r>audaz<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>audiovisuel<s n="adj"/><s n="m"/></l> <r>audiovisual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>automatique<s n="adj"/><s n="mf"/></l> <r>automático<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>automobile<s n="adj"/><s n="mf"/></l>  <r>automobilístico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>aveugle<s n="adj"/><s n="mf"/></l>     <r>cego<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>bancaire<s n="adj"/><s n="mf"/></l>    <r>bancário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>barbare<s n="adj"/><s n="mf"/></l>     <r>bárbaro<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>basique<s n="adj"/><s n="mf"/></l>     <r>básico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR" c="new-category"><p><l>basque<s n="adj"/><s n="mf"/></l><r>basco<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>bibliographique<s n="adj"/><s n="mf"/></l><r>bibliográfico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>biblique<s n="adj"/><s n="mf"/></l>    <r>bíblico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>bilatéral<s n="adj"/><s n="m"/></l>   <r>bilateral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>biologique<s n="adj"/><s n="mf"/></l>  <r>biológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>bizarre<s n="adj"/><s n="mf"/></l>     <r>estranho<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL" c="new-category"><p><l>bleu<s n="adj"/><s n="m"/></l><r>azul<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>bon<b/>marché<s n="adj"/><s n="mf"/></l><r>barato<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>boursier<s n="adj"/><s n="m"/></l>    <r>bursátil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>bref<s n="adj"/><s n="m"/></l>        <r>breve<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>britannique<s n="adj"/><s n="mf"/></l> <r>britânico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>brutal<s n="adj"/><s n="m"/></l>      <r>brutal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>bête<s n="adj"/><s n="mf"/></l>        <r>tonto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>capital<s n="adj"/><s n="m"/></l>     <r>capital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>cardiaque<s n="adj"/><s n="mf"/></l>   <r>cardíaco<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>catastrophique<s n="adj"/><s n="mf"/></l><r>catastrófico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR" c="new-category"><p><l>catholique<s n="adj"/><s n="mf"/></l><r>católico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>central<s n="adj"/><s n="m"/></l>     <r>central<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>chimique<s n="adj"/><s n="mf"/></l>    <r>químico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>choral<s n="adj"/><s n="m"/></l>      <r>coral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>cinquième<s n="adj"/><s n="mf"/></l>   <r>quinto<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>cinématographique<s n="adj"/><s n="mf"/></l><r>cinematográfico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>civil<s n="adj"/><s n="m"/></l>       <r>civil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>classique<s n="adj"/><s n="mf"/></l>   <r>clássico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>climatique<s n="adj"/><s n="mf"/></l>  <r>climático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>commercial<s n="adj"/><s n="m"/></l>  <r>comercial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>communautaire<s n="adj"/><s n="mf"/></l><r>comunitário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>complexe<s n="adj"/><s n="mf"/></l>    <r>complexo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>constitutionnel<s n="adj"/><s n="m"/></l><r>constitucional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>continental<s n="adj"/><s n="m"/></l> <r>continental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>contraire<s n="adj"/><s n="mf"/></l>   <r>contrário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>cordial<s n="adj"/><s n="m"/></l>     <r>cordial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>critique<s n="adj"/><s n="mf"/></l><r>crítico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>crucial<s n="adj"/><s n="m"/></l>     <r>crucial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>cruel<s n="adj"/><s n="m"/></l>       <r>cruel<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>culturel<s n="adj"/><s n="m"/></l>    <r>cultural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>cérébral<s n="adj"/><s n="m"/></l>    <r>cerebral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dense<s n="adj"/><s n="mf"/></l>       <r>denso<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>destinataire<s n="adj"/><s n="mf"/></l><r>destinatário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>deuxième<s n="adj"/><s n="mf"/></l>    <r>segundo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>différent<s n="adj"/><s n="m"/></l>   <r>diferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>digital<s n="adj"/><s n="m"/></l>     <r>digital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>digne<s n="adj"/><s n="mf"/></l>       <r>digno<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>diplomatique<s n="adj"/><s n="mf"/></l><r>diplomático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>dirigeant<s n="adj"/><s n="m"/></l>   <r>dirigente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distant<s n="adj"/><s n="m"/></l>     <r>distante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distinct<s n="adj"/><s n="m"/></l>    <r>diferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distinctif<s n="adj"/><s n="m"/></l>  <r>diferencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dixième<s n="adj"/><s n="mf"/></l>     <r>décimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>domestique<s n="adj"/><s n="mf"/></l>  <r>doméstico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>dominant<s n="adj"/><s n="m"/></l>    <r>dominante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>doux<s n="adj"/><s n="m"/></l>        <r>suave<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dramatique<s n="adj"/><s n="mf"/></l>  <r>dramático<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>durable<s n="adj"/><s n="mf"/></l>     <r>duradouro<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>dynamique<s n="adj"/><s n="mf"/></l>   <r>dinâmico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>dégradant<s n="adj"/><s n="m"/></l>   <r>degradante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>démocratique<s n="adj"/><s n="mf"/></l><r>democrático<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>démographique<s n="adj"/><s n="mf"/></l><r>demográfico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>déterminant<s n="adj"/><s n="m"/></l> <r>determinante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ecclésiastique<s n="adj"/><s n="mf"/></l><r>eclesiástico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>enfantin<s n="adj"/><s n="m"/></l>    <r>infantil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>environnemental<s n="adj"/><s n="m"/></l><r>ambiental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>esthétique<s n="adj"/><s n="mf"/></l>  <r>estético<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ethnique<s n="adj"/><s n="mf"/></l>    <r>étnico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>excellent<s n="adj"/><s n="m"/></l>   <r>excelente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>exceptionnel<s n="adj"/><s n="m"/></l><r>excepcional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>existant<s n="adj"/><s n="m"/></l>    <r>existente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>extraordinaire<s n="adj"/><s n="mf"/></l><r>extraordinário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>extrême<s n="adj"/><s n="mf"/></l>     <r>extremo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>extérieur<s n="adj"/><s n="m"/></l>   <r>exterior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>facial<s n="adj"/><s n="m"/></l>      <r>facial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>familial<s n="adj"/><s n="m"/></l>    <r>familiar<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>familier<s n="adj"/><s n="m"/></l>    <r>familiar<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fanatique<s n="adj"/><s n="mf"/></l>   <r>fanático<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>fantastique<s n="adj"/><s n="mf"/></l> <r>fantástico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>fatal<s n="adj"/><s n="m"/></l>       <r>fatal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ferroviaire<s n="adj"/><s n="mf"/></l> <r>ferroviário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR" c="new-category"><p><l>filial<s n="adj"/><s n="m"/></l><r>filial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>fiscal<s n="adj"/><s n="m"/></l>      <r>fiscal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fixe<s n="adj"/><s n="mf"/></l>        <r>fixo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>fondamental<s n="adj"/><s n="m"/></l> <r>fundamental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>foral<s n="adj"/><s n="m"/></l>       <r>foral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>formel<s n="adj"/><s n="m"/></l>      <r>formal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>frontal<s n="adj"/><s n="m"/></l>     <r>frontal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>fédéral<s n="adj"/><s n="m"/></l>     <r>federal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>gauche<s n="adj"/><s n="mf"/></l>      <r>esquerdo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>gigantesque<s n="adj"/><s n="mf"/></l> <r>gigantesco<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>grand<s n="adj"/><s n="m"/></l>       <r>grande<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>graphique<s n="adj"/><s n="mf"/></l><r>gráfico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>grotesque<s n="adj"/><s n="mf"/></l>   <r>grotesco<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>géant<s n="adj"/><s n="m"/></l>       <r>gigante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>génétique<s n="adj"/><s n="mf"/></l>   <r>genético<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>géographique<s n="adj"/><s n="mf"/></l><r>geográfico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>géologique<s n="adj"/><s n="mf"/></l>  <r>geológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>habituel<s n="adj"/><s n="m"/></l>    <r>habitual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>historique<s n="adj"/><s n="mf"/></l>  <r>histórico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>homologue<s n="adj"/><s n="mf"/></l>   <r>homólogo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>honnête<s n="adj"/><s n="mf"/></l>     <r>honesto<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>horaire<s n="adj"/><s n="mf"/></l>     <r>horário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>huitième<s n="adj"/><s n="mf"/></l>    <r>oitavo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>humanitaire<s n="adj"/><s n="mf"/></l> <r>humanitário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>identique<s n="adj"/><s n="mf"/></l>   <r>idêntico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>idiot<s n="adj"/><s n="m"/></l>       <r>idiota<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>idéal<s n="adj"/><s n="m"/></l>       <r>ideal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>idéologique<s n="adj"/><s n="mf"/></l> <r>ideológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>illicite<s n="adj"/><s n="mf"/></l>    <r>ilícito<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>illégal<s n="adj"/><s n="m"/></l>     <r>ilegal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>illégitime<s n="adj"/><s n="mf"/></l>  <r>ilegítimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>immense<s n="adj"/><s n="mf"/></l>     <r>imenso<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>impartial<s n="adj"/><s n="m"/></l>   <r>imparcial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>important<s n="adj"/><s n="m"/></l>   <r>importante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>impuissant<s n="adj"/><s n="m"/></l>  <r>impotente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inaugural<s n="adj"/><s n="m"/></l>   <r>inaugural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inconditionnel<s n="adj"/><s n="m"/></l><r>incondicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inconvenant<s n="adj"/><s n="m"/></l> <r>inconveniente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>indifférent<s n="adj"/><s n="m"/></l> <r>indiferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>individuel<s n="adj"/><s n="m"/></l>  <r>individual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>industriel<s n="adj"/><s n="m"/></l>  <r>industrial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>infernal<s n="adj"/><s n="m"/></l>    <r>infernal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>informatique<s n="adj"/><s n="mf"/></l><r>informático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>informel<s n="adj"/><s n="m"/></l>    <r>informal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inférieur<s n="adj"/><s n="m"/></l>   <r>inferior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>initial<s n="adj"/><s n="m"/></l>     <r>inicial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>injuste<s n="adj"/><s n="mf"/></l>     <r>injusto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>innocent<s n="adj"/><s n="m"/></l>    <r>inocente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>insignifiant<s n="adj"/><s n="m"/></l><r>insignificante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>insolite<s n="adj"/><s n="mf"/></l>    <r>insólito<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>institutionnel<s n="adj"/><s n="m"/></l><r>institucional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>insuffisant<s n="adj"/><s n="m"/></l> <r>insuficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>intellectuel<s n="adj"/><s n="m"/></l><r>intelectual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>intelligent<s n="adj"/><s n="m"/></l> <r>inteligente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>intense<s n="adj"/><s n="mf"/></l>     <r>intenso<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>intermédiaire<s n="adj"/><s n="mf"/></l><r>intermediário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>international<s n="adj"/><s n="m"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>interne<s n="adj"/><s n="mf"/></l>     <r>interno<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>intime<s n="adj"/><s n="mf"/></l>      <r>íntimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>intérimaire<s n="adj"/><s n="mf"/></l> <r>interino<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>inverse<s n="adj"/><s n="mf"/></l>     <r>inverso<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>irrégulier<s n="adj"/><s n="m"/></l>  <r>irregular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>islamique<s n="adj"/><s n="mf"/></l>   <r>islâmico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>islamiste<s n="adj"/><s n="mf"/></l>   <r>islâmico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ivre<s n="adj"/><s n="mf"/></l>        <r>ébrio<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>jaune<s n="adj"/><s n="mf"/></l>       <r>amarelo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>journalistique<s n="adj"/><s n="mf"/></l><r>jornalístico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>joyeux<s n="adj"/><s n="m"/></l>      <r>feliz<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>juridique<s n="adj"/><s n="mf"/></l>   <r>jurídico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>juste<s n="adj"/><s n="mf"/></l>       <r>justo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>kurde<s n="adj"/><s n="mf"/></l>       <r>curdo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>laïque<s n="adj"/><s n="mf"/></l>      <r>laico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>libéral<s n="adj"/><s n="m"/></l>     <r>liberal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>licite<s n="adj"/><s n="mf"/></l>      <r>lícito<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>liquide<s n="adj"/><s n="mf"/></l>     <r>líquido<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>littéraire<s n="adj"/><s n="mf"/></l>  <r>literário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>littéral<s n="adj"/><s n="m"/></l>    <r>literal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>local<s n="adj"/><s n="m"/></l>       <r>local<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>logique<s n="adj"/><s n="mf"/></l>     <r>lógico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>logistique<s n="adj"/><s n="mf"/></l>  <r>logístico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ludique<s n="adj"/><s n="mf"/></l>     <r>lúdico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>légal<s n="adj"/><s n="m"/></l>       <r>legal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>légitime<s n="adj"/><s n="mf"/></l>    <r>legítimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>létal<s n="adj"/><s n="m"/></l>       <r>letal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>magique<s n="adj"/><s n="mf"/></l>     <r>mágico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/></l>  <r>magnífico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>magnétique<s n="adj"/><s n="mf"/></l>  <r>magnético<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>maigre<s n="adj"/><s n="mf"/></l>      <r>delgado<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>majoritaire<s n="adj"/><s n="mf"/></l> <r>maioritário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>maladroit<s n="adj"/><s n="m"/></l>   <r>torpe<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>manquant<s n="adj"/><s n="m"/></l>    <r>ausente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>manuel<s n="adj"/><s n="m"/></l>      <r>manual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>maritime<s n="adj"/><s n="mf"/></l>    <r>marítimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>mathématique<s n="adj"/><s n="mf"/></l><r>matemático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>matinal<s n="adj"/><s n="m"/></l>     <r>matinal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>matériel<s n="adj"/><s n="m"/></l>    <r>material<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>mental<s n="adj"/><s n="m"/></l>      <r>mental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>millionnaire<s n="adj"/><s n="mf"/></l><r>milionário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>mince<s n="adj"/><s n="mf"/></l>       <r>delgado<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>minime<s n="adj"/><s n="mf"/></l>      <r>mínimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>ministériel<s n="adj"/><s n="m"/></l> <r>ministerial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>minoritaire<s n="adj"/><s n="mf"/></l> <r>minoritário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>mixte<s n="adj"/><s n="mf"/></l>       <r>misto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>modal<s n="adj"/><s n="m"/></l>       <r>modal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>moderne<s n="adj"/><s n="mf"/></l>     <r>moderno<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>modeste<s n="adj"/><s n="mf"/></l>     <r>modesto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>mondial<s n="adj"/><s n="m"/></l>     <r>mundial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>monétaire<s n="adj"/><s n="mf"/></l>   <r>monetário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>moral<s n="adj"/><s n="m"/></l>       <r>moral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>mortel<s n="adj"/><s n="m"/></l>      <r>mortal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>municipal<s n="adj"/><s n="m"/></l>   <r>municipal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>musical<s n="adj"/><s n="m"/></l>     <r>musical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>mythique<s n="adj"/><s n="mf"/></l>    <r>mítico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>médiatique<s n="adj"/><s n="mf"/></l>  <r>mediático<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>mélancolique<s n="adj"/><s n="mf"/></l><r>melancólico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>métallique<s n="adj"/><s n="mf"/></l>  <r>metálico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>météorologique<s n="adj"/><s n="mf"/></l><r>meteorológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>même<s n="adj"/><s n="mf"/></l>        <r>mesmo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>natal<s n="adj"/><s n="m"/></l>       <r>natal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>national<s n="adj"/><s n="m"/></l>    <r>nacional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>naturel<s n="adj"/><s n="m"/></l>     <r>natural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>naval<s n="adj"/><s n="m"/></l>       <r>naval<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>navigant<s n="adj"/><s n="m"/></l>    <r>navegante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>neuvième<s n="adj"/><s n="mf"/></l>    <r>nono<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>normal<s n="adj"/><s n="m"/></l>      <r>normal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>nègre<s n="adj"/><s n="mf"/></l>       <r>negro<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>nécessaire<s n="adj"/><s n="mf"/></l>  <r>necessário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>obligatoire<s n="adj"/><s n="mf"/></l> <r>obrigatório<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>occulte<s n="adj"/><s n="mf"/></l>     <r>oculto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>officiel<s n="adj"/><s n="m"/></l>    <r>oficial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>olympique<s n="adj"/><s n="mf"/></l>   <r>olímpico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>ombilical<s n="adj"/><s n="m"/></l>   <r>umbilical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ordinaire<s n="adj"/><s n="mf"/></l>   <r>ordinário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>organique<s n="adj"/><s n="mf"/></l>   <r>orgânico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>oriental<s n="adj"/><s n="m"/></l>    <r>oriental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>original<s n="adj"/><s n="m"/></l>    <r>original<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>orthodoxe<s n="adj"/><s n="mf"/></l>   <r>ortodoxo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ortodoxe<s n="adj"/><s n="mf"/></l>    <r>ortodoxo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>pacifique<s n="adj"/><s n="mf"/></l>   <r>pacífico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>parallèle<s n="adj"/><s n="mf"/></l>   <r>paralelo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>parasite<s n="adj"/><s n="mf"/></l>    <r>parasita<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL" c="new-category"><p><l>parisien<s n="adj"/><s n="m"/></l><r>parisiense<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>particulier<s n="adj"/><s n="m"/></l> <r>particular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>partiel<s n="adj"/><s n="m"/></l>     <r>parcial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>pastoral<s n="adj"/><s n="m"/></l>    <r>pastoral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patent<s n="adj"/><s n="m"/></l>      <r>patente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patient<s n="adj"/><s n="m"/></l>     <r>paciente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patrimonial<s n="adj"/><s n="m"/></l> <r>patrimonial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>performant<s n="adj"/><s n="m"/></l>  <r>eficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>permanent<s n="adj"/><s n="m"/></l>   <r>permanente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>physique<s n="adj"/><s n="mf"/></l>    <r>físico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR" c="new-category"><p><l>plastique<s n="adj"/><s n="mf"/></l><r>plástico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>pluriel<s n="adj"/><s n="m"/></l>     <r>plural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>policier<s n="adj"/><s n="m"/></l>    <r>policial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>politique<s n="adj"/><s n="mf"/></l>   <r>político<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>portuaire<s n="adj"/><s n="mf"/></l>   <r>portuário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>poétique<s n="adj"/><s n="mf"/></l>    <r>poético<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>pratique<s n="adj"/><s n="mf"/></l>    <r>prático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>pressant<s n="adj"/><s n="m"/></l>    <r>urgente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>primaire<s n="adj"/><s n="mf"/></l>    <r>primário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>primordial<s n="adj"/><s n="m"/></l>  <r>primordial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>principal<s n="adj"/><s n="m"/></l>   <r>principal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>proche<s n="adj"/><s n="mf"/></l>      <r>próximo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>profitable<s n="adj"/><s n="mf"/></l>  <r>proveitoso<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>promotionnel<s n="adj"/><s n="m"/></l><r>promocional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>propice<s n="adj"/><s n="mf"/></l>     <r>propício<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>propre<s n="adj"/><s n="mf"/></l>      <r>próprio<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>prospère<s n="adj"/><s n="mf"/></l>    <r>próspero<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>provincial<s n="adj"/><s n="m"/></l>  <r>provincial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>prudent<s n="adj"/><s n="m"/></l>     <r>prudente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>préalable<s n="adj"/><s n="mf"/></l>   <r>prévio<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>précédent<s n="adj"/><s n="m"/></l>   <r>precedente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>préoccupant<s n="adj"/><s n="m"/></l> <r>preocupante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>présent<s n="adj"/><s n="m"/></l>     <r>presente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>présidentiel<s n="adj"/><s n="m"/></l><r>presidencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>psychologique<s n="adj"/><s n="mf"/></l><r>psicológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>publicitaire<s n="adj"/><s n="mf"/></l><r>publicitário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>puissant<s n="adj"/><s n="m"/></l>    <r>potente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>pâle<s n="adj"/><s n="mf"/></l>        <r>pálido<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>pénal<s n="adj"/><s n="m"/></l>       <r>penal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>pénitentiaire<s n="adj"/><s n="mf"/></l><r>penitenciário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>périodique<s n="adj"/><s n="mf"/></l>  <r>periódico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>quatrième<s n="adj"/><s n="mf"/></l>   <r>quarto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>racial<s n="adj"/><s n="m"/></l>      <r>racial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>radical<s n="adj"/><s n="m"/></l>     <r>radical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>rapide<s n="adj"/><s n="mf"/></l>      <r>rápido<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>rare<s n="adj"/><s n="mf"/></l>        <r>escasso<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>respiratoire<s n="adj"/><s n="mf"/></l><r>respiratório<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>restant<s n="adj"/><s n="m"/></l>     <r>restante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>riche<s n="adj"/><s n="mf"/></l>       <r>rico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ridicule<s n="adj"/><s n="mf"/></l>    <r>ridículo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>rigide<s n="adj"/><s n="mf"/></l>      <r>rígido<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>romantique<s n="adj"/><s n="mf"/></l>  <r>romântico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>rouge<s n="adj"/><s n="mf"/></l>       <r>vermelho<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>royal<s n="adj"/><s n="m"/></l>       <r>real<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>rural<s n="adj"/><s n="m"/></l>       <r>rural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>russe<s n="adj"/><s n="mf"/></l><r>russo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>rustique<s n="adj"/><s n="mf"/></l>    <r>rústico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>réciproque<s n="adj"/><s n="mf"/></l>  <r>recíproco<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>réel<s n="adj"/><s n="m"/></l>        <r>real<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>régional<s n="adj"/><s n="m"/></l>    <r>regional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>régulier<s n="adj"/><s n="m"/></l>    <r>regular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résidentiel<s n="adj"/><s n="m"/></l> <r>residencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résistant<s n="adj"/><s n="m"/></l>   <r>resistente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résultant<s n="adj"/><s n="m"/></l>   <r>resultante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>révolutionnaire<s n="adj"/><s n="mf"/></l><r>revolucionário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>salarial<s n="adj"/><s n="m"/></l>    <r>salarial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sale<s n="adj"/><s n="mf"/></l>        <r>sujo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>sanitaire<s n="adj"/><s n="mf"/></l>   <r>sanitário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>scientifique<s n="adj"/><s n="mf"/></l><r>científico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>secondaire<s n="adj"/><s n="mf"/></l>  <r>secundário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>sectoriel<s n="adj"/><s n="m"/></l>   <r>sectorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>semestriel<s n="adj"/><s n="m"/></l>  <r>semestral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>sentimental<s n="adj"/><s n="m"/></l> <r>sentimental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>septième<s n="adj"/><s n="mf"/></l>    <r>sétimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>serbe<s n="adj"/><s n="mf"/></l>       <r>sérvio<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>sexuel<s n="adj"/><s n="m"/></l>      <r>sexual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>simple<s n="adj"/><s n="mf"/></l>      <r>mero<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>singulier<s n="adj"/><s n="m"/></l>   <r>singular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sixième<s n="adj"/><s n="mf"/></l>     <r>sexto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>social<s n="adj"/><s n="m"/></l>      <r>social<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>solide<s n="adj"/><s n="mf"/></l>      <r>sólido<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>solitaire<s n="adj"/><s n="mf"/></l>   <r>solitário<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>sombre<s n="adj"/><s n="mf"/></l>      <r>sombrio<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>sonore<s n="adj"/><s n="mf"/></l>      <r>sonoro<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>soutenu<s n="adj"/><s n="m"/></l>     <r>constante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>soviétique<s n="adj"/><s n="mf"/></l>  <r>soviético<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>spatial<s n="adj"/><s n="m"/></l>     <r>espacial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>spirituel<s n="adj"/><s n="m"/></l>   <r>espiritual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>spécial<s n="adj"/><s n="m"/></l>     <r>especial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>spécifique<s n="adj"/><s n="mf"/></l>  <r>específico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>statistique<s n="adj"/><s n="mf"/></l> <r>estatístico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>statutaire<s n="adj"/><s n="mf"/></l>  <r>estatutário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>stimulant<s n="adj"/><s n="m"/></l>   <r>estimulante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>stratégique<s n="adj"/><s n="mf"/></l> <r>estratégico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>stupide<s n="adj"/><s n="mf"/></l>     <r>estúpido<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>suffisant<s n="adj"/><s n="m"/></l>   <r>suficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>suisse<s n="adj"/><s n="mf"/></l>      <r>suíço<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>superficiel<s n="adj"/><s n="m"/></l> <r>superficial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>suprême<s n="adj"/><s n="mf"/></l>     <r>supremo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>supérieur<s n="adj"/><s n="m"/></l>   <r>superior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>symbolique<s n="adj"/><s n="mf"/></l>  <r>simbólico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>syndical<s n="adj"/><s n="m"/></l>    <r>sindical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sévère<s n="adj"/><s n="mf"/></l>      <r>severo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>tchèque<s n="adj"/><s n="mf"/></l>     <r>checo<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>technique<s n="adj"/><s n="mf"/></l>   <r>técnico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>technologique<s n="adj"/><s n="mf"/></l><r>tecnológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>tendre<s n="adj"/><s n="mf"/></l>      <r>terno<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>territorial<s n="adj"/><s n="m"/></l> <r>territorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>thermique<s n="adj"/><s n="mf"/></l>   <r>térmico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>thérapeutique<s n="adj"/><s n="mf"/></l><r>terapêutico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>théâtral<s n="adj"/><s n="m"/></l>    <r>teatral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>timide<s n="adj"/><s n="mf"/></l>      <r>tímido<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>total<s n="adj"/><s n="m"/></l>       <r>total<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>touristique<s n="adj"/><s n="mf"/></l> <r>turístico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>toxique<s n="adj"/><s n="mf"/></l>     <r>tóxico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>traditionnel<s n="adj"/><s n="m"/></l><r>tradicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>tragique<s n="adj"/><s n="mf"/></l>    <r>trágico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>transparent<s n="adj"/><s n="m"/></l> <r>transparente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>trimestriel<s n="adj"/><s n="m"/></l> <r>trimestral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>trivial<s n="adj"/><s n="m"/></l>     <r>trivial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>troisième<s n="adj"/><s n="mf"/></l>   <r>terceiro<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>tropical<s n="adj"/><s n="m"/></l>    <r>tropical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ultime<s n="adj"/><s n="mf"/></l>      <r>último<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>unilatéral<s n="adj"/><s n="m"/></l>  <r>unilateral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>unique<s n="adj"/><s n="mf"/></l>      <r>único<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>universel<s n="adj"/><s n="m"/></l>   <r>universal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>universitaire<s n="adj"/><s n="mf"/></l><r>universitário<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>urgent<s n="adj"/><s n="m"/></l>      <r>urgente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>valable<s n="adj"/><s n="mf"/></l>     <r>válido<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>vaste<s n="adj"/><s n="mf"/></l>       <r>vasto<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>verbal<s n="adj"/><s n="m"/></l>      <r>verbal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vert<s n="adj"/><s n="m"/></l>        <r>verde<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vertical<s n="adj"/><s n="m"/></l>    <r>vertical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>vide<s n="adj"/><s n="mf"/></l>        <r>vazio<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>vingtième<s n="adj"/><s n="mf"/></l>   <r>vigésimo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>virtuel<s n="adj"/><s n="m"/></l>     <r>virtual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>virtuose<s n="adj"/><s n="mf"/></l>    <r>virtuoso<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>visuel<s n="adj"/><s n="m"/></l>      <r>visual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vital<s n="adj"/><s n="m"/></l>       <r>vital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vocal<s n="adj"/><s n="m"/></l>       <r>vocal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>volcanique<s n="adj"/><s n="mf"/></l>  <r>vulcânico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>véritable<s n="adj"/><s n="mf"/></l>   <r>autêntico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>véritable<s n="adj"/><s n="mf"/></l>   <r>verdadeiro<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>âpre<s n="adj"/><s n="mf"/></l>        <r>áspero<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>éblouissant<s n="adj"/><s n="m"/></l> <r>deslumbrante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>écologique<s n="adj"/><s n="mf"/></l>  <r>ecológico<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>éditorial<s n="adj"/><s n="m"/></l>   <r>editorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>égal<s n="adj"/><s n="m"/></l>        <r>igual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>élégant<s n="adj"/><s n="m"/></l>     <r>elegante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>émergent<s n="adj"/><s n="m"/></l>    <r>emergente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>émotionnel<s n="adj"/><s n="m"/></l>  <r>emocional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>énergique<s n="adj"/><s n="mf"/></l>   <r>enérgico<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>énergétique<s n="adj"/><s n="mf"/></l> <r>energético<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>énigmatique<s n="adj"/><s n="mf"/></l> <r>enigmático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>équivalent<s n="adj"/><s n="m"/></l>  <r>equivalente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>éthique<s n="adj"/><s n="mf"/></l>     <r>ético<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>étrange<s n="adj"/><s n="mf"/></l>     <r>estranho<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>éventuel<s n="adj"/><s n="m"/></l>    <r>eventual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>évident<s n="adj"/><s n="m"/></l>     <r>evidente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>abondant<s n="adj"/><s n="f"/></l>    <r>abundante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>absent<s n="adj"/><s n="f"/></l>      <r>ausente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>absurde<s n="adj"/><s n="mf"/></l>     <r>absurdo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>additionnel<s n="adj"/><s n="f"/></l> <r>adicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>adroit<s n="adj"/><s n="f"/></l>      <r>hábil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>agraire<s n="adj"/><s n="mf"/></l>     <r>agrário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>aisé<s n="adj"/><s n="f"/></l>        <r>fácil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>alimentaire<s n="adj"/><s n="mf"/></l> <r>alimentário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>aléatoire<s n="adj"/><s n="mf"/></l>   <r>aleatório<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>amateur<s n="adj"/><s n="mf"/></l>     <r>aficionado<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>ample<s n="adj"/><s n="mf"/></l>       <r>amplo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>américain<s n="adj"/><s n="f"/></l>   <r>estadounidense<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>annal<s n="adj"/><s n="f"/></l>       <r>anual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>annuel<s n="adj"/><s n="f"/></l>      <r>anual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>antique<s n="adj"/><s n="mf"/></l>     <r>antigo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>antérieur<s n="adj"/><s n="f"/></l>   <r>anterior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>apparent<s n="adj"/><s n="f"/></l>    <r>aparente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>apte<s n="adj"/><s n="mf"/></l>        <r>apto<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>arbitraire<s n="adj"/><s n="mf"/></l>  <r>arbitrário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>archéologique<s n="adj"/><s n="mf"/></l><r>arqueológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>artificiel<s n="adj"/><s n="f"/></l>  <r>artificial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>artisanal<s n="adj"/><s n="f"/></l>   <r>artesanal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>artistique<s n="adj"/><s n="mf"/></l>  <r>artístico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>asiatique<s n="adj"/><s n="mf"/></l>   <r>asiático<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>audacieux<s n="adj"/><s n="f"/></l>   <r>audaz<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>audiovisuel<s n="adj"/><s n="f"/></l> <r>audiovisual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>automatique<s n="adj"/><s n="mf"/></l> <r>automático<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>automobile<s n="adj"/><s n="mf"/></l>  <r>automobilístico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>aveugle<s n="adj"/><s n="mf"/></l>     <r>cego<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>bancaire<s n="adj"/><s n="mf"/></l>    <r>bancário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>barbare<s n="adj"/><s n="mf"/></l>     <r>bárbaro<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>basique<s n="adj"/><s n="mf"/></l>     <r>básico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR" c="new-category"><p><l>basque<s n="adj"/><s n="mf"/></l><r>basco<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>bibliographique<s n="adj"/><s n="mf"/></l><r>bibliográfico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>biblique<s n="adj"/><s n="mf"/></l>    <r>bíblico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>bilatéral<s n="adj"/><s n="f"/></l>   <r>bilateral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>biologique<s n="adj"/><s n="mf"/></l>  <r>biológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>bizarre<s n="adj"/><s n="mf"/></l>     <r>estranho<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL" c="new-category"><p><l>bleu<s n="adj"/><s n="f"/></l><r>azul<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>bon<b/>marché<s n="adj"/><s n="mf"/></l><r>barato<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>boursier<s n="adj"/><s n="f"/></l>    <r>bursátil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>bref<s n="adj"/><s n="f"/></l>        <r>breve<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>britannique<s n="adj"/><s n="mf"/></l> <r>britânico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>brutal<s n="adj"/><s n="f"/></l>      <r>brutal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>bête<s n="adj"/><s n="mf"/></l>        <r>tonto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>capital<s n="adj"/><s n="f"/></l>     <r>capital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>cardiaque<s n="adj"/><s n="mf"/></l>   <r>cardíaco<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>catastrophique<s n="adj"/><s n="mf"/></l><r>catastrófico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR" c="new-category"><p><l>catholique<s n="adj"/><s n="mf"/></l><r>católico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>central<s n="adj"/><s n="f"/></l>     <r>central<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>chimique<s n="adj"/><s n="mf"/></l>    <r>químico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>choral<s n="adj"/><s n="f"/></l>      <r>coral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>cinquième<s n="adj"/><s n="mf"/></l>   <r>quinto<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>cinématographique<s n="adj"/><s n="mf"/></l><r>cinematográfico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>civil<s n="adj"/><s n="f"/></l>       <r>civil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>classique<s n="adj"/><s n="mf"/></l>   <r>clássico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>climatique<s n="adj"/><s n="mf"/></l>  <r>climático<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>commercial<s n="adj"/><s n="f"/></l>  <r>comercial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>communautaire<s n="adj"/><s n="mf"/></l><r>comunitário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>complexe<s n="adj"/><s n="mf"/></l>    <r>complexo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>constitutionnel<s n="adj"/><s n="f"/></l><r>constitucional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>continental<s n="adj"/><s n="f"/></l> <r>continental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>contraire<s n="adj"/><s n="mf"/></l>   <r>contrário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>cordial<s n="adj"/><s n="f"/></l>     <r>cordial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>critique<s n="adj"/><s n="mf"/></l><r>crítico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>crucial<s n="adj"/><s n="f"/></l>     <r>crucial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>cruel<s n="adj"/><s n="f"/></l>       <r>cruel<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>culturel<s n="adj"/><s n="f"/></l>    <r>cultural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>cérébral<s n="adj"/><s n="f"/></l>    <r>cerebral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dense<s n="adj"/><s n="mf"/></l>       <r>denso<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>destinataire<s n="adj"/><s n="mf"/></l><r>destinatário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>deuxième<s n="adj"/><s n="mf"/></l>    <r>segundo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>différent<s n="adj"/><s n="f"/></l>   <r>diferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>digital<s n="adj"/><s n="f"/></l>     <r>digital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>digne<s n="adj"/><s n="mf"/></l>       <r>digno<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>diplomatique<s n="adj"/><s n="mf"/></l><r>diplomático<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>dirigeant<s n="adj"/><s n="f"/></l>   <r>dirigente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distant<s n="adj"/><s n="f"/></l>     <r>distante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distinct<s n="adj"/><s n="f"/></l>    <r>diferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>distinctif<s n="adj"/><s n="f"/></l>  <r>diferencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dixième<s n="adj"/><s n="mf"/></l>     <r>décimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>domestique<s n="adj"/><s n="mf"/></l>  <r>doméstico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>dominant<s n="adj"/><s n="f"/></l>    <r>dominante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>doux<s n="adj"/><s n="f"/></l>        <r>suave<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dramatique<s n="adj"/><s n="mf"/></l>  <r>dramático<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>durable<s n="adj"/><s n="mf"/></l>     <r>duradouro<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>dynamique<s n="adj"/><s n="mf"/></l>   <r>dinâmico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>dégradant<s n="adj"/><s n="f"/></l>   <r>degradante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>démocratique<s n="adj"/><s n="mf"/></l><r>democrático<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>démographique<s n="adj"/><s n="mf"/></l><r>demográfico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>déterminant<s n="adj"/><s n="f"/></l> <r>determinante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ecclésiastique<s n="adj"/><s n="mf"/></l><r>eclesiástico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>enfantin<s n="adj"/><s n="f"/></l>    <r>infantil<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>environnemental<s n="adj"/><s n="f"/></l><r>ambiental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>esthétique<s n="adj"/><s n="mf"/></l>  <r>estético<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>ethnique<s n="adj"/><s n="mf"/></l>    <r>étnico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>excellent<s n="adj"/><s n="f"/></l>   <r>excelente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>exceptionnel<s n="adj"/><s n="f"/></l><r>excepcional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>existant<s n="adj"/><s n="f"/></l>    <r>existente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>extraordinaire<s n="adj"/><s n="mf"/></l><r>extraordinário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>extrême<s n="adj"/><s n="mf"/></l>     <r>extremo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>extérieur<s n="adj"/><s n="f"/></l>   <r>exterior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>facial<s n="adj"/><s n="f"/></l>      <r>facial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>familial<s n="adj"/><s n="f"/></l>    <r>familiar<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>familier<s n="adj"/><s n="f"/></l>    <r>familiar<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fanatique<s n="adj"/><s n="mf"/></l>   <r>fanático<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>fantastique<s n="adj"/><s n="mf"/></l> <r>fantástico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>fatal<s n="adj"/><s n="f"/></l>       <r>fatal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ferroviaire<s n="adj"/><s n="mf"/></l> <r>ferroviário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR" c="new-category"><p><l>filial<s n="adj"/><s n="f"/></l><r>filial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>fiscal<s n="adj"/><s n="f"/></l>      <r>fiscal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>fixe<s n="adj"/><s n="mf"/></l>        <r>fixo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>fondamental<s n="adj"/><s n="f"/></l> <r>fundamental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>foral<s n="adj"/><s n="f"/></l>       <r>foral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>formel<s n="adj"/><s n="f"/></l>      <r>formal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>frontal<s n="adj"/><s n="f"/></l>     <r>frontal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>fédéral<s n="adj"/><s n="f"/></l>     <r>federal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>gauche<s n="adj"/><s n="mf"/></l>      <r>esquerdo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>gigantesque<s n="adj"/><s n="mf"/></l> <r>gigantesco<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>grand<s n="adj"/><s n="f"/></l>       <r>grande<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>graphique<s n="adj"/><s n="mf"/></l><r>gráfico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>grotesque<s n="adj"/><s n="mf"/></l>   <r>grotesco<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>géant<s n="adj"/><s n="f"/></l>       <r>gigante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>génétique<s n="adj"/><s n="mf"/></l>   <r>genético<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>géographique<s n="adj"/><s n="mf"/></l><r>geográfico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>géologique<s n="adj"/><s n="mf"/></l>  <r>geológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>habituel<s n="adj"/><s n="f"/></l>    <r>habitual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>historique<s n="adj"/><s n="mf"/></l>  <r>histórico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>homologue<s n="adj"/><s n="mf"/></l>   <r>homólogo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>honnête<s n="adj"/><s n="mf"/></l>     <r>honesto<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>horaire<s n="adj"/><s n="mf"/></l>     <r>horário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>huitième<s n="adj"/><s n="mf"/></l>    <r>oitavo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>humanitaire<s n="adj"/><s n="mf"/></l> <r>humanitário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>identique<s n="adj"/><s n="mf"/></l>   <r>idêntico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>idiot<s n="adj"/><s n="f"/></l>       <r>idiota<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>idéal<s n="adj"/><s n="f"/></l>       <r>ideal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>idéologique<s n="adj"/><s n="mf"/></l> <r>ideológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>illicite<s n="adj"/><s n="mf"/></l>    <r>ilícito<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>illégal<s n="adj"/><s n="f"/></l>     <r>ilegal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>illégitime<s n="adj"/><s n="mf"/></l>  <r>ilegítimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>immense<s n="adj"/><s n="mf"/></l>     <r>imenso<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>impartial<s n="adj"/><s n="f"/></l>   <r>imparcial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>important<s n="adj"/><s n="f"/></l>   <r>importante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>impuissant<s n="adj"/><s n="f"/></l>  <r>impotente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inaugural<s n="adj"/><s n="f"/></l>   <r>inaugural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inconditionnel<s n="adj"/><s n="f"/></l><r>incondicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inconvenant<s n="adj"/><s n="f"/></l> <r>inconveniente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>indifférent<s n="adj"/><s n="f"/></l> <r>indiferente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>individuel<s n="adj"/><s n="f"/></l>  <r>individual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>industriel<s n="adj"/><s n="f"/></l>  <r>industrial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>infernal<s n="adj"/><s n="f"/></l>    <r>infernal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>informatique<s n="adj"/><s n="mf"/></l><r>informático<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>informel<s n="adj"/><s n="f"/></l>    <r>informal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>inférieur<s n="adj"/><s n="f"/></l>   <r>inferior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>initial<s n="adj"/><s n="f"/></l>     <r>inicial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>injuste<s n="adj"/><s n="mf"/></l>     <r>injusto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>innocent<s n="adj"/><s n="f"/></l>    <r>inocente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>insignifiant<s n="adj"/><s n="f"/></l><r>insignificante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>insolite<s n="adj"/><s n="mf"/></l>    <r>insólito<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>institutionnel<s n="adj"/><s n="f"/></l><r>institucional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>insuffisant<s n="adj"/><s n="f"/></l> <r>insuficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>intellectuel<s n="adj"/><s n="f"/></l><r>intelectual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>intelligent<s n="adj"/><s n="f"/></l> <r>inteligente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>intense<s n="adj"/><s n="mf"/></l>     <r>intenso<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>intermédiaire<s n="adj"/><s n="mf"/></l><r>intermediário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>international<s n="adj"/><s n="f"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>interne<s n="adj"/><s n="mf"/></l>     <r>interno<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>intime<s n="adj"/><s n="mf"/></l>      <r>íntimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>intérimaire<s n="adj"/><s n="mf"/></l> <r>interino<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>inverse<s n="adj"/><s n="mf"/></l>     <r>inverso<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>irrégulier<s n="adj"/><s n="f"/></l>  <r>irregular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>islamique<s n="adj"/><s n="mf"/></l>   <r>islâmico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>islamiste<s n="adj"/><s n="mf"/></l>   <r>islâmico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>ivre<s n="adj"/><s n="mf"/></l>        <r>ébrio<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>jaune<s n="adj"/><s n="mf"/></l>       <r>amarelo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>journalistique<s n="adj"/><s n="mf"/></l><r>jornalístico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>joyeux<s n="adj"/><s n="f"/></l>      <r>feliz<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>juridique<s n="adj"/><s n="mf"/></l>   <r>jurídico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>juste<s n="adj"/><s n="mf"/></l>       <r>justo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>kurde<s n="adj"/><s n="mf"/></l>       <r>curdo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>laïque<s n="adj"/><s n="mf"/></l>      <r>laico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>libéral<s n="adj"/><s n="f"/></l>     <r>liberal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>licite<s n="adj"/><s n="mf"/></l>      <r>lícito<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>liquide<s n="adj"/><s n="mf"/></l>     <r>líquido<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>littéraire<s n="adj"/><s n="mf"/></l>  <r>literário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>littéral<s n="adj"/><s n="f"/></l>    <r>literal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>local<s n="adj"/><s n="f"/></l>       <r>local<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>logique<s n="adj"/><s n="mf"/></l>     <r>lógico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>logistique<s n="adj"/><s n="mf"/></l>  <r>logístico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>ludique<s n="adj"/><s n="mf"/></l>     <r>lúdico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>légal<s n="adj"/><s n="f"/></l>       <r>legal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>légitime<s n="adj"/><s n="mf"/></l>    <r>legítimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>létal<s n="adj"/><s n="f"/></l>       <r>letal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>magique<s n="adj"/><s n="mf"/></l>     <r>mágico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>magnifique<s n="adj"/><s n="mf"/></l>  <r>magnífico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>magnétique<s n="adj"/><s n="mf"/></l>  <r>magnético<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>maigre<s n="adj"/><s n="mf"/></l>      <r>delgado<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>majoritaire<s n="adj"/><s n="mf"/></l> <r>maioritário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>maladroit<s n="adj"/><s n="f"/></l>   <r>torpe<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>manquant<s n="adj"/><s n="f"/></l>    <r>ausente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>manuel<s n="adj"/><s n="f"/></l>      <r>manual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>maritime<s n="adj"/><s n="mf"/></l>    <r>marítimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>mathématique<s n="adj"/><s n="mf"/></l><r>matemático<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>matinal<s n="adj"/><s n="f"/></l>     <r>matinal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>matériel<s n="adj"/><s n="f"/></l>    <r>material<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>mental<s n="adj"/><s n="f"/></l>      <r>mental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>millionnaire<s n="adj"/><s n="mf"/></l><r>milionário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>mince<s n="adj"/><s n="mf"/></l>       <r>delgado<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>minime<s n="adj"/><s n="mf"/></l>      <r>mínimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>ministériel<s n="adj"/><s n="f"/></l> <r>ministerial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>minoritaire<s n="adj"/><s n="mf"/></l> <r>minoritário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>mixte<s n="adj"/><s n="mf"/></l>       <r>misto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>modal<s n="adj"/><s n="f"/></l>       <r>modal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>moderne<s n="adj"/><s n="mf"/></l>     <r>moderno<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>modeste<s n="adj"/><s n="mf"/></l>     <r>modesto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>mondial<s n="adj"/><s n="f"/></l>     <r>mundial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>monétaire<s n="adj"/><s n="mf"/></l>   <r>monetário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>moral<s n="adj"/><s n="f"/></l>       <r>moral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>mortel<s n="adj"/><s n="f"/></l>      <r>mortal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>municipal<s n="adj"/><s n="f"/></l>   <r>municipal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>musical<s n="adj"/><s n="f"/></l>     <r>musical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>mythique<s n="adj"/><s n="mf"/></l>    <r>mítico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>médiatique<s n="adj"/><s n="mf"/></l>  <r>mediático<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>mélancolique<s n="adj"/><s n="mf"/></l><r>melancólico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>métallique<s n="adj"/><s n="mf"/></l>  <r>metálico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>météorologique<s n="adj"/><s n="mf"/></l><r>meteorológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>même<s n="adj"/><s n="mf"/></l>        <r>mesmo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>natal<s n="adj"/><s n="f"/></l>       <r>natal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>national<s n="adj"/><s n="f"/></l>    <r>nacional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>naturel<s n="adj"/><s n="f"/></l>     <r>natural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>naval<s n="adj"/><s n="f"/></l>       <r>naval<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>navigant<s n="adj"/><s n="f"/></l>    <r>navegante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>neuvième<s n="adj"/><s n="mf"/></l>    <r>nono<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>normal<s n="adj"/><s n="f"/></l>      <r>normal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>nègre<s n="adj"/><s n="mf"/></l>       <r>negro<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>nécessaire<s n="adj"/><s n="mf"/></l>  <r>necessário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>obligatoire<s n="adj"/><s n="mf"/></l> <r>obrigatório<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>occulte<s n="adj"/><s n="mf"/></l>     <r>oculto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>officiel<s n="adj"/><s n="f"/></l>    <r>oficial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>olympique<s n="adj"/><s n="mf"/></l>   <r>olímpico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>ombilical<s n="adj"/><s n="f"/></l>   <r>umbilical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ordinaire<s n="adj"/><s n="mf"/></l>   <r>ordinário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>organique<s n="adj"/><s n="mf"/></l>   <r>orgânico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>oriental<s n="adj"/><s n="f"/></l>    <r>oriental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>original<s n="adj"/><s n="f"/></l>    <r>original<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>orthodoxe<s n="adj"/><s n="mf"/></l>   <r>ortodoxo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>ortodoxe<s n="adj"/><s n="mf"/></l>    <r>ortodoxo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>pacifique<s n="adj"/><s n="mf"/></l>   <r>pacífico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>parallèle<s n="adj"/><s n="mf"/></l>   <r>paralelo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>parasite<s n="adj"/><s n="mf"/></l>    <r>parasita<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL" c="new-category"><p><l>parisien<s n="adj"/><s n="f"/></l><r>parisiense<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>particulier<s n="adj"/><s n="f"/></l> <r>particular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>partiel<s n="adj"/><s n="f"/></l>     <r>parcial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>pastoral<s n="adj"/><s n="f"/></l>    <r>pastoral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patent<s n="adj"/><s n="f"/></l>      <r>patente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patient<s n="adj"/><s n="f"/></l>     <r>paciente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>patrimonial<s n="adj"/><s n="f"/></l> <r>patrimonial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>performant<s n="adj"/><s n="f"/></l>  <r>eficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>permanent<s n="adj"/><s n="f"/></l>   <r>permanente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>physique<s n="adj"/><s n="mf"/></l>    <r>físico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR" c="new-category"><p><l>plastique<s n="adj"/><s n="mf"/></l><r>plástico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>pluriel<s n="adj"/><s n="f"/></l>     <r>plural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>policier<s n="adj"/><s n="f"/></l>    <r>policial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>politique<s n="adj"/><s n="mf"/></l>   <r>político<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>portuaire<s n="adj"/><s n="mf"/></l>   <r>portuário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>poétique<s n="adj"/><s n="mf"/></l>    <r>poético<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>pratique<s n="adj"/><s n="mf"/></l>    <r>prático<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>pressant<s n="adj"/><s n="f"/></l>    <r>urgente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>primaire<s n="adj"/><s n="mf"/></l>    <r>primário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>primordial<s n="adj"/><s n="f"/></l>  <r>primordial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>principal<s n="adj"/><s n="f"/></l>   <r>principal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>proche<s n="adj"/><s n="mf"/></l>      <r>próximo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>profitable<s n="adj"/><s n="mf"/></l>  <r>proveitoso<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>promotionnel<s n="adj"/><s n="f"/></l><r>promocional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>propice<s n="adj"/><s n="mf"/></l>     <r>propício<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>propre<s n="adj"/><s n="mf"/></l>      <r>próprio<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>prospère<s n="adj"/><s n="mf"/></l>    <r>próspero<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>provincial<s n="adj"/><s n="f"/></l>  <r>provincial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>prudent<s n="adj"/><s n="f"/></l>     <r>prudente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>préalable<s n="adj"/><s n="mf"/></l>   <r>prévio<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>précédent<s n="adj"/><s n="f"/></l>   <r>precedente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>préoccupant<s n="adj"/><s n="f"/></l> <r>preocupante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>présent<s n="adj"/><s n="f"/></l>     <r>presente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>présidentiel<s n="adj"/><s n="f"/></l><r>presidencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>psychologique<s n="adj"/><s n="mf"/></l><r>psicológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>publicitaire<s n="adj"/><s n="mf"/></l><r>publicitário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>puissant<s n="adj"/><s n="f"/></l>    <r>potente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>pâle<s n="adj"/><s n="mf"/></l>        <r>pálido<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>pénal<s n="adj"/><s n="f"/></l>       <r>penal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>pénitentiaire<s n="adj"/><s n="mf"/></l><r>penitenciário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>périodique<s n="adj"/><s n="mf"/></l>  <r>periódico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>quatrième<s n="adj"/><s n="mf"/></l>   <r>quarto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>racial<s n="adj"/><s n="f"/></l>      <r>racial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>radical<s n="adj"/><s n="f"/></l>     <r>radical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>rapide<s n="adj"/><s n="mf"/></l>      <r>rápido<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>rare<s n="adj"/><s n="mf"/></l>        <r>escasso<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>respiratoire<s n="adj"/><s n="mf"/></l><r>respiratório<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>restant<s n="adj"/><s n="f"/></l>     <r>restante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>riche<s n="adj"/><s n="mf"/></l>       <r>rico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>ridicule<s n="adj"/><s n="mf"/></l>    <r>ridículo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>rigide<s n="adj"/><s n="mf"/></l>      <r>rígido<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>romantique<s n="adj"/><s n="mf"/></l>  <r>romântico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>rouge<s n="adj"/><s n="mf"/></l>       <r>vermelho<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>royal<s n="adj"/><s n="f"/></l>       <r>real<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>rural<s n="adj"/><s n="f"/></l>       <r>rural<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" c="new-category"><p><l>russe<s n="adj"/><s n="mf"/></l><r>russo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>rustique<s n="adj"/><s n="mf"/></l>    <r>rústico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>réciproque<s n="adj"/><s n="mf"/></l>  <r>recíproco<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>réel<s n="adj"/><s n="f"/></l>        <r>real<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>régional<s n="adj"/><s n="f"/></l>    <r>regional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>régulier<s n="adj"/><s n="f"/></l>    <r>regular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résidentiel<s n="adj"/><s n="f"/></l> <r>residencial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résistant<s n="adj"/><s n="f"/></l>   <r>resistente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>résultant<s n="adj"/><s n="f"/></l>   <r>resultante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>révolutionnaire<s n="adj"/><s n="mf"/></l><r>revolucionário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>salarial<s n="adj"/><s n="f"/></l>    <r>salarial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sale<s n="adj"/><s n="mf"/></l>        <r>sujo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>sanitaire<s n="adj"/><s n="mf"/></l>   <r>sanitário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>scientifique<s n="adj"/><s n="mf"/></l><r>científico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>secondaire<s n="adj"/><s n="mf"/></l>  <r>secundário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>sectoriel<s n="adj"/><s n="f"/></l>   <r>sectorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>semestriel<s n="adj"/><s n="f"/></l>  <r>semestral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>sentimental<s n="adj"/><s n="f"/></l> <r>sentimental<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>septième<s n="adj"/><s n="mf"/></l>    <r>sétimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>serbe<s n="adj"/><s n="mf"/></l>       <r>sérvio<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>sexuel<s n="adj"/><s n="f"/></l>      <r>sexual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>simple<s n="adj"/><s n="mf"/></l>      <r>mero<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>singulier<s n="adj"/><s n="f"/></l>   <r>singular<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sixième<s n="adj"/><s n="mf"/></l>     <r>sexto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>social<s n="adj"/><s n="f"/></l>      <r>social<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>solide<s n="adj"/><s n="mf"/></l>      <r>sólido<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>solitaire<s n="adj"/><s n="mf"/></l>   <r>solitário<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>sombre<s n="adj"/><s n="mf"/></l>      <r>sombrio<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>sonore<s n="adj"/><s n="mf"/></l>      <r>sonoro<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>soutenu<s n="adj"/><s n="f"/></l>     <r>constante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>soviétique<s n="adj"/><s n="mf"/></l>  <r>soviético<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>spatial<s n="adj"/><s n="f"/></l>     <r>espacial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>spirituel<s n="adj"/><s n="f"/></l>   <r>espiritual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>spécial<s n="adj"/><s n="f"/></l>     <r>especial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>spécifique<s n="adj"/><s n="mf"/></l>  <r>específico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>statistique<s n="adj"/><s n="mf"/></l> <r>estatístico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>statutaire<s n="adj"/><s n="mf"/></l>  <r>estatutário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>stimulant<s n="adj"/><s n="f"/></l>   <r>estimulante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>stratégique<s n="adj"/><s n="mf"/></l> <r>estratégico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>stupide<s n="adj"/><s n="mf"/></l>     <r>estúpido<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>suffisant<s n="adj"/><s n="f"/></l>   <r>suficiente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>suisse<s n="adj"/><s n="mf"/></l>      <r>suíço<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>superficiel<s n="adj"/><s n="f"/></l> <r>superficial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>suprême<s n="adj"/><s n="mf"/></l>     <r>supremo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>supérieur<s n="adj"/><s n="f"/></l>   <r>superior<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>symbolique<s n="adj"/><s n="mf"/></l>  <r>simbólico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>syndical<s n="adj"/><s n="f"/></l>    <r>sindical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>sévère<s n="adj"/><s n="mf"/></l>      <r>severo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>tchèque<s n="adj"/><s n="mf"/></l>     <r>checo<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>technique<s n="adj"/><s n="mf"/></l>   <r>técnico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>technologique<s n="adj"/><s n="mf"/></l><r>tecnológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>tendre<s n="adj"/><s n="mf"/></l>      <r>terno<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>territorial<s n="adj"/><s n="f"/></l> <r>territorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>thermique<s n="adj"/><s n="mf"/></l>   <r>térmico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>thérapeutique<s n="adj"/><s n="mf"/></l><r>terapêutico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>théâtral<s n="adj"/><s n="f"/></l>    <r>teatral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>timide<s n="adj"/><s n="mf"/></l>      <r>tímido<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>total<s n="adj"/><s n="f"/></l>       <r>total<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>touristique<s n="adj"/><s n="mf"/></l> <r>turístico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>toxique<s n="adj"/><s n="mf"/></l>     <r>tóxico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>traditionnel<s n="adj"/><s n="f"/></l><r>tradicional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>tragique<s n="adj"/><s n="mf"/></l>    <r>trágico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>transparent<s n="adj"/><s n="f"/></l> <r>transparente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>trimestriel<s n="adj"/><s n="f"/></l> <r>trimestral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>trivial<s n="adj"/><s n="f"/></l>     <r>trivial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>troisième<s n="adj"/><s n="mf"/></l>   <r>terceiro<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>tropical<s n="adj"/><s n="f"/></l>    <r>tropical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>ultime<s n="adj"/><s n="mf"/></l>      <r>último<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>unilatéral<s n="adj"/><s n="f"/></l>  <r>unilateral<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>unique<s n="adj"/><s n="mf"/></l>      <r>único<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>universel<s n="adj"/><s n="f"/></l>   <r>universal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>universitaire<s n="adj"/><s n="mf"/></l><r>universitário<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>urgent<s n="adj"/><s n="f"/></l>      <r>urgente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>valable<s n="adj"/><s n="mf"/></l>     <r>válido<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vaste<s n="adj"/><s n="mf"/></l>       <r>vasto<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>verbal<s n="adj"/><s n="f"/></l>      <r>verbal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vert<s n="adj"/><s n="f"/></l>        <r>verde<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vertical<s n="adj"/><s n="f"/></l>    <r>vertical<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>vide<s n="adj"/><s n="mf"/></l>        <r>vazio<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vingtième<s n="adj"/><s n="mf"/></l>   <r>vigésimo<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>virtuel<s n="adj"/><s n="f"/></l>     <r>virtual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>virtuose<s n="adj"/><s n="mf"/></l>    <r>virtuoso<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>visuel<s n="adj"/><s n="f"/></l>      <r>visual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vital<s n="adj"/><s n="f"/></l>       <r>vital<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>vocal<s n="adj"/><s n="f"/></l>       <r>vocal<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>volcanique<s n="adj"/><s n="mf"/></l>  <r>vulcânico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>véritable<s n="adj"/><s n="mf"/></l>   <r>autêntico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>véritable<s n="adj"/><s n="mf"/></l>   <r>verdadeiro<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>âpre<s n="adj"/><s n="mf"/></l>        <r>áspero<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>éblouissant<s n="adj"/><s n="f"/></l> <r>deslumbrante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>écologique<s n="adj"/><s n="mf"/></l>  <r>ecológico<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>éditorial<s n="adj"/><s n="f"/></l>   <r>editorial<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>égal<s n="adj"/><s n="f"/></l>        <r>igual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>élégant<s n="adj"/><s n="f"/></l>     <r>elegante<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>émergent<s n="adj"/><s n="f"/></l>    <r>emergente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>émotionnel<s n="adj"/><s n="f"/></l>  <r>emocional<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>énergique<s n="adj"/><s n="mf"/></l>   <r>enérgico<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>énergétique<s n="adj"/><s n="mf"/></l> <r>energético<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>énigmatique<s n="adj"/><s n="mf"/></l> <r>enigmático<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>équivalent<s n="adj"/><s n="f"/></l>  <r>equivalente<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>éthique<s n="adj"/><s n="mf"/></l>     <r>ético<s n="adj"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>étrange<s n="adj"/><s n="mf"/></l>     <r>estranho<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>éventuel<s n="adj"/><s n="f"/></l>    <r>eventual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>évident<s n="adj"/><s n="f"/></l>     <r>evidente<s n="adj"/><s n="mf"/></r></p></e>
     <!-- ******************************
           group cnjadv_symbol
       ****************************** -->
