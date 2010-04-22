@@ -3029,6 +3029,8 @@
 <e>       <p><l>Érythrée<s n="np"/></l>                <r>Eritréia<s n="np"/></r></p></e>
 <e>       <p><l>Éthiopie<s n="np"/></l>                <r>Etiópia<s n="np"/></r></p></e>
 
+<e r="LR"><p><l>essuie-mains<s n="n"/><s n="m"/><s n="sp"/></l><r>toalha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>essuie-mains<s n="n"/><s n="m"/><s n="sp"/></l><r>toalha<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>ADN<s n="n"/></l>                      <r>DNA<s n="n"/></r></p></e>
 <e>       <p><l>AFP<s n="n"/></l>                      <r>AFP<s n="n"/></r></p></e>
 <e>       <p><l>BDD<s n="n"/></l>                      <r>BBDD<s n="n"/></r></p></e>
