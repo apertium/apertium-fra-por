@@ -115011,6 +115011,16 @@
         <par n="Leste__n"/>
       </e>
       
+      <e lm="grémio" v="pt">
+        <i>grémio</i>
+        <par n="Leste__n"/>
+      </e>
+      
+      <e lm="grêmio" v="br">
+        <i>grêmio</i>
+        <par n="Leste__n"/>
+      </e>
+      
       <e lm="abeto" v="pt">
         <i>abeto</i>
         <par n="Leste__n"/>
@@ -120036,6 +120046,11 @@
       
       <e lm="falha">
         <i>falha</i>
+        <par n="abadia__n"/>
+      </e>
+      
+      <e lm="toalha">
+        <i>toalha</i>
         <par n="abadia__n"/>
       </e>
       
@@ -132106,12 +132121,10 @@
         <par n="quem__rel"/>
       </e>
       
-<!--
       <e lm="quanto">
         <i>quant</i>
         <par n="quant/o__rel"/>
       </e>
--->
       
 <!-- entrades "vbhaber" -->
       <e lm="ter">
@@ -132381,6 +132394,16 @@
       
       <e lm="afectar" v="pt">
         <i>afect</i>
+        <par n="abal/ar__vblex"/>
+      </e>
+      
+      <e lm="injetar" v="br">
+        <i>injet</i>
+        <par n="abal/ar__vblex"/>
+      </e>
+      
+      <e lm="injectar" v="pt">
+        <i>inject</i>
         <par n="abal/ar__vblex"/>
       </e>
       
@@ -132919,6 +132942,16 @@
       
       <e lm="baptizar" v="pt">
         <i>baptiz</i>
+        <par n="abal/ar__vblex"/>
+      </e>
+      
+      <e lm="rebatizar" v="br">
+        <i>rebatiz</i>
+        <par n="abal/ar__vblex"/>
+      </e>
+      
+      <e lm="rebaptizar" v="pt">
+        <i>rebaptiz</i>
         <par n="abal/ar__vblex"/>
       </e>
       
@@ -138207,12 +138240,6 @@
         <par n="nos__prn"/>
       </e>
       
-<!--
-
-<e lm="bravo">
-	<i>bravo</i>
-	<par n="adeus__ij"/>
-</e>
       <e lm="eh">
         <i>eh</i>
         <par n="adeus__ij"/>
@@ -138267,7 +138294,6 @@
         <i>por<b/>favor</i>
         <par n="adeus__ij"/>
       </e>
-
       <e lm="faz favor">
         <i>faz<b/>favor</i>
         <par n="adeus__ij"/>
@@ -138327,7 +138353,6 @@
         <i>oh</i>
         <par n="adeus__ij"/>
       </e>
--->
       
       <e lm="engenharia">
         <i>engenharia</i>
@@ -143694,6 +143719,10 @@
 <e lm="bravo">
 	<i>brav</i>
 	<par n="abert/o__adj"/>
+</e>
+<e lm="bravo">
+	<i>bravo</i>
+	<par n="adeus__ij"/>
 </e>
 <e lm="brejo" r="LR">
 	<i>brejo</i>
