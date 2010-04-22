@@ -1147,7 +1147,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="enamorar"/>
+                      <lit v="apaixonar"/>
                     </equal>
                   </test>
                   <let>
@@ -1159,7 +1159,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="aficionar"/>
+                      <lit v="aficionar"/> <!-- FIXME -->
                     </equal>
                   </test>
                   <let>
@@ -1171,7 +1171,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="incautar"/>
+                      <lit v="apreender"/>
                     </equal>
                   </test>
                   <let>
@@ -1195,7 +1195,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="posicionar"/>
+                      <lit v="posicionar"/> <!-- FIXME -->
                     </equal>
                   </test>
                   <let>
@@ -1207,7 +1207,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="estrenar"/>
+                      <lit v="estrear"/>
                     </equal>
                   </test>
                   <let>
@@ -1219,7 +1219,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="concienciar"/>
+                      <lit v="concienciar"/> <!-- FIXME -->
                     </equal>
                   </test>
                   <let>
@@ -1231,7 +1231,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="codear# con"/>
+                      <lit v="codear# con"/> <!-- FIXME -->
                     </equal>
                   </test>
                   <let>
@@ -1251,7 +1251,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="acordar"/>
+                      <lit v="lembrar"/>
                     </equal>
                   </test>
                   <let>
@@ -1263,7 +1263,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="ilusionar"/>
+                      <lit v="ilusionar"/> <!-- FIXME -->
                     </equal>
                   </test>
                   <let>
@@ -1275,7 +1275,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="agazapar"/>
+                      <lit v="agazapar"/> <!-- FIXME -->
                     </equal>
                   </test>
                   <let>
@@ -1287,7 +1287,7 @@
                   <test>
                     <equal caseless="yes">
                       <clip pos="3" side="sl" part="lem"/>
-                      <lit v="apelotonar"/>
+                      <lit v="apelotonar"/> <!-- FIXME -->
                     </equal>
                   </test>
                   <let>
@@ -1444,6 +1444,22 @@
           <let>
             <clip pos="1" side="tl" part="temps"/>
             <lit-tag v="pii"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+    <def-macro n="infps" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="temps"/>
+              <lit-tag v="infps"/>
+            </equal>
+          </test>
+          <let>
+            <clip pos="1" side="tl" part="temps"/>
+            <lit-tag v="prs"/>
           </let>
         </when>
       </choose>
@@ -7268,6 +7284,9 @@
         <call-macro n="fts">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="f_imp">
           <with-param pos="2"/>
         </call-macro>
@@ -7591,6 +7610,9 @@
       </pattern>
       <action>
         <call-macro n="fts">
+          <with-param pos="2"/>
+        </call-macro>
+        <call-macro n="infps">
           <with-param pos="2"/>
         </call-macro>
         <call-macro n="f_imp">
