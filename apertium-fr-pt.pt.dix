@@ -132785,6 +132785,11 @@
         <par n="admit/ir__vblex"/>
       </e>
       
+      <e lm="subsistir">
+        <i>subsist</i>
+        <par n="admit/ir__vblex"/>
+      </e>
+      
       <e lm="associar">
         <i>associ</i>
         <par n="abal/ar__vblex"/>
@@ -133768,6 +133773,11 @@
         <par n="admit/ir__vblex"/>
       </e>
       
+      <e lm="redefinir">
+        <i>redefin</i>
+        <par n="admit/ir__vblex"/>
+      </e>
+      
       <e lm="degolar">
         <i>degol</i>
         <par n="abal/ar__vblex"/>
@@ -134662,6 +134672,11 @@
         <par n="admit/ir__vblex"/>
       </e>
       
+      <e lm="sucumbir">
+        <i>sucumb</i>
+        <par n="admit/ir__vblex"/>
+      </e>
+      
       <e lm="exigir">
         <i>exi</i>
         <par n="atin/gir__vblex"/>
@@ -134734,6 +134749,11 @@
       
       <e lm="ferir">
         <i>f</i>
+        <par n="ad/erir__vblex"/>
+      </e>
+      
+      <e lm="conferir">
+        <i>conf</i>
         <par n="ad/erir__vblex"/>
       </e>
       
@@ -135812,6 +135832,11 @@
         <par n="admit/ir__vblex"/>
       </e>
       
+      <e lm="retransmitir">
+        <i>retransmit</i>
+        <par n="admit/ir__vblex"/>
+      </e>
+      
       <e lm="perseguir">
         <i>pers</i>
         <par n="cons/eguir__vblex"/>
@@ -136074,6 +136099,19 @@
         <p>
           <l>proíb</l>
           <r>proib</r>
+        </p>
+        <par n="proíb/ir__vblex"/>
+      </e>
+      
+      <e lm="desinibir">
+        <i>desinib</i>
+        <par n="proib/ir__vblex"/>
+      </e>
+      
+      <e lm="desinibir">
+        <p>
+          <l>desiníb</l>
+          <r>desinib</r>
         </p>
         <par n="proíb/ir__vblex"/>
       </e>
@@ -136511,6 +136549,11 @@
         <par n="admit/ir__vblex"/>
       </e>
       
+      <e lm="comprimir">
+        <i>comprim</i>
+        <par n="admit/ir__vblex"/>
+      </e>
+      
       <e lm="reproduzir">
         <i>reprodu</i>
         <par n="condu/zir__vblex"/>
@@ -136870,6 +136913,11 @@
       
       <e lm="sobreviver">
         <i>sobreviv</i>
+        <par n="abat/er__vblex"/>
+      </e>
+      
+      <e lm="reviver">
+        <i>reviv</i>
         <par n="abat/er__vblex"/>
       </e>
       
@@ -143380,6 +143428,22 @@
 	<i>apete</i>
 	<par n="abaste/cer__vblex"/>
 </e>
+<e lm="reaparecer">
+	<i>reapare</i>
+	<par n="abaste/cer__vblex"/>
+</e>
+      <e lm="produzir">
+        <i>produ</i>
+        <par n="condu/zir__vblex"/>
+      </e>
+      
+      <e lm="produzir">
+        <p>
+          <l>prodú</l>
+          <r>produ</r>
+        </p>
+        <par n="condú/zir__vblex"/>
+      </e>
 <e lm="apito">
 	<i>apito</i>
 	<par n="Leste__n"/>
@@ -146416,6 +146480,10 @@
 </e>
 <e lm="proscrever">
 	<i>proscr</i>
+	<par n="descr/ever__vblex"/>
+</e>
+<e lm="inscrever">
+	<i>inscr</i>
 	<par n="descr/ever__vblex"/>
 </e>
 <e lm="prosperar">
@@ -149867,6 +149935,100 @@
     <e lm="secessionista"><i>secessionista</i><par n="accionista__n"/></e>
     <e lm="transportador"><i>transportador</i><par n="conservador__adj"/></e>
     <e lm="transportador"><i>transportador</i><par n="admirador__n"/></e>
+    <e lm="alinhar"><i>alinh</i><par n="abal/ar__vblex"/></e>
+    <e lm="emendar"><i>emend</i><par n="abal/ar__vblex"/></e>
+    <e lm="aniquilar"><i>aniquil</i><par n="abal/ar__vblex"/></e>
+    <e lm="banhar"><i>banh</i><par n="abal/ar__vblex"/></e>
+    <e lm="civilizar"><i>civiliz</i><par n="abal/ar__vblex"/></e>
+    <e lm="cultivar"><i>cultiv</i><par n="abal/ar__vblex"/></e>
+    <e lm="destilar"><i>destil</i><par n="abal/ar__vblex"/></e>
+    <e lm="decorar"><i>decor</i><par n="abal/ar__vblex"/></e>
+    <e lm="desmontar"><i>desmont</i><par n="abal/ar__vblex"/></e>
+    <e lm="denotar"><i>denot</i><par n="abal/ar__vblex"/></e>
+    <e lm="subestimar"><i>subestim</i><par n="abal/ar__vblex"/></e>
+    <e lm="exaltar"><i>exalt</i><par n="abal/ar__vblex"/></e>
+    <e lm="excitar"><i>excit</i><par n="abal/ar__vblex"/></e>
+    <e lm="fascinar"><i>fascin</i><par n="abal/ar__vblex"/></e>
+    <e lm="abundar"><i>abund</i><par n="abal/ar__vblex"/></e>
+    <e lm="impregnar"><i>impregn</i><par n="abal/ar__vblex"/></e>
+    <e lm="invalidar"><i>invalid</i><par n="abal/ar__vblex"/></e>
+    <e lm="liquidar"><i>liquid</i><par n="abal/ar__vblex"/></e>
+    <e lm="militar"><i>milit</i><par n="abal/ar__vblex"/></e>
+    <e lm="orquestrar"><i>orquestr</i><par n="abal/ar__vblex"/></e>
+    <e lm="professar"><i>profess</i><par n="abal/ar__vblex"/></e>
+    <e lm="repatriar"><i>repatri</i><par n="abal/ar__vblex"/></e>
+    <e lm="realçar"><i>realç</i><par n="abal/ar__vblex"/></e>
+    <e lm="radicalizar"><i>radicaliz</i><par n="abal/ar__vblex"/></e>
+    <e lm="reorganizar"><i>reorganiz</i><par n="abal/ar__vblex"/></e>
+    <e lm="desorganizar"><i>desorganiz</i><par n="abal/ar__vblex"/></e>
+    <e lm="imigrar"><i>imigr</i><par n="abal/ar__vblex"/></e>
+    <e lm="ironizar"><i>ironiz</i><par n="abal/ar__vblex"/></e>
+    <e lm="decifrar"><i>decifr</i><par n="abal/ar__vblex"/></e>
+    <e lm="reapropriar"><i>reapropri</i><par n="abal/ar__vblex"/></e>
+    <e lm="remunerar"><i>remuner</i><par n="abal/ar__vblex"/></e>
+    <e lm="conciliar"><i>concili</i><par n="abal/ar__vblex"/></e>
+    <e lm="sintetizar"><i>sintetiz</i><par n="abal/ar__vblex"/></e>
+    <e lm="reembolsar"><i>reembols</i><par n="abal/ar__vblex"/></e>
+    <e lm="cristalizar"><i>cristaliz</i><par n="abal/ar__vblex"/></e>
+    <e lm="ganhar"><i>ganh</i><par n="abal/ar__vblex"/></e>
+    <e lm="passar"><i>pass</i><par n="abal/ar__vblex"/></e>
+    <e lm="trabalhar"><i>trabalh</i><par n="abal/ar__vblex"/></e>
+    <e lm="voar"><i>vo</i><par n="abal/ar__vblex"/></e>
+    <e lm="imputar"><i>imput</i><par n="abal/ar__vblex"/></e>
+    <e lm="anestesiar"><i>anestesi</i><par n="abal/ar__vblex"/></e>
+    <e lm="extrapolar"><i>extrapol</i><par n="abal/ar__vblex"/></e>
+    <e lm="salivar"><i>saliv</i><par n="abal/ar__vblex"/></e>
+    <e lm="incriminar"><i>incrimin</i><par n="abal/ar__vblex"/></e>
+    <e lm="aprisionar"><i>aprision</i><par n="abal/ar__vblex"/></e>
+    <e lm="recalcular"><i>recalcul</i><par n="abal/ar__vblex"/></e>
+    <e lm="automatizar"><i>automatiz</i><par n="abal/ar__vblex"/></e>
+    <e lm="estruturar"><i>estrutur</i><par n="abal/ar__vblex"/></e>
+    <e lm="sensibilizar"><i>sensibiliz</i><par n="abal/ar__vblex"/></e>
+    <e lm="inicializar"><i>inicializ</i><par n="abal/ar__vblex"/></e>
+    <e lm="reincorporar"><i>reincorpor</i><par n="abal/ar__vblex"/></e>
+    <e lm="carbonizar"><i>carboniz</i><par n="abal/ar__vblex"/></e>
+    <e lm="reintegrar"><i>reintegr</i><par n="abal/ar__vblex"/></e>
+    <e lm="calcinar"><i>calcin</i><par n="abal/ar__vblex"/></e>
+    <e lm="filosofar"><i>filosof</i><par n="abal/ar__vblex"/></e>
+    <e lm="desacreditar"><i>desacredit</i><par n="abal/ar__vblex"/></e>
+    <e lm="incinerar"><i>inciner</i><par n="abal/ar__vblex"/></e>
+    <e lm="incinerar"><i>inciner</i><par n="abal/ar__vblex"/></e>
+    <e lm="recapturar"><i>recaptur</i><par n="abal/ar__vblex"/></e>
+    <e lm="desmoralizar"><i>desmoraliz</i><par n="abal/ar__vblex"/></e>
+    <e lm="harmonizar"><i>harmoniz</i><par n="abal/ar__vblex"/></e>
+    <e lm="fraternizar"><i>fraterniz</i><par n="abal/ar__vblex"/></e>
+    <e lm="reciclar"><i>recicl</i><par n="abal/ar__vblex"/></e>
+    <e lm="subcontratar"><i>subcontrat</i><par n="abal/ar__vblex"/></e>
+    <e lm="desaprovar"><i>desaprov</i><par n="abal/ar__vblex"/></e>
+    <e lm="criminalizar"><i>criminaliz</i><par n="abal/ar__vblex"/></e>
+    <e lm="racionalizar"><i>racionaliz</i><par n="abal/ar__vblex"/></e>
+    <e lm="reformular"><i>reformul</i><par n="abal/ar__vblex"/></e>
+    <e lm="coreografar"><i>coreograf</i><par n="abal/ar__vblex"/></e>
+    <e lm="embelezar"><i>embelez</i><par n="abal/ar__vblex"/></e>
+    <e lm="frustrar"><i>frustr</i><par n="abal/ar__vblex"/></e>
+    <e lm="reestruturar"><i>reestrutur</i><par n="abal/ar__vblex"/></e>
+    <e lm="individualizar"><i>individualiz</i><par n="abal/ar__vblex"/></e>
+    <e lm="configurar"><i>configur</i><par n="abal/ar__vblex"/></e>
+    <e lm="aclimatar"><i>aclimat</i><par n="abal/ar__vblex"/></e>
+    <e lm="aglutinar"><i>aglutin</i><par n="abal/ar__vblex"/></e>
+    <e lm="agonizar"><i>agoniz</i><par n="abal/ar__vblex"/></e>
+    <e lm="alucinar"><i>alucin</i><par n="abal/ar__vblex"/></e>
+    <e lm="amassar"><i>amass</i><par n="abal/ar__vblex"/></e>
+    <e lm="alternar"><i>altern</i><par n="abal/ar__vblex"/></e>
+    <e lm="domesticar"><i>domesti</i><par n="abdi/car__vblex"/></e>
+    <e lm="gratificar"><i>gratifi</i><par n="abdi/car__vblex"/></e>
+    <e lm="certificar"><i>certifi</i><par n="abdi/car__vblex"/></e>
+    <e lm="amplificar"><i>amplifi</i><par n="abdi/car__vblex"/></e>
+    <e lm="diagnosticar"><i>diagnosti</i><par n="abdi/car__vblex"/></e>
+    <e lm="notificar"><i>notifi</i><par n="abdi/car__vblex"/></e>
+    <e lm="diversificar"><i>diversifi</i><par n="abdi/car__vblex"/></e>
+    <e lm="simplificar"><i>simplifi</i><par n="abdi/car__vblex"/></e>
+    <e lm="hipotecar"><i>hipote</i><par n="abdi/car__vblex"/></e>
+    <e lm="sufocar"><i>sufo</i><par n="abdi/car__vblex"/></e>
+    <e lm="intoxicar"><i>intoxi</i><par n="abdi/car__vblex"/></e>
+    <e lm="quantificar"><i>quantifi</i><par n="abdi/car__vblex"/></e>
+    <e lm="mastigar"><i>mastig</i><par n="abrig/ar__vblex"/></e>
+    <e lm="redistribuir"><i>redistribu</i><par n="atribu/ir__vblex"/></e>
   </section>
 
   <section id="final" type="inconditional">
