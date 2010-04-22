@@ -212,6 +212,26 @@
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
+<!-- check for pt/br-ness -->
+    <e><p><l>envoyer<s n="vblex"/></l><r>enviar<s n="vblex"/></r></p></e>
+    <e><p><l>déposer<s n="vblex"/></l><r>depositar<s n="vblex"/></r></p></e>
+    <e><p><l>formuler<s n="vblex"/></l><r>formular<s n="vblex"/></r></p></e>
+    <e><p><l>formaliser<s n="vblex"/></l><r>formalizar<s n="vblex"/></r></p></e>
+    <e><p><l>définir<s n="vblex"/></l><r>definir<s n="vblex"/></r></p></e>
+    <e><p><l>retirer<s n="vblex"/></l><r>retirar<s n="vblex"/></r></p></e>
+    <e><p><l>payer<s n="vblex"/></l><r>pagar<s n="vblex"/></r></p></e>
+    <e><p><l>estimer<s n="vblex"/></l><r>estimar<s n="vblex"/></r></p></e>
+    <e><p><l>vouloir<s n="vblex"/></l><r>querer<s n="vblex"/></r></p></e>
+    <e><p><l>aller<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
+    <e><p><l>voir<s n="vblex"/></l><r>ver<s n="vblex"/></r></p></e>
+    <e><p><l>tuer<s n="vblex"/></l><r>matar<s n="vblex"/></r></p></e>
+    <e><p><l>savoir<s n="vblex"/></l><r>saber<s n="vblex"/></r></p></e>
+    <e><p><l>consister<s n="vblex"/></l><r>consistir<s n="vblex"/></r></p></e>
+    <e><p><l>manger<s n="vblex"/></l><r>comer<s n="vblex"/></r></p></e>
+    <e><p><l>marcher<s n="vblex"/></l><r>andar<s n="vblex"/></r></p></e>
+    <e><p><l>sauter<s n="vblex"/></l><r>saltar<s n="vblex"/></r></p></e>
+    <e><p><l>sauver<s n="vblex"/></l><r>salvar<s n="vblex"/></r></p></e>
+
 <e>       <p><l>abaisser<s n="vblex"/></l>             <r>baixar<s n="vblex"/></r></p></e>
 <e>       <p><l>abandonner<s n="vblex"/></l>           <r>abandonar<s n="vblex"/></r></p></e>
 <e>       <p><l>abattre<s n="vblex"/></l>              <r>abater<s n="vblex"/></r></p></e>

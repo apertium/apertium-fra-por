@@ -85,22 +85,22 @@
     </def-cat>
     <def-cat n="ir">
       <cat-item lemma="ir" tags="vblex.*"/>
-      <cat-item lemma="venir" tags="vblex.*"/>
+      <cat-item lemma="vir" tags="vblex.*"/>
     </def-cat>
     <def-cat n="irpp">
       <cat-item lemma="ir" tags="vblex.pp.*"/>
-      <cat-item lemma="venir" tags="vblex.pp.*"/>
+      <cat-item lemma="vir" tags="vblex.pp.*"/>
     </def-cat>
     <def-cat n="volver">
-      <cat-item lemma="volver" tags="vblex.*"/>
+      <cat-item lemma="voltar" tags="vblex.*"/>
     </def-cat>
     <def-cat n="prnperssubj">
       <!-- pronoms personals-->
-      <cat-item lemma="yo" tags="prn.*"/>
-      <cat-item lemma="tú" tags="prn.*"/>
-      <cat-item lemma="él" tags="prn.*"/>
-      <cat-item lemma="nosotros" tags="prn.*"/>
-      <cat-item lemma="vosotros" tags="prn.*"/>
+      <cat-item lemma="eu" tags="prn.*"/>
+      <cat-item lemma="tu" tags="prn.*"/>
+      <cat-item lemma="ele" tags="prn.*"/>
+      <cat-item lemma="nós" tags="prn.*"/>
+      <cat-item lemma="vocês" tags="prn.*"/>
     </def-cat>
     <def-cat n="prnsubj">
       <!-- prn no personals que poden ser subjecte-->
@@ -442,6 +442,8 @@
       <attr-item tags="pis"/>
       <attr-item tags="pri"/>
       <attr-item tags="prs"/>
+      <attr-item tags="infps"/>
+      <attr-item tags="pmp"/>
       <attr-item tags="pp"/>
       <!-- ? -->
       <attr-item tags="ger"/>
@@ -8935,10 +8937,9 @@
         </let>
       </action>
     </rule>
-    <rule comment="REGLA: ir a inf -&gt; aller inf">
+    <rule comment="REGLA: ir inf -&gt; aller inf">
       <pattern>
         <pattern-item n="ir"/>
-        <pattern-item n="a"/>
         <pattern-item n="inf"/>
       </pattern>
       <action>
@@ -8976,35 +8977,30 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_verb"/>
-              <clip pos="3" side="tl" part="temps"/>
-              <clip pos="3" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
-        <call-macro n="f_bcond">
-          <with-param pos="2"/>
-          <with-param pos="3"/>
-        </call-macro>
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
         </let>
       </action>
     </rule>
-    <rule comment="REGLA: ir a inf enc -&gt; aller pro inf">
+    <rule comment="REGLA: ir inf enc -&gt; aller pro inf">
       <pattern>
         <pattern-item n="ir"/>
-        <pattern-item n="a"/>
         <pattern-item n="inf"/>
         <pattern-item n="prnenc"/>
       </pattern>
       <action>
         <call-macro n="control_ref_aux">
-          <with-param pos="4"/>
-          <with-param pos="1"/>
           <with-param pos="3"/>
+          <with-param pos="1"/>
+          <with-param pos="2"/>
         </call-macro>
         <call-macro n="firstWord">
           <with-param pos="1"/>
@@ -9048,10 +9044,10 @@
                 </lu>
                 <b pos="1"/>
                 <lu>
-                  <clip pos="3" side="tl" part="lemh"/>
-                  <clip pos="3" side="tl" part="a_verb"/>
-                  <clip pos="3" side="tl" part="temps"/>
-                  <clip pos="3" side="tl" part="lemq"/>
+                  <clip pos="2" side="tl" part="lemh"/>
+                  <clip pos="2" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps"/>
+                  <clip pos="2" side="tl" part="lemq"/>
                 </lu>
               </chunk>
             </out>
@@ -9085,25 +9081,21 @@
                 </lu>
                 <b pos="1"/>
                 <lu>
-                  <clip pos="4" side="tl" part="lem"/>
+                  <clip pos="3" side="tl" part="lem"/>
                   <lit-tag v="prn.pro"/>
-                  <clip pos="4" side="tl" part="tipoenc_pro"/>
+                  <clip pos="3" side="tl" part="tipoenc_pro"/>
                 </lu>
                 <b pos="2"/>
                 <lu>
-                  <clip pos="3" side="tl" part="lemh"/>
-                  <clip pos="3" side="tl" part="a_verb"/>
-                  <clip pos="3" side="tl" part="temps"/>
-                  <clip pos="3" side="tl" part="lemq"/>
+                  <clip pos="4" side="tl" part="lemh"/>
+                  <clip pos="4" side="tl" part="a_verb"/>
+                  <clip pos="4" side="tl" part="temps"/>
+                  <clip pos="4" side="tl" part="lemq"/>
                 </lu>
               </chunk>
             </out>
           </otherwise>
         </choose>
-        <call-macro n="f_bcond">
-          <with-param pos="3"/>
-          <with-param pos="4"/>
-        </call-macro>
         <let>
           <var n="treu_ref"/>
           <lit v=""/>
@@ -9117,7 +9109,6 @@
     <rule comment="REGLA: ir a inf enc enc-&gt; aller a pro pro inf">
       <pattern>
         <pattern-item n="ir"/>
-        <pattern-item n="a"/>
         <pattern-item n="inf"/>
         <pattern-item n="prnenc"/>
         <pattern-item n="prnenc"/>
@@ -9157,22 +9148,22 @@
             </lu>
             <b pos="1"/>
             <lu>
+              <clip pos="3" side="tl" part="lem"/>
+              <lit-tag v="prn.pro"/>
+              <clip pos="3" side="tl" part="tipoenc_pro"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
               <clip pos="4" side="tl" part="lem"/>
               <lit-tag v="prn.pro"/>
               <clip pos="4" side="tl" part="tipoenc_pro"/>
             </lu>
-            <b pos="2"/>
-            <lu>
-              <clip pos="5" side="tl" part="lem"/>
-              <lit-tag v="prn.pro"/>
-              <clip pos="5" side="tl" part="tipoenc_pro"/>
-            </lu>
             <b/>
             <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_verb"/>
-              <clip pos="3" side="tl" part="temps"/>
-              <clip pos="3" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -9186,7 +9177,6 @@
       <pattern>
         <pattern-item n="adv_preadv"/>
         <pattern-item n="ir"/>
-        <pattern-item n="a"/>
         <pattern-item n="inf"/>
       </pattern>
       <action>
@@ -9249,10 +9239,10 @@
                 </lu>
                 <b pos="2"/>
                 <lu>
-                  <clip pos="4" side="tl" part="lemh"/>
-                  <clip pos="4" side="tl" part="a_verb"/>
-                  <clip pos="4" side="tl" part="temps"/>
-                  <clip pos="4" side="tl" part="lemq"/>
+                  <clip pos="3" side="tl" part="lemh"/>
+                  <clip pos="3" side="tl" part="a_verb"/>
+                  <clip pos="3" side="tl" part="temps"/>
+                  <clip pos="3" side="tl" part="lemq"/>
                 </lu>
               </chunk>
             </out>
@@ -9319,19 +9309,15 @@
                 </lu>
                 <b pos="2"/>
                 <lu>
-                  <clip pos="4" side="tl" part="lemh"/>
-                  <clip pos="4" side="tl" part="a_verb"/>
-                  <clip pos="4" side="tl" part="temps"/>
-                  <clip pos="4" side="tl" part="lemq"/>
+                  <clip pos="3" side="tl" part="lemh"/>
+                  <clip pos="3" side="tl" part="a_verb"/>
+                  <clip pos="3" side="tl" part="temps"/>
+                  <clip pos="3" side="tl" part="lemq"/>
                 </lu>
               </chunk>
             </out>
           </otherwise>
         </choose>
-        <call-macro n="f_bcond">
-          <with-param pos="3"/>
-          <with-param pos="4"/>
-        </call-macro>
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
@@ -9341,7 +9327,6 @@
     <rule comment="REGLA: ir a inf adv-&gt; aller adv inf">
       <pattern>
         <pattern-item n="ir"/>
-        <pattern-item n="a"/>
         <pattern-item n="inf"/>
         <pattern-item n="adv_preadv"/>
       </pattern>
@@ -9380,21 +9365,17 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="4" side="tl" part="whole"/>
+              <clip pos="3" side="tl" part="whole"/>
             </lu>
             <b pos="2"/>
             <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_verb"/>
-              <clip pos="3" side="tl" part="temps"/>
-              <clip pos="3" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <clip pos="2" side="tl" part="temps"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
-        <call-macro n="f_bcond">
-          <with-param pos="3"/>
-          <with-param pos="4"/>
-        </call-macro>
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
@@ -9405,7 +9386,6 @@
       <pattern>
         <pattern-item n="adv_preadv"/>
         <pattern-item n="ir"/>
-        <pattern-item n="a"/>
         <pattern-item n="inf"/>
         <pattern-item n="adv_preadv"/>
       </pattern>
@@ -9472,21 +9452,17 @@
                     </lu>
                     <b pos="2"/>
                     <lu>
-                      <clip pos="5" side="tl" part="whole"/>
+                      <clip pos="4" side="tl" part="whole"/>
                     </lu>
                     <b pos="3"/>
                     <lu>
-                      <clip pos="4" side="tl" part="lemh"/>
-                      <clip pos="4" side="tl" part="a_verb"/>
-                      <clip pos="4" side="tl" part="temps"/>
-                      <clip pos="4" side="tl" part="lemq"/>
+                      <clip pos="3" side="tl" part="lemh"/>
+                      <clip pos="3" side="tl" part="a_verb"/>
+                      <clip pos="3" side="tl" part="temps"/>
+                      <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
                 </out>
-                <call-macro n="f_bcond">
-                  <with-param pos="4"/>
-                  <with-param pos="5"/>
-                </call-macro>
               </when>
               <otherwise>
                 <out>
@@ -9534,22 +9510,22 @@
                     </lu>
                     <b pos="3"/>
                     <lu>
-                      <clip pos="4" side="tl" part="lemh"/>
-                      <clip pos="4" side="tl" part="a_verb"/>
-                      <clip pos="4" side="tl" part="temps"/>
-                      <clip pos="4" side="tl" part="lemq"/>
+                      <clip pos="3" side="tl" part="lemh"/>
+                      <clip pos="3" side="tl" part="a_verb"/>
+                      <clip pos="3" side="tl" part="temps"/>
+                      <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
                   <b pos="4"/>
                   <chunk name="adv">
                     <tags>
                       <tag>
-                        <clip pos="5" side="tl" part="a_adv"/>
+                        <clip pos="4" side="tl" part="a_adv"/>
                       </tag>
                     </tags>
                     <lu>
-                      <clip pos="5" side="tl" part="lem"/>
-                      <clip pos="5" side="tl" part="a_adv"/>
+                      <clip pos="4" side="tl" part="lem"/>
+                      <clip pos="4" side="tl" part="a_adv"/>
                     </lu>
                   </chunk>
                 </out>
@@ -9618,29 +9594,25 @@
                 </lu>
                 <b pos="2"/>
                 <lu>
-                  <clip pos="4" side="tl" part="lemh"/>
-                  <clip pos="4" side="tl" part="a_verb"/>
-                  <clip pos="4" side="tl" part="temps"/>
-                  <clip pos="4" side="tl" part="lemq"/>
+                  <clip pos="3" side="tl" part="lemh"/>
+                  <clip pos="3" side="tl" part="a_verb"/>
+                  <clip pos="3" side="tl" part="temps"/>
+                  <clip pos="3" side="tl" part="lemq"/>
                 </lu>
               </chunk>
               <b pos="3"/>
               <chunk name="adv">
                 <tags>
                   <tag>
-                    <clip pos="5" side="tl" part="a_adv"/>
+                    <clip pos="4" side="tl" part="a_adv"/>
                   </tag>
                 </tags>
                 <lu>
-                  <clip pos="5" side="tl" part="lem"/>
-                  <clip pos="5" side="tl" part="a_adv"/>
+                  <clip pos="4" side="tl" part="lem"/>
+                  <clip pos="4" side="tl" part="a_adv"/>
                 </lu>
               </chunk>
             </out>
-	    <call-macro n="f_bcond">
-	      <with-param pos="4"/>
-              <with-param pos="5"/>
-	    </call-macro>
 	  </otherwise>
         </choose>
         <let>
