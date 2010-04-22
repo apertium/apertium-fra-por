@@ -174,6 +174,8 @@
       <cat-item tags="vblex.pri.*"/>
       <cat-item tags="vblex.prs.*"/>
       <cat-item tags="vblex.fts.*"/>
+      <cat-item tags="vblex.pmp.*"/>
+      <cat-item tags="vblex.infps.*"/>
       <cat-item tags="vbser.cni.*"/>
       <cat-item tags="vbser.fti.*"/>
       <cat-item tags="vbser.ifi.*"/>
@@ -183,6 +185,8 @@
       <cat-item tags="vbser.pri.*"/>
       <cat-item tags="vbser.prs.*"/>
       <cat-item tags="vbser.fts.*"/>
+      <cat-item tags="vbser.pmp.*"/>
+      <cat-item tags="vbser.infps.*"/>
       <cat-item tags="vbhaver.cni.*"/>
       <cat-item tags="vbhaver.fti.*"/>
       <cat-item tags="vbhaver.ifi.*"/>
@@ -192,6 +196,8 @@
       <cat-item tags="vbhaver.pri.*"/>
       <cat-item tags="vbhaver.prs.*"/>
       <cat-item tags="vbhaver.fts.*"/>
+      <cat-item tags="vbhaver.pmp.*"/>
+      <cat-item tags="vbhaver.infps.*"/>
       <cat-item tags="vbmod.cni.*"/>
       <cat-item tags="vbmod.fti.*"/>
       <cat-item tags="vbmod.ifi.*"/>
@@ -201,6 +207,8 @@
       <cat-item tags="vbmod.pri.*"/>
       <cat-item tags="vbmod.prs.*"/>
       <cat-item tags="vbmod.fts.*"/>
+      <cat-item tags="vbmod.pmp.*"/>
+      <cat-item tags="vbmod.infps.*"/>
       <cat-item tags="vblex.pron.cni.*"/>
       <cat-item tags="vblex.pron.fti.*"/>
       <cat-item tags="vblex.pron.ifi.*"/>
@@ -209,6 +217,8 @@
       <cat-item tags="vblex.pron.pis.*"/>
       <cat-item tags="vblex.pron.pri.*"/>
       <cat-item tags="vblex.pron.prs.*"/>
+      <cat-item tags="vblex.pron.pmp.*"/>
+      <cat-item tags="vblex.pron.infps.*"/>
     </def-cat>
     <def-cat n="auxpers">
       <cat-item tags="vbser.cni.*"/>
@@ -219,6 +229,8 @@
       <cat-item tags="vbser.pis.*"/>
       <cat-item tags="vbser.pri.*"/>
       <cat-item tags="vbser.prs.*"/>
+      <cat-item tags="vbser.pmp.*"/>
+      <cat-item tags="vbser.infps.*"/>
       <cat-item tags="vbhaver.cni.*"/>
       <cat-item tags="vbhaver.fti.*"/>
       <cat-item tags="vbhaver.ifi.*"/>
@@ -227,6 +239,8 @@
       <cat-item tags="vbhaver.pis.*"/>
       <cat-item tags="vbhaver.pri.*"/>
       <cat-item tags="vbhaver.prs.*"/>
+      <cat-item tags="vbhaver.pmp.*"/>
+      <cat-item tags="vbhaver.infps.*"/>
     </def-cat>
     <def-cat n="auxinf">
       <!--       <cat-item tags="vbser.inf"/> -->
@@ -3942,6 +3956,20 @@
           <choose>
             <when>
               <test>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </test>
+              <let>
+                <clip pos="1" side="tl" part="temps"/>
+                <lit-tag v="ifi"/>
+              </let>
+            </when>
+          </choose>
+          <choose>
+            <when>
+              <test>
                 <in caseless="yes">
                   <clip pos="1" side="tl" part="lem"/>
                   <list n="vbambser"/>
@@ -7299,10 +7327,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="2" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="2" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="2"/>
@@ -7627,10 +7661,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="2" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="2" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="2"/>
@@ -8018,6 +8058,9 @@
         <call-macro n="fts">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="1"/>
+        </call-macro>
         <call-macro n="f_imp">
           <with-param pos="1"/>
         </call-macro>
@@ -8030,10 +8073,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="1"/>
@@ -8165,6 +8214,9 @@
         <call-macro n="fts">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="venir_de_verb" case="caseFirstWord">
             <tags>
@@ -8224,6 +8276,9 @@
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="fts">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="infps">
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="control_ref_aux">
@@ -8356,6 +8411,9 @@
         <call-macro n="fts">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="venir_de_pro_pro_inf" case="caseFirstWord">
             <tags>
@@ -8425,6 +8483,9 @@
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="fts">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="infps">
           <with-param pos="1"/>
         </call-macro>
         <out>
@@ -10797,7 +10858,6 @@
       <pattern>
         <pattern-item n="adv"/>
         <pattern-item n="ir"/>
-        <pattern-item n="a"/>
         <pattern-item n="inf"/>
         <pattern-item n="prnenc"/>
         <pattern-item n="prnenc"/>
@@ -10866,26 +10926,26 @@
                     </lu>
                     <b pos="1"/>
                     <lu>
-                      <clip pos="7" side="tl" part="whole"/>
+                      <clip pos="6" side="tl" part="whole"/>
                     </lu>
                     <b pos="2"/>
+                    <lu>
+                      <clip pos="4" side="tl" part="lem"/>
+                      <lit-tag v="prn.pro"/>
+                      <clip pos="4" side="tl" part="tipoenc_pro"/>
+                    </lu>
+                    <b pos="3"/>
                     <lu>
                       <clip pos="5" side="tl" part="lem"/>
                       <lit-tag v="prn.pro"/>
                       <clip pos="5" side="tl" part="tipoenc_pro"/>
                     </lu>
-                    <b pos="3"/>
-                    <lu>
-                      <clip pos="6" side="tl" part="lem"/>
-                      <lit-tag v="prn.pro"/>
-                      <clip pos="6" side="tl" part="tipoenc_pro"/>
-                    </lu>
                     <b pos="6"/>
                     <lu>
-                      <clip pos="4" side="tl" part="lemh"/>
-                      <clip pos="4" side="tl" part="a_verb"/>
-                      <clip pos="4" side="tl" part="temps"/>
-                      <clip pos="4" side="tl" part="lemq"/>
+                      <clip pos="3" side="tl" part="lemh"/>
+                      <clip pos="3" side="tl" part="a_verb"/>
+                      <clip pos="3" side="tl" part="temps"/>
+                      <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
                 </out>
@@ -10936,34 +10996,34 @@
                     </lu>
                     <b pos="2"/>
                     <lu>
+                      <clip pos="4" side="tl" part="lem"/>
+                      <lit-tag v="prn.pro"/>
+                      <clip pos="4" side="tl" part="tipoenc_pro"/>
+                    </lu>
+                    <b pos="3"/>
+                    <lu>
                       <clip pos="5" side="tl" part="lem"/>
                       <lit-tag v="prn.pro"/>
                       <clip pos="5" side="tl" part="tipoenc_pro"/>
                     </lu>
-                    <b pos="3"/>
-                    <lu>
-                      <clip pos="6" side="tl" part="lem"/>
-                      <lit-tag v="prn.pro"/>
-                      <clip pos="6" side="tl" part="tipoenc_pro"/>
-                    </lu>
                     <b/>
                     <lu>
-                      <clip pos="4" side="tl" part="lemh"/>
-                      <clip pos="4" side="tl" part="a_verb"/>
-                      <clip pos="4" side="tl" part="temps"/>
-                      <clip pos="4" side="tl" part="lemq"/>
+                      <clip pos="3" side="tl" part="lemh"/>
+                      <clip pos="3" side="tl" part="a_verb"/>
+                      <clip pos="3" side="tl" part="temps"/>
+                      <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
-                  <b pos="6"/>
+                  <b pos="5"/>
                   <chunk name="adv">
                     <tags>
                       <tag>
-                        <clip pos="7" side="tl" part="a_adv"/>
+                        <clip pos="6" side="tl" part="a_adv"/>
                       </tag>
                     </tags>
                     <lu>
-                      <clip pos="7" side="tl" part="lem"/>
-                      <clip pos="7" side="tl" part="a_adv"/>
+                      <clip pos="6" side="tl" part="lem"/>
+                      <clip pos="6" side="tl" part="a_adv"/>
                     </lu>
                   </chunk>
                 </out>
@@ -11032,34 +11092,34 @@
                 </lu>
                 <b pos="2"/>
                 <lu>
+                  <clip pos="4" side="tl" part="lem"/>
+                  <lit-tag v="prn.pro"/>
+                  <clip pos="4" side="tl" part="tipoenc_pro"/>
+                </lu>
+                <b pos="3"/>
+                <lu>
                   <clip pos="5" side="tl" part="lem"/>
                   <lit-tag v="prn.pro"/>
                   <clip pos="5" side="tl" part="tipoenc_pro"/>
                 </lu>
-                <b pos="3"/>
-                <lu>
-                  <clip pos="6" side="tl" part="lem"/>
-                  <lit-tag v="prn.pro"/>
-                  <clip pos="6" side="tl" part="tipoenc_pro"/>
-                </lu>
                 <b/>
                 <lu>
-                  <clip pos="4" side="tl" part="lemh"/>
-                  <clip pos="4" side="tl" part="a_verb"/>
-                  <clip pos="4" side="tl" part="temps"/>
-                  <clip pos="4" side="tl" part="lemq"/>
+                  <clip pos="3" side="tl" part="lemh"/>
+                  <clip pos="3" side="tl" part="a_verb"/>
+                  <clip pos="3" side="tl" part="temps"/>
+                  <clip pos="3" side="tl" part="lemq"/>
                 </lu>
               </chunk>
-              <b pos="6"/>
+              <b pos="5"/>
               <chunk name="adv">
                 <tags>
                   <tag>
-                    <clip pos="7" side="tl" part="a_adv"/>
+                    <clip pos="6" side="tl" part="a_adv"/>
                   </tag>
                 </tags>
                 <lu>
-                  <clip pos="7" side="tl" part="lem"/>
-                  <clip pos="7" side="tl" part="a_adv"/>
+                  <clip pos="6" side="tl" part="lem"/>
+                  <clip pos="6" side="tl" part="a_adv"/>
                 </lu>
               </chunk>
             </out>
@@ -11250,13 +11310,22 @@
         <call-macro n="fts">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="1"/>
+        </call-macro>
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="3"/>
@@ -11372,13 +11441,22 @@
         <call-macro n="fts">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="1"/>
+        </call-macro>
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="3"/>
@@ -11610,13 +11688,22 @@
         <call-macro n="fts">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="1"/>
+        </call-macro>
 	<choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="3"/>
@@ -11920,16 +12007,25 @@
         <call-macro n="fts">
           <with-param pos="2"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="2"/>
+        </call-macro>
         <call-macro n="f_imp">
           <with-param pos="2"/>
         </call-macro>
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="2" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="2" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="2" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="2"/>
@@ -12222,6 +12318,9 @@
         <call-macro n="fts">
           <with-param pos="3"/>
         </call-macro>
+        <call-macro n="infps">
+          <with-param pos="3"/>
+        </call-macro>
         <call-macro n="f_imp">
           <with-param pos="3"/>
         </call-macro>
@@ -12234,10 +12333,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="3" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="3"/>
@@ -12984,10 +13089,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="3" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="3"/>
@@ -13754,10 +13865,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="3" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="3" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="3"/>
@@ -13927,10 +14044,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="4" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="4" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="4" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="4"/>
@@ -14356,10 +14479,16 @@
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="4" side="sl" part="temps"/>
-                <lit-tag v="ifi"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="4" side="sl" part="temps"/>
+                  <lit-tag v="ifi"/>
+                </equal>
+                <equal>
+                  <clip pos="4" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+              </or>
             </test>
             <call-macro n="aux_ifi">
               <with-param pos="4"/>
