@@ -132,11 +132,11 @@
     </def-cat>
     
     
-    <def-cat n="ppres">
-      <cat-item tags="vblex.ppres"/>
-      <cat-item tags="vbser.ppres"/>
-      <cat-item tags="vbhaver.ppres"/>
-      <cat-item tags="vbmod.ppres"/>
+    <def-cat n="pprs">
+      <cat-item tags="vblex.pprs"/>
+      <cat-item tags="vbser.pprs"/>
+      <cat-item tags="vbhaver.pprs"/>
+      <cat-item tags="vbmod.pprs"/>
     </def-cat>
 
     <def-cat n="verbm"><!--verb modal -->
@@ -181,7 +181,7 @@
       <cat-item tags="vblex.pis.*"/>
       <cat-item tags="vblex.pri.*"/>
       <cat-item tags="vblex.prs.*"/>
-      <cat-item tags="vblex.ppres.*"/>
+      <cat-item tags="vblex.pprs.*"/>
       <cat-item tags="vbser.cni.*"/>
       <cat-item tags="vbser.fti.*"/>
       <cat-item tags="vbser.ifi.*"/>
@@ -190,7 +190,7 @@
       <cat-item tags="vbser.pis.*"/>
       <cat-item tags="vbser.pri.*"/>
       <cat-item tags="vbser.prs.*"/>
-      <cat-item tags="vbser.ppres.*"/>
+      <cat-item tags="vbser.pprs.*"/>
       <cat-item tags="vbhaver.cni.*"/>
       <cat-item tags="vbhaver.fti.*"/>
       <cat-item tags="vbhaver.ifi.*"/>
@@ -199,7 +199,7 @@
       <cat-item tags="vbhaver.pis.*"/>
       <cat-item tags="vbhaver.pri.*"/>
       <cat-item tags="vbhaver.prs.*"/>
-      <cat-item tags="vbhaver.ppres.*"/>
+      <cat-item tags="vbhaver.pprs.*"/>
       <cat-item tags="vbmod.cni.*"/>
       <cat-item tags="vbmod.fti.*"/>
       <cat-item tags="vbmod.ifi.*"/>
@@ -208,7 +208,7 @@
       <cat-item tags="vbmod.pis.*"/>
       <cat-item tags="vbmod.pri.*"/>
       <cat-item tags="vbmod.prs.*"/>
-      <cat-item tags="vbmod.ppres.*"/>
+      <cat-item tags="vbmod.pprs.*"/>
     </def-cat>
 
     <def-cat n="auxpers">
@@ -473,7 +473,7 @@
       <attr-item tags="pri"/>
       <attr-item tags="prs"/>
       <attr-item tags="pp"/>
-      <attr-item tags="ppres"/>
+      <attr-item tags="pprs"/>
       <attr-item tags="ger"/>
       <attr-item tags="inf"/>
     </def-attr>
@@ -1429,13 +1429,13 @@
       </choose>
     </def-macro>
 
-    <def-macro n="f_ppres" npar="1">
+    <def-macro n="f_pprs" npar="1">
       <choose>
 	<when>
 	  <test>
 	    <equal>
 	      <clip pos="1" side="sl" part="temps"/>
-	      <lit-tag v="ppres"/>
+	      <lit-tag v="pprs"/>
 	    </equal>
 	  </test>
 	  <let>
@@ -6334,7 +6334,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="1"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -6377,7 +6377,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="2"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -6438,7 +6438,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="2"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -6582,9 +6582,9 @@
       </action>
     </rule>
     <!--
-	<rule comment="REGLA: ppres">
+	<rule comment="REGLA: pprs">
 	<pattern>
-	<pattern-item n="ppres"/>
+	<pattern-item n="pprs"/>
 	</pattern>
 	<action>
 	<out>
@@ -6616,10 +6616,10 @@
 	</let>
 	</action>
 	</rule>
-	<rule comment="REGLA: prnpro ppres">
+	<rule comment="REGLA: prnpro pprs">
 	<pattern>
 	<pattern-item n="prnpro"/>
-	<pattern-item n="ppres"/>
+	<pattern-item n="pprs"/>
 	</pattern>
 	<action>
 	<out>
@@ -6664,7 +6664,7 @@
 	<pattern-item n="inf"/>
       </pattern>
       <action>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="tipus_verb">
@@ -6716,7 +6716,7 @@
 	<pattern-item n="inf"/>
       </pattern>
       <action>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="tipus_verb">
@@ -6824,7 +6824,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -6976,7 +6976,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -7210,7 +7210,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -7276,7 +7276,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="6"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -7445,7 +7445,7 @@
 	  <with-param pos="1"/>
 	  <with-param pos="2"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -7551,7 +7551,7 @@
 	  <with-param pos="1"/>
 	  <with-param pos="2"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -7767,7 +7767,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="3"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -7941,7 +7941,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="3"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -8440,7 +8440,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -8580,7 +8580,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -8859,7 +8859,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -9036,7 +9036,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="verb_ref">
@@ -9209,7 +9209,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -9476,7 +9476,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -9746,7 +9746,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<choose>
@@ -10042,7 +10042,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="6"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -10334,7 +10334,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -10391,7 +10391,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -10504,7 +10504,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -10647,7 +10647,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -10930,7 +10930,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -11202,7 +11202,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="6"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -11902,7 +11902,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -11954,7 +11954,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -12061,7 +12061,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="verb_ref">
@@ -12328,7 +12328,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -12586,7 +12586,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="6"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<choose>
@@ -13805,7 +13805,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="1"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -13894,7 +13894,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="1"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -13996,7 +13996,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="2"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -14053,7 +14053,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -14163,7 +14163,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -14280,7 +14280,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="1"/>
 	</call-macro>
 	<choose>
@@ -14419,7 +14419,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="3"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -14540,7 +14540,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -14787,7 +14787,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -14932,7 +14932,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="2"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -15203,7 +15203,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="4"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="3"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -15417,7 +15417,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="3"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -15631,7 +15631,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="5"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="3"/>
 	</call-macro>
 	<call-macro n="firstWord">
@@ -15872,7 +15872,7 @@
 	<call-macro n="tipus_verb">
 	  <with-param pos="6"/>
 	</call-macro>
-	<call-macro n="f_ppres">
+	<call-macro n="f_pprs">
 	  <with-param pos="3"/>
 	</call-macro>
 	<call-macro n="firstWord">

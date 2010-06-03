@@ -48,6 +48,7 @@
     <sdef n="inf"/>
     <sdef n="ger"/>
     <sdef n="pp"/>
+    <sdef n="pprs"/>
     <sdef n="pri"/>
     <sdef n="p1"/>
     <sdef n="p2"/>
@@ -74,7 +75,8 @@
     <sdef n="pmp"/>
     <sdef n="infps"/>
     <sdef n="cuavb"/>
-	 <sdef n="percent"/>
+	<sdef n="percent"/>
+    <sdef n="ND"/>
   </sdefs>
 
   <pardefs>
@@ -2568,24 +2570,24 @@
         </p>
       </e>
     </pardef>
-
+<!--
     <pardef n="nenhum__det">
       
       <e>
         <p>
           <l>a</l>
-          <r><s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r>
+          <r><s n="det"/><s n="ind"/><s n="f"/><s n="ND"/></r>
         </p>
       </e>
       
       <e>
         <p>
           <l/>
-          <r><s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r>
+          <r><s n="det"/><s n="ind"/><s n="m"/><s n="ND"/></r>
         </p>
       </e>
     </pardef>
-
+-->
     <pardef n="cada__det">
       
       <e>
@@ -4575,24 +4577,7 @@
       </e>
     </pardef>
 
-    <pardef n="ABC__np">
-      
-      <e>
-        <p>
-          <l/>
-          <r><s n="np"/><s n="al"/></r>
-        </p>
-      </e>
-    </pardef>
-
-    <pardef n="Ferrari__np">
-      
-      <e>
-        <p>
-          <l/>
-          <r><s n="np"/><s n="al"/></r>
-        </p>
-      </e>
+    <pardef n="Nome__np">
       
       <e>
         <p>
@@ -4602,14 +4587,7 @@
       </e>
     </pardef>
 
-    <pardef n="Marte__np">
-      
-      <e>
-        <p>
-          <l/>
-          <r><s n="np"/><s n="al"/></r>
-        </p>
-      </e>
+    <pardef n="Lugar__np">
       
       <e>
         <p>
@@ -4619,7 +4597,24 @@
       </e>
     </pardef>
 
-    <pardef n="Abu__np">
+    <pardef n="Outro__np">
+      
+      <e>
+        <p>
+          <l/>
+          <r><s n="np"/><s n="al"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="NomeOutro__np">
+      
+      <e>
+        <p>
+          <l/>
+          <r><s n="np"/><s n="al"/></r>
+        </p>
+      </e>
       
       <e>
         <p>
@@ -4629,7 +4624,7 @@
       </e>
     </pardef>
 
-    <pardef n="Cardoso__np">
+    <pardef n="NomeLugar__np">
       
       <e>
         <p>
@@ -4646,7 +4641,14 @@
       </e>
     </pardef>
 
-    <pardef n="AC__np">
+    <pardef n="LugarOutro__np">
+      
+      <e>
+        <p>
+          <l/>
+          <r><s n="np"/><s n="al"/></r>
+        </p>
+      </e>
       
       <e>
         <p>
@@ -5035,7 +5037,7 @@
       <e>
         <p>
           <l/>
-          <r><s n="prn"/><s n="tn"/><s n="nt"/></r>
+          <r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -6905,13 +6907,89 @@
       </e>
     </pardef>
 
-	 
-    <pardef n="há__vblex">
+    <pardef n="h/á__vblex">
       
       <e>
         <p>
-          <l/>
-          <r><s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+          <l>á</l>
+          <r>á<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>ouve</l>
+          <r>á<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>avia</l>
+          <r>á<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>ouvera</l>
+          <r>á<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>averá</l>
+          <r>á<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>averia</l>
+          <r>á<s n="vblex"/><s n="cni"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>aja</l>
+          <r>á<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>ouvesse</l>
+          <r>á<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>ouver</l>
+          <r>á<s n="vblex"/><s n="fts"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>aver</l>
+          <r>á<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>avido</l>
+          <r>á<s n="vblex"/><s n="pp"/></r>
+        </p>
+      </e>
+      
+      <e>
+        <p>
+          <l>avendo</l>
+          <r>á<s n="vblex"/><s n="ger"/></r>
         </p>
       </e>
     </pardef>
@@ -98021,7 +98099,7 @@
         <i>célebre</i>
         <par n="agrícola__adj"/>
       </e>
-		
+<!--		
 		<e lm="das aves">
 			<i>das<b/>aves</i>
 			<par n="anti__adj"/>
@@ -98041,7 +98119,7 @@
         <i>de<b/>rua</i>
         <par n="anti__adj"/>
       </e>
-      
+-->      
       <e lm="decisivo">
         <i>decisiv</i>
         <par n="abert/o__adj"/>
@@ -114718,8 +114796,8 @@
       </e>
       
       <e lm="nenhum">
-        <i>nenhum</i>
-        <par n="nenhum__det"/>
+        <i>nenhu</i>
+        <par n="algu/m__det"/>
       </e>
       
       <e lm="nosso">
@@ -116845,7 +116923,7 @@
         <par n="anima/l__n"/>
       </e>
       
-      <e lm="carga" r="LR">
+      <e lm="carga">
         <i>carga</i>
         <par n="abadia__n"/>
       </e>
@@ -118067,7 +118145,7 @@
       
       <e lm="corredor">
         <i>corredor</i>
-        <par n="amor__n"/>
+        <par n="admirador__n"/>
       </e>
       
       <e lm="correio">
@@ -119100,7 +119178,7 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="dupla" r="LR">
+      <e lm="dupla">
         <i>dupla</i>
         <par n="abadia__n"/>
       </e>
@@ -120149,8 +120227,8 @@
       </e>
       
       <e lm="ferido">
-        <i>ferido</i>
-        <par n="Leste__n"/>
+        <i>ferid</i>
+        <par n="adept/o__n"/>
       </e>
       
       <e lm="ferimento" r="LR">
@@ -120798,7 +120876,7 @@
       
       <e lm="guarda">
         <i>guarda</i>
-        <par n="accionista__n"/>
+        <par n="abadia__n"/>
       </e>
       
       <e lm="guarda-costas">
@@ -125808,7 +125886,7 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="sotaque" r="LR">
+      <e lm="sotaque">
         <i>sotaque</i>
         <par n="Leste__n"/>
       </e>
@@ -127973,2818 +128051,2827 @@
 <!-- entrades "np" -->
       <e lm="ABC">
         <i>ABC</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="AC">
         <i>AC</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Abu">
         <i>Abu</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Acevedo">
         <i>Acevedo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Adams">
         <i>Adams</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
 
 		<e lm="Canárias">
 			<i>Canárias</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
       <e lm="Ahmed">
         <i>Ahmed</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Alan">
         <i>Alan</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Alarcón">
         <i>Alarcón</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Alberto">
         <i>Alberto</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Albright">
         <i>Albright</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Albânia">
         <i>Albânia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Alex">
         <i>Alex</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Alexander">
         <i>Alexander</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Alexandre">
         <i>Alexandre</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Alfonso">
         <i>Alfonso</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Amsterdã">
         <i>Amsterdã</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="América do Sul">
         <i>América<b/>do<b/>Sul</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Américas">
         <i>Américas</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Ancara">
         <i>Ancara</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Andrew">
         <i>Andrew</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="André">
         <i>André</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Andrés">
         <i>Andrés</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Angola">
         <i>Angola</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Annan">
         <i>Annan</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Anne">
         <i>Anne</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Anthony">
         <i>Anthony</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Antonio">
         <i>Antonio</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Arafat">
         <i>Arafat</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Argel">
         <i>Argel</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
 
       <e lm="Argélia">
         <i>Argélia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Ariel">
         <i>Ariel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Arteaga">
         <i>Arteaga</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Arábia Saudita">
         <i>Arábia<b/>Saudita</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Atenas">
         <i>Atenas</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Atlanta">
         <i>Atlanta</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Atlantis">
         <i>Atlantis</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Augusto">
         <i>Augusto</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ayrton">
         <i>Ayrton</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Aziz">
         <i>Aziz</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Aznar">
         <i>Aznar</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
-      <e lm="Bagdá">
+      <e lm="Bagdá" v="br">
         <i>Bagdá</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
+      </e>
+      <e lm="Bagdade" v="pt">
+      	<i>Bagdade</i>
+      	<par n="Lugar__np"/>
       </e>
       
       <e lm="Bangladesh">
         <i>Bangladesh</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Barcelona">
         <i>Barcelona</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Barreto">
         <i>Barreto</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Barça">
         <i>Barça</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Batasuna">
         <i>Batasuna</i>
-        <par n="Abu__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Bebeto">
         <i>Bebeto</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Belfast">
         <i>Belfast</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Belgrado">
         <i>Belgrado</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Belém">
         <i>Belém</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Ben">
         <i>Ben</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Benjamin">
         <i>Benjamin</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Berlim">
         <i>Berlim</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Bernard">
         <i>Bernard</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Betis">
         <i>Betis</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Bilbao">
         <i>Bilbao</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Bill">
         <i>Bill</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Blair">
         <i>Blair</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Blanco">
         <i>Blanco</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Bob">
         <i>Bob</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Boeing">
         <i>Boeing</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Bogotá">
         <i>Bogotá</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Bolívia">
         <i>Bolívia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
-      <e lm="Bonn">
+      <e lm="Bona">
         <i>Bonn</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
+      </e>
+      
+      <e lm="Bonn" r="LR">
+        <i>Bonn</i>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Boris">
         <i>Boris</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Boston">
         <i>Boston</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Brasília">
         <i>Brasília</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Brazzaville">
         <i>Brazzaville</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="British">
         <i>British</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Bruguera">
         <i>Bruguera</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Bruno">
         <i>Bruno</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Bruxelas">
         <i>Bruxelas</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Buarque">
         <i>Buarque</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Budapeste">
         <i>Budapeste</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Buenos Aires">
         <i>Buenos<b/>Aires</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Bulgária">
         <i>Bulgária</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Bush">
         <i>Bush</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
             
       <e lm="Bósnia">
         <i>Bósnia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Cachemira">
         <i>Cachemira</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Cairo">
         <i>Cairo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Calcutá">
         <i>Calcutá</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Califórnia">
         <i>Califórnia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Camboja">
         <i>Camboja</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Camilla">
         <i>Camilla</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Campbell">
         <i>Campbell</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Caracas">
         <i>Caracas</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Cardoso">
         <i>Cardoso</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
 		<e lm="Corleone">
 			<i>Corleone</i>
-			<par n="Cardoso__np"/>
+			<par n="NomeLugar__np"/>
 		</e>
 
 		<e lm="Sicília">
 			<i>Sicília</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
       
       <e lm="Carlos">
         <i>Carlos</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
 		<e lm="Berlusconi">
 			<i>Berlusconi</i>
-			<par n="Abu__np"/>
+			<par n="Nome__np"/>
 		</e>
       
       <e lm="Casa Branca">
         <i>Casa<b/>Branca</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Castillo">
         <i>Castillo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Castro">
         <i>Castro</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Charles">
         <i>Charles</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Chechênia">
         <i>Chechênia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Chelsea">
         <i>Chelsea</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Chen">
         <i>Chen</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Chiapas">
         <i>Chiapas</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Chicago">
         <i>Chicago</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Chico">
         <i>Chico</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Chile">
         <i>Chile</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Lulling">
         <i>Lulling</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mulder">
         <i>Mulder</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Chirac">
         <i>Chirac</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Christian">
         <i>Christian</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Cidade do Cabo">
         <i>Cidade<b/>do<b/>Cabo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Cisjordânia">
         <i>Cisjordânia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Cisneros">
         <i>Cisneros</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Claudia">
         <i>Claudia</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Claudio">
         <i>Claudio</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Clinton">
         <i>Clinton</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Colorado">
         <i>Colorado</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Colômbia">
         <i>Colômbia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Congo">
         <i>Congo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Costa">
         <i>Costa</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Costa Rica">
         <i>Costa<b/>Rica</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Cristo">
         <i>Cristo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Cruz">
         <i>Cruz</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Cuba">
         <i>Cuba</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Cárdenas">
         <i>Cárdenas</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="César">
         <i>César</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Damasco">
         <i>Damasco</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Daniel">
         <i>Daniel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Dario">
         <i>Dario</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="David">
         <i>David</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Davis">
         <i>Davis</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Davos">
         <i>Davos</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Delhi">
         <i>Delhi</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Denilson">
         <i>Denilson</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Denis">
         <i>Denis</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Dennis">
         <i>Dennis</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Denver">
         <i>Denver</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Deus">
         <i>Deus</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Diana">
         <i>Diana</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Diego">
         <i>Diego</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Disney">
         <i>Disney</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Dolly">
         <i>Dolly</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Domingo">
         <i>Domingo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Douglas">
         <i>Douglas</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Dow Jones">
         <i>Dow<b/>Jones</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="EUA">
         <i>EUA</i>
-        <par n="ABC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Edimburgo">
         <i>Edimburgo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Edmundo">
         <i>Edmundo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Eduardo">
         <i>Eduardo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="El Salvador">
         <i>El<b/>Salvador</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Elizabeth">
         <i>Elizabeth</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Elvis">
         <i>Elvis</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Enrique">
         <i>Enrique</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ernesto">
         <i>Ernesto</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Espanha">
         <i>Espanha</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
 
       <e lm="Guatemala">
         <i>Guatemala</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
 
       <e lm="Holanda">
         <i>Holanda</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
 
       <e lm="Hungria">
         <i>Hungria</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
        
       <e lm="Estocolmo">
         <i>Estocolmo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Estrasburgo">
         <i>Estrasburgo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Etiópia">
         <i>Etiópia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Evaristo">
         <i>Evaristo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="FMI">
         <i>FMI</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Federico">
         <i>Federico</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Felipe">
         <i>Felipe</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Fernando">
         <i>Fernando</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Fernández">
         <i>Fernández</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ferrari">
         <i>Ferrari</i>
-        <par n="Ferrari__np"/>
+        <par n="NomeOutro__np"/>
       </e>
       
       <e lm="Fiat">
         <i>Fiat</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Fidel">
         <i>Fidel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Figueres">
         <i>Figueres</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Fischer">
         <i>Fischer</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Flamengo">
         <i>Flamengo</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Flórida">
         <i>Flórida</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Fontes">
         <i>Fontes</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ford">
         <i>Ford</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Francisco">
         <i>Francisco</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Franco">
         <i>Franco</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Frank">
         <i>Frank</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Frankfurt">
         <i>Frankfurt</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Franz">
         <i>Franz</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Fujimori">
         <i>Fujimori</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gabriel">
         <i>Gabriel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gales">
         <i>Gales</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Gandhi">
         <i>Gandhi</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="García">
         <i>García</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gates">
         <i>Gates</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gaza">
         <i>Gaza</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Genebra">
         <i>Genebra</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="George">
         <i>George</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gibraltar">
         <i>Gibraltar</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Gil">
         <i>Gil</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Giovanni">
         <i>Giovanni</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="González">
         <i>González</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gore">
         <i>Gore</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Graf">
         <i>Graf</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Greenpeace">
         <i>Greenpeace</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Grã-Bretanha">
         <i>Grã-Bretanha</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Grêmio">
         <i>Grêmio</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Guevara">
         <i>Guevara</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Guga">
         <i>Guga</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Guillermo">
         <i>Guillermo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gustavo">
         <i>Gustavo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Guzmán">
         <i>Guzmán</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gómez">
         <i>Gómez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Haia">
         <i>Haia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Hamas">
         <i>Hamas</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Hans">
         <i>Hans</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Harrison">
         <i>Harrison</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Harry">
         <i>Harry</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Hassan">
         <i>Hassan</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Havana">
         <i>Havana</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Hebrón">
         <i>Hebrón</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Heinz">
         <i>Heinz</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Henrique">
         <i>Henrique</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Henry">
         <i>Henry</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Hernández">
         <i>Hernández</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Herrera">
         <i>Herrera</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Hollywood">
         <i>Hollywood</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Honda">
         <i>Honda</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Honduras">
         <i>Honduras</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Hong Kong">
         <i>Hong<b/>Kong</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Hosni">
         <i>Hosni</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Hubble">
         <i>Hubble</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Hugo">
         <i>Hugo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Hussein">
         <i>Hussein</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Iglesias">
         <i>Iglesias</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Inter">
         <i>Inter</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Israel">
         <i>Israel</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Jack">
         <i>Jack</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jackson">
         <i>Jackson</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jacqueline">
         <i>Jacqueline</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jacques">
         <i>Jacques</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jaime">
         <i>Jaime</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jamaica">
         <i>Jamaica</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="James">
         <i>James</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jan">
         <i>Jan</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Javier">
         <i>Javier</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jean">
         <i>Jean</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jerez">
         <i>Jerez</i>
-        <par n="Abu__np"/>
+        <par n="LugarOutro__np"/>
       </e>
       
       <e lm="Jerusalém">
         <i>Jerusalém</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Jesus">
         <i>Jesus</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jiang">
         <i>Jiang</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Joaquín">
         <i>Joaquín</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="John">
         <i>John</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Johnson">
         <i>Johnson</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jones">
         <i>Jones</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jordan">
         <i>Jordan</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Jordânia">
         <i>Jordânia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Jorge">
         <i>Jorge</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="José">
         <i>José</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="João">
         <i>João</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Juan">
         <i>Juan</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Julio">
         <i>Julio</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Kelly">
         <i>Kelly</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Kennedy">
         <i>Kennedy</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Kevin">
         <i>Kevin</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Kim">
         <i>Kim</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="King">
         <i>King</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Kinshasa">
         <i>Kinshasa</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Kofi">
         <i>Kofi</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Kremlin">
         <i>Kremlin</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>     
     
       <e lm="Kuala Lumpur">
         <i>Kuala<b/>Lumpur</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Kuerten">
         <i>Kuerten</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Kyoto">
         <i>Kyoto</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="La Paz">
         <i>La<b/>Paz</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Laurent">
         <i>Laurent</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Lee">
         <i>Lee</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Leonardo">
         <i>Leonardo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Lewis">
         <i>Lewis</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="León">
         <i>León</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Li">
         <i>Li</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Lima">
         <i>Lima</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Lisboa">
         <i>Lisboa</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Liverpool">
         <i>Liverpool</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Lockerbie">
         <i>Lockerbie</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Londres">
         <i>Londres</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Long">
         <i>Long</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Los Angeles">
         <i>Los<b/>Angeles</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Louis">
         <i>Louis</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Luis">
         <i>Luis</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Luiz">
         <i>Luiz</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Lula">
         <i>Lula</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Luxemburgo">
         <i>Luxemburgo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Lyon">
         <i>Lyon</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Líbano">
         <i>Líbano</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Líbia">
         <i>Líbia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="López">
         <i>López</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Maastricht">
         <i>Maastricht</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Mac">
         <i>Mac</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Madeleine">
         <i>Madeleine</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Madri">
         <i>Madri</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
-      <e lm="Madrid" r="LR">
+      <e lm="Madrid" v="LR">
         <i>Madrid</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Malásia">
         <i>Malásia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Manchester">
         <i>Manchester</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Mandela">
         <i>Mandela</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Manila">
         <i>Manila</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Manuel">
         <i>Manuel</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Mar">
         <i>Mar</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Maradona">
         <i>Maradona</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Marc">
         <i>Marc</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Marcelo">
         <i>Marcelo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Marcos">
         <i>Marcos</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Margarita">
         <i>Margarita</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Maria">
         <i>Maria</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Mario">
         <i>Mario</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mark">
         <i>Mark</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Marques">
         <i>Marques</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Marrocos">
         <i>Marrocos</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Marselha">
         <i>Marselha</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Marta">
         <i>Marta</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Marte">
         <i>Marte</i>
-        <par n="Marte__np"/>
+        <par n="NomeLugar__np"/>
       </e>
 		<e lm="Vénus">
 			<i>Vénus</i>
-			<par n="Marte__np"/>
+			<par n="LugarOutro__np"/>
 		</e>
       <e lm="Martin">
         <i>Martin</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Martínez">
         <i>Martínez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mary">
         <i>Mary</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="María">
         <i>María</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mas">
         <i>Mas</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Menem">
         <i>Menem</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mercedes">
         <i>Mercedes</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mercosul">
         <i>Mercosul</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Miami">
         <i>Miami</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Michael">
         <i>Michael</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Michel">
         <i>Michel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Microsoft">
         <i>Microsoft</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Miguel">
         <i>Miguel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mikel">
         <i>Mikel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Milosevic">
         <i>Milosevic</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Milão">
         <i>Milão</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Mir">
         <i>Mir</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mitterrand">
         <i>Mitterrand</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mohamed">
         <i>Mohamed</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mohammed">
         <i>Mohammed</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Montenegro">
         <i>Montenegro</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Montevidéu">
         <i>Montevidéu</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Morris">
         <i>Morris</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Moscou" v="br">
         <i>Moscou</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Mosul" v="br">
         <i>Mosul</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Mossul" v="pt">
         <i>Mossul</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Moçambique">
         <i>Moçambique</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Mubarak">
         <i>Mubarak</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Munique">
         <i>Munique</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Márquez">
         <i>Márquez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="México">
         <i>México</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Mônaco">
         <i>Mônaco</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Nano">
         <i>Nano</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Nasa">
         <i>Nasa</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Navarro">
         <i>Navarro</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Nelson">
         <i>Nelson</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Netanyahu">
         <i>Netanyahu</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Netscape">
         <i>Netscape</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="New York">
         <i>New<b/>York</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Nicholas">
         <i>Nicholas</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Nike">
         <i>Nike</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Nobel">
         <i>Nobel</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Norte">
         <i>Norte</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Nova Iorque" r="LR">
         <i>Nova<b/>Iorque</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Nova York">
         <i>Nova<b/>York</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Nápoles">
         <i>Nápoles</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="NATO">
         <i>NATO</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Oeste">
         <i>Oeste</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Oklahoma">
         <i>Oklahoma</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Olivier">
         <i>Olivier</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Orlando">
         <i>Orlando</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ortega">
         <i>Ortega</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Oscar">
         <i>Oscar</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Oslo">
         <i>Oslo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Ottawa">
         <i>Ottawa</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Oviedo">
         <i>Oviedo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
          
       <e lm="PT">
         <i>PT</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Pablo">
         <i>Pablo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Palermo">
         <i>Palermo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Papa">
         <i>Papa</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Paraguai">
         <i>Paraguai</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Paraná">
         <i>Paraná</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Paris">
         <i>Paris</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Parkinson">
         <i>Parkinson</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Pascal">
         <i>Pascal</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Patrick">
         <i>Patrick</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Paul">
         <i>Paul</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Paula">
         <i>Paula</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Paulo">
         <i>Paulo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Pedro">
         <i>Pedro</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Pelé">
         <i>Pelé</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Pequim">
         <i>Pequim</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Pereira">
         <i>Pereira</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Peru">
         <i>Peru</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Peter">
         <i>Peter</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Pierre">
         <i>Pierre</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Pinochet">
         <i>Pinochet</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Porto Alegre">
         <i>Porto<b/>Alegre</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Portugal">
         <i>Portugal</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Prodi">
         <i>Prodi</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Pérez">
         <i>Pérez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Qatar">
         <i>Qatar</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Quito">
         <i>Quito</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="RS">
         <i>RS</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Rabin">
         <i>Rabin</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Rafael">
         <i>Rafael</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ramadã">
         <i>Ramadã</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Ramos">
         <i>Ramos</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ramírez">
         <i>Ramírez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Raquel">
         <i>Raquel</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Raúl">
         <i>Raúl</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Real">
         <i>Real</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Reino Unido">
         <i>Reino<b/>Unido</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Renault">
         <i>Renault</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="República Checa">
         <i>República<b/>Checa</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Ricardo">
         <i>Ricardo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Richard">
         <i>Richard</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Richter">
         <i>Richter</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Riquelme">
         <i>Riquelme</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Rivaldo">
         <i>Rivaldo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Rivera">
         <i>Rivera</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Robert">
         <i>Robert</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Roberto">
         <i>Roberto</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Rodríguez">
         <i>Rodríguez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Roger">
         <i>Roger</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Roma">
         <i>Roma</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Romano">
         <i>Romano</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Romário">
         <i>Romário</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ronald">
         <i>Ronald</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ronaldinho">
         <i>Ronaldinho</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ronaldo">
         <i>Ronaldo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Roque">
         <i>Roque</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ruanda">
         <i>Ruanda</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Ruiz">
         <i>Ruiz</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Saddam">
         <i>Saddam</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Saint">
         <i>Saint</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Samaranch">
         <i>Samaranch</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Samper">
         <i>Samper</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Sampras">
         <i>Sampras</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="San">
         <i>San</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Santa">
         <i>Santa</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Santa Cruz">
         <i>Santa<b/>Cruz</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Santiago">
         <i>Santiago</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Santos">
         <i>Santos</i>
-        <par n="Cardoso__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Sarajevo">
         <i>Sarajevo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Schumacher">
         <i>Schumacher</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Segundo">
         <i>Segundo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Senna">
         <i>Senna</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Seul">
         <i>Seul</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Sharon">
         <i>Sharon</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Silva">
         <i>Silva</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Simpson">
         <i>Simpson</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Smith">
         <i>Smith</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Sofia">
         <i>Sofia</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Sony">
         <i>Sony</i>
-        <par n="Ferrari__np"/>
+        <par n="NomeOutro__np"/>
       </e>
       
       <e lm="Sporting">
         <i>Sporting</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Sri Lanka">
         <i>Sri<b/>Lanka</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Stone">
         <i>Stone</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Stuttgart">
         <i>Stuttgart</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Sudão">
         <i>Sudão</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Suárez">
         <i>Suárez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Sánchez">
         <i>Sánchez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="São Paulo">
         <i>São<b/>Paulo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="São Pedro">
         <i>São<b/>Pedro</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Tailândia">
         <i>Tailândia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Taiwan">
         <i>Taiwan</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Tarso">
         <i>Tarso</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Taylor">
         <i>Taylor</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Teerã" v="br">
         <i>Teerã</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Tel Aviv">
         <i>Tel<b/>Aviv</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Teresa">
         <i>Teresa</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Texas">
         <i>Texas</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Theo">
         <i>Theo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Thomas">
         <i>Thomas</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Thompson">
         <i>Thompson</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Tirana">
         <i>Tirana</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Tom">
         <i>Tom</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Tony">
         <i>Tony</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Toyota">
         <i>Toyota</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Tyson">
         <i>Tyson</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Tóquio">
         <i>Tóquio</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Uganda">
         <i>Uganda</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Ulster">
         <i>Ulster</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Valencia">
         <i>Valencia</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Valls">
         <i>Valls</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Valona">
         <i>Valona</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Vargas">
         <i>Vargas</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Vaticano">
         <i>Vaticano</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Vega">
         <i>Vega</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Veneza">
         <i>Veneza</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Venezuela">
         <i>Venezuela</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Victor">
         <i>Victor</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Vidal">
         <i>Vidal</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Vieira">
         <i>Vieira</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Viena">
         <i>Viena</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
             
       <e lm="Vincent">
         <i>Vincent</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Vladimir">
         <i>Vladimir</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Vázquez">
         <i>Vázquez</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Víctor">
         <i>Víctor</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Wall Street">
         <i>Wall<b/>Street</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Walter">
         <i>Walter</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Washington">
         <i>Washington</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Westminster">
         <i>Westminster</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="William">
         <i>William</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Williams">
         <i>Williams</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Wolf">
         <i>Wolf</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Yasser">
         <i>Yasser</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Yassin">
         <i>Yassin</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Yeltsin">
         <i>Yeltsin</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Zaire">
         <i>Zaire</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Zedillo">
         <i>Zedillo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Zurique">
         <i>Zurique</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="África do Sul">
         <i>África<b/>do<b/>Sul</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Nuno">
         <i>Nuno</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Edu">
         <i>Edu</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Luís">
         <i>Luís</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Delgado">
         <i>Delgado</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gold">
         <i>Gold</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Lewinsky">
         <i>Lewinsky</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Braga">
         <i>Braga</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Salazar">
         <i>Salazar</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Sócrates">
         <i>Sócrates</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Oliveira">
         <i>Oliveira</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Berna">
         <i>Berna</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Fernandes">
         <i>Fernandes</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ana">
         <i>Ana</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Expo">
         <i>Expo</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="Sousa">
         <i>Sousa</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Lopes">
         <i>Lopes</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mário">
         <i>Mário</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Gomes">
         <i>Gomes</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ferreira">
         <i>Ferreira</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Mat">
         <i>Mat</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Joaquim">
         <i>Joaquim</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Angra">
         <i>Angra</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Artur">
         <i>Artur</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Almeida">
         <i>Almeida</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="Caldas">
         <i>Caldas</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Carvalho">
         <i>Carvalho</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Barcelos">
         <i>Barcelos</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Bento">
         <i>Bento</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Rui">
         <i>Rui</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Martins">
         <i>Martins</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Humberto">
         <i>Humberto</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Miranda">
         <i>Miranda</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Guimarães">
         <i>Guimarães</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Cabral">
         <i>Cabral</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Rodrigues">
         <i>Rodrigues</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Resende">
         <i>Resende</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Peniche">
         <i>Peniche</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Matosinhos">
         <i>Matosinhos</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
 		
 		<e lm="Montevideo">
 			<i>Montevideo</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Nepal">
 			<i>Nepal</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Myanmar">
 			<i>Myanmar</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Latinoamérica">
 			<i>Latinoamérica</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="León">
 			<i>León</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Juárez">
 			<i>Juárez</i>
-			<par n="AC__np"/>
+			<par n="NomeLugar__np"/>
 		</e>
 		
 		<e lm="Senegal">
 			<i>Senegal</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Uzbekistan">
 			<i>Uzbekistan</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Yemen" v="pt">
 			<i>Yemen</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Iêmen" v="br">
 			<i>Iêmen</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Chade">
 			<i>Chade</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Burundi">
 			<i>Burundi</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Guantánamo">
 			<i>Guantánamo</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Equador">
 			<i>Equador</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Herzegóvina">
 			<i>Herzegóvina</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Haiti">
 			<i>Haiti</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Eritréia">
 			<i>Eritréia</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		
 		<e lm="Salgado">
 			<i>Salgado</i>
-			<par n="Abu__np"/>
+			<par n="NomeLugar__np"/>
 		</e>
 		
 		<e lm="Wagner">
 			<i>Wagner</i>
-			<par n="Abu__np"/>
+			<par n="Nome__np"/>
 		</e>
 		
 		<e lm="Anjos">
 			<i>Anjos</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 		<e lm="Brito">
 			<i>Brito</i>
-			<par n="Abu__np"/>
+			<par n="Nome__np"/>
 		</e>
 		
 		<e lm="Bravo">
 			<i>Bravo</i>
-			<par n="Abu__np"/>
+			<par n="Nome__np"/>
 		</e>
 		
 		<e lm="Benfica">
 			<i>Benfica</i>
-			<par n="AC__np"/>
+			<par n="Lugar__np"/>
 		</e>
 		
 
@@ -134973,8 +135060,8 @@
       </e>
       
       <e lm="há">
-        <i>há</i>
-        <par n="há__vblex"/>
+        <i>h</i>
+        <par n="h/á__vblex"/>
       </e>
       
       <e lm="identificar">
@@ -138423,7 +138510,7 @@
       
       <e lm="Coimbra">
         <i>Coimbra</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="vara">
@@ -138473,17 +138560,17 @@
       
       <e lm="Leiria">
         <i>Leiria</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Aveiro">
         <i>Aveiro</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Setúbal">
         <i>Setúbal</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="copyright">
@@ -138493,12 +138580,12 @@
       
       <e lm="Bragança">
         <i>Bragança</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Viseu">
         <i>Viseu</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="contabilidade">
@@ -138508,17 +138595,17 @@
       
       <e lm="Açores">
         <i>Açores</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Santarém">
         <i>Santarém</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Algarve">
         <i>Algarve</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="fato" v="br">
@@ -138528,42 +138615,42 @@
       
       <e lm="Viana">
         <i>Viana</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Vila">
         <i>Vila</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Beja">
         <i>Beja</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Portalegre">
         <i>Portalegre</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Timor">
         <i>Timor</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="SC">
         <i>SC</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="SP">
         <i>SP</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Sá">
         <i>Sá</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="ramo">
@@ -138573,7 +138660,7 @@
       
       <e lm="Faro">
         <i>Faro</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="largo">
@@ -138583,27 +138670,27 @@
       
       <e lm="RN">
         <i>RN</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="RS">
         <i>RS</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="RJ">
         <i>RJ</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="RO">
         <i>RO</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="RR">
         <i>RR</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="RG">
@@ -138613,7 +138700,7 @@
       
       <e lm="Rh">
         <i>Rh</i>
-        <par n="ABC__np"/>
+        <par n="Outro__np"/>
       </e>
       
       <e lm="arquitectura">
@@ -138643,12 +138730,12 @@
       
       <e lm="António">
         <i>António</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Évora">
         <i>Évora</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="localização">
@@ -138668,12 +138755,12 @@
       
       <e lm="Minho">
         <i>Minho</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="Tejo">
         <i>Tejo</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="electrotécnica">
@@ -138688,7 +138775,7 @@
       
       <e lm="Génova">
         <i>Génova</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="radiografia">
@@ -138713,12 +138800,12 @@
       
       <e lm="Emília">
         <i>Emília</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="Ceuta">
         <i>Ceuta</i>
-        <par n="AC__np"/>
+        <par n="Lugar__np"/>
       </e>
       
       <e lm="caravana">
@@ -138753,7 +138840,7 @@
       
       <e lm="Ribeiro">
         <i>Ribeiro</i>
-        <par n="Abu__np"/>
+        <par n="NomeLugar__np"/>
       </e>
       
       <e lm="PS">
@@ -138828,7 +138915,7 @@
       
       <e lm="Alfredo">
         <i>Alfredo</i>
-        <par n="Abu__np"/>
+        <par n="Nome__np"/>
       </e>
       
       <e lm="video">
@@ -139172,11 +139259,11 @@
 </e>
 <e lm="Moura">
   <i>Moura</i>
-  <par n="Abu__np"/>
+  <par n="Nome__np"/>
 </e>
 <e lm="Porsche">
   <i>Porsche</i>
-  <par n="ABC__np"/>
+  <par n="Outro__np"/>
 </e>
 <e lm="registo" v="pt">
   <i>registo</i>
@@ -139184,11 +139271,11 @@
 </e>
 <e lm="Osama">
   <i>Osama</i>
-  <par n="Abu__np"/>
+  <par n="Nome__np"/>
 </e>
 <e lm="Plutão">
   <i>Plutão</i>
-  <par n="AC__np"/>
+  <par n="Lugar__np"/>
 </e>
 <e lm="inovação">
   <i>inovaç</i>
@@ -139334,7 +139421,7 @@
 </e>
 <e lm="Isabel">
   <i>Isabel</i>
-  <par n="Abu__np"/>
+  <par n="Nome__np"/>
 </e>
 <e lm="veterinário">
   <i>veterinári</i>
@@ -139342,7 +139429,7 @@
 </e>
 <e lm="Latim">
   <i>Latim</i>
-  <par n="Abu__np"/>
+  <par n="Nome__np"/>
 </e>
 <e lm="geológico">
   <i>geológic</i>
@@ -139392,47 +139479,43 @@
 
 <e lm="Álvaro">
 	<i>Álvaro</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Arriaga">
 	<i>Arriaga</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="aviar">
 	<i>aviar</i>
 	<par n="anterior__adj"/>
 </e>
-<e lm="Bagdad" r="LR">
-	<i>Bagdad</i>
-	<par n="AC__np"/>
-</e>
 <e lm="Bernal">
 	<i>Bernal</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Bono">
 	<i>Bono</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Cádiz">
 	<i>Cádiz</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Castilla">
 	<i>Castilla</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Castilla">
 	<i>Castilla</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Cataluña">
 	<i>Cataluña</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Cézanne">
 	<i>Cézanne</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="cine" r="LR">
 	<i>cine</i>
@@ -139473,31 +139556,31 @@
 </e>
 <e lm="Elena">
 	<i>Elena</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Elvira">
 	<i>Elvira</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Empúries">
 	<i>Empúries</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Endesa">
 	<i>Endesa</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="Endesa">
 	<i>Endesa</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="Espinosa">
 	<i>Espinosa</i>
-	<par n="Abu__np"/>
+	<par n="NomeLugar__np"/>
 </e>
 <e lm="Estella">
 	<i>Estella</i>
-	<par n="Abu__np"/>
+	<par n="NomeLugar__np"/>
 </e>
 <e lm="etarra">
 	<i>etarra</i>
@@ -139509,7 +139592,7 @@
 </e>
 <e lm="Florentino">
 	<i>Florentino</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="foco">
 	<i>foco</i>
@@ -139517,7 +139600,7 @@
 </e>
 <e lm="Forges">
 	<i>Forges</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="fulgurante">
 	<i>fulgurante</i>
@@ -139525,11 +139608,11 @@
 </e>
 <e lm="Generalitat">
 	<i>Generalitat</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="Google">
 	<i>Google</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="hasta">
 	<i>hasta</i>
@@ -139545,15 +139628,15 @@
 </e>
 <e lm="Houston">
 	<i>Houston</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Huelva">
 	<i>Huelva</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Iberia">
 	<i>Iberia</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="indemnizar">
 	<i>indemniz</i>
@@ -139577,7 +139660,7 @@
 </e>
 <e lm="Leonor">
 	<i>Leonor</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="mirada">
 	<i>mirada</i>
@@ -139589,15 +139672,15 @@
 </e>
 <e lm="Moix">
 	<i>Moix</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Múrcia">
 	<i>Múrcia</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Murcia" r="LR">
 	<i>Murcia</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="película">
 	<i>película</i>
@@ -139621,7 +139704,7 @@
 </e>
 <e lm="Ramón">
 	<i>Ramón</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="récord" r="LR">
 	<i>récord</i>
@@ -139633,19 +139716,19 @@
 </e>
 <e lm="Ribera">
 	<i>Ribera</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Rocío">
 	<i>Rocío</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Romeu">
 	<i>Romeu</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Sena">
 	<i>Sena</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="sensato">
 	<i>sensat</i>
@@ -139657,7 +139740,7 @@
 </e>
 <e lm="Sevilla">
 	<i>Sevilla</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="sitiar">
 	<i>siti</i>
@@ -139665,15 +139748,15 @@
 </e>
 <e lm="Solbes">
 	<i>Solbes</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Sur">
 	<i>Sur</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="TVE">
 	<i>TVE</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="TVE">
 	<i>TVE</i>
@@ -139685,11 +139768,11 @@
 </e>
 <e lm="Uribe">
 	<i>Uribe</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Val">
 	<i>Val</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="valenciano">
 	<i>valencian</i>
@@ -139721,31 +139804,31 @@
 </e>
 <e lm="Yahoo">
 	<i>Yahoo</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="Yuste">
 	<i>Yuste</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Zapatero">
 	<i>Zapatero</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Zaplana">
 	<i>Zaplana</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Zaragoza">
 	<i>Zaragoza</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Zaragoza">
 	<i>Zaragoza</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Adolfo">
 	<i>Adolfo</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="castelhano">
 	<i>castelhan</i>
@@ -139789,7 +139872,7 @@
 </e>
 <e lm="Antoni">
 	<i>Antoni</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="articular">
 	<i>articul</i>
@@ -139805,7 +139888,7 @@
 </e>
 <e lm="Bassi">
 	<i>Bassi</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="caseiro">
 	<i>caseir</i>
@@ -139887,7 +139970,7 @@
 	<i>experiente</i>
 	<par n="agrícola__adj"/>
 </e>
-<e lm="experto" r="LR">
+<e lm="experto">
 	<i>expert</i>
 	<par n="abert/o__adj"/>
 </e>
@@ -139913,11 +139996,11 @@
 </e>
 <e lm="Garrido">
 	<i>Garrido</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Gorka">
 	<i>Gorka</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="ideologia">
 	<i>ideologia</i>
@@ -139945,15 +140028,15 @@
 </e>
 <e lm="Joan">
 	<i>Joan</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Josep">
 	<i>Josep</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Karachi">
 	<i>Karachi</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="laicismo">
 	<i>laicismo</i>
@@ -139969,11 +140052,11 @@
 </e>
 <e lm="Lleida">
 	<i>Lleida</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Luisiana">
 	<i>Luisiana</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="madrilenho" v="br">
 	<i>madrilenh</i>
@@ -139985,11 +140068,11 @@
 </e>
 <e lm="Martín">
 	<i>Martín</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Montilla">
 	<i>Montilla</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="neto">
 	<i>net</i>
@@ -140005,11 +140088,11 @@
 </e>
 <e lm="Orleans">
 	<i>Orleans</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Pacheco">
 	<i>Pacheco</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="pactuar">
 	<i>pactu</i>
@@ -140033,7 +140116,7 @@
 </e>
 <e lm="Prat">
 	<i>Prat</i>
-	<par n="Abu__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="previdência">
 	<i>previdência</i>
@@ -140057,15 +140140,15 @@
 </e>
 <e lm="Rivero">
 	<i>Rivero</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Rovira">
 	<i>Rovira</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Sanahuja">
 	<i>Sanahuja</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="sanidade" r="LR">
 	<i>sanidade</i>
@@ -140081,11 +140164,11 @@
 </e>
 <e lm="Sebastián">
 	<i>Sebastián</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Singh">
 	<i>Singh</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="sucursal">
 	<i>sucursa</i>
@@ -140114,7 +140197,7 @@
 </e>
 <e lm="Almunia">
 	<i>Almunia</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="antiviral">
 	<i>antivira</i>
@@ -140122,15 +140205,15 @@
 </e>
 <e lm="Bargalló">
 	<i>Bargalló</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Barroso">
 	<i>Barroso</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Bin">
 	<i>Bin</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="carência">
 	<i>carência</i>
@@ -140138,7 +140221,7 @@
 </e>
 <e lm="Claude">
 	<i>Claude</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="clonar">
 	<i>clon</i>
@@ -140214,19 +140297,19 @@
 </e>
 <e lm="Islamabad">
 	<i>Islamabad</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Jean">
 	<i>Jean</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Kabul">
 	<i>Kabul</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Laden">
 	<i>Laden</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="lousa">
 	<i>lousa</i>
@@ -140234,7 +140317,7 @@
 </e>
 <e lm="Navarra">
 	<i>Navarra</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="navarro">
 	<i>navarr</i>
@@ -140242,7 +140325,7 @@
 </e>
 <e lm="Navarro">
 	<i>Navarro</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="pandemia">
 	<i>pandemia</i>
@@ -140290,7 +140373,7 @@
 </e>
 <e lm="Albacete">
 	<i>Albacete</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="altista" r="LR">
 	<i>altista</i>
@@ -140327,11 +140410,11 @@
 </e>
 <e lm="EEUU">
 	<i>EEUU</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Eleuterio">
 	<i>Eleuterio</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="estancamento">
 	<i>estancamento</i>
@@ -140343,7 +140426,7 @@
 </e>
 <e lm="Ferrol">
 	<i>Ferrol</i>
-	<par n="Abu__np"/>
+	<par n="NomeLugar__np"/>
 </e>
 <e lm="floral">
 	<i>flora</i>
@@ -140367,7 +140450,7 @@
 </e>
 <e lm="Linares">
 	<i>Linares</i>
-	<par n="Abu__np"/>
+	<par n="NomeLugar__np"/>
 </e>
 <e lm="merengue">
 	<i>merengue</i>
@@ -140379,7 +140462,7 @@
 </e>
 <e lm="Piqué">
 	<i>Piqué</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="previsível">
 	<i>previsíve</i>
@@ -140387,7 +140470,7 @@
 </e>
 <e lm="Rajoy">
 	<i>Rajoy</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="subsaariano">
 	<i>subsaarian</i>
@@ -140399,7 +140482,7 @@
 </e>
 <e lm="Tenerife">
 	<i>Tenerife</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="traspassar">
 	<i>traspass</i>
@@ -140419,11 +140502,11 @@
 </e>
 <e lm="Alicante">
 	<i>Alicante</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Álvarez">
 	<i>Álvarez</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="anotar">
 	<i>anot</i>
@@ -140439,15 +140522,15 @@
 </e>
 <e lm="Azorín">
 	<i>Azorín</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Bologna" r="LR">
 	<i>Bologna</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Bolonha">
 	<i>Bolonha</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="campus">
 	<i>campus</i>
@@ -140459,7 +140542,7 @@
 </e>
 <e lm="Clooney">
 	<i>Clooney</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="escoltar">
 	<i>escolt</i>
@@ -140471,7 +140554,7 @@
 </e>
 <e lm="Euroliga">
 	<i>Euroliga</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="ideário">
 	<i>ideário</i>
@@ -140487,15 +140570,15 @@
 </e>
 <e lm="Joaquin">
 	<i>Joaquin</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Luisa">
 	<i>Luisa</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Manzano">
 	<i>Manzano</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="maquinaria">
 	<i>maquinaria</i>
@@ -140503,7 +140586,7 @@
 </e>
 <e lm="Müller">
 	<i>Müller</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="nazismo">
 	<i>nazismo</i>
@@ -140519,7 +140602,7 @@
 </e>
 <e lm="Senado">
 	<i>Senado</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="tramitar">
 	<i>tramit</i>
@@ -140547,7 +140630,7 @@
 </e>
 <e lm="Acebes">
 	<i>Acebes</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="aceder">
 	<i>aced</i>
@@ -140571,7 +140654,7 @@
 </e>
 <e lm="Aguirre">
 	<i>Aguirre</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="agulha">
 	<i>agulha</i>
@@ -140579,7 +140662,7 @@
 </e>
 <e lm="Alcaraz">
 	<i>Alcaraz</i>
-	<par n="Abu__np"/>
+	<par n="NomeLugar__np"/>
 </e>
 <e lm="alegoria">
 	<i>alegoria</i>
@@ -140587,7 +140670,7 @@
 </e>
 <e lm="Alí">
 	<i>Alí</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="almoçar">
 	<i>almo</i>
@@ -140619,11 +140702,11 @@
 </e>
 <e lm="Andaluzia">
 	<i>Andaluzia</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Ángel">
 	<i>Ángel</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="anidrido">
 	<i>anidrido</i>
@@ -140651,11 +140734,11 @@
 </e>
 <e lm="Augusta">
 	<i>Augusta</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Augusto">
 	<i>Augusto</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="autodeterminação">
 	<i>autodeterminaç</i>
@@ -140687,7 +140770,7 @@
 </e>
 <e lm="Beckham">
 	<i>Beckham</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="besta">
 	<i>besta</i>
@@ -140735,7 +140818,7 @@
 </e>
 <e lm="Chema">
 	<i>Chema</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="circunscrição">
 	<i>circunscriç</i>
@@ -140779,7 +140862,7 @@
 </e>
 <e lm="Consell">
 	<i>Consell</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="consentimento">
 	<i>consentimento</i>
@@ -140835,7 +140918,7 @@
 </e>
 <e lm="Cristina">
 	<i>Cristina</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="curiosidade">
 	<i>curiosidade</i>
@@ -140976,11 +141059,11 @@
 </e>
 <e lm="Fraga">
 	<i>Fraga</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Francesc">
 	<i>Francesc</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="fundamentalista">
 	<i>fundamentalista</i>
@@ -141012,7 +141095,7 @@
 </e>
 <e lm="Gallardón">
 	<i>Gallardón</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="ganhador">
 	<i>ganhador</i>
@@ -141028,7 +141111,7 @@
 </e>
 <e lm="Haro">
 	<i>Haro</i>
-	<par n="Abu__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="hematoma">
 	<i>hematoma</i>
@@ -141104,7 +141187,7 @@
 </e>
 <e lm="IU">
 	<i>IU</i>
-	<par n="ABC__np"/>
+	<par n="Outro__np"/>
 </e>
 <e lm="jargão">
 	<i>jarg</i>
@@ -141112,11 +141195,11 @@
 </e>
 <e lm="Jesús">
 	<i>Jesús</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Jon">
 	<i>Jon</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="lácteo">
 	<i>lácte</i>
@@ -141160,15 +141243,15 @@
 </e>
 <e lm="Llinares">
 	<i>Llinares</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Lluís">
 	<i>Lluís</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Lozano">
 	<i>Lozano</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="luva">
 	<i>luva</i>
@@ -141181,7 +141264,7 @@
 
 <e lm="Mahoma">
 	<i>Mahoma</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="maioritário">
 	<i>maioritári</i>
@@ -141193,7 +141276,7 @@
 </e>
 <e lm="Maragall">
 	<i>Maragall</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="marginar">
 	<i>margin</i>
@@ -141201,7 +141284,7 @@
 </e>
 <e lm="Mariano">
 	<i>Mariano</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="maternidade">
 	<i>maternidade</i>
@@ -141225,7 +141308,7 @@
 </e>
 <e lm="Milton">
 	<i>Milton</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="moléstia">
 	<i>moléstia</i>
@@ -141253,7 +141336,7 @@
 </e>
 <e lm="Nuria">
 	<i>Nuria</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="nutrir">
 	<i>nutr</i>
@@ -141297,11 +141380,11 @@
 </e>
 <e lm="Pascual">
 	<i>Pascual</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Pasqual">
 	<i>Pasqual</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="patologia">
 	<i>patologia</i>
@@ -141337,7 +141420,7 @@
 </e>
 <e lm="Prometeo">
 	<i>Prometeo</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="proposição">
 	<i>proposiç</i>
@@ -141405,7 +141488,7 @@
 </e>
 <e lm="Ruiz">
 	<i>Ruiz</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="sabotagem">
 	<i>sabotage</i>
@@ -141429,15 +141512,15 @@
 </e>
 <e lm="Sáenz">
 	<i>Sáenz</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Sainz">
 	<i>Sainz</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Salma">
 	<i>Salma</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="sancionador">
 	<i>sancionador</i>
@@ -141469,7 +141552,7 @@
 </e>
 <e lm="Shelley">
 	<i>Shelley</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="sigla">
 	<i>sigla</i>
@@ -141481,7 +141564,7 @@
 </e>
 <e lm="Siurana">
 	<i>Siurana</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="sobrar">
 	<i>sobr</i>
@@ -141489,7 +141572,7 @@
 </e>
 <e lm="Solana">
 	<i>Solana</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="talha">
 	<i>talha</i>
@@ -141505,7 +141588,7 @@
 </e>
 <e lm="Tomás">
 	<i>Tomás</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="traição">
 	<i>traiç</i>
@@ -141529,7 +141612,7 @@
 </e>
 <e lm="Trillo">
 	<i>Trillo</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="triunfar">
 	<i>triunf</i>
@@ -141549,7 +141632,7 @@
 </e>
 <e lm="Valladolid">
 	<i>Valladolid</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="vaqueiro">
 	<i>vaqueiro</i>
@@ -141565,15 +141648,15 @@
 </e>
 <e lm="Vitoria">
 	<i>Vitoria</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Vizcaya">
 	<i>Vizcaya</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="Vizcaya">
 	<i>Vizcaya</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="votante">
 	<i>votante</i>
@@ -142354,7 +142437,7 @@
 </e>
 <e lm="imperador">
 	<i>imperador</i>
-	<par n="amor__n"/>
+	<par n="admirador__n"/>
 </e>
 <e lm="imperial">
 	<i>imperia</i>
@@ -143486,7 +143569,7 @@
 </e>
 <e lm="Aristóteles">
 	<i>Aristóteles</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="armadilha">
 	<i>armadilha</i>
@@ -143537,8 +143620,8 @@
 	<par n="abadia__n"/>
 </e>
 <e lm="artesão">
-	<i>artesão</i>
-	<par n="Leste__n"/>
+	<i>artesã</i>
+	<par n="afegã/o__n"/>
 </e>
 <e lm="artificial">
 	<i>artificia</i>
@@ -143694,7 +143777,7 @@
 </e>
 <e lm="Bautista">
 	<i>Bautista</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="bebedor">
 	<i>bebedor</i>
@@ -143810,7 +143893,7 @@
 </e>
 <e lm="Buda">
 	<i>Buda</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="bufão">
 	<i>buf</i>
@@ -144511,7 +144594,7 @@
 </e>
 <e lm="DF">
 	<i>DF</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="diabo">
 	<i>diabo</i>
@@ -144587,7 +144670,7 @@
 </e>
 <e lm="Elen">
 	<i>Elen</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="elmo">
 	<i>elmo</i>
@@ -144939,7 +145022,7 @@
 </e>
 <e lm="Ezequiel">
 	<i>Ezequiel</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="fábula">
 	<i>fábula</i>
@@ -144991,11 +145074,11 @@
 </e>
 <e lm="Fausto">
 	<i>Fausto</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="Fea">
 	<i>Fea</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="fedor">
 	<i>fedor</i>
@@ -145119,7 +145202,7 @@
 </e>
 <e lm="Fortaleza">
 	<i>Fortaleza</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="fortificar">
 	<i>fortifi</i>
@@ -145183,7 +145266,7 @@
 </e>
 <e lm="Gil">
 	<i>Gil</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="ginete">
 	<i>ginete</i>
@@ -145259,7 +145342,7 @@
 </e>
 <e lm="Hamlet">
 	<i>Hamlet</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="harmonia">
 	<i>harmonia</i>
@@ -145535,7 +145618,7 @@
 </e>
 <e lm="Isaías">
 	<i>Isaías</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="isentar">
 	<i>isent</i>
@@ -145587,7 +145670,7 @@
 </e>
 <e lm="Laguna">
 	<i>Laguna</i>
-	<par n="Cardoso__np"/>
+	<par n="NomeLugar__np"/>
 </e>
 <e lm="lamber">
 	<i>lamb</i>
@@ -145667,7 +145750,7 @@
 </e>
 <e lm="Lucas">
 	<i>Lucas</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="lucidez">
 	<i>lucidez</i>
@@ -145687,7 +145770,7 @@
 </e>
 <e lm="Lutero">
 	<i>Lutero</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="luzir">
 	<i>l</i>
@@ -145723,7 +145806,7 @@
 </e>
 <e lm="Maia">
 	<i>Maia</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="majestade">
 	<i>majestade</i>
@@ -145767,7 +145850,7 @@
 </e>
 <e lm="Mar">
 	<i>Mar</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="marinheiro">
 	<i>marinheiro</i>
@@ -145903,7 +145986,7 @@
 </e>
 <e lm="Moisés">
 	<i>Moisés</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="molestar">
 	<i>molest</i>
@@ -145969,13 +146052,13 @@
 	<i>nésci</i>
 	<par n="abert/o__adj"/>
 </e>
-<e lm="névoa" r="LR">
+<e lm="névoa">
 	<i>névoa</i>
 	<par n="abadia__n"/>
 </e>
 <e lm="Nietzsche">
 	<i>Nietzsche</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="ninho">
 	<i>ninho</i>
@@ -146027,7 +146110,7 @@
 </e>
 <e lm="Occidente">
 	<i>Occidente</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="ocidente">
 	<i>ocidente</i>
@@ -146283,7 +146366,7 @@
 </e>
 <e lm="Pilar">
 	<i>Pilar</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="pináculo">
 	<i>pináculo</i>
@@ -146303,7 +146386,7 @@
 </e>
 <e lm="Platón">
 	<i>Platón</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="plebeu">
 	<i>pleb</i>
@@ -146744,7 +146827,7 @@
 </e>
 <e lm="Sabio">
 	<i>Sabio</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="sábio">
 	<i>sábi</i>
@@ -146792,7 +146875,7 @@
 </e>
 <e lm="Sela">
 	<i>Sela</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="semblante">
 	<i>semblante</i>
@@ -147132,7 +147215,7 @@
 </e>
 <e lm="Ulisses">
 	<i>Ulisses</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="ungido">
 	<i>ungid</i>
@@ -147168,7 +147251,7 @@
 </e>
 <e lm="Valier">
 	<i>Valier</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="valoração">
 	<i>valoraç</i>
@@ -147328,7 +147411,7 @@
 </e>
 <e lm="Von">
 	<i>Von</i>
-	<par n="Abu__np"/>
+	<par n="Nome__np"/>
 </e>
 <e lm="zelar">
 	<i>zel</i>
@@ -147669,7 +147752,7 @@
 </e>
 <e lm="Castelo Branco" a="carmentano">
 	<i>Castelo<b/>Branco</i>
-	<par n="AC__np"/>
+	<par n="Lugar__np"/>
 </e>
 <e lm="populacional" a=" pereira_pl@sapo.pt">
   <i>populaciona</i>
@@ -148292,7 +148375,7 @@
 	</e>
 		<e lm="Teerão" v="pt" a="imaxin|software">
 		<i>Teerão</i>
-		<par n="AC__np"/>
+		<par n="Lugar__np"/>
 	</e>
 	<e lm="Tunes">
 		<p>
@@ -149214,7 +149297,7 @@
       
 	<e lm="Moscovo" v="pt" a="imaxin|software">
 		<i>Moscovo</i>
-    <par n="AC__np"/>
+    <par n="Lugar__np"/>
 	</e>
 	
 	<e lm="canadiano" v="pt" a="imaxin|software">
@@ -149305,12 +149388,12 @@
 	      
 	<e lm="Oriente Médio" v="pt" a="imaxin|software">
 		<i>Oriente<b/>Médio</i>
-		<par n="AC__np"/>
+		<par n="Lugar__np"/>
 	</e>
 		      
 	<e lm="Médio Oriente" v="br" a="imaxin|software">
 		<i>Médio<b/>Oriente</i>
-		<par n="AC__np"/>
+		<par n="Lugar__np"/>
 	</e>
       
 	<e lm="humidade" v="pt" a="imaxin|software">
@@ -149778,7 +149861,7 @@
 <e lm="transportadora" a="prompsit2cdl"><i>transportadora</i><par n="abadia__n"/></e>
 <e lm="menu" a="prompsit2cdl"><i>menu</i><par n="Leste__n"/></e>
 <e lm="privacidade" a="prompsit2cdl"><i>privacidade</i><par n="abadia__n"/></e>
-<e lm="Calpe" a="prompsit2cdl"><i>Calpe</i><par n="AC__np"/></e>
+<e lm="Calpe" a="prompsit2cdl"><i>Calpe</i><par n="Lugar__np"/></e>
 <e lm="apadrinhar" a="prompsit2cdl"><i>apadrinh</i><par n="abal/ar__vblex"/></e>
 <e lm="discriminar" a="prompsit2cdl"><p><l>discrimi­n</l><r>discrimin</r></p><par n="abal/ar__vblex"/></e>
 <e lm="desculpar" a="prompsit2cdl"><i>desculp</i><par n="abal/ar__vblex"/></e>
@@ -149797,7 +149880,7 @@
 <e lm="universalidade" a="prompsit2cdl"><i>universalidade</i><par n="abadia__n"/></e>
 <e lm="encriptação" a="prompsit2cdl"><i>encriptaç</i><par n="aceitaç/ão__n"/></e>
 <e lm="blog" a="prompsit2cdl"><i>blog</i><par n="Leste__n"/></e>
-<e lm="Explorer" a="prompsit"><i>Explorer</i><par n="ABC__np"/></e>
+<e lm="Explorer" a="prompsit"><i>Explorer</i><par n="Outro__np"/></e>
 <e lm="lacuna" a="prompsit"><i>lacuna</i><par n="abadia__n"/></e>
 <e lm="on-line" a="prompsit2ecl"><i>on-line</i><par n="anti__adj"/></e>
 <e lm="on line" a="prompsit2ecl" r="LR"><p><l>on<b/>line</l><r>on-line</r></p><par n="anti__adj"/></e>
@@ -149831,26 +149914,26 @@
 <e lm="off-line" a="prompsit2cdl"><i>off-line</i><par n="anti__adj"/></e>
 <e lm="offline" a="prompsit2cdl" r="LR"><p><l>offline</l><r>off-line</r></p><par n="anti__adj"/></e>
 <e lm="veraz" a="prompsit2cdl"><i>veraz</i><par n="anterior__adj"/></e>
-<e lm="Espasa" a="prompsit2cdl"><i>Espasa</i><par n="ABC__np"/></e>
-<e lm="Espasa Calpe" a="prompsit2cdl"><i>Espasa<b/>Calpe</i><par n="ABC__np"/></e>
-<e lm="Vía de las dos Castillas" a="prompsit2cdl"><i>Vía<b/>de<b/>las<b/>dos<b/>Castillas</i><par n="AC__np"/></e>
-<e lm="Complejo Ática" a="prompsit2cdl"><i>Complejo<b/>Ática</i><par n="ABC__np"/></e>
-<e lm="casadellibro.com" a="prompsit2cdl"><i>casadellibro.com</i><par n="ABC__np"/></e>
-<e lm="VeriSign" a="prompsit2cdl"><i>VeriSign</i><par n="ABC__np"/></e>
-<e lm="DHL" a="prompsit2cdl"><i>DHL</i><par n="ABC__np"/></e>
-<e lm="UPS" a="prompsit2cdl"><i>UPS</i><par n="ABC__np"/></e>
-<e lm="MRW" a="prompsit2cdl"><i>MRW</i><par n="ABC__np"/></e>
-<e lm="UMD" a="prompsit2cdl"><i>UMD</i><par n="ABC__np"/></e>
-<e lm="HP" a="prompsit2cdl"><i>HP</i><par n="ABC__np"/></e>
-<e lm="Trust" a="prompsit2cdl"><i>Trust</i><par n="ABC__np"/></e>
-<e lm="SSL" a="prompsit2cdl"><i>SSL</i><par n="ABC__np"/></e>
-<e lm="RSA" a="prompsit2cdl"><i>RSA</i><par n="ABC__np"/></e>
-<e lm="LTD" a="prompsit2cdl"><i>LTD</i><par n="ABC__np"/></e>
-<e lm="EDIF" a="prompsit2cdl"><i>EDIF</i><par n="ABC__np"/></e>
-<e lm="EAED" a="prompsit2cdl"><i>EAED</i><par n="ABC__np"/></e>
-<e lm="LTD" a="prompsit2cdl"><i>LTD</i><par n="ABC__np"/></e>
-<e lm="Pozuelo" a="prompsit2cdl"><i>Pozuelo</i><par n="AC__np"/></e>
-<e lm="Pozuelo de Alarcón" a="prompsit2cdl"><i>Pozuelo<b/>de<b/>Alarcón</i><par n="AC__np"/></e>
+<e lm="Espasa" a="prompsit2cdl"><i>Espasa</i><par n="Outro__np"/></e>
+<e lm="Espasa Calpe" a="prompsit2cdl"><i>Espasa<b/>Calpe</i><par n="Outro__np"/></e>
+<e lm="Vía de las dos Castillas" a="prompsit2cdl"><i>Vía<b/>de<b/>las<b/>dos<b/>Castillas</i><par n="Lugar__np"/></e>
+<e lm="Complejo Ática" a="prompsit2cdl"><i>Complejo<b/>Ática</i><par n="Lugar__np"/></e>
+<e lm="casadellibro.com" a="prompsit2cdl"><i>casadellibro.com</i><par n="Outro__np"/></e>
+<e lm="VeriSign" a="prompsit2cdl"><i>VeriSign</i><par n="Outro__np"/></e>
+<e lm="DHL" a="prompsit2cdl"><i>DHL</i><par n="Outro__np"/></e>
+<e lm="UPS" a="prompsit2cdl"><i>UPS</i><par n="Outro__np"/></e>
+<e lm="MRW" a="prompsit2cdl"><i>MRW</i><par n="Outro__np"/></e>
+<e lm="UMD" a="prompsit2cdl"><i>UMD</i><par n="Outro__np"/></e>
+<e lm="HP" a="prompsit2cdl"><i>HP</i><par n="Outro__np"/></e>
+<e lm="Trust" a="prompsit2cdl"><i>Trust</i><par n="Outro__np"/></e>
+<e lm="SSL" a="prompsit2cdl"><i>SSL</i><par n="Outro__np"/></e>
+<e lm="RSA" a="prompsit2cdl"><i>RSA</i><par n="Outro__np"/></e>
+<e lm="LTD" a="prompsit2cdl"><i>LTD</i><par n="Outro__np"/></e>
+<e lm="EDIF" a="prompsit2cdl"><i>EDIF</i><par n="Outro__np"/></e>
+<e lm="EAED" a="prompsit2cdl"><i>EAED</i><par n="Outro__np"/></e>
+<e lm="LTD" a="prompsit2cdl"><i>LTD</i><par n="Outro__np"/></e>
+<e lm="Pozuelo" a="prompsit2cdl"><i>Pozuelo</i><par n="Lugar__np"/></e>
+<e lm="Pozuelo de Alarcón" a="prompsit2cdl"><i>Pozuelo<b/>de<b/>Alarcón</i><par n="Lugar__np"/></e>
 <e lm="descatalogar" a="prompsit2cdl"><i>descatalog</i><par n="abrig/ar__vblex"/></e>
 <e lm="encriptar" a="prompsit2cdl"><i>encript</i><par n="abal/ar__vblex"/></e>
 <e lm="maquinar" a="prompsit2cdl"><i>maquin</i><par n="abal/ar__vblex"/></e>	
