@@ -99269,13 +99269,13 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="radiactivo" v="pt">
-        <i>radiactiv</i>
+      <e lm="radioactivo" v="pt">
+        <i>radioactiv</i>
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="radiativo" v="br">
-        <i>radiativ</i>
+      <e lm="radioativo" v="br">
+        <i>radioativ</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -99975,12 +99975,12 @@
         <i>norte-american</i>
         <par n="abert/o__adj"/>
       </e>
-      
+<!--      
       <e lm="nosso">
         <i>noss</i>
         <par n="noss/o__adj"/>
       </e>
-      
+-->      
       <e lm="noturno" v="br">
         <i>noturn</i>
         <par n="abert/o__adj"/>
@@ -100178,10 +100178,12 @@
         <i>parceir</i>
         <par n="abert/o__adj"/>
       </e>
+<!--
       <e lm="mais pequeno">
         <i>mais<b/>pequen</i>
         <par n="abert/o__adj"/>
       </e>
+-->
       <e lm="parcial">
         <i>parcia</i>
         <par n="aceitáve/l__adj"/>
@@ -100963,12 +100965,12 @@
         <i>separatista</i>
         <par n="agrícola__adj"/>
       </e>
-      
+<!--      
       <e lm="seu">
         <i>s</i>
         <par n="s/eu__adj"/>
       </e>
-      
+-->      
       <e lm="severo">
         <i>sever</i>
         <par n="abert/o__adj"/>
@@ -101174,9 +101176,9 @@
         <par n="conservador__adj"/>
       </e>
       
-      <e lm="tais">
-        <i>tais</i>
-        <par n="tais__adj"/>
+      <e lm="tal">
+        <i>ta</i>
+        <par n="aceitáve/l__adj"/>
       </e>
       
       <e lm="tanto">
@@ -139485,10 +139487,12 @@
 	<i>Arriaga</i>
 	<par n="Nome__np"/>
 </e>
+<!--
 <e lm="aviar">
 	<i>aviar</i>
 	<par n="anterior__adj"/>
 </e>
+-->
 <e lm="Bernal">
 	<i>Bernal</i>
 	<par n="Nome__np"/>
@@ -140395,11 +140399,12 @@
 	<i>BCE</i>
 	<par n="FBI__n"/>
 </e>
-
+<!--
 <e lm="de ascensão">
 	<i>de<b/>ascens</i>
 	<par n="de_ascens/ão__adj"/>
 </e>
+-->
 <e lm="diferencial">
 	<i>diferencia</i>
 	<par n="aceitáve/l__adj"/>
