@@ -4930,7 +4930,7 @@
       </e>
     </pardef>
 
-    <pardef n="nos__prn">
+    <!--<pardef n="nos__prn">
       
       <e>
         <p>
@@ -4938,9 +4938,9 @@
           <r><s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="me__prn">
+    <!--<pardef n="me__prn">
       
       <e>
         <p>
@@ -4948,9 +4948,9 @@
           <r><s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="vos__prn">
+    <!--<pardef n="vos__prn">
       
       <e>
         <p>
@@ -4958,9 +4958,9 @@
           <r><s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="te__prn">
+    <!--<pardef n="te__prn">
       
       <e>
         <p>
@@ -4968,9 +4968,9 @@
           <r><s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="lhe__prn">
+    <!--<pardef n="lhe__prn">
       
       <e>
         <p>
@@ -4985,9 +4985,9 @@
           <r><s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="se__prn">
+    <!--<pardef n="se__prn">
       
       <e>
         <p>
@@ -4995,9 +4995,9 @@
           <r><s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="nós__prn">
+    <!--<pardef n="nós__prn">
       
       <e>
         <p>
@@ -5005,9 +5005,9 @@
           <r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="eu__prn">
+    <!--<pardef n="eu__prn">
       
       <e>
         <p>
@@ -5015,9 +5015,9 @@
           <r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="vós__prn">
+    <!--<pardef n="vós__prn">
       
       <e>
         <p>
@@ -5025,9 +5025,9 @@
           <r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="você__prn">
+    <!--<pardef n="você__prn">
       
       <e>
         <p>
@@ -5049,9 +5049,9 @@
           <r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
-    <pardef n="tu__prn">
+    <!--<pardef n="tu__prn">
       
       <e>
         <p>
@@ -5059,7 +5059,7 @@
           <r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
-    </pardef>
+    </pardef>-->
 
     <!--<pardef n="consigo__prn">
       
@@ -131918,7 +131918,7 @@
       </e>
       
       <e lm="ambas as" r="LR">
-        <i>ambas<b/>as</i>
+<!--        <i>ambas<b/>as</i>-->
         <p><l>ambas<b/>as</l><r>ambos<b/>os</r></p>
         <par n="ambas__prn"/>
       </e>
@@ -132145,7 +132145,7 @@
       
       <e lm="tu">
         <i></i>
-        <par n="tu__prn"/>
+        <par n="/tu__prn"/>
       </e>
       
       <e lm="tudo">
@@ -132165,7 +132165,7 @@
       
       <e lm="você">
         <i></i>
-        <par n="você__prn"/>
+        <par n="/você__prn"/>
       </e>
       
       <e lm="vós" r="LR">

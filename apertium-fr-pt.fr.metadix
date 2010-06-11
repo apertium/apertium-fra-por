@@ -9008,6 +9008,12 @@
             
 <e><p><l>s</l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="quelque__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+            
+<e><p><l>s</l><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="quelque_chose__prn">
             
 <e><p><l></l><r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
@@ -9997,9 +10003,9 @@
             
 <e><p><l>s</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
-     <pardef n="avec_soi__prn">
+     <!--<pardef n="avec_soi__prn">
             <e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>
+    </pardef>-->
     <pardef n="tou/t__predet">
             
 <e><p><l>s</l><r>t<s n="predet"/><s n="m"/><s n="pl"/></r></p></e>
