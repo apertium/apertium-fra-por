@@ -4915,7 +4915,7 @@
       <e>
         <p>
           <l/>
-          <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></r>
+          <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -5029,12 +5029,12 @@
 
     <!--<pardef n="você__prn">
       
-      <e>
+      <!--<e>
         <p>
           <l>s</l>
           <r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></r>
         </p>
-      </e>
+      </e>-->
       
       <e>
         <p>
@@ -131918,7 +131918,6 @@
       </e>
       
       <e lm="ambas as" r="LR">
-<!--        <i>ambas<b/>as</i>-->
         <p><l>ambas<b/>as</l><r>ambos<b/>os</r></p>
         <par n="ambas__prn"/>
       </e>
@@ -132153,10 +132152,10 @@
         <par n="algo__prn"/>
       </e>
       
-      <e lm="tudo isto">
+      <!--<e lm="tudo isto">
         <i>tudo<b/>isto</i>
         <par n="aquilo__prn"/>
-      </e>
+      </e>-->
       
       <e lm="um">
         <i>u</i>
