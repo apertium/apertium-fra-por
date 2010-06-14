@@ -394,6 +394,7 @@
       <attr-item tags="tn.ref"/>
       <attr-item tags="itg"/>
       <attr-item tags="pos"/>
+      <attr-item tags="tn.pos"/>
     </def-attr>
     <def-attr n="tipoenc_pro">
       <attr-item tags="ref.p3.mf.sp"/>

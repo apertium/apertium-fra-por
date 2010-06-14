@@ -3,7 +3,6 @@
   <alphabet>·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
   <sdefs>
     <sdef n="aa"/>
-    <sdef n="acc"/>
     <sdef n="acr"/>
     <sdef n="adj"/>
     <sdef n="adv"/>
@@ -16,7 +15,6 @@
     <sdef n="cnjadv"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
-    <sdef n="dat"/>
     <sdef n="def"/>
     <sdef n="dem"/>
     <sdef n="det"/>
@@ -68,7 +66,6 @@
     <sdef n="sent"/>
     <sdef n="sg"/>
     <sdef n="sp"/>
-    <sdef n="subj"/>
     <sdef n="sup"/>
     <sdef n="tn"/>
     <sdef n="vaux"/>
@@ -212,68 +209,9 @@
 	<e r="RL"><p><l>les<b/></l><r/></p></e>
   </pardef>
 
-<!-- personal pronouns -->
-
-<pardef n="/je__prn">
-	<e><p><l>je</l>    <r>je<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e r="LR"><p><l>j'</l><r>je<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e><p><l>moi</l>   <r>je<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>me</l>    <r>je<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e r="LR"><p><l>m'</l><r>je<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>-moi</l>  <r>je<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-
-<pardef n="/nous__prn">
-	<e><p><l>nous</l>  <r>nous<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>nous</l>  <r>nous<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>nous</l>  <r>nous<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>-nous</l> <r>nous<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-
-<pardef n="/tu__prn">
-	<e><p><l>tu</l>    <r>tu<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>toi</l>   <r>tu<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>te</l>    <r>tu<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e r="LR"><p><l>t'</l><r>tu<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>-toi</l>  <r>tu<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-
-<pardef n="/vous__prn">
-	<e><p><l>vous</l>  <r>vous<s n="prn"/><s n="subj"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>vous</l>  <r>vous<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>vous</l>  <r>vous<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>-vous</l> <r>vous<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
-
-<pardef n="/il__prn">
-	<e><p><l>il</l>    <r>il<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-	<e><p><l>elle</l>  <r>il<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-	<e><p><l>lui</l>   <r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-	<e><p><l>elle</l>  <r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-	<e><p><l>le</l>    <r>il<s n="prn"/><s n="pro"/><s n="acc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-	<e><p><l>la</l>    <r>il<s n="prn"/><s n="pro"/><s n="acc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-	<e r="LR"><p><l>l'</l><r>il<s n="prn"/><s n="pro"/><s n="acc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>lui</l>   <r>il<s n="prn"/><s n="pro"/><s n="dat"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>-le</l>   <r>il<s n="prn"/><s n="enc"/><s n="acc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-	<e><p><l>-la</l>   <r>il<s n="prn"/><s n="enc"/><s n="acc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-	<e><p><l>-lui</l>  <r>il<s n="prn"/><s n="enc"/><s n="dat"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-	<e><p><l>ils</l>   <r>il<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-	<e><p><l>elles</l> <r>il<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-	<e><p><l>eux</l>   <r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-	<e><p><l>elles</l> <r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
-	<e><p><l>les</l>   <r>il<s n="prn"/><s n="pro"/><s n="acc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>leur</l>  <r>il<s n="prn"/><s n="pro"/><s n="dat"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>-les</l>  <r>il<s n="prn"/><s n="enc"/><s n="acc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-	<e><p><l>-leur</l> <r>il<s n="prn"/><s n="enc"/><s n="dat"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-</pardef>
-
-<pardef n="/soi__prn">
-	<e><p><l>soi</l>   <r>il<s n="prn"/><s n="tn"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-	<e><p><l>se</l>    <r>il<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-	<e r="LR"><p><l>s'</l><r>tu<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-</pardef>
-
-
+    
+    
+    
     <pardef n="/auquel__rel">
             
 <e><p><l>auquel</l><r>à<s n="pr"/><j/>lequel<s n="rel"/><s n="m"/><s n="sg"/></r></p></e>
@@ -400,18 +338,18 @@
 <e><p><l>impératrices</l><r>empereur<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
-    <!--<pardef n="/il__prn">
+    <pardef n="/il__prn">
 			<e><p><l>elle</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
 			<e><p><l>elles</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 			<e><p><l>il</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 			<e><p><l>ils</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
-            <e r="LR"><p><l>lui</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+                        <e r="LR"><p><l>lui</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 			<e r="LR"><p><l>t-elle</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
 			<e r="LR"><p><l>t-elles</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 			<e r="LR"><p><l>t-il</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
 			<e r="LR"><p><l>t-ils</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
 			<e r="LR"><p><l>t-on</l><r>on<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e> 
-		</pardef>-->
+		</pardef>
     
 		<pardef n="/oeil__n">
             <e r="LR"><p><l>oeils</l><r>oeil<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -492,7 +430,7 @@
     <pardef n="S__enc1">
             
 <e><p><l>-en</l><r>en<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
-            <!--
+            
 <e><p><l>-la</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
             
 <e><p><l>-le</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
@@ -514,7 +452,7 @@
 <e><p><l>-toi</l><r>te<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
             
 <e><p><l>-vous</l><r>vous<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-            -->
+            
 <e><p><l>-y</l><r>y<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
 <e><p><l>-on</l><r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
 
@@ -523,7 +461,7 @@
    <pardef n="S__encimp">
             
 <e><p><l>-en</l><r>en<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
-            <!--
+            
 <e><p><l>-la</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
             
 <e><p><l>-le</l><r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
@@ -539,13 +477,13 @@
 <e><p><l>-moi</l><r>me<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
             
 <e><p><l>-nous</l><r>nous<s n="prn"/><s n="enc"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
-            
-<e><p><l>-soi</l><r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+<!--             
+<e><p><l>-soi</l><r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e> -->
             
 <e><p><l>-toi</l><r>te<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
             
 <e><p><l>-vous</l><r>vous<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-            -->
+            
 <e><p><l>-y</l><r>y<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
     </pardef>
     
@@ -712,10 +650,6 @@
 <e><p><l>tes</l><r><s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
             
 <e><p><l>s</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-    </pardef>
-    <pardef n="anti__adj">
-            
-<e><p><l></l><r><s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="abat/tre__vblex">
             
@@ -6569,6 +6503,10 @@
             
 <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
     </pardef>
+    <pardef n="eux__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="ex__n">
             
 <e><p><l></l><r><s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -7209,7 +7147,10 @@
             
 <e><p><l>îtes</l><r>re<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
-
+    <pardef n="je__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
     <pardef n="jui/f__n">
             
 <e><p><l>f</l><r>f<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -7230,51 +7171,58 @@
 <e r="RL"><p><l>es</l><r>e<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>es</l><r>e<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="l/e__prn">
+            <e r="LR"><p><l>a</l><r>e<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>e</l><r>e<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>e</l><r>e<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
+            
+<e><p><l>es</l><r>e<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
     <pardef n="l/e_mien__prn">
             
-<e><p><l>a<b/>mienne</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>a<b/>mienne</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
             
-<e><p><l>e<b/>mien</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>e<b/>mien</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             
-<e><p><l>es<b/>miennes</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>miennes</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
             
-<e><p><l>es<b/>miens</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>miens</l><r>e<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="l/e_nôtre__prn">
             
-<e><p><l>a<b/>nôtre</l><r>e<b/>nôtre<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>a<b/>nôtre</l><r>e<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
             
-<e><p><l>e<b/>nôtre</l><r>e<b/>nôtre<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>e<b/>nôtre</l><r>e<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             
-<e><p><l>es<b/>nôtres</l><r>e<b/>nôtre<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>nôtres</l><r>e<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="l/e_sien__prn">
             
-<e><p><l>a<b/>sienne</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>a<b/>sienne</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
             
-<e><p><l>e<b/>sien</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>e<b/>sien</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             
-<e><p><l>es<b/>siennes</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>siennes</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
             
-<e><p><l>es<b/>siens</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>siens</l><r>e<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="l/e_tien__prn">
             
-<e><p><l>a<b/>tienne</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>a<b/>tienne</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
             
-<e><p><l>e<b/>tien</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>e<b/>tien</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             
-<e><p><l>es<b/>tiennes</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>tiennes</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
             
-<e><p><l>es<b/>tiens</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>tiens</l><r>e<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="l/e_vôtre__prn">
             
-<e><p><l>a<b/>vôtre</l><r>e<b/>vôtre<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>a<b/>vôtre</l><r>e<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
             
-<e><p><l>e<b/>vôtre</l><r>e<b/>vôtre<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>e<b/>vôtre</l><r>e<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             
-<e><p><l>es<b/>vôtres</l><r>e<b/>vôtre<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+<e><p><l>es<b/>vôtres</l><r>e<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="l/equel__rel">
             
@@ -7403,6 +7351,10 @@
 <e><p><l></l><r><s n="det"/><s n="pos"/><s n="mf"/><s n="sg"/></r></p></e>
             
 <e><p><l>s</l><r><s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="leur__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="lieu__adj">
             
@@ -7553,6 +7505,13 @@
 <e><p><l>sîtes</l><r>re<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
             
 <e><p><l>t</l><r>re<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="lui__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+
     </pardef>
 
     <pardef n="luî/mes__vblex">
@@ -7910,6 +7869,10 @@
             
 <e><p><l>ts</l><r>re<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="me__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
     <pardef n="mil__num">
             
 <e><p><l></l><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
@@ -8230,6 +8193,12 @@
 <e><p><l>s</l><r>tre<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
             
 <e><p><l>tre</l><r>tre<s n="det"/><s n="pos"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+    <pardef n="nous__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+            
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="nouve/au__adj">
             
@@ -8984,8 +8953,7 @@
     </pardef>
     <pardef n="que__prn">
             
-<e><p><l></l><r><s n="prn"/><s n="itg"/><s n="sp"/></r></p></e>            
-<!--<e><p><l></l><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>-->
+<e><p><l></l><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="que__rel">
             
@@ -9017,19 +8985,9 @@
             
 <e><p><l>s</l><r><s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="quelque__prn">
-            
-<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
-            
-<e><p><l>s</l><r><s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
-    </pardef>
     <pardef n="quelque_chose__prn">
             
 <e><p><l></l><r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
-    </pardef>
-    <pardef n="qui__prn">
-            
-<e><p><l></l><r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="qui__rel">
             
@@ -9894,6 +9852,10 @@
             
 <e><p><l>iteurs</l><r>iteur<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="soi__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
     <pardef n="t/aire__vblex">
             
 <e><p><l>aira</l><r>aire<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -10006,6 +9968,10 @@
             
 <e><p><l>ûtes</l><r>aire<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
+    <pardef n="te__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
     <pardef n="tel__adj">
             
 <e><p><l></l><r><s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
@@ -10016,9 +9982,13 @@
             
 <e><p><l>s</l><r><s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
-     <!--<pardef n="avec_soi__prn">
+    <pardef n="toi__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+     <pardef n="avec_soi__prn">
             <e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
-    </pardef>-->
+    </pardef>
     <pardef n="tou/t__predet">
             
 <e><p><l>s</l><r>t<s n="predet"/><s n="m"/><s n="pl"/></r></p></e>
@@ -10040,8 +10010,6 @@
 <e><p><l>te</l><r>t<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
             
 <e><p><l>tes</l><r>t<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
-            
-<e><p><l>t</l><r>t<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
     </pardef>
     
      <pardef n="tou/s_les_deux__prn">
@@ -10058,7 +10026,7 @@
     
     <pardef n="tout_le_monde__prn">
             
-<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
     <pardef n="trava/il__n">
             <e r="LR"><p><l>ils</l><r>il<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
@@ -10490,6 +10458,20 @@
 <e><p><l>il</l><r>il<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
             
 <e><p><l>ux</l><r>il<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="vous__prn">
+            
+<e><p><l></l><r><s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+            
+<e><p><l></l><r><s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+    </pardef>
+    <pardef n="~l__prn">
+            
+<e><p><l>a</l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+            
+<e><p><l>e</l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+            
+<e><p><l>e</l><r><s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
     </pardef>
     <pardef n="à_il__adj">
             
@@ -14851,6 +14833,7 @@
           <e lm="européen"><i>européen</i><par n="ancien__adj"/></e>
           <e lm="indoeuropéen"><i>indoeuropéen</i><par n="ancien__adj"/></e>
           <e lm="européen"><i>européen</i><par n="ancien__n"/></e>
+          <e lm="eux"><i>eux</i><par n="eux__prn"/></e>
           <e lm="exact"><i>exact</i><par n="abaissant__adj"/></e>
           <e lm="exactement"><i>exactement</i><par n="hier__adv"/></e>
           <e lm="exactitude"><i>exactitude</i><par n="abeille__n"/></e>
@@ -15569,7 +15552,8 @@
           <e lm="jardin"><i>jardin</i><par n="livre__n"/></e>
           <e lm="jauger"><i>jaug</i><par n="allong/er__vblex"/></e>
           <e lm="jaune"><i>jaune</i><par n="académique__adj"/></e>
-          <e lm="je"><par n="/je__prn"/></e>
+          <e lm="je" r="LR"><i>je</i><par n="je__prn"/></e>
+          <e lm="je" r="RL"><p><l><a/>je</l><r>je</r></p><par n="je__prn"/></e>
           <e lm="jersey"><i>jersey</i><par n="livre__n"/></e>
           <e lm="jeter"><i>jet</i><par n="cachet/er__vblex"/></e>
           <e lm="jeton"><i>jeton</i><par n="livre__n"/></e>
@@ -15646,13 +15630,10 @@
           <e lm="laïque"><i>laïque</i><par n="académique__adj"/></e>
           <e lm="le" r="LR"><i>l</i><par n="l/e__det"/></e>
           <e lm="le" r="RL"><p><l><a/>l</l><r>l</r></p><par n="l/e__det"/></e>
+          <e lm="le" r="RL"><p><l><a/>l</l><r>le</r></p><par n="~l__prn"/></e>
+          <e lm="le"><i>l</i><par n="l/e__prn"/></e>
 <!--          <e lm="le" r="LR"><i>le</i><par n="le__detnt"/></e> -->
           <e lm="le" r="RL"><p><l><a/>le</l><r>le</r></p><par n="le__detnt"/></e>
-          <e lm="le mien"><i>l</i><par n="l/e_nôtre__prn"/></e>
-          <e lm="le mien"><i>l</i><par n="l/e_mien__prn"/></e>
-          <e lm="le mien"><i>l</i><par n="l/e_sien__prn"/></e>
-          <e lm="le mien"><i>l</i><par n="l/e_tien__prn"/></e>
-          <e lm="le mien"><i>l</i><par n="l/e_vôtre__prn"/></e>
            <e lm="leader"><i>leader</i><par n="artiste__n"/></e>
           <e lm="lecteur"><i>lect</i><par n="administrat/eur__n"/></e>
           <e lm="lecture"><i>lecture</i><par n="abeille__n"/></e>
@@ -15661,9 +15642,9 @@
           <e lm="lentement"><i>lentement</i><par n="hier__adv"/></e>
           <e lm="lenteur"><i>lenteur</i><par n="abeille__n"/></e>
           <e lm="lequel"><i>l</i><par n="l/equel__rel"/></e>
-          <e lm="auquel"><par n="/auquel__rel"/></e>
-          <e lm="lettre"><i>lettre</i><par n="abeille__n"/></e>
+          <e lm="auquel"><par n="/auquel__rel"/></e>				<e lm="lettre"><i>lettre</i><par n="abeille__n"/></e>
           <e lm="leur"><i>leur</i><par n="leur__det"/></e>
+          <e lm="leur"><i>leur</i><par n="leur__prn"/></e>
           <e lm="lever"><i>l</i><par n="ach/e[T]er__vblex" prm="v"/></e>
           <e lm="levier"><i>levier</i><par n="livre__n"/></e>
           <e lm="leçon"><i>leçon</i><par n="abeille__n"/></e>
@@ -15732,6 +15713,7 @@
           <e lm="louer"><i>lou</i><par n="abaiss/er__vblex"/></e>
           <e lm="loup"><i>loup</i><par n="livre__n"/></e>
           <e lm="loyauté"><i>loyauté</i><par n="abeille__n"/></e>
+          <e lm="lui"><i>lui</i><par n="lui__prn"/></e>
           <e lm="luire"><i>lu</i><par n="lu/i[]re__vblex" prm=""/></e>
           <e lm="luisant"><i>luisant</i><par n="abaissant__adj"/></e>
           <e lm="lumière"><i>lumière</i><par n="abeille__n"/></e>
@@ -15846,6 +15828,9 @@
           <e lm="mauvais"><i>mauvais</i><par n="anglais__adj"/></e>
           <e lm="maximum"><i>maximum</i><par n="livre__n"/></e>
           <e lm="maître"><i>maître</i><par n="buffle__n"/></e>
+          
+          <e lm="me" r="LR"><i>me</i><par n="me__prn"/></e>
+          <e lm="me" r="RL"><p><l><a/>me</l><r>me</r></p><par n="me__prn"/></e>
           <e lm="meilleur"><i>meilleur</i><par n="abaissant__adj"/></e>
           <e lm="membre"><i>membre</i><par n="artiste__n"/></e>
           <e lm="menace"><i>menace</i><par n="abeille__n"/></e>
@@ -15918,6 +15903,7 @@
           <e lm="modération"><i>modération</i><par n="abeille__n"/></e>
           <e lm="modérer"><i>mod</i><par n="accél/é[R]er__vblex" prm="r"/></e>
           <e lm="moeurs"><i>moeurs</i><par n="vacances__n"/></e>
+          <e lm="moi"><i>moi</i><par n="je__prn"/></e>
           <e lm="moindre"><i>moindre</i><par n="académique__adj"/></e>
           <e lm="moine"><i>moine</i><par n="livre__n"/></e>
 	  <e lm="moins" r="LR"><i>moins</i><par n="hier__adv"/></e>
@@ -16113,7 +16099,7 @@
           <e lm="nougat"><i>nougat</i><par n="livre__n"/></e>
           <e lm="nourrir"><i>nourr</i><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="nourriture"><i>nourriture</i><par n="abeille__n"/></e>
-          <e lm="nous"><par n="/nous__prn"/></e>
+          <e lm="nous"><i>nous</i><par n="nous__prn"/></e>
           <e lm="nouveau"><i>nouve</i><par n="nouve/au__adj"/></e>
           <e lm="nouveauté"><i>nouveauté</i><par n="abeille__n"/></e>
           <e lm="nouvelle"><i>nouvelle</i><par n="abeille__n"/></e>
@@ -16873,7 +16859,6 @@
           <e lm="quelqu'un"><i>quelqu'un</i><par n="personne__prn"/></e>
           <e lm="quelque" r="LR"><i>quelque</i><par n="hier__adv"/></e>
           <e lm="quelque"><i>quelque</i><par n="quelque__det"/></e>
-          <e lm="quelque"><i>quelque</i><par n="quelque__prn"/></e>
           <e lm="quelque chose"><i>quelque<b/>chose</i><par n="quelque_chose__prn"/></e>
           <e lm="quereller"><i>querell</i><par n="abaiss/er__vblex"/></e>
           <e lm="question"><i>question</i><par n="abeille__n"/></e>
@@ -17387,7 +17372,7 @@
           <e lm="socialiste"><i>socialiste</i><par n="artiste__n"/></e>
           <e lm="société"><i>société</i><par n="abeille__n"/></e>
           <e lm="sofa"><i>sofa</i><par n="livre__n"/></e>
-          <e lm="soi"><par n="/soi__prn"/></e>
+          <e lm="soi"><i>soi</i><par n="soi__prn"/></e>
           <e lm="soie"><i>soie</i><par n="abeille__n"/></e>
           <e lm="soif"><i>soif</i><par n="soif__n"/></e>
           <e lm="soin"><i>soin</i><par n="livre__n"/></e>
@@ -17613,6 +17598,8 @@
           <e lm="taxe"><i>taxe</i><par n="abeille__n"/></e>
           <e lm="taxer" r="RL"><i>tax</i><par n="abaiss/er__vblex"/></e>
           <e lm="taxi"><i>taxi</i><par n="livre__n"/></e>
+          <e lm="te" r="LR"><i>te</i><par n="te__prn"/></e>
+          <e lm="te" r="RL"><p><l><a/>te</l><r>te</r></p><par n="te__prn"/></e>
           <e lm="technologie"><i>technologie</i><par n="abeille__n"/></e>
           <e lm="teindre" r="LR"><i>tei</i><par n="cei/ndre__vblex"/></e>
           <e lm="teinter"><i>teint</i><par n="abaiss/er__vblex"/></e>
@@ -17666,6 +17653,7 @@
           <e lm="tirer"><i>tir</i><par n="abaiss/er__vblex"/></e>
           <e lm="tissu"><i>tissu</i><par n="livre__n"/></e>
           <e lm="titre"><i>titre</i><par n="livre__n"/></e>
+          <e lm="toi"><i>toi</i><par n="toi__prn"/></e>
           <e lm="toile" r="LR"><i>toile</i><par n="abeille__n"/></e>
           <e lm="toiletter"><i>toilett</i><par n="abaiss/er__vblex"/></e>
           <e lm="toit"><i>toit</i><par n="livre__n"/></e>
@@ -17708,7 +17696,6 @@
           <e lm="tout"><i>tou</i><par n="tou/t__prn"/></e>
 	  <e lm="tous les deux"><i>tou</i><par n="tou/s_les_deux__prn"/></e>
 	  <e lm="les deux"><i>les<b/>deux</i><par n="les_deux__det"/></e>
-          <e lm="tout le monde"><i>tout<b/>le<b/>monde</i><par n="tout_le_monde__prn"/></e>
           <e lm="tracasser"><i>tracass</i><par n="abaiss/er__vblex"/></e>
           <e lm="tracer"><i>tra</i><par n="annon/cer__vblex"/></e>
           <e lm="tradition"><i>tradition</i><par n="abeille__n"/></e>
@@ -17776,7 +17763,7 @@
           <e lm="trésor"><i>trésor</i><par n="livre__n"/></e>
           <e lm="trêve"><i>trêve</i><par n="abeille__n"/></e>
           <e lm="trône"><i>trône</i><par n="livre__n"/></e>
-          <e lm="tu"><par n="/tu__prn"/></e>
+          <e lm="tu"><i>tu</i><par n="toi__prn"/></e>
           <e lm="tuer"><i>tu</i><par n="abaiss/er__vblex"/></e>
           <e lm="tunique"><i>tunique</i><par n="abeille__n"/></e>
           <e lm="tunnel"><i>tunnel</i><par n="livre__n"/></e>
@@ -17951,7 +17938,7 @@
           <e lm="vouer"><i>vou</i><par n="abaiss/er__vblex"/></e>
           <e lm="vouloir"><i>v</i><par n="v/ouloir__vblex"/></e>
           <e lm="vouloir"><i>v</i><par n="v/ouloir__vbmod"/></e>
-          <e lm="vous"><par n="/vous__prn"/></e>
+          <e lm="vous"><i>vous</i><par n="vous__prn"/></e>
           <e lm="voyage"><i>voyage</i><par n="livre__n"/></e>
           <e lm="voyager"><i>voyag</i><par n="allong/er__vblex"/></e>
           <e lm="voyageur"><i>voyageu</i><par n="causeu/r__adj"/></e>
@@ -43252,6 +43239,18 @@
   <i>TPIY</i>
   <par n="Autre__np"/>
 </e>
+<e lm="avec moi" a="eleka">
+  <i>avec<b/>moi</i>
+  <par n="je__prn"/>
+</e>
+<e lm="avec toi" a="eleka">
+  <i>avec<b/>toi</i>
+  <par n="toi__prn"/>
+</e>
+<e lm="avec soi" a="eleka">
+  <i>avec<b/>soi</i>
+  <par n="avec_soi__prn"/>
+</e>
 <e lm="changer" a="eleka" r="RL">
   <i>chang</i>
   <par n="allong/er__vblex"/>
@@ -65485,7 +65484,8 @@
 <e lm="Vitoria-Gasteiz" a="eleka"><i>Vitoria-Gasteiz</i><par n="Lieu__np"/></e>
 <e lm="Zarautz" a="eleka"><i>Zarautz</i><par n="Lieu__np"/></e>
 
-<e lm="adversaire"><i>adversaire</i><par n="académique__adj"/></e>
+
+
 <e lm="adversaire"><i>adversaire</i><par n="académique__adj"/></e>
 <e lm="albanais"><i>albanais</i><par n="anglais__adj"/></e>
 <e lm="allergisant"><i>allergisant</i><par n="abaissant__adj"/></e>
@@ -65526,7 +65526,6 @@
 <e lm="subjacent"><i>subjacent</i><par n="abaissant__adj"/></e>
 <e lm="tchétchène"><i>tchétchène</i><par n="académique__adj"/></e>
 <e lm="trop"><i>trop</i><par n="anti__adj"/></e>
-
 
 
 
@@ -65943,11 +65942,15 @@
           <e lm="dans le cadre d'" r="LR"><p><l>dans<b/>le<b/>cadre<b/>d'</l><r>dans<b/>le<b/>cadre<b/>de<s n="pr"/></r></p></e>
           <e lm="de sorte qu'" r="LR"><p><l>de<b/>sorte<b/>qu'</l><r>de<b/>sorte<b/>que<s n="cnjadv"/></r></p></e>
           <e lm="depuis qu'" r="LR"><p><l>depuis<b/>qu'</l><r>depuis<b/>que<s n="cnjadv"/></r></p></e>
+          <e lm="j'" r="LR"><p><l>j'</l><r>je<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
           <e lm="jusqu'" r="LR"><p><l>jusqu'</l><r>jusque<s n="pr"/></r></p></e>
           <e lm="l'" r="LR"><p><l>l'</l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
 <!--           <e lm="l'" r="LR"><p><l>l'</l><r>le<s n="detnt"/></r></p></e> -->
+          <e lm="l'" r="LR"><p><l>l'</l><r>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+          <e lm="l'" r="LR"><p><l>l'</l><r>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
           <e lm="lors d'" r="LR"><p><l>lors<b/>d'</l><r>lors<b/>de<s n="pr"/></r></p></e>
           <e lm="lorsqu'" r="LR"><p><l>lorsqu'</l><r>lorsque<s n="cnjadv"/></r></p></e>
+          <e lm="m'" r="LR"><p><l>m'</l><r>me<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
           <e lm="bien qu'" r="LR"><p><l>bien<b/>qu'</l><r>bien<b/>que<s n="cnjadv"/></r></p></e>
           <e lm="n'" r="LR"><p><l>n'</l><r>ne<s n="adv"/></r></p></e>
           <e lm="parce qu'" r="LR"><p><l>parce<b/>qu'</l><r>parce<b/>que<s n="cnjadv"/></r></p></e>
@@ -65960,6 +65963,7 @@
           <e lm="s'" r="LR"><p><l>s'</l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
           <e lm="sauf qu'" r="LR"><p><l>sauf<b/>qu'</l><r>sauf<b/>que<s n="cnjadv"/></r></p></e>
           <e lm="tandis qu'" r="LR"><p><l>tandis<b/>qu'</l><r>tandis<b/>que<s n="cnjadv"/></r></p></e>
+          <e lm="t'" r="LR"><p><l>t'</l><r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
           <e lm="vu qu'" r="LR"><p><l>vu<b/>qu'</l><r>vu<b/>que<s n="cnjadv"/></r></p></e>
           <e r="LR"><p><l>c'</l><r>ce<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
           <e r="LR"><p><l>qu'</l><r>que<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
