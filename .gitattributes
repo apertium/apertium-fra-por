@@ -39,6 +39,7 @@ dev/testvoc-summary.pt-fr.txt -text
 /filterrules.xsl -text
 /fr-pt.prob -text
 /modes.xml -text
+/pending-tests.sh -text
 /principal.xsl -text
 /pt-fr.prob -text svneol=unset#unset
 /translate-to-default-equivalent.xsl -text
