@@ -397,6 +397,7 @@
       <attr-item tags="tn.ref"/>
       <attr-item tags="itg"/>
       <attr-item tags="pos"/>
+      <attr-item tags="tn.pos"/>
     </def-attr>
 
     <def-attr n="tipoenc_pro">
@@ -16967,6 +16968,7 @@
 	  <chunk name="prnsubj" case="caseFirstWord">
 	    <tags>
 	      <tag><lit-tag v="SN"/></tag>
+	      <tag><clip pos="1" side="tl" part="a_prn"/></tag>
 	      <tag><clip pos="1" side="tl" part="tipus_prn"/></tag>
 	      <tag><clip pos="1" side="tl" part="pers"/></tag>
 	      <tag><clip pos="1" side="tl" part="gen"/></tag>
