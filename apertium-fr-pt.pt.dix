@@ -2540,33 +2540,33 @@
       </e>
     </pardef>
 
-    <pardef n="~o__det">
+    <pardef n="/~o__det">
       
       <e>
         <p>
-          <l>s</l>
-          <r><s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r>
+          <l>os</l>
+          <r>o<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r>
         </p>
       </e>
       
       <e>
         <p>
-          <l/>
-          <r><s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r>
+          <l>o</l>
+          <r>o<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r>
         </p>
       </e>
       
       <e>
         <p>
           <l>as</l>
-          <r><s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r>
+          <r>o<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r>
         </p>
       </e>
       
       <e>
         <p>
           <l>a</l>
-          <r><s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r>
+          <r>o<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -2741,14 +2741,14 @@
 
     <pardef n="/o__det">
       
-      <e>
+      <e r="LR">
         <p>
           <l>as</l>
           <r>o<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r>
         </p>
       </e>
       
-      <e>
+      <e r="LR">
         <p>
           <l>a</l>
           <r>o<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r>
@@ -138462,10 +138462,10 @@
       
       <e lm="o" r="RL">
         <p>
-          <l><a/>o</l>
-          <r>o</r>
+          <l><a/></l>
+          <r></r>
         </p>
-        <par n="~o__det"/>
+        <par n="/~o__det"/>
       </e>
       
   <!--    <e lm="a" r="RL">
