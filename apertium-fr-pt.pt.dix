@@ -128362,6 +128362,10 @@
 
 
 <!-- entrades "np" -->
+      <e lm="Wikipédia">
+        <i>Wikipédia</i>
+        <par n="Outro__np"/>
+      </e>
       <e lm="ABC">
         <i>ABC</i>
         <par n="Outro__np"/>
@@ -142384,6 +142388,10 @@
 	<i>coleccion</i>
 	<par n="abal/ar__vblex"/>
 </e>
+<e lm="enciclopédia">
+	<i>enciclopédia</i>
+	<par n="abadia__n"/>
+</e>
 <e lm="comédia">
 	<i>comédia</i>
 	<par n="abadia__n"/>
@@ -150252,6 +150260,11 @@
 
 <e a="prompsit" lm="relevante">
   <i>relevante</i>
+  <par n="agrícola__adj"/>
+</e>
+
+<e a="prompsit" lm="multilíngue">
+  <i>multilíngue</i>
   <par n="agrícola__adj"/>
 </e>
 

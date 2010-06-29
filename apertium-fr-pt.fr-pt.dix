@@ -1946,10 +1946,14 @@
           group det_symbol
       ****************************** -->
 <e>       <p><l>aucun<s n="det"/><s n="ind"/></l>      <r>nenhum<s n="det"/><s n="ind"/></r></p></e>
+
 <e r="RL"><p><l>ce<s n="det"/></l>                     <r>este<s n="det"/></r></p></e>
 <e>       <p><l>ce<s n="det"/></l>                     <r>esse<s n="det"/></r></p></e>
 <e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="mf"/></l><r>esse<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="m"/></l><r>esse<s n="det"/><s n="dem"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="f"/></l><r>esse<s n="det"/><s n="dem"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>ce<s n="det"/></l>                     <r>aquele<s n="det"/></r></p></e>
+
 <e r="LR"><p><l>certain<s n="det"/></l>                <r>algum<s n="det"/></r></p></e>
 <e>       <p><l>certain<s n="det"/></l>                <r>certo<s n="det"/></r></p></e>
 <e r="RL"><p><l>chaque<s n="det"/></l>                 <r>a<b/>cada<s n="det"/></r></p></e>
@@ -1966,10 +1970,14 @@
 <e r="LR"><p><l>leur<s n="det"/><s n="pos"/><s n="mf"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
 <!--<e r="RL"><p><l>leur<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>-->
 <!--<e r="RL"><p><l>leur<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>-->
+
 <e>       <p><l>mon<s n="det"/></l>                    <r>meu<s n="det"/></r></p></e>
+<e><p><l>mon<s n="det"/><s n="pos"/><s n="m"/></l><r>meu<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+<e><p><l>mon<s n="det"/><s n="pos"/><s n="f"/></l><r>meu<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+
 <e r="RL"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="m"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="f"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
@@ -1980,14 +1988,21 @@
 <e r="LR"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
+
 <e>       <p><l>son<s n="det"/></l>                    <r>seu<s n="det"/></r></p></e>
+<e><p><l>son<s n="det"/><s n="pos"/><s n="m"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+<e><p><l>son<s n="det"/><s n="pos"/><s n="f"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+
 <e>       <p><l>ton<s n="det"/></l>                    <r>teu<s n="det"/></r></p></e>
+<e><p><l>ton<s n="det"/><s n="pos"/><s n="m"/></l><r>teu<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+<e><p><l>ton<s n="det"/><s n="pos"/><s n="f"/></l><r>teu<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+
 <e>       <p><l>un<s n="det"/></l>                     <r>um<s n="det"/></r></p></e>
 <e r="LR"><p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/></l><r>outro<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>outro<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
@@ -2984,6 +2999,7 @@
 <e>       <p><l>Manille<s n="np"/></l>                 <r>Manila<s n="np"/></r></p></e>
 <e>       <p><l>Manuel<s n="np"/></l>                  <r>Manuel<s n="np"/></r></p></e>
 <e>       <p><l>Manzano<s n="np"/></l>                 <r>Manzano<s n="np"/></r></p></e>
+<e>       <p><l>Wikipédia<s n="np"/></l>               <r>Wikipédia<s n="np"/></r></p></e>
 <e>       <p><l>Mar<s n="np"/></l>                     <r>Mar<s n="np"/></r></p></e>
 <e>       <p><l>Maradona<s n="np"/></l>                <r>Maradona<s n="np"/></r></p></e>
 <e>       <p><l>Maragall<s n="np"/></l>                <r>Maragall<s n="np"/></r></p></e>
@@ -3940,6 +3956,7 @@
 <e>       <p><l>comté<s n="n"/></l>                    <r>condado<s n="n"/></r></p></e>
 <e>       <p><l>comunication<s n="n"/></l>             <r>comunicação<s n="n"/></r></p></e>
 <e>       <p><l>comédie<s n="n"/></l>                  <r>comédia<s n="n"/></r></p></e>
+<e>       <p><l>encyclopédie<s n="n"/></l>             <r>enciclopédia<s n="n"/></r></p></e>
 <e>       <p><l>concentration<s n="n"/></l>            <r>concentração<s n="n"/></r></p></e>
 <e>       <p><l>concept<s n="n"/></l>                  <r>conceito<s n="n"/></r></p></e>
 <e>       <p><l>conception<s n="n"/><s n="m"/></l>     <r>concepção<s n="n"/><s n="f"/></r></p></e>
@@ -8475,6 +8492,7 @@
 <e v="pt"><p><l>multidirectionnel<s n="adj"/></l>      <r>multidireccional<s n="adj"/></r></p></e>
 <e>       <p><l>multidisciplinaire<s n="adj"/></l>     <r>multidiciplinar<s n="adj"/></r></p></e>
 <e>       <p><l>multilatéral<s n="adj"/></l>           <r>multilateral<s n="adj"/></r></p></e>
+<e>       <p><l>multilingue<s n="adj"/></l>            <r>multilíngue<s n="adj"/></r></p></e>
 <e v="br"><p><l>multimédia<s n="adj"/></l>             <r>multimídia<s n="adj"/></r></p></e>
 <e v="pt"><p><l>multimédia<s n="adj"/></l>             <r>multimédia<s n="adj"/></r></p></e>
 <e>       <p><l>multinationale<s n="adj"/></l>         <r>multinacional<s n="adj"/></r></p></e>

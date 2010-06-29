@@ -34,6 +34,7 @@ dev/patterns-not-detected.xml -text
 dev/summary -text
 dev/testvoc-summary.fr-pt.txt -text
 dev/testvoc-summary.pt-fr.txt -text
+dev/testvoc.sh -text
 /filter.sh -text
 /filter.xsl -text
 /filterrules.xsl -text

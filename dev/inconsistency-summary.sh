@@ -21,6 +21,18 @@ for i in $POS; do
 		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<adj>' -e '<v' | grep -v REGEX | wc -l`; 
 		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v -e '<adj>' -e '<v' | grep -v REGEX | wc -l`;
 		HASH=`cat $INC | grep "<$i>" | grep '>  *#' | grep -v -e '<adj>' -e '<v' | grep -v REGEX |  wc -l`;
+	elif [ "$i" = "cnjsub" ]; then
+		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<v' | grep -v REGEX | wc -l`; 
+		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v  -e '<v' | grep -v REGEX | wc -l`;
+	elif [ "$i" = "prn" ]; then
+		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<v' | grep -v REGEX | wc -l`; 
+		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v  -e '<v' | grep -v REGEX | wc -l`;
+	elif [ "$i" = "vbhaver" ]; then
+		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<pp' | grep -v REGEX | wc -l`; 
+		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v  -e '<pp' | grep -v REGEX | wc -l`;
+	elif [ "$i" = "pr" ]; then
+		TOTAL=`cat $INC | grep "<$i>" | grep -v -e '<ger' | grep -v REGEX | wc -l`; 
+		AT=`cat $INC | grep "<$i>" | grep '@' | grep -v  -e '<ger' | grep -v REGEX | wc -l`;
 	else
 		TOTAL=`cat $INC | grep "<$i>" | grep -v REGEX | wc -l`; 
 		AT=`cat $INC | grep "<$i>" | grep '@'  | grep -v REGEX | wc -l`;
