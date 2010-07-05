@@ -131004,6 +131004,2105 @@
         <i>Almeida</i>
         <par n="NomeLugar__np"/>
       </e>
+
+
+<e lm="Almeria"><i>Almeria</i><par n="Lugar__np"/></e>
+<e lm="Albatera"><i>Albatera</i><par n="Lugar__np"/></e>
+<e lm="Alcañiz"><i>Alcañiz</i><par n="Lugar__np"/></e>
+<e lm="Alzira"><i>Alzira</i><par n="Lugar__np"/></e>
+<e lm="Alcoi"><i>Alcoi</i><par n="Lugar__np"/></e>
+<e lm="Alcoi"><i>Alcoi</i><par n="Lugar__np"/></e>
+<e lm="Aldaia"><i>Aldaia</i><par n="Lugar__np"/></e>
+<e lm="Aldaia"><i>Aldaia</i><par n="Lugar__np"/></e>
+<e lm="Alexandria"><i>Alexandria</i><par n="Lugar__np"/></e>
+<e lm="Algeciras"><i>Algeciras</i><par n="Lugar__np"/></e>
+<e lm="Almansa"><i>Almansa</i><par n="Lugar__np"/></e>
+<e lm="Altea"><i>Altea</i><par n="Lugar__np"/></e>
+<e lm="Angra"><i>Angra</i><par n="Lugar__np"/></e>
+<e lm="Ana"><i>Ana</i><par n="Lugar__np"/></e>
+<e lm="Avilés"><i>Avilés</i><par n="Lugar__np"/></e>
+<e lm="Badajoz"><i>Badajoz</i><par n="Lugar__np"/></e>
+<e lm="Badalona"><i>Badalona</i><par n="Lugar__np"/></e>
+<e lm="Bagdá"><i>Bagdá</i><par n="Lugar__np"/></e>
+<e lm="Bahrein"><i>Bahrein</i><par n="Lugar__np"/></e>
+<e lm="Bailén"><i>Bailén</i><par n="Lugar__np"/></e>
+<e lm="Banguecoque"><i>Banguecoque</i><par n="Lugar__np"/></e>
+<e lm="Barcelonès"><i>Barcelonès</i><par n="Lugar__np"/></e>
+<e lm="Baçorá"><i>Baçorá</i><par n="Lugar__np"/></e>
+<e lm="Belmonte"><i>Belmonte</i><par n="Lugar__np"/></e>
+<e lm="Benidorm"><i>Benidorm</i><par n="Lugar__np"/></e>
+<e lm="Rio Besòs"><i>Rio<b/>Besòs</i><par n="Lugar__np"/></e>
+<e lm="Beirute"><i>Beirute</i><par n="Lugar__np"/></e>
+<e lm="Bilbau"><i>Bilbau</i><par n="Lugar__np"/></e>
+<e lm="Bona"><i>Bona</i><par n="Lugar__np"/></e>
+<e lm="Bratislava"><i>Bratislava</i><par n="Lugar__np"/></e>
+<e lm="Bucareste"><i>Bucareste</i><par n="Lugar__np"/></e>
+<e lm="Burgos"><i>Burgos</i><par n="Lugar__np"/></e>
+<e lm="Burjassot"><i>Burjassot</i><par n="Lugar__np"/></e>
+<e lm="Bétera"><i>Bétera</i><par n="Lugar__np"/></e>
+<e lm="Cabrera"><i>Cabrera</i><par n="Lugar__np"/></e>
+<e lm="Cadaqués"><i>Cadaqués</i><par n="Lugar__np"/></e>
+<e lm="Cádis"><i>Cádis</i><par n="Lugar__np"/></e>
+<e lm="Calafell"><i>Calafell</i><par n="Lugar__np"/></e>
+<e lm="Calatayud"><i>Calatayud</i><par n="Lugar__np"/></e>
+<e lm="Campamento"><i>Campamento</i><par n="Lugar__np"/></e>
+<e lm="Canfranc"><i>Canfranc</i><par n="Lugar__np"/></e>
+<e lm="Cartagena"><i>Cartagena</i><par n="Lugar__np"/></e>
+<e lm="Casinos"><i>Casinos</i><par n="Lugar__np"/></e>
+<e lm="Caspe"><i>Caspe</i><par n="Lugar__np"/></e>
+<e lm="Casteller"><i>Casteller</i><par n="Lugar__np"/></e>
+<e lm="Castellón"><i>Castellón</i><par n="Lugar__np"/></e>
+<e lm="Região histórica de Castela"><i>Região<b/>histórica<b/>de<b/>Castela</i><par n="Lugar__np"/></e>
+<e lm="Castela e Leão"><i>Castela<b/>e<b/>Leão</i><par n="Lugar__np"/></e>
+<e lm="Castilla-La Mancha"><i>Castilla-La<b/>Mancha</i><par n="Lugar__np"/></e>
+<e lm="Cáucaso"><i>Cáucaso</i><par n="Lugar__np"/></e>
+<e lm="Cava"><i>Cava</i><par n="Lugar__np"/></e>
+<e lm="Cazorla"><i>Cazorla</i><par n="Lugar__np"/></e>
+<e lm="Estação Chamartín"><i>Estação<b/>Chamartín</i><par n="Lugar__np"/></e>
+<e lm="Cheste"><i>Cheste</i><par n="Lugar__np"/></e>
+<e lm="Cofrentes"><i>Cofrentes</i><par n="Lugar__np"/></e>
+<e lm="Collado"><i>Collado</i><par n="Lugar__np"/></e>
+<e lm="Colmenar"><i>Colmenar</i><par n="Lugar__np"/></e>
+<e lm="Conesa"><i>Conesa</i><par n="Lugar__np"/></e>
+<e lm="Córdova"><i>Córdova</i><par n="Lugar__np"/></e>
+<e lm="Cória"><i>Cória</i><par n="Lugar__np"/></e>
+<e lm="Córsega"><i>Córsega</i><par n="Lugar__np"/></e>
+<e lm="Cáceres"><i>Cáceres</i><par n="Lugar__np"/></e>
+<e lm="Dakar"><i>Dakar</i><par n="Lugar__np"/></e>
+<e lm="Dublin"><i>Dublin</i><par n="Lugar__np"/></e>
+<e lm="Dénia"><i>Dénia</i><par n="Lugar__np"/></e>
+<e lm="Elche"><i>Elche</i><par n="Lugar__np"/></e>
+<e lm="Elda"><i>Elda</i><par n="Lugar__np"/></e>
+<e lm="Ampúrias"><i>Ampúrias</i><par n="Lugar__np"/></e>
+<e lm="Estrada"><i>Estrada</i><par n="Lugar__np"/></e>
+<e lm="Flamengo"><i>Flamengo</i><par n="Lugar__np"/></e>
+<e lm="País de Gales"><i>País<b/>de<b/>Gales</i><par n="Lugar__np"/></e>
+<e lm="Fort"><i>Fort</i><par n="Lugar__np"/></e>
+<e lm="Frankfurt am Main"><i>Frankfurt<b/>am<b/>Main</i><par n="Lugar__np"/></e>
+<e lm="Gandia"><i>Gandia</i><par n="Lugar__np"/></e>
+<e lm="Gandia"><i>Gandia</i><par n="Lugar__np"/></e>
+<e lm="Garcia"><i>Garcia</i><par n="Lugar__np"/></e>
+<e lm="Gargallo"><i>Gargallo</i><par n="Lugar__np"/></e>
+<e lm="Garrotxa"><i>Garrotxa</i><par n="Lugar__np"/></e>
+<e lm="Getafe"><i>Getafe</i><par n="Lugar__np"/></e>
+<e lm="Gijón"><i>Gijón</i><par n="Lugar__np"/></e>
+<e lm="Godella"><i>Godella</i><par n="Lugar__np"/></e>
+<e lm="Granollers"><i>Granollers</i><par n="Lugar__np"/></e>
+<e lm="Guadalajara"><i>Guadalajara</i><par n="Lugar__np"/></e>
+<e lm="Guardamar de la Safor"><i>Guardamar<b/>de<b/>la<b/>Safor</i><par n="Lugar__np"/></e>
+<e lm="Guillena"><i>Guillena</i><par n="Lugar__np"/></e>
+<e lm="Guipúscoa"><i>Guipúscoa</i><par n="Lugar__np"/></e>
+<e lm="Geórgia"><i>Geórgia</i><par n="Lugar__np"/></e>
+<e lm="Gerunda"><i>Gerunda</i><par n="Lugar__np"/></e>
+<e lm="Helsínquia"><i>Helsínquia</i><par n="Lugar__np"/></e>
+<e lm="Heredia"><i>Heredia</i><par n="Lugar__np"/></e>
+<e lm="Hervás"><i>Hervás</i><par n="Lugar__np"/></e>
+<e lm="Herzegovina"><i>Herzegovina</i><par n="Lugar__np"/></e>
+<e lm="Hidalgo"><i>Hidalgo</i><par n="Lugar__np"/></e>
+<e lm="Hinojosa del Duque"><i>Hinojosa<b/>del<b/>Duque</i><par n="Lugar__np"/></e>
+<e lm="Hiroshima"><i>Hiroshima</i><par n="Lugar__np"/></e>
+<e lm="Ibiza"><i>Ibiza</i><par n="Lugar__np"/></e>
+<e lm="Irun"><i>Irun</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Istambul"><i>Istambul</i><par n="Lugar__np"/></e>
+<e lm="Jaca"><i>Jaca</i><par n="Lugar__np"/></e>
+<e lm="Rio Jalón"><i>Rio<b/>Jalón</i><par n="Lugar__np"/></e>
+<e lm="Janeiro"><i>Janeiro</i><par n="Lugar__np"/></e>
+<e lm="Jaén"><i>Jaén</i><par n="Lugar__np"/></e>
+<e lm="Jerez de la Frontera"><i>Jerez<b/>de<b/>la<b/>Frontera</i><par n="Lugar__np"/></e>
+<e lm="Jijona"><i>Jijona</i><par n="Lugar__np"/></e>
+<e lm="Juarez"><i>Juarez</i><par n="Lugar__np"/></e>
+<e lm="Xàtiva"><i>Xàtiva</i><par n="Lugar__np"/></e>
+<e lm="Jávea"><i>Jávea</i><par n="Lugar__np"/></e>
+<e lm="Carachi"><i>Carachi</i><par n="Lugar__np"/></e>
+<e lm="Kiev"><i>Kiev</i><par n="Lugar__np"/></e>
+<e lm="Kosovo"><i>Kosovo</i><par n="Lugar__np"/></e>
+<e lm="Lançarote"><i>Lançarote</i><par n="Lugar__np"/></e>
+<e lm="Llíria"><i>Llíria</i><par n="Lugar__np"/></e>
+<e lm="Logroño"><i>Logroño</i><par n="Lugar__np"/></e>
+<e lm="Lugo"><i>Lugo</i><par n="Lugar__np"/></e>
+<e lm="Madagáscar"><i>Madagáscar</i><par n="Lugar__np"/></e>
+<e lm="Madrid"><i>Madrid</i><par n="Lugar__np"/></e>
+<e lm="Maiorca"><i>Maiorca</i><par n="Lugar__np"/></e>
+<e lm="Malabo"><i>Malabo</i><par n="Lugar__np"/></e>
+<e lm="Maldonado"><i>Maldonado</i><par n="Lugar__np"/></e>
+<e lm="Manacor"><i>Manacor</i><par n="Lugar__np"/></e>
+<e lm="Manresa"><i>Manresa</i><par n="Lugar__np"/></e>
+<e lm="Marianas Setentrionais"><i>Marianas<b/>Setentrionais</i><par n="Lugar__np"/></e>
+<e lm="Martorell"><i>Martorell</i><par n="Lugar__np"/></e>
+<e lm="Mataró"><i>Mataró</i><par n="Lugar__np"/></e>
+<e lm="Maurice"><i>Maurice</i><par n="Lugar__np"/></e>
+<e lm="Melilla"><i>Melilla</i><par n="Lugar__np"/></e>
+<e lm="Mendoza"><i>Mendoza</i><par n="Lugar__np"/></e>
+<e lm="Rio Minho"><i>Rio<b/>Minho</i><par n="Lugar__np"/></e>
+<e lm="Minorca"><i>Minorca</i><par n="Lugar__np"/></e>
+<e lm="Mislata"><i>Mislata</i><par n="Lugar__np"/></e>
+<e lm="Molina"><i>Molina</i><par n="Lugar__np"/></e>
+<e lm="Mollerussa"><i>Mollerussa</i><par n="Lugar__np"/></e>
+<e lm="Mónaco"><i>Mónaco</i><par n="Lugar__np"/></e>
+<e lm="Moncada"><i>Moncada</i><par n="Lugar__np"/></e>
+<e lm="Montalbán"><i>Montalbán</i><par n="Lugar__np"/></e>
+<e lm="Montjuïc"><i>Montjuïc</i><par n="Lugar__np"/></e>
+<e lm="Montserrat"><i>Montserrat</i><par n="Lugar__np"/></e>
+<e lm="Morella"><i>Morella</i><par n="Lugar__np"/></e>
+<e lm="Mosul"><i>Mosul</i><par n="Lugar__np"/></e>
+<e lm="Médio Oriente"><i>Médio<b/>Oriente</i><par n="Lugar__np"/></e>
+<e lm="Mutxamel"><i>Mutxamel</i><par n="Lugar__np"/></e>
+<e lm="Bombaim"><i>Bombaim</i><par n="Lugar__np"/></e>
+<e lm="Muro"><i>Muro</i><par n="Lugar__np"/></e>
+<e lm="Murcia"><i>Murcia</i><par n="Lugar__np"/></e>
+<e lm="Málaga"><i>Málaga</i><par n="Lugar__np"/></e>
+<e lm="Mar Mediterrâneo"><i>Mar<b/>Mediterrâneo</i><par n="Lugar__np"/></e>
+<e lm="Mérida"><i>Mérida</i><par n="Lugar__np"/></e>
+<e lm="Móstoles"><i>Móstoles</i><par n="Lugar__np"/></e>
+<e lm="Nazaré"><i>Nazaré</i><par n="Lugar__np"/></e>
+<e lm="Nova Iorque"><i>Nova<b/>Iorque</i><par n="Lugar__np"/></e>
+<e lm="Nice"><i>Nice</i><par n="Lugar__np"/></e>
+<e lm="Mundo ocidental"><i>Mundo<b/>ocidental</i><par n="Lugar__np"/></e>
+<e lm="Olmedo"><i>Olmedo</i><par n="Lugar__np"/></e>
+<e lm="Orã"><i>Orã</i><par n="Lugar__np"/></e>
+<e lm="Ourense"><i>Ourense</i><par n="Lugar__np"/></e>
+<e lm="Orihuela"><i>Orihuela</i><par n="Lugar__np"/></e>
+<e lm="Osona"><i>Osona</i><par n="Lugar__np"/></e>
+<e lm="Osuna"><i>Osuna</i><par n="Lugar__np"/></e>
+<e lm="Pádua"><i>Pádua</i><par n="Lugar__np"/></e>
+<e lm="Pamplona"><i>Pamplona</i><par n="Lugar__np"/></e>
+<e lm="Paterna"><i>Paterna</i><par n="Lugar__np"/></e>
+<e lm="Pau"><i>Pau</i><par n="Lugar__np"/></e>
+<e lm="Peralta"><i>Peralta</i><par n="Lugar__np"/></e>
+<e lm="Perpinhã"><i>Perpinhã</i><par n="Lugar__np"/></e>
+<e lm="Picanya"><i>Picanya</i><par n="Lugar__np"/></e>
+<e lm="Piera"><i>Piera</i><par n="Lugar__np"/></e>
+<e lm="Pineda"><i>Pineda</i><par n="Lugar__np"/></e>
+<e lm="Pontevedra"><i>Pontevedra</i><par n="Lugar__np"/></e>
+<e lm="Porto"><i>Porto</i><par n="Lugar__np"/></e>
+<e lm="Puig"><i>Puig</i><par n="Lugar__np"/></e>
+<e lm="Rabat"><i>Rabat</i><par n="Lugar__np"/></e>
+<e lm="Rajadell"><i>Rajadell</i><par n="Lugar__np"/></e>
+<e lm="Requena"><i>Requena</i><par n="Lugar__np"/></e>
+<e lm="Reus"><i>Reus</i><par n="Lugar__np"/></e>
+<e lm="Ripoll"><i>Ripoll</i><par n="Lugar__np"/></e>
+<e lm="Rocha"><i>Rocha</i><par n="Lugar__np"/></e>
+<e lm="Sagunto"><i>Sagunto</i><par n="Lugar__np"/></e>
+<e lm="Deserto do Saara"><i>Deserto<b/>do<b/>Saara</i><par n="Lugar__np"/></e>
+<e lm="Santiago de Compostela"><i>Santiago<b/>de<b/>Compostela</i><par n="Lugar__np"/></e>
+<e lm="Salamanca"><i>Salamanca</i><par n="Lugar__np"/></e>
+<e lm="Salém"><i>Salém</i><par n="Lugar__np"/></e>
+<e lm="Salinas"><i>Salinas</i><par n="Lugar__np"/></e>
+<e lm="Santander"><i>Santander</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Saragoça"><i>Saragoça</i><par n="Lugar__np"/></e>
+<e lm="Sardenha"><i>Sardenha</i><par n="Lugar__np"/></e>
+<e lm="Segarra"><i>Segarra</i><par n="Lugar__np"/></e>
+<e lm="Senado espanhol"><i>Senado<b/>espanhol</i><par n="Lugar__np"/></e>
+<e lm="Serra"><i>Serra</i><par n="Lugar__np"/></e>
+<e lm="Singapura"><i>Singapura</i><par n="Lugar__np"/></e>
+<e lm="Sitges"><i>Sitges</i><par n="Lugar__np"/></e>
+<e lm="Sófia"><i>Sófia</i><par n="Lugar__np"/></e>
+<e lm="Sória"><i>Sória</i><par n="Lugar__np"/></e>
+<e lm="Sul"><i>Sul</i><par n="Lugar__np"/></e>
+<e lm="Subirats"><i>Subirats</i><par n="Lugar__np"/></e>
+<e lm="Sydney"><i>Sydney</i><par n="Lugar__np"/></e>
+<e lm="Segóvia"><i>Segóvia</i><par n="Lugar__np"/></e>
+<e lm="Sevilha"><i>Sevilha</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Formosa"><i>Ilha<b/>de<b/>Formosa</i><par n="Lugar__np"/></e>
+<e lm="Tânger"><i>Tânger</i><par n="Lugar__np"/></e>
+<e lm="Teerã"><i>Teerã</i><par n="Lugar__np"/></e>
+<e lm="Teruel"><i>Teruel</i><par n="Lugar__np"/></e>
+<e lm="Toledo"><i>Toledo</i><par n="Lugar__np"/></e>
+<e lm="Torreblanca"><i>Torreblanca</i><par n="Lugar__np"/></e>
+<e lm="Torrent"><i>Torrent</i><par n="Lugar__np"/></e>
+<e lm="Torrevieja"><i>Torrevieja</i><par n="Lugar__np"/></e>
+<e lm="Torrijos"><i>Torrijos</i><par n="Lugar__np"/></e>
+<e lm="Toulouse"><i>Toulouse</i><par n="Lugar__np"/></e>
+<e lm="Tremp"><i>Tremp</i><par n="Lugar__np"/></e>
+<e lm="Troia"><i>Troia</i><par n="Lugar__np"/></e>
+<e lm="Trujillo"><i>Trujillo</i><par n="Lugar__np"/></e>
+<e lm="Turim"><i>Turim</i><par n="Lugar__np"/></e>
+<e lm="Vlorë"><i>Vlorë</i><par n="Lugar__np"/></e>
+<e lm="Valence"><i>Valence</i><par n="Lugar__np"/></e>
+<e lm="Valhadolide"><i>Valhadolide</i><par n="Lugar__np"/></e>
+<e lm="Vallés"><i>Vallés</i><par n="Lugar__np"/></e>
+<e lm="Verdú"><i>Verdú</i><par n="Lugar__np"/></e>
+<e lm="Vienne"><i>Vienne</i><par n="Lugar__np"/></e>
+<e lm="Villarreal"><i>Villarreal</i><par n="Lugar__np"/></e>
+<e lm="Vilar"><i>Vilar</i><par n="Lugar__np"/></e>
+<e lm="Villena"><i>Villena</i><par n="Lugar__np"/></e>
+<e lm="Vinaròs"><i>Vinaròs</i><par n="Lugar__np"/></e>
+<e lm="Vitória"><i>Vitória</i><par n="Lugar__np"/></e>
+<e lm="Iémen"><i>Iémen</i><par n="Lugar__np"/></e>
+<e lm="África"><i>África</i><par n="Lugar__np"/></e>
+<e lm="Alemanha"><i>Alemanha</i><par n="Lugar__np"/></e>
+<e lm="Alsácia"><i>Alsácia</i><par n="Lugar__np"/></e>
+<e lm="América"><i>América</i><par n="Lugar__np"/></e>
+<e lm="Andorra"><i>Andorra</i><par n="Lugar__np"/></e>
+<e lm="Inglaterra"><i>Inglaterra</i><par n="Lugar__np"/></e>
+<e lm="Arábia"><i>Arábia</i><par n="Lugar__np"/></e>
+<e lm="Argentina"><i>Argentina</i><par n="Lugar__np"/></e>
+<e lm="Ásia"><i>Ásia</i><par n="Lugar__np"/></e>
+<e lm="Austrália"><i>Austrália</i><par n="Lugar__np"/></e>
+<e lm="Áustria"><i>Áustria</i><par n="Lugar__np"/></e>
+<e lm="Bélgica"><i>Bélgica</i><par n="Lugar__np"/></e>
+<e lm="Bielorrússia"><i>Bielorrússia</i><par n="Lugar__np"/></e>
+<e lm="Bretanha"><i>Bretanha</i><par n="Lugar__np"/></e>
+<e lm="Cantábria"><i>Cantábria</i><par n="Lugar__np"/></e>
+<e lm="Catalunha"><i>Catalunha</i><par n="Lugar__np"/></e>
+<e lm="China"><i>China</i><par n="Lugar__np"/></e>
+<e lm="Coreia"><i>Coreia</i><par n="Lugar__np"/></e>
+<e lm="Croácia"><i>Croácia</i><par n="Lugar__np"/></e>
+<e lm="Estónia"><i>Estónia</i><par n="Lugar__np"/></e>
+<e lm="Europa"><i>Europa</i><par n="Lugar__np"/></e>
+<e lm="Extremadura"><i>Extremadura</i><par n="Lugar__np"/></e>
+<e lm="Finlândia"><i>Finlândia</i><par n="Lugar__np"/></e>
+<e lm="França"><i>França</i><par n="Lugar__np"/></e>
+<e lm="Galiza"><i>Galiza</i><par n="Lugar__np"/></e>
+<e lm="Grécia"><i>Grécia</i><par n="Lugar__np"/></e>
+<e lm="Guiné"><i>Guiné</i><par n="Lugar__np"/></e>
+<e lm="Índia"><i>Índia</i><par n="Lugar__np"/></e>
+<e lm="Indonésia"><i>Indonésia</i><par n="Lugar__np"/></e>
+<e lm="Islândia"><i>Islândia</i><par n="Lugar__np"/></e>
+<e lm="Itália"><i>Itália</i><par n="Lugar__np"/></e>
+<e lm="Lituânia"><i>Lituânia</i><par n="Lugar__np"/></e>
+<e lm="Malta"><i>Malta</i><par n="Lugar__np"/></e>
+<e lm="Noruega"><i>Noruega</i><par n="Lugar__np"/></e>
+<e lm="Nova Zelândia"><i>Nova<b/>Zelândia</i><par n="Lugar__np"/></e>
+<e lm="Pensilvânia"><i>Pensilvânia</i><par n="Lugar__np"/></e>
+<e lm="Polónia"><i>Polónia</i><par n="Lugar__np"/></e>
+<e lm="La Rioja"><i>La<b/>Rioja</i><par n="Lugar__np"/></e>
+<e lm="Roménia"><i>Roménia</i><par n="Lugar__np"/></e>
+<e lm="Rússia"><i>Rússia</i><par n="Lugar__np"/></e>
+<e lm="Sérvia"><i>Sérvia</i><par n="Lugar__np"/></e>
+<e lm="Eslováquia"><i>Eslováquia</i><par n="Lugar__np"/></e>
+<e lm="Eslovénia"><i>Eslovénia</i><par n="Lugar__np"/></e>
+<e lm="Somália"><i>Somália</i><par n="Lugar__np"/></e>
+<e lm="Suíça"><i>Suíça</i><par n="Lugar__np"/></e>
+<e lm="Suécia"><i>Suécia</i><par n="Lugar__np"/></e>
+<e lm="Síria"><i>Síria</i><par n="Lugar__np"/></e>
+<e lm="Tanzânia"><i>Tanzânia</i><par n="Lugar__np"/></e>
+<e lm="Turquia"><i>Turquia</i><par n="Lugar__np"/></e>
+<e lm="Ucrânia"><i>Ucrânia</i><par n="Lugar__np"/></e>
+<e lm="Jugoslávia"><i>Jugoslávia</i><par n="Lugar__np"/></e>
+<e lm="Afeganistão"><i>Afeganistão</i><par n="Lugar__np"/></e>
+<e lm="Amsterdão"><i>Amsterdão</i><par n="Lugar__np"/></e>
+<e lm="Oceano Atlântico"><i>Oceano<b/>Atlântico</i><par n="Lugar__np"/></e>
+<e lm="Brasil"><i>Brasil</i><par n="Lugar__np"/></e>
+<e lm="Camarões"><i>Camarões</i><par n="Lugar__np"/></e>
+<e lm="Canadá"><i>Canadá</i><par n="Lugar__np"/></e>
+<e lm="Caribe"><i>Caribe</i><par n="Lugar__np"/></e>
+<e lm="Dinamarca"><i>Dinamarca</i><par n="Lugar__np"/></e>
+<e lm="Campos Elísios"><i>Campos<b/>Elísios</i><par n="Lugar__np"/></e>
+<e lm="Iraque"><i>Iraque</i><par n="Lugar__np"/></e>
+<e lm="Iraque"><i>Iraque</i><par n="Lugar__np"/></e>
+<e lm="Irão"><i>Irão</i><par n="Lugar__np"/></e>
+<e lm="Japão"><i>Japão</i><par n="Lugar__np"/></e>
+<e lm="Quénia"><i>Quénia</i><par n="Lugar__np"/></e>
+<e lm="Kuwait"><i>Kuwait</i><par n="Lugar__np"/></e>
+<e lm="Magrebe"><i>Magrebe</i><par n="Lugar__np"/></e>
+<e lm="Mali"><i>Mali</i><par n="Lugar__np"/></e>
+<e lm="Nicarágua"><i>Nicarágua</i><par n="Lugar__np"/></e>
+<e lm="Níger"><i>Níger</i><par n="Lugar__np"/></e>
+<e lm="Nigéria"><i>Nigéria</i><par n="Lugar__np"/></e>
+<e lm="Paquistão"><i>Paquistão</i><par n="Lugar__np"/></e>
+<e lm="Panamá"><i>Panamá</i><par n="Lugar__np"/></e>
+<e lm="Panamá"><i>Panamá</i><par n="Lugar__np"/></e>
+<e lm="País Basco"><i>País<b/>Basco</i><par n="Lugar__np"/></e>
+<e lm="Uruguai"><i>Uruguai</i><par n="Lugar__np"/></e>
+<e lm="Vietname"><i>Vietname</i><par n="Lugar__np"/></e>
+<e lm="Egito"><i>Egito</i><par n="Lugar__np"/></e>
+<e lm="Alpes"><i>Alpes</i><par n="Lugar__np"/></e>
+<e lm="América"><i>América</i><par n="Lugar__np"/></e>
+<e lm="Astúrias"><i>Astúrias</i><par n="Lugar__np"/></e>
+<e lm="Baleares"><i>Baleares</i><par n="Lugar__np"/></e>
+<e lm="Filipinas"><i>Filipinas</i><par n="Lugar__np"/></e>
+<e lm="Pireneus"><i>Pireneus</i><par n="Lugar__np"/></e>
+<e lm="Pirineus Atlânticos"><i>Pirineus<b/>Atlânticos</i><par n="Lugar__np"/></e>
+<e lm="Zamora"><i>Zamora</i><par n="Lugar__np"/></e>
+<e lm="Álava"><i>Álava</i><par n="Lugar__np"/></e>
+<e lm="Ávila"><i>Ávila</i><par n="Lugar__np"/></e>
+<e lm="Escócia"><i>Escócia</i><par n="Lugar__np"/></e>
+<e lm="Úbeda"><i>Úbeda</i><par n="Lugar__np"/></e>
+<e lm="Rio Nilo"><i>Rio<b/>Nilo</i><par n="Lugar__np"/></e>
+<e lm="Abidjan"><i>Abidjan</i><par n="Lugar__np"/></e>
+<e lm="Aix-en-Provence"><i>Aix-en-Provence</i><par n="Lugar__np"/></e>
+<e lm="Ajaccio"><i>Ajaccio</i><par n="Lugar__np"/></e>
+<e lm="Amiens"><i>Amiens</i><par n="Lugar__np"/></e>
+<e lm="Aosta"><i>Aosta</i><par n="Lugar__np"/></e>
+<e lm="Auvérnia"><i>Auvérnia</i><par n="Lugar__np"/></e>
+<e lm="Avinhão"><i>Avinhão</i><par n="Lugar__np"/></e>
+<e lm="Bastia"><i>Bastia</i><par n="Lugar__np"/></e>
+<e lm="Baviera"><i>Baviera</i><par n="Lugar__np"/></e>
+<e lm="Bergen"><i>Bergen</i><par n="Lugar__np"/></e>
+<e lm="Besançon"><i>Besançon</i><par n="Lugar__np"/></e>
+<e lm="Biarritz"><i>Biarritz</i><par n="Lugar__np"/></e>
+<e lm="Birmingham"><i>Birmingham</i><par n="Lugar__np"/></e>
+<e lm="Bordéus"><i>Bordéus</i><par n="Lugar__np"/></e>
+<e lm="Bocas do Ródano"><i>Bocas<b/>do<b/>Ródano</i><par n="Lugar__np"/></e>
+<e lm="Bolonha-sobre-o-Mar"><i>Bolonha-sobre-o-Mar</i><par n="Lugar__np"/></e>
+<e lm="Bourges"><i>Bourges</i><par n="Lugar__np"/></e>
+<e lm="Bourg-lès-Valence"><i>Bourg-lès-Valence</i><par n="Lugar__np"/></e>
+<e lm="Borgonha"><i>Borgonha</i><par n="Lugar__np"/></e>
+<e lm="Brest"><i>Brest</i><par n="Lugar__np"/></e>
+<e lm="Bristol"><i>Bristol</i><par n="Lugar__np"/></e>
+<e lm="Brno"><i>Brno</i><par n="Lugar__np"/></e>
+<e lm="Broadway"><i>Broadway</i><par n="Lugar__np"/></e>
+<e lm="Cannes"><i>Cannes</i><par n="Lugar__np"/></e>
+<e lm="Casablanca"><i>Casablanca</i><par n="Lugar__np"/></e>
+<e lm="República Centro-Africana"><i>República<b/>Centro-Africana</i><par n="Lugar__np"/></e>
+<e lm="Chamonix-Mont-Blanc"><i>Chamonix-Mont-Blanc</i><par n="Lugar__np"/></e>
+<e lm="Cherbourg-Octeville"><i>Cherbourg-Octeville</i><par n="Lugar__np"/></e>
+<e lm="Clermont-Ferrand"><i>Clermont-Ferrand</i><par n="Lugar__np"/></e>
+<e lm="Clichy-sous-Bois"><i>Clichy-sous-Bois</i><par n="Lugar__np"/></e>
+<e lm="Colônia"><i>Colônia</i><par n="Lugar__np"/></e>
+<e lm="Columbia"><i>Columbia</i><par n="Lugar__np"/></e>
+<e lm="Compiègne"><i>Compiègne</i><par n="Lugar__np"/></e>
+<e lm="Deauville"><i>Deauville</i><par n="Lugar__np"/></e>
+<e lm="Deli"><i>Deli</i><par n="Lugar__np"/></e>
+<e lm="Dijon"><i>Dijon</i><par n="Lugar__np"/></e>
+<e lm="Djibouti"><i>Djibouti</i><par n="Lugar__np"/></e>
+<e lm="Doha"><i>Doha</i><par n="Lugar__np"/></e>
+<e lm="Dominic"><i>Dominic</i><par n="Lugar__np"/></e>
+<e lm="Dresden"><i>Dresden</i><par n="Lugar__np"/></e>
+<e lm="Dubai"><i>Dubai</i><par n="Lugar__np"/></e>
+<e lm="Dunquerque"><i>Dunquerque</i><par n="Lugar__np"/></e>
+<e lm="Düsseldorf"><i>Düsseldorf</i><par n="Lugar__np"/></e>
+<e lm="Finistère"><i>Finistère</i><par n="Lugar__np"/></e>
+<e lm="Flandres"><i>Flandres</i><par n="Lugar__np"/></e>
+<e lm="Florença"><i>Florença</i><par n="Lugar__np"/></e>
+<e lm="Frangy-en-Bresse"><i>Frangy-en-Bresse</i><par n="Lugar__np"/></e>
+<e lm="Fuji"><i>Fuji</i><par n="Lugar__np"/></e>
+<e lm="Glasgow"><i>Glasgow</i><par n="Lugar__np"/></e>
+<e lm="Grenoble"><i>Grenoble</i><par n="Lugar__np"/></e>
+<e lm="Gstaad"><i>Gstaad</i><par n="Lugar__np"/></e>
+<e lm="Hamburgo"><i>Hamburgo</i><par n="Lugar__np"/></e>
+<e lm="Universidade Harvard"><i>Universidade<b/>Harvard</i><par n="Lugar__np"/></e>
+<e lm="Alta Garona"><i>Alta<b/>Garona</i><par n="Lugar__np"/></e>
+<e lm="Alta Saboia"><i>Alta<b/>Saboia</i><par n="Lugar__np"/></e>
+<e lm="Altos do Sena"><i>Altos<b/>do<b/>Sena</i><par n="Lugar__np"/></e>
+<e lm="Altos do Sena"><i>Altos<b/>do<b/>Sena</i><par n="Lugar__np"/></e>
+<e lm="Himalaia"><i>Himalaia</i><par n="Lugar__np"/></e>
+<e lm="Ilha de França"><i>Ilha<b/>de<b/>França</i><par n="Lugar__np"/></e>
+<e lm="Istambul"><i>Istambul</i><par n="Lugar__np"/></e>
+<e lm="Istambul"><i>Istambul</i><par n="Lugar__np"/></e>
+<e lm="Joanesburgo"><i>Joanesburgo</i><par n="Lugar__np"/></e>
+<e lm="Júpiter"><i>Júpiter</i><par n="Lugar__np"/></e>
+<e lm="Cabul"><i>Cabul</i><par n="Lugar__np"/></e>
+<e lm="Kandahar"><i>Kandahar</i><par n="Lugar__np"/></e>
+<e lm="Cartum"><i>Cartum</i><par n="Lugar__np"/></e>
+<e lm="Kigali"><i>Kigali</i><par n="Lugar__np"/></e>
+<e lm="Knesset"><i>Knesset</i><par n="Lugar__np"/></e>
+<e lm="Curdistão"><i>Curdistão</i><par n="Lugar__np"/></e>
+<e lm="Quioto"><i>Quioto</i><par n="Lugar__np"/></e>
+<e lm="Meca"><i>Meca</i><par n="Lugar__np"/></e>
+<e lm="Languedoque-Rossilhão"><i>Languedoque-Rossilhão</i><par n="Lugar__np"/></e>
+<e lm="Las Vegas"><i>Las<b/>Vegas</i><par n="Lugar__np"/></e>
+<e lm="Lausana"><i>Lausana</i><par n="Lugar__np"/></e>
+<e lm="Lille"><i>Lille</i><par n="Lugar__np"/></e>
+<e lm="Limoges"><i>Limoges</i><par n="Lugar__np"/></e>
+<e lm="Louvre"><i>Louvre</i><par n="Lugar__np"/></e>
+<e lm="Manhattan"><i>Manhattan</i><par n="Lugar__np"/></e>
+<e lm="Marrakech"><i>Marrakech</i><par n="Lugar__np"/></e>
+<e lm="Martinica"><i>Martinica</i><par n="Lugar__np"/></e>
+<e lm="Massachusetts"><i>Massachusetts</i><par n="Lugar__np"/></e>
+<e lm="Melbourne"><i>Melbourne</i><par n="Lugar__np"/></e>
+<e lm="Michigan"><i>Michigan</i><par n="Lugar__np"/></e>
+<e lm="Mogadíscio"><i>Mogadíscio</i><par n="Lugar__np"/></e>
+<e lm="Monte Branco"><i>Monte<b/>Branco</i><par n="Lugar__np"/></e>
+<e lm="Monte Carlo"><i>Monte<b/>Carlo</i><par n="Lugar__np"/></e>
+<e lm="Montpellier"><i>Montpellier</i><par n="Lugar__np"/></e>
+<e lm="Montreal"><i>Montreal</i><par n="Lugar__np"/></e>
+<e lm="Monte Saint-Michel"><i>Monte<b/>Saint-Michel</i><par n="Lugar__np"/></e>
+<e lm="Nagasaki"><i>Nagasaki</i><par n="Lugar__np"/></e>
+<e lm="Nanterre"><i>Nanterre</i><par n="Lugar__np"/></e>
+<e lm="Nova Iorque"><i>Nova<b/>Iorque</i><par n="Lugar__np"/></e>
+<e lm="Nîmes"><i>Nîmes</i><par n="Lugar__np"/></e>
+<e lm="Normandia"><i>Normandia</i><par n="Lugar__np"/></e>
+<e lm="Nova Caledónia"><i>Nova<b/>Caledónia</i><par n="Lugar__np"/></e>
+<e lm="Nova Orleães"><i>Nova<b/>Orleães</i><par n="Lugar__np"/></e>
+<e lm="Orsay"><i>Orsay</i><par n="Lugar__np"/></e>
+<e lm="Osaka"><i>Osaka</i><par n="Lugar__np"/></e>
+<e lm="Palestina"><i>Palestina</i><par n="Lugar__np"/></e>
+<e lm="Palma"><i>Palma</i><par n="Lugar__np"/></e>
+<e lm="Pas-de-Calais"><i>Pas-de-Calais</i><par n="Lugar__np"/></e>
+<e lm="Poitou-Charentes"><i>Poitou-Charentes</i><par n="Lugar__np"/></e>
+<e lm="Praga"><i>Praga</i><par n="Lugar__np"/></e>
+<e lm="Pristina"><i>Pristina</i><par n="Lugar__np"/></e>
+<e lm="Provença"><i>Provença</i><par n="Lugar__np"/></e>
+<e lm="Pyongyang"><i>Pyongyang</i><par n="Lugar__np"/></e>
+<e lm="Quebec"><i>Quebec</i><par n="Lugar__np"/></e>
+<e lm="Quebec"><i>Quebec</i><par n="Lugar__np"/></e>
+<e lm="Ratisbona"><i>Ratisbona</i><par n="Lugar__np"/></e>
+<e lm="Redmond"><i>Redmond</i><par n="Lugar__np"/></e>
+<e lm="Rennes"><i>Rennes</i><par n="Lugar__np"/></e>
+<e lm="Ródano-Alpes"><i>Ródano-Alpes</i><par n="Lugar__np"/></e>
+<e lm="Rio Ródano"><i>Rio<b/>Ródano</i><par n="Lugar__np"/></e>
+<e lm="Riga"><i>Riga</i><par n="Lugar__np"/></e>
+<e lm="Roterdão"><i>Roterdão</i><par n="Lugar__np"/></e>
+<e lm="Roubaix"><i>Roubaix</i><par n="Lugar__np"/></e>
+<e lm="Ruão"><i>Ruão</i><par n="Lugar__np"/></e>
+<e lm="Saint-Étienne"><i>Saint-Étienne</i><par n="Lugar__np"/></e>
+<e lm="Saint-Étienne"><i>Saint-Étienne</i><par n="Lugar__np"/></e>
+<e lm="Saint-Germain"><i>Saint-Germain</i><par n="Lugar__np"/></e>
+<e lm="Saint-Louis"><i>Saint-Louis</i><par n="Lugar__np"/></e>
+<e lm="Saint-Malo"><i>Saint-Malo</i><par n="Lugar__np"/></e>
+<e lm="Saint-Michel"><i>Saint-Michel</i><par n="Lugar__np"/></e>
+<e lm="São Petersburgo"><i>São<b/>Petersburgo</i><par n="Lugar__np"/></e>
+<e lm="Saint Pierre"><i>Saint<b/>Pierre</i><par n="Lugar__np"/></e>
+<e lm="Salzburgo"><i>Salzburgo</i><par n="Lugar__np"/></e>
+<e lm="Saône-et-Loire"><i>Saône-et-Loire</i><par n="Lugar__np"/></e>
+<e lm="Saturno"><i>Saturno</i><par n="Lugar__np"/></e>
+<e lm="Schengen"><i>Schengen</i><par n="Lugar__np"/></e>
+<e lm="Seattle"><i>Seattle</i><par n="Lugar__np"/></e>
+<e lm="Sena e Marne"><i>Sena<b/>e<b/>Marne</i><par n="Lugar__np"/></e>
+<e lm="Rio Sena"><i>Rio<b/>Sena</i><par n="Lugar__np"/></e>
+<e lm="Sena Marítimo"><i>Sena<b/>Marítimo</i><par n="Lugar__np"/></e>
+<e lm="Sibéria"><i>Sibéria</i><par n="Lugar__np"/></e>
+<e lm="Sochaux"><i>Sochaux</i><par n="Lugar__np"/></e>
+<e lm="Sorbonne"><i>Sorbonne</i><par n="Lugar__np"/></e>
+<e lm="Estugarda"><i>Estugarda</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Formosa"><i>Ilha<b/>de<b/>Formosa</i><par n="Lugar__np"/></e>
+<e lm="Tbilisi"><i>Tbilisi</i><par n="Lugar__np"/></e>
+<e lm="Toronto"><i>Toronto</i><par n="Lugar__np"/></e>
+<e lm="Toscana"><i>Toscana</i><par n="Lugar__np"/></e>
+<e lm="Toulon"><i>Toulon</i><par n="Lugar__np"/></e>
+<e lm="Toulouse"><i>Toulouse</i><par n="Lugar__np"/></e>
+<e lm="Toulouse"><i>Toulouse</i><par n="Lugar__np"/></e>
+<e lm="Tours"><i>Tours</i><par n="Lugar__np"/></e>
+<e lm="Trípoli"><i>Trípoli</i><par n="Lugar__np"/></e>
+<e lm="Troyes"><i>Troyes</i><par n="Lugar__np"/></e>
+<e lm="Val-de-Marne"><i>Val-de-Marne</i><par n="Lugar__np"/></e>
+<e lm="Val-d'Oise"><i>Val-d'Oise</i><par n="Lugar__np"/></e>
+<e lm="Varsóvia"><i>Varsóvia</i><par n="Lugar__np"/></e>
+<e lm="Vênus"><i>Vênus</i><par n="Lugar__np"/></e>
+<e lm="Verdun"><i>Verdun</i><par n="Lugar__np"/></e>
+<e lm="Versalhes"><i>Versalhes</i><par n="Lugar__np"/></e>
+<e lm="Villette"><i>Villette</i><par n="Lugar__np"/></e>
+<e lm="York"><i>York</i><par n="Lugar__np"/></e>
+<e lm="Campos Elísios"><i>Campos<b/>Elísios</i><par n="Lugar__np"/></e>
+<e lm="Nairóbi"><i>Nairóbi</i><par n="Lugar__np"/></e>
+<e lm="Xangai"><i>Xangai</i><par n="Lugar__np"/></e>
+<e lm="Amboise"><i>Amboise</i><par n="Lugar__np"/></e>
+<e lm="Amorebieta-Etxano"><i>Amorebieta-Etxano</i><par n="Lugar__np"/></e>
+<e lm="Amorebieta-Etxano"><i>Amorebieta-Etxano</i><par n="Lugar__np"/></e>
+<e lm="Amoroto"><i>Amoroto</i><par n="Lugar__np"/></e>
+<e lm="Amposta"><i>Amposta</i><par n="Lugar__np"/></e>
+<e lm="Ampudia"><i>Ampudia</i><par n="Lugar__np"/></e>
+<e lm="Amurrio"><i>Amurrio</i><par n="Lugar__np"/></e>
+<e lm="Ancash"><i>Ancash</i><par n="Lugar__np"/></e>
+<e lm="Ancona"><i>Ancona</i><par n="Lugar__np"/></e>
+<e lm="Al-Andalus"><i>Al-Andalus</i><par n="Lugar__np"/></e>
+<e lm="Anderlues"><i>Anderlues</i><par n="Lugar__np"/></e>
+<e lm="Andhra Pradesh"><i>Andhra<b/>Pradesh</i><par n="Lugar__np"/></e>
+<e lm="Andijon"><i>Andijon</i><par n="Lugar__np"/></e>
+<e lm="Andijon"><i>Andijon</i><par n="Lugar__np"/></e>
+<e lm="Andosilla"><i>Andosilla</i><par n="Lugar__np"/></e>
+<e lm="Anfield"><i>Anfield</i><par n="Lugar__np"/></e>
+<e lm="Anglet"><i>Anglet</i><par n="Lugar__np"/></e>
+<e lm="Angers"><i>Angers</i><par n="Lugar__np"/></e>
+<e lm="Ansó"><i>Ansó</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Antequera"><i>Antequera</i><par n="Lugar__np"/></e>
+<e lm="Antioquia"><i>Antioquia</i><par n="Lugar__np"/></e>
+<e lm="Antzuola"><i>Antzuola</i><par n="Lugar__np"/></e>
+<e lm="Auritz"><i>Auritz</i><par n="Lugar__np"/></e>
+<e lm="Auritz"><i>Auritz</i><par n="Lugar__np"/></e>
+<e lm="Aomori"><i>Aomori</i><par n="Lugar__np"/></e>
+<e lm="Aracena"><i>Aracena</i><par n="Lugar__np"/></e>
+<e lm="Uharte-Arakil"><i>Uharte-Arakil</i><par n="Lugar__np"/></e>
+<e lm="Araitz"><i>Araitz</i><par n="Lugar__np"/></e>
+<e lm="Arakaldo"><i>Arakaldo</i><par n="Lugar__np"/></e>
+<e lm="Aramayona"><i>Aramayona</i><par n="Lugar__np"/></e>
+<e lm="Comarca do Vale de Aran"><i>Comarca<b/>do<b/>Vale<b/>de<b/>Aran</i><par n="Lugar__np"/></e>
+<e lm="Etxarri-Aranatz"><i>Etxarri-Aranatz</i><par n="Lugar__np"/></e>
+<e lm="Etxarri-Aranatz"><i>Etxarri-Aranatz</i><par n="Lugar__np"/></e>
+<e lm="Etxarri-Aranatz"><i>Etxarri-Aranatz</i><par n="Lugar__np"/></e>
+<e lm="Aranjuez"><i>Aranjuez</i><par n="Lugar__np"/></e>
+<e lm="Arbizu"><i>Arbizu</i><par n="Lugar__np"/></e>
+<e lm="Arbizu"><i>Arbizu</i><par n="Lugar__np"/></e>
+<e lm="Arcachon"><i>Arcachon</i><par n="Lugar__np"/></e>
+<e lm="Artzentales"><i>Artzentales</i><par n="Lugar__np"/></e>
+<e lm="Torrejón de Ardoz"><i>Torrejón<b/>de<b/>Ardoz</i><par n="Lugar__np"/></e>
+<e lm="Areatza"><i>Areatza</i><par n="Lugar__np"/></e>
+<e lm="Areatza"><i>Areatza</i><par n="Lugar__np"/></e>
+<e lm="Aremberg"><i>Aremberg</i><par n="Lugar__np"/></e>
+<e lm="Areso"><i>Areso</i><par n="Lugar__np"/></e>
+<e lm="Arguedas"><i>Arguedas</i><par n="Lugar__np"/></e>
+<e lm="Zumárraga"><i>Zumárraga</i><par n="Lugar__np"/></e>
+<e lm="Aribe"><i>Aribe</i><par n="Lugar__np"/></e>
+<e lm="Baleares"><i>Baleares</i><par n="Lugar__np"/></e>
+<e lm="Cantábria"><i>Cantábria</i><par n="Lugar__np"/></e>
+<e lm="Catalunha"><i>Catalunha</i><par n="Lugar__np"/></e>
+<e lm="Comunidade Valenciana"><i>Comunidade<b/>Valenciana</i><par n="Lugar__np"/></e>
+<e lm="Extremadura"><i>Extremadura</i><par n="Lugar__np"/></e>
+<e lm="Galiza"><i>Galiza</i><par n="Lugar__np"/></e>
+<e lm="Madrid"><i>Madrid</i><par n="Lugar__np"/></e>
+<e lm="Região de Múrcia"><i>Região<b/>de<b/>Múrcia</i><par n="Lugar__np"/></e>
+<e lm="La Rioja"><i>La<b/>Rioja</i><par n="Lugar__np"/></e>
+<e lm="Melilla"><i>Melilla</i><par n="Lugar__np"/></e>
+<e lm="Melilla"><i>Melilla</i><par n="Lugar__np"/></e>
+<e lm="França"><i>França</i><par n="Lugar__np"/></e>
+<e lm="Córdova"><i>Córdova</i><par n="Lugar__np"/></e>
+<e lm="Jaén"><i>Jaén</i><par n="Lugar__np"/></e>
+<e lm="Málaga"><i>Málaga</i><par n="Lugar__np"/></e>
+<e lm="Sevilha"><i>Sevilha</i><par n="Lugar__np"/></e>
+<e lm="Teruel"><i>Teruel</i><par n="Lugar__np"/></e>
+<e lm="Saragoça"><i>Saragoça</i><par n="Lugar__np"/></e>
+<e lm="Gijón"><i>Gijón</i><par n="Lugar__np"/></e>
+<e lm="Avilés"><i>Avilés</i><par n="Lugar__np"/></e>
+<e lm="Maiorca"><i>Maiorca</i><par n="Lugar__np"/></e>
+<e lm="Palma de Maiorca"><i>Palma<b/>de<b/>Maiorca</i><par n="Lugar__np"/></e>
+<e lm="Minorca"><i>Minorca</i><par n="Lugar__np"/></e>
+<e lm="Ibiza"><i>Ibiza</i><par n="Lugar__np"/></e>
+<e lm="Formentera"><i>Formentera</i><par n="Lugar__np"/></e>
+<e lm="Cabrera"><i>Cabrera</i><par n="Lugar__np"/></e>
+<e lm="Cabrera"><i>Cabrera</i><par n="Lugar__np"/></e>
+<e lm="Lançarote"><i>Lançarote</i><par n="Lugar__np"/></e>
+<e lm="Arrecife"><i>Arrecife</i><par n="Lugar__np"/></e>
+<e lm="Fuerteventura"><i>Fuerteventura</i><par n="Lugar__np"/></e>
+<e lm="Puerto del Rosario"><i>Puerto<b/>del<b/>Rosario</i><par n="Lugar__np"/></e>
+<e lm="Grã Canária"><i>Grã<b/>Canária</i><par n="Lugar__np"/></e>
+<e lm="Las Palmas"><i>Las<b/>Palmas</i><par n="Lugar__np"/></e>
+<e lm="La Gomera"><i>La<b/>Gomera</i><par n="Lugar__np"/></e>
+<e lm="San Sebastián de la Gomera"><i>San<b/>Sebastián<b/>de<b/>la<b/>Gomera</i><par n="Lugar__np"/></e>
+<e lm="Santa Cruz de la Palma"><i>Santa<b/>Cruz<b/>de<b/>la<b/>Palma</i><par n="Lugar__np"/></e>
+<e lm="El Hierro"><i>El<b/>Hierro</i><par n="Lugar__np"/></e>
+<e lm="Valverde"><i>Valverde</i><par n="Lugar__np"/></e>
+<e lm="Santander"><i>Santander</i><par n="Lugar__np"/></e>
+<e lm="Santoña"><i>Santoña</i><par n="Lugar__np"/></e>
+<e lm="Laredo"><i>Laredo</i><par n="Lugar__np"/></e>
+<e lm="Castro-Urdiales"><i>Castro-Urdiales</i><par n="Lugar__np"/></e>
+<e lm="Ciudad Real"><i>Ciudad<b/>Real</i><par n="Lugar__np"/></e>
+<e lm="Guadalajara"><i>Guadalajara</i><par n="Lugar__np"/></e>
+<e lm="Toledo"><i>Toledo</i><par n="Lugar__np"/></e>
+<e lm="Ávila"><i>Ávila</i><par n="Lugar__np"/></e>
+<e lm="Salamanca"><i>Salamanca</i><par n="Lugar__np"/></e>
+<e lm="Segóvia"><i>Segóvia</i><par n="Lugar__np"/></e>
+<e lm="Sória"><i>Sória</i><par n="Lugar__np"/></e>
+<e lm="Valhadolide"><i>Valhadolide</i><par n="Lugar__np"/></e>
+<e lm="Zamora"><i>Zamora</i><par n="Lugar__np"/></e>
+<e lm="Gerunda"><i>Gerunda</i><par n="Lugar__np"/></e>
+<e lm="Lérida"><i>Lérida</i><par n="Lugar__np"/></e>
+<e lm="Tarragona"><i>Tarragona</i><par n="Lugar__np"/></e>
+<e lm="Valence"><i>Valence</i><par n="Lugar__np"/></e>
+<e lm="Castellón"><i>Castellón</i><par n="Lugar__np"/></e>
+<e lm="Elche"><i>Elche</i><par n="Lugar__np"/></e>
+<e lm="Torrevieja"><i>Torrevieja</i><par n="Lugar__np"/></e>
+<e lm="Orihuela"><i>Orihuela</i><par n="Lugar__np"/></e>
+<e lm="Benidorm"><i>Benidorm</i><par n="Lugar__np"/></e>
+<e lm="Elda"><i>Elda</i><par n="Lugar__np"/></e>
+<e lm="Castelló de la Plana"><i>Castelló<b/>de<b/>la<b/>Plana</i><par n="Lugar__np"/></e>
+<e lm="Oropesa del Mar"><i>Oropesa<b/>del<b/>Mar</i><par n="Lugar__np"/></e>
+<e lm="Benicasim"><i>Benicasim</i><par n="Lugar__np"/></e>
+<e lm="Costa Blanca"><i>Costa<b/>Blanca</i><par n="Lugar__np"/></e>
+<e lm="Mérida"><i>Mérida</i><par n="Lugar__np"/></e>
+<e lm="Rio Tejo"><i>Rio<b/>Tejo</i><par n="Lugar__np"/></e>
+<e lm="Rio Guadiana"><i>Rio<b/>Guadiana</i><par n="Lugar__np"/></e>
+<e lm="Rio Guadalquivir"><i>Rio<b/>Guadalquivir</i><par n="Lugar__np"/></e>
+<e lm="Corunha"><i>Corunha</i><par n="Lugar__np"/></e>
+<e lm="Lugo"><i>Lugo</i><par n="Lugar__np"/></e>
+<e lm="Ourense"><i>Ourense</i><par n="Lugar__np"/></e>
+<e lm="Pontevedra"><i>Pontevedra</i><par n="Lugar__np"/></e>
+<e lm="Santiago de Compostela"><i>Santiago<b/>de<b/>Compostela</i><par n="Lugar__np"/></e>
+<e lm="Móstoles"><i>Móstoles</i><par n="Lugar__np"/></e>
+<e lm="Leganés"><i>Leganés</i><par n="Lugar__np"/></e>
+<e lm="Alcorcón"><i>Alcorcón</i><par n="Lugar__np"/></e>
+<e lm="Getafe"><i>Getafe</i><par n="Lugar__np"/></e>
+<e lm="Torrejón de Ardoz"><i>Torrejón<b/>de<b/>Ardoz</i><par n="Lugar__np"/></e>
+<e lm="San Sebastián de los Reyes"><i>San<b/>Sebastián<b/>de<b/>los<b/>Reyes</i><par n="Lugar__np"/></e>
+<e lm="Aranjuez"><i>Aranjuez</i><par n="Lugar__np"/></e>
+<e lm="Golfo da Biscaia"><i>Golfo<b/>da<b/>Biscaia</i><par n="Lugar__np"/></e>
+<e lm="Vitoria-Gasteiz"><i>Vitoria-Gasteiz</i><par n="Lugar__np"/></e>
+<e lm="Costa do Marfim"><i>Costa<b/>do<b/>Marfim</i><par n="Lugar__np"/></e>
+<e lm="Corno de Ouro"><i>Corno<b/>de<b/>Ouro</i><par n="Lugar__np"/></e>
+<e lm="Côte-d'Or"><i>Côte-d'Or</i><par n="Lugar__np"/></e>
+<e lm="La Rioja"><i>La<b/>Rioja</i><par n="Lugar__np"/></e>
+<e lm="Rio Douro"><i>Rio<b/>Douro</i><par n="Lugar__np"/></e>
+<e lm="Rio Ebro"><i>Rio<b/>Ebro</i><par n="Lugar__np"/></e>
+<e lm="Rio Tejo"><i>Rio<b/>Tejo</i><par n="Lugar__np"/></e>
+<e lm="Rio Júcar"><i>Rio<b/>Júcar</i><par n="Lugar__np"/></e>
+<e lm="Rio Segura"><i>Rio<b/>Segura</i><par n="Lugar__np"/></e>
+<e lm="Rio Bidasoa"><i>Rio<b/>Bidasoa</i><par n="Lugar__np"/></e>
+<e lm="Pireneus"><i>Pireneus</i><par n="Lugar__np"/></e>
+<e lm="Sistema Central"><i>Sistema<b/>Central</i><par n="Lugar__np"/></e>
+<e lm="Cordilheira Bética"><i>Cordilheira<b/>Bética</i><par n="Lugar__np"/></e>
+<e lm="Oceano Atlântico"><i>Oceano<b/>Atlântico</i><par n="Lugar__np"/></e>
+<e lm="Oceano Antártico"><i>Oceano<b/>Antártico</i><par n="Lugar__np"/></e>
+<e lm="Oceano Ártico"><i>Oceano<b/>Ártico</i><par n="Lugar__np"/></e>
+<e lm="Saint-Laurent"><i>Saint-Laurent</i><par n="Lugar__np"/></e>
+<e lm="Oceano Índico"><i>Oceano<b/>Índico</i><par n="Lugar__np"/></e>
+<e lm="Oceano Pacífico"><i>Oceano<b/>Pacífico</i><par n="Lugar__np"/></e>
+<e lm="Villabona"><i>Villabona</i><par n="Lugar__np"/></e>
+<e lm="Mar Tirreno"><i>Mar<b/>Tirreno</i><par n="Lugar__np"/></e>
+<e lm="Provença-Alpes-Costa Azul"><i>Provença-Alpes-Costa<b/>Azul</i><par n="Lugar__np"/></e>
+<e lm="Costa Azul"><i>Costa<b/>Azul</i><par n="Lugar__np"/></e>
+<e lm="Mar do Leste"><i>Mar<b/>do<b/>Leste</i><par n="Lugar__np"/></e>
+<e lm="Mar de Alborão"><i>Mar<b/>de<b/>Alborão</i><par n="Lugar__np"/></e>
+<e lm="Mar de Andamão"><i>Mar<b/>de<b/>Andamão</i><par n="Lugar__np"/></e>
+<e lm="Mar Arábico"><i>Mar<b/>Arábico</i><par n="Lugar__np"/></e>
+<e lm="Mar de Aral"><i>Mar<b/>de<b/>Aral</i><par n="Lugar__np"/></e>
+<e lm="Mar de Okhotsk"><i>Mar<b/>de<b/>Okhotsk</i><par n="Lugar__np"/></e>
+<e lm="Mar de Amundsen"><i>Mar<b/>de<b/>Amundsen</i><par n="Lugar__np"/></e>
+<e lm="Mar de Arafura"><i>Mar<b/>de<b/>Arafura</i><par n="Lugar__np"/></e>
+<e lm="Mar Jônico"><i>Mar<b/>Jônico</i><par n="Lugar__np"/></e>
+<e lm="Mar Egeu"><i>Mar<b/>Egeu</i><par n="Lugar__np"/></e>
+<e lm="Mar Báltico"><i>Mar<b/>Báltico</i><par n="Lugar__np"/></e>
+<e lm="Mar do Norte"><i>Mar<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Mar Mediterrâneo"><i>Mar<b/>Mediterrâneo</i><par n="Lugar__np"/></e>
+<e lm="Mar de Barents"><i>Mar<b/>de<b/>Barents</i><par n="Lugar__np"/></e>
+<e lm="Mar da Gronelândia"><i>Mar<b/>da<b/>Gronelândia</i><par n="Lugar__np"/></e>
+<e lm="Mar da Noruega"><i>Mar<b/>da<b/>Noruega</i><par n="Lugar__np"/></e>
+<e lm="Mar Negro"><i>Mar<b/>Negro</i><par n="Lugar__np"/></e>
+<e lm="Mar Amarelo"><i>Mar<b/>Amarelo</i><par n="Lugar__np"/></e>
+<e lm="Mar de Banda"><i>Mar<b/>de<b/>Banda</i><par n="Lugar__np"/></e>
+<e lm="Mar de Bering"><i>Mar<b/>de<b/>Bering</i><par n="Lugar__np"/></e>
+<e lm="Mar Cáspio"><i>Mar<b/>Cáspio</i><par n="Lugar__np"/></e>
+<e lm="Mar de Celebes"><i>Mar<b/>de<b/>Celebes</i><par n="Lugar__np"/></e>
+<e lm="Mar da China Oriental"><i>Mar<b/>da<b/>China<b/>Oriental</i><par n="Lugar__np"/></e>
+<e lm="Mar da China Meridional"><i>Mar<b/>da<b/>China<b/>Meridional</i><par n="Lugar__np"/></e>
+<e lm="Mar das Filipinas"><i>Mar<b/>das<b/>Filipinas</i><par n="Lugar__np"/></e>
+<e lm="Mar do Japão"><i>Mar<b/>do<b/>Japão</i><par n="Lugar__np"/></e>
+<e lm="Mar de Kara"><i>Mar<b/>de<b/>Kara</i><par n="Lugar__np"/></e>
+<e lm="Mar de Laptev"><i>Mar<b/>de<b/>Laptev</i><par n="Lugar__np"/></e>
+<e lm="Mar Interior"><i>Mar<b/>Interior</i><par n="Lugar__np"/></e>
+<e lm="Mar Vermelho"><i>Mar<b/>Vermelho</i><par n="Lugar__np"/></e>
+<e lm="Mar Siberiano Oriental"><i>Mar<b/>Siberiano<b/>Oriental</i><par n="Lugar__np"/></e>
+<e lm="Mar de Sulu"><i>Mar<b/>de<b/>Sulu</i><par n="Lugar__np"/></e>
+<e lm="Mar de Beaufort"><i>Mar<b/>de<b/>Beaufort</i><par n="Lugar__np"/></e>
+<e lm="Mar Morto"><i>Mar<b/>Morto</i><par n="Lugar__np"/></e>
+<e lm="Mar do Labrador"><i>Mar<b/>do<b/>Labrador</i><par n="Lugar__np"/></e>
+<e lm="Mar dos Sargaços"><i>Mar<b/>dos<b/>Sargaços</i><par n="Lugar__np"/></e>
+<e lm="Mar de Bellingshausen"><i>Mar<b/>de<b/>Bellingshausen</i><par n="Lugar__np"/></e>
+<e lm="Mar de Weddell"><i>Mar<b/>de<b/>Weddell</i><par n="Lugar__np"/></e>
+<e lm="Mar de Ross"><i>Mar<b/>de<b/>Ross</i><par n="Lugar__np"/></e>
+<e lm="Mar da Tasmânia"><i>Mar<b/>da<b/>Tasmânia</i><par n="Lugar__np"/></e>
+<e lm="Mar de Timor"><i>Mar<b/>de<b/>Timor</i><par n="Lugar__np"/></e>
+<e lm="Kilimanjaro"><i>Kilimanjaro</i><par n="Lugar__np"/></e>
+<e lm="Aconcágua"><i>Aconcágua</i><par n="Lugar__np"/></e>
+<e lm="Monte Everest"><i>Monte<b/>Everest</i><par n="Lugar__np"/></e>
+<e lm="Monte Elbrus"><i>Monte<b/>Elbrus</i><par n="Lugar__np"/></e>
+<e lm="Pirâmide Carstensz"><i>Pirâmide<b/>Carstensz</i><par n="Lugar__np"/></e>
+<e lm="Pirâmide Carstensz"><i>Pirâmide<b/>Carstensz</i><par n="Lugar__np"/></e>
+<e lm="Maciço Vinson"><i>Maciço<b/>Vinson</i><par n="Lugar__np"/></e>
+<e lm="Alpes"><i>Alpes</i><par n="Lugar__np"/></e>
+<e lm="Himalaia"><i>Himalaia</i><par n="Lugar__np"/></e>
+<e lm="Andes"><i>Andes</i><par n="Lugar__np"/></e>
+<e lm="Cordilheira Cantábrica"><i>Cordilheira<b/>Cantábrica</i><par n="Lugar__np"/></e>
+<e lm="Serra Morena"><i>Serra<b/>Morena</i><par n="Lugar__np"/></e>
+<e lm="Rio Nilo"><i>Rio<b/>Nilo</i><par n="Lugar__np"/></e>
+<e lm="Rio Yangtzé"><i>Rio<b/>Yangtzé</i><par n="Lugar__np"/></e>
+<e lm="Rio Amarelo"><i>Rio<b/>Amarelo</i><par n="Lugar__np"/></e>
+<e lm="Rio Amarelo"><i>Rio<b/>Amarelo</i><par n="Lugar__np"/></e>
+<e lm="Rio Ob"><i>Rio<b/>Ob</i><par n="Lugar__np"/></e>
+<e lm="Rio Lena"><i>Rio<b/>Lena</i><par n="Lugar__np"/></e>
+<e lm="Mackenzie"><i>Mackenzie</i><par n="Lugar__np"/></e>
+<e lm="Bélgica"><i>Bélgica</i><par n="Lugar__np"/></e>
+<e lm="Suíça"><i>Suíça</i><par n="Lugar__np"/></e>
+<e lm="Mónaco"><i>Mónaco</i><par n="Lugar__np"/></e>
+<e lm="Itália"><i>Itália</i><par n="Lugar__np"/></e>
+<e lm="interwiki-pt-ba"><i>interwiki-pt-ba</i><par n="Lugar__np"/></e>
+<e lm="interwiki-pt-ba"><i>interwiki-pt-ba</i><par n="Lugar__np"/></e>
+<e lm="América do Norte"><i>América<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="América do Norte"><i>América<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Guiana Francesa"><i>Guiana<b/>Francesa</i><par n="Lugar__np"/></e>
+<e lm="Brasil"><i>Brasil</i><par n="Lugar__np"/></e>
+<e lm="Suriname"><i>Suriname</i><par n="Lugar__np"/></e>
+<e lm="Antilhas Holandesas"><i>Antilhas<b/>Holandesas</i><par n="Lugar__np"/></e>
+<e lm="Hexágono"><i>Hexágono</i><par n="Lugar__np"/></e>
+<e lm="Louhossoa"><i>Louhossoa</i><par n="Lugar__np"/></e>
+<e lm="Guadalupe"><i>Guadalupe</i><par n="Lugar__np"/></e>
+<e lm="Martinica"><i>Martinica</i><par n="Lugar__np"/></e>
+<e lm="Mayotte"><i>Mayotte</i><par n="Lugar__np"/></e>
+<e lm="Polinésia Francesa"><i>Polinésia<b/>Francesa</i><par n="Lugar__np"/></e>
+<e lm="Wallis e Futuna"><i>Wallis<b/>e<b/>Futuna</i><par n="Lugar__np"/></e>
+<e lm="Saint-Barthélemy"><i>Saint-Barthélemy</i><par n="Lugar__np"/></e>
+<e lm="Nova Caledónia"><i>Nova<b/>Caledónia</i><par n="Lugar__np"/></e>
+<e lm="Terras Austrais e Antárticas Francesas"><i>Terras<b/>Austrais<b/>e<b/>Antárticas<b/>Francesas</i><par n="Lugar__np"/></e>
+<e lm="Saint-Denis"><i>Saint-Denis</i><par n="Lugar__np"/></e>
+<e lm="Basse-Terre"><i>Basse-Terre</i><par n="Lugar__np"/></e>
+<e lm="Pointe-à-Pitre"><i>Pointe-à-Pitre</i><par n="Lugar__np"/></e>
+<e lm="Fort-de-France"><i>Fort-de-France</i><par n="Lugar__np"/></e>
+<e lm="Caiena"><i>Caiena</i><par n="Lugar__np"/></e>
+<e lm="Saint Pierre"><i>Saint<b/>Pierre</i><par n="Lugar__np"/></e>
+<e lm="Mamoudzou"><i>Mamoudzou</i><par n="Lugar__np"/></e>
+<e lm="Papeete"><i>Papeete</i><par n="Lugar__np"/></e>
+<e lm="Mata-Utu"><i>Mata-Utu</i><par n="Lugar__np"/></e>
+<e lm="Marigot"><i>Marigot</i><par n="Lugar__np"/></e>
+<e lm="Nouméa"><i>Nouméa</i><par n="Lugar__np"/></e>
+<e lm="Port-aux-Français"><i>Port-aux-Français</i><par n="Lugar__np"/></e>
+<e lm="Golfo de Leão"><i>Golfo<b/>de<b/>Leão</i><par n="Lugar__np"/></e>
+<e lm="Jura"><i>Jura</i><par n="Lugar__np"/></e>
+<e lm="Rio Reno"><i>Rio<b/>Reno</i><par n="Lugar__np"/></e>
+<e lm="Maciço central"><i>Maciço<b/>central</i><par n="Lugar__np"/></e>
+<e lm="Vosges"><i>Vosges</i><par n="Lugar__np"/></e>
+<e lm="Monte Branco"><i>Monte<b/>Branco</i><par n="Lugar__np"/></e>
+<e lm="Rio Garona"><i>Rio<b/>Garona</i><par n="Lugar__np"/></e>
+<e lm="Rio Sena"><i>Rio<b/>Sena</i><par n="Lugar__np"/></e>
+<e lm="Rio Ródano"><i>Rio<b/>Ródano</i><par n="Lugar__np"/></e>
+<e lm="Meuse"><i>Meuse</i><par n="Lugar__np"/></e>
+<e lm="Rio Escalda"><i>Rio<b/>Escalda</i><par n="Lugar__np"/></e>
+<e lm="Lago Léman"><i>Lago<b/>Léman</i><par n="Lugar__np"/></e>
+<e lm="Saint-Tropez"><i>Saint-Tropez</i><par n="Lugar__np"/></e>
+<e lm="Magrebe"><i>Magrebe</i><par n="Lugar__np"/></e>
+<e lm="Quebec"><i>Quebec</i><par n="Lugar__np"/></e>
+<e lm="Cannes"><i>Cannes</i><par n="Lugar__np"/></e>
+<e lm="Ilha de França"><i>Ilha<b/>de<b/>França</i><par n="Lugar__np"/></e>
+<e lm="Sena e Marne"><i>Sena<b/>e<b/>Marne</i><par n="Lugar__np"/></e>
+<e lm="Melun"><i>Melun</i><par n="Lugar__np"/></e>
+<e lm="Versalhes"><i>Versalhes</i><par n="Lugar__np"/></e>
+<e lm="Évry"><i>Évry</i><par n="Lugar__np"/></e>
+<e lm="Altos do Sena"><i>Altos<b/>do<b/>Sena</i><par n="Lugar__np"/></e>
+<e lm="Nanterre"><i>Nanterre</i><par n="Lugar__np"/></e>
+<e lm="Bobigny"><i>Bobigny</i><par n="Lugar__np"/></e>
+<e lm="Val-de-Marne"><i>Val-de-Marne</i><par n="Lugar__np"/></e>
+<e lm="Créteil"><i>Créteil</i><par n="Lugar__np"/></e>
+<e lm="Pontoise"><i>Pontoise</i><par n="Lugar__np"/></e>
+<e lm="Champanha-Ardenas"><i>Champanha-Ardenas</i><par n="Lugar__np"/></e>
+<e lm="Charleville-Mézières"><i>Charleville-Mézières</i><par n="Lugar__np"/></e>
+<e lm="Aube"><i>Aube</i><par n="Lugar__np"/></e>
+<e lm="Troyes"><i>Troyes</i><par n="Lugar__np"/></e>
+<e lm="Marne"><i>Marne</i><par n="Lugar__np"/></e>
+<e lm="Haute-Marne"><i>Haute-Marne</i><par n="Lugar__np"/></e>
+<e lm="Picardia"><i>Picardia</i><par n="Lugar__np"/></e>
+<e lm="Picardia"><i>Picardia</i><par n="Lugar__np"/></e>
+<e lm="Amiens"><i>Amiens</i><par n="Lugar__np"/></e>
+<e lm="Laon"><i>Laon</i><par n="Lugar__np"/></e>
+<e lm="Beauvais"><i>Beauvais</i><par n="Lugar__np"/></e>
+<e lm="Somme"><i>Somme</i><par n="Lugar__np"/></e>
+<e lm="Alta-Normandia"><i>Alta-Normandia</i><par n="Lugar__np"/></e>
+<e lm="Ruão"><i>Ruão</i><par n="Lugar__np"/></e>
+<e lm="Eure"><i>Eure</i><par n="Lugar__np"/></e>
+<e lm="Sena Marítimo"><i>Sena<b/>Marítimo</i><par n="Lugar__np"/></e>
+<e lm="Orleães"><i>Orleães</i><par n="Lugar__np"/></e>
+<e lm="Cher"><i>Cher</i><par n="Lugar__np"/></e>
+<e lm="Eure-et-Loir"><i>Eure-et-Loir</i><par n="Lugar__np"/></e>
+<e lm="Indre"><i>Indre</i><par n="Lugar__np"/></e>
+<e lm="Indre-et-Loire"><i>Indre-et-Loire</i><par n="Lugar__np"/></e>
+<e lm="Loir-et-Cher"><i>Loir-et-Cher</i><par n="Lugar__np"/></e>
+<e lm="Baixa-Normandia"><i>Baixa-Normandia</i><par n="Lugar__np"/></e>
+<e lm="Caen"><i>Caen</i><par n="Lugar__np"/></e>
+<e lm="Borgonha"><i>Borgonha</i><par n="Lugar__np"/></e>
+<e lm="Dijon"><i>Dijon</i><par n="Lugar__np"/></e>
+<e lm="Saône-et-Loire"><i>Saône-et-Loire</i><par n="Lugar__np"/></e>
+<e lm="Nord-Pas-de-Calais"><i>Nord-Pas-de-Calais</i><par n="Lugar__np"/></e>
+<e lm="Lille"><i>Lille</i><par n="Lugar__np"/></e>
+<e lm="Pas-de-Calais"><i>Pas-de-Calais</i><par n="Lugar__np"/></e>
+<e lm="Lorena"><i>Lorena</i><par n="Lugar__np"/></e>
+<e lm="Metz"><i>Metz</i><par n="Lugar__np"/></e>
+<e lm="Meurthe-et-Moselle"><i>Meurthe-et-Moselle</i><par n="Lugar__np"/></e>
+<e lm="Baixo Reno"><i>Baixo<b/>Reno</i><par n="Lugar__np"/></e>
+<e lm="Alto Reno"><i>Alto<b/>Reno</i><par n="Lugar__np"/></e>
+<e lm="Franco-Condado"><i>Franco-Condado</i><par n="Lugar__np"/></e>
+<e lm="Besançon"><i>Besançon</i><par n="Lugar__np"/></e>
+<e lm="Doubs"><i>Doubs</i><par n="Lugar__np"/></e>
+<e lm="Haute-Saône"><i>Haute-Saône</i><par n="Lugar__np"/></e>
+<e lm="Território de Belfort"><i>Território<b/>de<b/>Belfort</i><par n="Lugar__np"/></e>
+<e lm="País do Loira"><i>País<b/>do<b/>Loira</i><par n="Lugar__np"/></e>
+<e lm="Loire-Atlantique"><i>Loire-Atlantique</i><par n="Lugar__np"/></e>
+<e lm="Maine-et-Loire"><i>Maine-et-Loire</i><par n="Lugar__np"/></e>
+<e lm="Rennes"><i>Rennes</i><par n="Lugar__np"/></e>
+<e lm="Finistère"><i>Finistère</i><par n="Lugar__np"/></e>
+<e lm="Ille-et-Vilaine"><i>Ille-et-Vilaine</i><par n="Lugar__np"/></e>
+<e lm="Morbihan"><i>Morbihan</i><par n="Lugar__np"/></e>
+<e lm="Poitou-Charentes"><i>Poitou-Charentes</i><par n="Lugar__np"/></e>
+<e lm="Poitiers"><i>Poitiers</i><par n="Lugar__np"/></e>
+<e lm="Charente-Maritime"><i>Charente-Maritime</i><par n="Lugar__np"/></e>
+<e lm="Deux-Sèvres"><i>Deux-Sèvres</i><par n="Lugar__np"/></e>
+<e lm="Vienne"><i>Vienne</i><par n="Lugar__np"/></e>
+<e lm="Niort"><i>Niort</i><par n="Lugar__np"/></e>
+<e lm="La Rochelle"><i>La<b/>Rochelle</i><par n="Lugar__np"/></e>
+<e lm="Angoulême"><i>Angoulême</i><par n="Lugar__np"/></e>
+<e lm="Évreux"><i>Évreux</i><par n="Lugar__np"/></e>
+<e lm="Bourges"><i>Bourges</i><par n="Lugar__np"/></e>
+<e lm="Chartres"><i>Chartres</i><par n="Lugar__np"/></e>
+<e lm="Châteauroux"><i>Châteauroux</i><par n="Lugar__np"/></e>
+<e lm="Blois"><i>Blois</i><par n="Lugar__np"/></e>
+<e lm="Saint-Lô"><i>Saint-Lô</i><par n="Lugar__np"/></e>
+<e lm="Alençon"><i>Alençon</i><par n="Lugar__np"/></e>
+<e lm="Nevers"><i>Nevers</i><par n="Lugar__np"/></e>
+<e lm="Nevers"><i>Nevers</i><par n="Lugar__np"/></e>
+<e lm="Mâcon"><i>Mâcon</i><par n="Lugar__np"/></e>
+<e lm="Auxerre"><i>Auxerre</i><par n="Lugar__np"/></e>
+<e lm="Arras"><i>Arras</i><par n="Lugar__np"/></e>
+<e lm="Nancy"><i>Nancy</i><par n="Lugar__np"/></e>
+<e lm="Bar-le-Duc"><i>Bar-le-Duc</i><par n="Lugar__np"/></e>
+<e lm="Épinal"><i>Épinal</i><par n="Lugar__np"/></e>
+<e lm="Colmar"><i>Colmar</i><par n="Lugar__np"/></e>
+<e lm="Vesoul"><i>Vesoul</i><par n="Lugar__np"/></e>
+<e lm="Belfort"><i>Belfort</i><par n="Lugar__np"/></e>
+<e lm="Laval"><i>Laval</i><par n="Lugar__np"/></e>
+<e lm="Le Mans"><i>Le<b/>Mans</i><par n="Lugar__np"/></e>
+<e lm="La Roche-sur-Yon"><i>La<b/>Roche-sur-Yon</i><par n="Lugar__np"/></e>
+<e lm="Saint-Brieuc"><i>Saint-Brieuc</i><par n="Lugar__np"/></e>
+<e lm="Quimper"><i>Quimper</i><par n="Lugar__np"/></e>
+<e lm="Rennes"><i>Rennes</i><par n="Lugar__np"/></e>
+<e lm="Vannes"><i>Vannes</i><par n="Lugar__np"/></e>
+<e lm="La Rochelle"><i>La<b/>Rochelle</i><par n="Lugar__np"/></e>
+<e lm="Aquitânia"><i>Aquitânia</i><par n="Lugar__np"/></e>
+<e lm="Bordéus"><i>Bordéus</i><par n="Lugar__np"/></e>
+<e lm="Villiers-le-Bel"><i>Villiers-le-Bel</i><par n="Lugar__np"/></e>
+<e lm="Périgueux"><i>Périgueux</i><par n="Lugar__np"/></e>
+<e lm="Mont-de-Marsan"><i>Mont-de-Marsan</i><par n="Lugar__np"/></e>
+<e lm="Lot e Garona"><i>Lot<b/>e<b/>Garona</i><par n="Lugar__np"/></e>
+<e lm="Pirineus Atlânticos"><i>Pirineus<b/>Atlânticos</i><par n="Lugar__np"/></e>
+<e lm="Pirineus Atlânticos"><i>Pirineus<b/>Atlânticos</i><par n="Lugar__np"/></e>
+<e lm="Pau"><i>Pau</i><par n="Lugar__np"/></e>
+<e lm="Médios Pirenéus"><i>Médios<b/>Pirenéus</i><par n="Lugar__np"/></e>
+<e lm="Médios Pirenéus"><i>Médios<b/>Pirenéus</i><par n="Lugar__np"/></e>
+<e lm="Toulouse"><i>Toulouse</i><par n="Lugar__np"/></e>
+<e lm="Tolosa"><i>Tolosa</i><par n="Lugar__np"/></e>
+<e lm="Foix"><i>Foix</i><par n="Lugar__np"/></e>
+<e lm="Rodez"><i>Rodez</i><par n="Lugar__np"/></e>
+<e lm="Alta Garona"><i>Alta<b/>Garona</i><par n="Lugar__np"/></e>
+<e lm="Lot"><i>Lot</i><par n="Lugar__np"/></e>
+<e lm="Cahors"><i>Cahors</i><par n="Lugar__np"/></e>
+<e lm="Altos Pirineus"><i>Altos<b/>Pirineus</i><par n="Lugar__np"/></e>
+<e lm="Tarbes"><i>Tarbes</i><par n="Lugar__np"/></e>
+<e lm="Tarn-et-Garonne"><i>Tarn-et-Garonne</i><par n="Lugar__np"/></e>
+<e lm="Montauban"><i>Montauban</i><par n="Lugar__np"/></e>
+<e lm="Limusino"><i>Limusino</i><par n="Lugar__np"/></e>
+<e lm="Limusino"><i>Limusino</i><par n="Lugar__np"/></e>
+<e lm="Limoges"><i>Limoges</i><par n="Lugar__np"/></e>
+<e lm="Guéret"><i>Guéret</i><par n="Lugar__np"/></e>
+<e lm="Haute-Vienne"><i>Haute-Vienne</i><par n="Lugar__np"/></e>
+<e lm="Ródano-Alpes"><i>Ródano-Alpes</i><par n="Lugar__np"/></e>
+<e lm="Bourg-en-Bresse"><i>Bourg-en-Bresse</i><par n="Lugar__np"/></e>
+<e lm="Valence"><i>Valence</i><par n="Lugar__np"/></e>
+<e lm="Grenoble"><i>Grenoble</i><par n="Lugar__np"/></e>
+<e lm="Saint-Étienne"><i>Saint-Étienne</i><par n="Lugar__np"/></e>
+<e lm="Rio Ródano"><i>Rio<b/>Ródano</i><par n="Lugar__np"/></e>
+<e lm="Chambéry"><i>Chambéry</i><par n="Lugar__np"/></e>
+<e lm="Alta Saboia"><i>Alta<b/>Saboia</i><par n="Lugar__np"/></e>
+<e lm="Auvérnia"><i>Auvérnia</i><par n="Lugar__np"/></e>
+<e lm="Clermont-Ferrand"><i>Clermont-Ferrand</i><par n="Lugar__np"/></e>
+<e lm="Clermont-Ferrand"><i>Clermont-Ferrand</i><par n="Lugar__np"/></e>
+<e lm="Allier"><i>Allier</i><par n="Lugar__np"/></e>
+<e lm="Moulins"><i>Moulins</i><par n="Lugar__np"/></e>
+<e lm="Aurillac"><i>Aurillac</i><par n="Lugar__np"/></e>
+<e lm="Haute-Loire"><i>Haute-Loire</i><par n="Lugar__np"/></e>
+<e lm="Puy-en-Velay"><i>Puy-en-Velay</i><par n="Lugar__np"/></e>
+<e lm="Puy-de-Dôme"><i>Puy-de-Dôme</i><par n="Lugar__np"/></e>
+<e lm="Languedoque-Rossilhão"><i>Languedoque-Rossilhão</i><par n="Lugar__np"/></e>
+<e lm="Montpellier"><i>Montpellier</i><par n="Lugar__np"/></e>
+<e lm="Carcassonne"><i>Carcassonne</i><par n="Lugar__np"/></e>
+<e lm="Bascortostão"><i>Bascortostão</i><par n="Lugar__np"/></e>
+<e lm="Basileia"><i>Basileia</i><par n="Lugar__np"/></e>
+<e lm="Baviera"><i>Baviera</i><par n="Lugar__np"/></e>
+<e lm="Beirute"><i>Beirute</i><par n="Lugar__np"/></e>
+<e lm="Beelzebuth"><i>Beelzebuth</i><par n="Lugar__np"/></e>
+<e lm="Bengala"><i>Bengala</i><par n="Lugar__np"/></e>
+<e lm="Benim"><i>Benim</i><par n="Lugar__np"/></e>
+<e lm="Bermudas"><i>Bermudas</i><par n="Lugar__np"/></e>
+<e lm="Bética"><i>Bética</i><par n="Lugar__np"/></e>
+<e lm="Bíblia"><i>Bíblia</i><par n="Lugar__np"/></e>
+<e lm="Biblos"><i>Biblos</i><par n="Lugar__np"/></e>
+<e lm="Bitínia"><i>Bitínia</i><par n="Lugar__np"/></e>
+<e lm="Bizâncio"><i>Bizâncio</i><par n="Lugar__np"/></e>
+<e lm="Boécio"><i>Boécio</i><par n="Lugar__np"/></e>
+<e lm="Boémia"><i>Boémia</i><par n="Lugar__np"/></e>
+<e lm="Bósforo"><i>Bósforo</i><par n="Lugar__np"/></e>
+<e lm="Bremen"><i>Bremen</i><par n="Lugar__np"/></e>
+<e lm="País Basco"><i>País<b/>Basco</i><par n="Lugar__np"/></e>
+<e lm="Fiumicino"><i>Fiumicino</i><par n="Lugar__np"/></e>
+<e lm="Aeroporto de Londres Heathrow"><i>Aeroporto<b/>de<b/>Londres<b/>Heathrow</i><par n="Lugar__np"/></e>
+<e lm="Brno"><i>Brno</i><par n="Lugar__np"/></e>
+<e lm="Bruges"><i>Bruges</i><par n="Lugar__np"/></e>
+<e lm="Bucovina"><i>Bucovina</i><par n="Lugar__np"/></e>
+<e lm="Cabo da Boa Esperança"><i>Cabo<b/>da<b/>Boa<b/>Esperança</i><par n="Lugar__np"/></e>
+<e lm="Bucara"><i>Bucara</i><par n="Lugar__np"/></e>
+<e lm="Bursa"><i>Bursa</i><par n="Lugar__np"/></e>
+<e lm="Bursa"><i>Bursa</i><par n="Lugar__np"/></e>
+<e lm="Cabo Verde"><i>Cabo<b/>Verde</i><par n="Lugar__np"/></e>
+<e lm="Caxemira"><i>Caxemira</i><par n="Lugar__np"/></e>
+<e lm="Peninos"><i>Peninos</i><par n="Lugar__np"/></e>
+<e lm="Cafarnaum"><i>Cafarnaum</i><par n="Lugar__np"/></e>
+<e lm="Calábria"><i>Calábria</i><par n="Lugar__np"/></e>
+<e lm="Caldeia"><i>Caldeia</i><par n="Lugar__np"/></e>
+<e lm="Caledônia"><i>Caledônia</i><par n="Lugar__np"/></e>
+<e lm="Cruzeiro"><i>Cruzeiro</i><par n="Lugar__np"/></e>
+<e lm="Calçada dos Gigantes"><i>Calçada<b/>dos<b/>Gigantes</i><par n="Lugar__np"/></e>
+<e lm="Caminhos de Santiago"><i>Caminhos<b/>de<b/>Santiago</i><par n="Lugar__np"/></e>
+<e lm="Campos Elísios"><i>Campos<b/>Elísios</i><par n="Lugar__np"/></e>
+<e lm="Canaã"><i>Canaã</i><par n="Lugar__np"/></e>
+<e lm="Canadá"><i>Canadá</i><par n="Lugar__np"/></e>
+<e lm="Cancún"><i>Cancún</i><par n="Lugar__np"/></e>
+<e lm="Cabo Canaveral"><i>Cabo<b/>Canaveral</i><par n="Lugar__np"/></e>
+<e lm="Centro Espacial John F. Kennedy"><i>Centro<b/>Espacial<b/>John<b/>F.<b/>Kennedy</i><par n="Lugar__np"/></e>
+<e lm="Capadócia"><i>Capadócia</i><par n="Lugar__np"/></e>
+<e lm="Capricórnio"><i>Capricórnio</i><par n="Lugar__np"/></e>
+<e lm="Carolina do Norte"><i>Carolina<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Carolina do Sul"><i>Carolina<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Carolinas"><i>Ilhas<b/>Carolinas</i><par n="Lugar__np"/></e>
+<e lm="Cartagena das Índias"><i>Cartagena<b/>das<b/>Índias</i><par n="Lugar__np"/></e>
+<e lm="Cartago"><i>Cartago</i><par n="Lugar__np"/></e>
+<e lm="Catânia"><i>Catânia</i><par n="Lugar__np"/></e>
+<e lm="Cáucaso"><i>Cáucaso</i><par n="Lugar__np"/></e>
+<e lm="Cebu"><i>Cebu</i><par n="Lugar__np"/></e>
+<e lm="Celebes"><i>Celebes</i><par n="Lugar__np"/></e>
+<e lm="Centauro"><i>Centauro</i><par n="Lugar__np"/></e>
+<e lm="Cerdanha"><i>Cerdanha</i><par n="Lugar__np"/></e>
+<e lm="Sardenha"><i>Sardenha</i><par n="Lugar__np"/></e>
+<e lm="Matterhorn"><i>Matterhorn</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Chafarinas"><i>Ilhas<b/>Chafarinas</i><par n="Lugar__np"/></e>
+<e lm="Arquipélago de Chagos"><i>Arquipélago<b/>de<b/>Chagos</i><par n="Lugar__np"/></e>
+<e lm="Checoslováquia"><i>Checoslováquia</i><par n="Lugar__np"/></e>
+<e lm="Carcassonne"><i>Carcassonne</i><par n="Lugar__np"/></e>
+<e lm="Gard"><i>Gard</i><par n="Lugar__np"/></e>
+<e lm="Nîmes"><i>Nîmes</i><par n="Lugar__np"/></e>
+<e lm="Pirineus Orientais"><i>Pirineus<b/>Orientais</i><par n="Lugar__np"/></e>
+<e lm="Perpinhã"><i>Perpinhã</i><par n="Lugar__np"/></e>
+<e lm="Perpinhã"><i>Perpinhã</i><par n="Lugar__np"/></e>
+<e lm="Alpes da Alta Provença"><i>Alpes<b/>da<b/>Alta<b/>Provença</i><par n="Lugar__np"/></e>
+<e lm="Digne-les-Bains"><i>Digne-les-Bains</i><par n="Lugar__np"/></e>
+<e lm="Altos Alpes"><i>Altos<b/>Alpes</i><par n="Lugar__np"/></e>
+<e lm="Gap (Altos-Alpes)"><i>Gap<b/>(Altos-Alpes)</i><par n="Lugar__np"/></e>
+<e lm="Alpes Marítimos"><i>Alpes<b/>Marítimos</i><par n="Lugar__np"/></e>
+<e lm="Alpes Marítimos"><i>Alpes<b/>Marítimos</i><par n="Lugar__np"/></e>
+<e lm="Nice"><i>Nice</i><par n="Lugar__np"/></e>
+<e lm="Bocas do Ródano"><i>Bocas<b/>do<b/>Ródano</i><par n="Lugar__np"/></e>
+<e lm="VAR"><i>VAR</i><par n="Lugar__np"/></e>
+<e lm="Toulon"><i>Toulon</i><par n="Lugar__np"/></e>
+<e lm="Córsega do Sul"><i>Córsega<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Alta Córsega"><i>Alta<b/>Córsega</i><par n="Lugar__np"/></e>
+<e lm="Bastia"><i>Bastia</i><par n="Lugar__np"/></e>
+<e lm="Estreito de Gibraltar"><i>Estreito<b/>de<b/>Gibraltar</i><par n="Lugar__np"/></e>
+<e lm="Astúrias"><i>Astúrias</i><par n="Lugar__np"/></e>
+<e lm="América Latina"><i>América<b/>Latina</i><par n="Lugar__np"/></e>
+<e lm="Francesc Antich Oliver"><i>Francesc<b/>Antich<b/>Oliver</i><par n="Lugar__np"/></e>
+<e lm="Neuilly"><i>Neuilly</i><par n="Lugar__np"/></e>
+<e lm="Ásia"><i>Ásia</i><par n="Lugar__np"/></e>
+<e lm="Europa ocidental"><i>Europa<b/>ocidental</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Biscaia"><i>Biscaia</i><par n="Lugar__np"/></e>
+<e lm="San Mamés"><i>San<b/>Mamés</i><par n="Lugar__np"/></e>
+<e lm="Penang"><i>Penang</i><par n="Lugar__np"/></e>
+<e lm="Irun"><i>Irun</i><par n="Lugar__np"/></e>
+<e lm="Sichuan"><i>Sichuan</i><par n="Lugar__np"/></e>
+<e lm="Adeje"><i>Adeje</i><par n="Lugar__np"/></e>
+<e lm="Azkoitia"><i>Azkoitia</i><par n="Lugar__np"/></e>
+<e lm="Zumaia"><i>Zumaia</i><par n="Lugar__np"/></e>
+<e lm="Picos de Europa"><i>Picos<b/>de<b/>Europa</i><par n="Lugar__np"/></e>
+<e lm="Nova Iorque"><i>Nova<b/>Iorque</i><par n="Lugar__np"/></e>
+<e lm="Abadiño"><i>Abadiño</i><par n="Lugar__np"/></e>
+<e lm="Amorebieta-Etxano"><i>Amorebieta-Etxano</i><par n="Lugar__np"/></e>
+<e lm="Camp Nou"><i>Camp<b/>Nou</i><par n="Lugar__np"/></e>
+<e lm="Getaria"><i>Getaria</i><par n="Lugar__np"/></e>
+<e lm="Palácio da Moncloa"><i>Palácio<b/>da<b/>Moncloa</i><par n="Lugar__np"/></e>
+<e lm="Bergara"><i>Bergara</i><par n="Lugar__np"/></e>
+<e lm="Itsasondo"><i>Itsasondo</i><par n="Lugar__np"/></e>
+<e lm="Artea"><i>Artea</i><par n="Lugar__np"/></e>
+<e lm="Boulevard"><i>Boulevard</i><par n="Lugar__np"/></e>
+<e lm="Portugalete"><i>Portugalete</i><par n="Lugar__np"/></e>
+<e lm="Liège"><i>Liège</i><par n="Lugar__np"/></e>
+<e lm="Labrit"><i>Labrit</i><par n="Lugar__np"/></e>
+<e lm="Windsor"><i>Windsor</i><par n="Lugar__np"/></e>
+<e lm="Ordizia"><i>Ordizia</i><par n="Lugar__np"/></e>
+<e lm="Trent"><i>Trent</i><par n="Lugar__np"/></e>
+<e lm="Minneapolis"><i>Minneapolis</i><par n="Lugar__np"/></e>
+<e lm="Ondarroa"><i>Ondarroa</i><par n="Lugar__np"/></e>
+<e lm="Elgoibar"><i>Elgoibar</i><par n="Lugar__np"/></e>
+<e lm="Legazpi"><i>Legazpi</i><par n="Lugar__np"/></e>
+<e lm="Mutiloa"><i>Mutiloa</i><par n="Lugar__np"/></e>
+<e lm="Ezkurra"><i>Ezkurra</i><par n="Lugar__np"/></e>
+<e lm="Ibarra"><i>Ibarra</i><par n="Lugar__np"/></e>
+<e lm="Lazkao"><i>Lazkao</i><par n="Lugar__np"/></e>
+<e lm="Elorrio"><i>Elorrio</i><par n="Lugar__np"/></e>
+<e lm="Rio Sirion"><i>Rio<b/>Sirion</i><par n="Lugar__np"/></e>
+<e lm="Saltillo"><i>Saltillo</i><par n="Lugar__np"/></e>
+<e lm="Titã"><i>Titã</i><par n="Lugar__np"/></e>
+<e lm="Santiago Bernabéu"><i>Santiago<b/>Bernabéu</i><par n="Lugar__np"/></e>
+<e lm="Atienza"><i>Atienza</i><par n="Lugar__np"/></e>
+<e lm="Arrigorriaga"><i>Arrigorriaga</i><par n="Lugar__np"/></e>
+<e lm="Tudela"><i>Tudela</i><par n="Lugar__np"/></e>
+<e lm="Yangon"><i>Yangon</i><par n="Lugar__np"/></e>
+<e lm="Sérvia"><i>Sérvia</i><par n="Lugar__np"/></e>
+<e lm="Miramar"><i>Miramar</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Miraflores"><i>Miraflores</i><par n="Lugar__np"/></e>
+<e lm="Madrigal"><i>Madrigal</i><par n="Lugar__np"/></e>
+<e lm="Agüero"><i>Agüero</i><par n="Lugar__np"/></e>
+<e lm="Mundaka"><i>Mundaka</i><par n="Lugar__np"/></e>
+<e lm="Coreia"><i>Coreia</i><par n="Lugar__np"/></e>
+<e lm="Luesma"><i>Luesma</i><par n="Lugar__np"/></e>
+<e lm="Bakio"><i>Bakio</i><par n="Lugar__np"/></e>
+<e lm="Arguedas"><i>Arguedas</i><par n="Lugar__np"/></e>
+<e lm="Sesma"><i>Sesma</i><par n="Lugar__np"/></e>
+<e lm="Zhejiang"><i>Zhejiang</i><par n="Lugar__np"/></e>
+<e lm="Lakuntza"><i>Lakuntza</i><par n="Lugar__np"/></e>
+<e lm="Bidart"><i>Bidart</i><par n="Lugar__np"/></e>
+<e lm="Ayllón"><i>Ayllón</i><par n="Lugar__np"/></e>
+<e lm="Ártico"><i>Ártico</i><par n="Lugar__np"/></e>
+<e lm="Redon"><i>Redon</i><par n="Lugar__np"/></e>
+<e lm="Guingamp"><i>Guingamp</i><par n="Lugar__np"/></e>
+<e lm="Reggio"><i>Reggio</i><par n="Lugar__np"/></e>
+<e lm="Oñati"><i>Oñati</i><par n="Lugar__np"/></e>
+<e lm="Joanesburgo"><i>Joanesburgo</i><par n="Lugar__np"/></e>
+<e lm="Ar"><i>Ar</i><par n="Lugar__np"/></e>
+<e lm="Port-de-Bouc"><i>Port-de-Bouc</i><par n="Lugar__np"/></e>
+<e lm="Gante"><i>Gante</i><par n="Lugar__np"/></e>
+<e lm="Auritz"><i>Auritz</i><par n="Lugar__np"/></e>
+<e lm="Campo de Marte"><i>Campo<b/>de<b/>Marte</i><par n="Lugar__np"/></e>
+<e lm="EA"><i>EA</i><par n="Lugar__np"/></e>
+<e lm="Portugalete"><i>Portugalete</i><par n="Lugar__np"/></e>
+<e lm="Ordizia"><i>Ordizia</i><par n="Lugar__np"/></e>
+<e lm="Lizartza"><i>Lizartza</i><par n="Lugar__np"/></e>
+<e lm="Annapolis"><i>Annapolis</i><par n="Lugar__np"/></e>
+<e lm="Hendaye"><i>Hendaye</i><par n="Lugar__np"/></e>
+<e lm="Hendaye"><i>Hendaye</i><par n="Lugar__np"/></e>
+<e lm="Guernica"><i>Guernica</i><par n="Lugar__np"/></e>
+<e lm="Dhaulagiri"><i>Dhaulagiri</i><par n="Lugar__np"/></e>
+<e lm="Barrika"><i>Barrika</i><par n="Lugar__np"/></e>
+<e lm="Artea"><i>Artea</i><par n="Lugar__np"/></e>
+<e lm="Abecásia"><i>Abecásia</i><par n="Lugar__np"/></e>
+<e lm="Sukhumi"><i>Sukhumi</i><par n="Lugar__np"/></e>
+<e lm="Bases Britânicas Soberanas"><i>Bases<b/>Britânicas<b/>Soberanas</i><par n="Lugar__np"/></e>
+<e lm="Åland"><i>Åland</i><par n="Lugar__np"/></e>
+<e lm="Mariehamn"><i>Mariehamn</i><par n="Lugar__np"/></e>
+<e lm="Monte Atos"><i>Monte<b/>Atos</i><par n="Lugar__np"/></e>
+<e lm="Midway"><i>Midway</i><par n="Lugar__np"/></e>
+<e lm="Kingman"><i>Kingman</i><par n="Lugar__np"/></e>
+<e lm="Heard"><i>Heard</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Ashmore e Cartier"><i>Ilhas<b/>Ashmore<b/>e<b/>Cartier</i><par n="Lugar__np"/></e>
+<e lm="Terras Austrais e Antárticas Francesas"><i>Terras<b/>Austrais<b/>e<b/>Antárticas<b/>Francesas</i><par n="Lugar__np"/></e>
+<e lm="Território Britânico do Oceano Índico"><i>Território<b/>Britânico<b/>do<b/>Oceano<b/>Índico</i><par n="Lugar__np"/></e>
+<e lm="Baker"><i>Baker</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Clipperton"><i>Ilha<b/>de<b/>Clipperton</i><par n="Lugar__np"/></e>
+<e lm="Grytviken"><i>Grytviken</i><par n="Lugar__np"/></e>
+<e lm="Ponto Rei Eduardo"><i>Ponto<b/>Rei<b/>Eduardo</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Clipperton"><i>Ilha<b/>de<b/>Clipperton</i><par n="Lugar__np"/></e>
+<e lm="Lusaka"><i>Lusaka</i><par n="Lugar__np"/></e>
+<e lm="Road Town"><i>Road<b/>Town</i><par n="Lugar__np"/></e>
+<e lm="Charlotte Amalie"><i>Charlotte<b/>Amalie</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Virgens Britânicas"><i>Ilhas<b/>Virgens<b/>Britânicas</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Virgens Americanas"><i>Ilhas<b/>Virgens<b/>Americanas</i><par n="Lugar__np"/></e>
+<e lm="Vanuatu"><i>Vanuatu</i><par n="Lugar__np"/></e>
+<e lm="Port Vila"><i>Port<b/>Vila</i><par n="Lugar__np"/></e>
+<e lm="Tashkent"><i>Tashkent</i><par n="Lugar__np"/></e>
+<e lm="Uzbequistão"><i>Uzbequistão</i><par n="Lugar__np"/></e>
+<e lm="Kampala"><i>Kampala</i><par n="Lugar__np"/></e>
+<e lm="Funafuti"><i>Funafuti</i><par n="Lugar__np"/></e>
+<e lm="Tuvalu"><i>Tuvalu</i><par n="Lugar__np"/></e>
+<e lm="Port of Spain"><i>Port<b/>of<b/>Spain</i><par n="Lugar__np"/></e>
+<e lm="Cockburn Town"><i>Cockburn<b/>Town</i><par n="Lugar__np"/></e>
+<e lm="Turks e Caicos"><i>Turks<b/>e<b/>Caicos</i><par n="Lugar__np"/></e>
+<e lm="Tristão da Cunha"><i>Tristão<b/>da<b/>Cunha</i><par n="Lugar__np"/></e>
+<e lm="Tiraspol"><i>Tiraspol</i><par n="Lugar__np"/></e>
+<e lm="Transnístria"><i>Transnístria</i><par n="Lugar__np"/></e>
+<e lm="Tonga"><i>Tonga</i><par n="Lugar__np"/></e>
+<e lm="Nuku'alofa"><i>Nuku'alofa</i><par n="Lugar__np"/></e>
+<e lm="Tokelau"><i>Tokelau</i><par n="Lugar__np"/></e>
+<e lm="Togo"><i>Togo</i><par n="Lugar__np"/></e>
+<e lm="Lomé"><i>Lomé</i><par n="Lugar__np"/></e>
+<e lm="Díli"><i>Díli</i><par n="Lugar__np"/></e>
+<e lm="Timor-Leste"><i>Timor-Leste</i><par n="Lugar__np"/></e>
+<e lm="Dodoma"><i>Dodoma</i><par n="Lugar__np"/></e>
+<e lm="Taipé"><i>Taipé</i><par n="Lugar__np"/></e>
+<e lm="Svalbard"><i>Svalbard</i><par n="Lugar__np"/></e>
+<e lm="Longyearbyen"><i>Longyearbyen</i><par n="Lugar__np"/></e>
+<e lm="Paramaribo"><i>Paramaribo</i><par n="Lugar__np"/></e>
+<e lm="Pretória"><i>Pretória</i><par n="Lugar__np"/></e>
+<e lm="Suazilândia"><i>Suazilândia</i><par n="Lugar__np"/></e>
+<e lm="Mbabane"><i>Mbabane</i><par n="Lugar__np"/></e>
+<e lm="Colombo"><i>Colombo</i><par n="Lugar__np"/></e>
+<e lm="Zimbabwe"><i>Zimbabwe</i><par n="Lugar__np"/></e>
+<e lm="Harare"><i>Harare</i><par n="Lugar__np"/></e>
+<e lm="Hargeisa"><i>Hargeisa</i><par n="Lugar__np"/></e>
+<e lm="Freetown"><i>Freetown</i><par n="Lugar__np"/></e>
+<e lm="Victoria"><i>Victoria</i><par n="Lugar__np"/></e>
+<e lm="Seychelles"><i>Seychelles</i><par n="Lugar__np"/></e>
+<e lm="São Tomé"><i>São<b/>Tomé</i><par n="Lugar__np"/></e>
+<e lm="Jamestown"><i>Jamestown</i><par n="Lugar__np"/></e>
+<e lm="Kingstown"><i>Kingstown</i><par n="Lugar__np"/></e>
+<e lm="Basseterre"><i>Basseterre</i><par n="Lugar__np"/></e>
+<e lm="São Cristóvão e Nevis"><i>São<b/>Cristóvão<b/>e<b/>Nevis</i><par n="Lugar__np"/></e>
+<e lm="Samoa"><i>Samoa</i><par n="Lugar__np"/></e>
+<e lm="Rio Nervión"><i>Rio<b/>Nervión</i><par n="Lugar__np"/></e>
+<e lm="Oñati"><i>Oñati</i><par n="Lugar__np"/></e>
+<e lm="Samoa Americana"><i>Samoa<b/>Americana</i><par n="Lugar__np"/></e>
+<e lm="Honiara"><i>Honiara</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Salomão"><i>Ilhas<b/>Salomão</i><par n="Lugar__np"/></e>
+<e lm="Saara Ocidental"><i>Saara<b/>Ocidental</i><par n="Lugar__np"/></e>
+<e lm="Saara Ocidental"><i>Saara<b/>Ocidental</i><par n="Lugar__np"/></e>
+<e lm="Rússia"><i>Rússia</i><par n="Lugar__np"/></e>
+<e lm="San Juan"><i>San<b/>Juan</i><par n="Lugar__np"/></e>
+<e lm="Taiti"><i>Taiti</i><par n="Lugar__np"/></e>
+<e lm="Adamstown"><i>Adamstown</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Pitcairn"><i>Ilhas<b/>Pitcairn</i><par n="Lugar__np"/></e>
+<e lm="Port Moresby"><i>Port<b/>Moresby</i><par n="Lugar__np"/></e>
+<e lm="Ramallah"><i>Ramallah</i><par n="Lugar__np"/></e>
+<e lm="Palau"><i>Palau</i><par n="Lugar__np"/></e>
+<e lm="Melequeoque"><i>Melequeoque</i><par n="Lugar__np"/></e>
+<e lm="Tskhinval"><i>Tskhinval</i><par n="Lugar__np"/></e>
+<e lm="Ossétia do Sul"><i>Ossétia<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Omã"><i>Omã</i><par n="Lugar__np"/></e>
+<e lm="Mascate"><i>Mascate</i><par n="Lugar__np"/></e>
+<e lm="Wellington"><i>Wellington</i><par n="Lugar__np"/></e>
+<e lm="Ilha Norfolk"><i>Ilha<b/>Norfolk</i><par n="Lugar__np"/></e>
+<e lm="Niue"><i>Niue</i><par n="Lugar__np"/></e>
+<e lm="Niamey"><i>Niamey</i><par n="Lugar__np"/></e>
+<e lm="Manágua"><i>Manágua</i><par n="Lugar__np"/></e>
+<e lm="Nauru"><i>Nauru</i><par n="Lugar__np"/></e>
+<e lm="Yaren"><i>Yaren</i><par n="Lugar__np"/></e>
+<e lm="Windhoek"><i>Windhoek</i><par n="Lugar__np"/></e>
+<e lm="Stepanakert"><i>Stepanakert</i><par n="Lugar__np"/></e>
+<e lm="Naypyidaw"><i>Naypyidaw</i><par n="Lugar__np"/></e>
+<e lm="Maputo"><i>Maputo</i><par n="Lugar__np"/></e>
+<e lm="Plymouth"><i>Plymouth</i><par n="Lugar__np"/></e>
+<e lm="Podgorica"><i>Podgorica</i><par n="Lugar__np"/></e>
+<e lm="Ulaanbaatar"><i>Ulaanbaatar</i><par n="Lugar__np"/></e>
+<e lm="Chişinău"><i>Chişinău</i><par n="Lugar__np"/></e>
+<e lm="Palikir"><i>Palikir</i><par n="Lugar__np"/></e>
+<e lm="Estados Federados da Micronésia"><i>Estados<b/>Federados<b/>da<b/>Micronésia</i><par n="Lugar__np"/></e>
+<e lm="Nouakchott"><i>Nouakchott</i><par n="Lugar__np"/></e>
+<e lm="Marshall"><i>Marshall</i><par n="Lugar__np"/></e>
+<e lm="Majuro"><i>Majuro</i><par n="Lugar__np"/></e>
+<e lm="Majuro"><i>Majuro</i><par n="Lugar__np"/></e>
+<e lm="Saipan"><i>Saipan</i><par n="Lugar__np"/></e>
+<e lm="Marianas Setentrionais"><i>Marianas<b/>Setentrionais</i><par n="Lugar__np"/></e>
+<e lm="Douglas"><i>Douglas</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Man"><i>Ilha<b/>de<b/>Man</i><par n="Lugar__np"/></e>
+<e lm="Stanley"><i>Stanley</i><par n="Lugar__np"/></e>
+<e lm="Malawi"><i>Malawi</i><par n="Lugar__np"/></e>
+<e lm="Lilongwe"><i>Lilongwe</i><par n="Lugar__np"/></e>
+<e lm="Macedónia"><i>Macedónia</i><par n="Lugar__np"/></e>
+<e lm="Skopje"><i>Skopje</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Liechtenstein"><i>Liechtenstein</i><par n="Lugar__np"/></e>
+<e lm="Vaduz"><i>Vaduz</i><par n="Lugar__np"/></e>
+<e lm="Libéria"><i>Libéria</i><par n="Lugar__np"/></e>
+<e lm="Monróvia"><i>Monróvia</i><par n="Lugar__np"/></e>
+<e lm="Lesoto"><i>Lesoto</i><par n="Lugar__np"/></e>
+<e lm="Maseru"><i>Maseru</i><par n="Lugar__np"/></e>
+<e lm="Laos"><i>Laos</i><par n="Lugar__np"/></e>
+<e lm="Vienciana"><i>Vienciana</i><par n="Lugar__np"/></e>
+<e lm="Kiribati"><i>Kiribati</i><par n="Lugar__np"/></e>
+<e lm="Tarawa"><i>Tarawa</i><par n="Lugar__np"/></e>
+<e lm="Astana"><i>Astana</i><par n="Lugar__np"/></e>
+<e lm="Jersey"><i>Jersey</i><par n="Lugar__np"/></e>
+<e lm="Saint Helier"><i>Saint<b/>Helier</i><par n="Lugar__np"/></e>
+<e lm="Kingston"><i>Kingston</i><par n="Lugar__np"/></e>
+<e lm="Reykjavík"><i>Reykjavík</i><par n="Lugar__np"/></e>
+<e lm="Tegucigalpa"><i>Tegucigalpa</i><par n="Lugar__np"/></e>
+<e lm="Porto Príncipe"><i>Porto<b/>Príncipe</i><par n="Lugar__np"/></e>
+<e lm="Guiana"><i>Guiana</i><par n="Lugar__np"/></e>
+<e lm="Georgetown"><i>Georgetown</i><par n="Lugar__np"/></e>
+<e lm="Bissau"><i>Bissau</i><par n="Lugar__np"/></e>
+<e lm="Conacri"><i>Conacri</i><par n="Lugar__np"/></e>
+<e lm="Guernsey"><i>Guernsey</i><par n="Lugar__np"/></e>
+<e lm="St Peter Port"><i>St<b/>Peter<b/>Port</i><par n="Lugar__np"/></e>
+<e lm="Guam"><i>Guam</i><par n="Lugar__np"/></e>
+<e lm="Nuuk"><i>Nuuk</i><par n="Lugar__np"/></e>
+<e lm="São Jorge"><i>São<b/>Jorge</i><par n="Lugar__np"/></e>
+<e lm="Gana"><i>Gana</i><par n="Lugar__np"/></e>
+<e lm="Libreville"><i>Libreville</i><par n="Lugar__np"/></e>
+<e lm="Fiji"><i>Fiji</i><par n="Lugar__np"/></e>
+<e lm="Suva"><i>Suva</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Feroe"><i>Ilhas<b/>Feroe</i><par n="Lugar__np"/></e>
+<e lm="Tórshavn"><i>Tórshavn</i><par n="Lugar__np"/></e>
+<e lm="San Salvador"><i>San<b/>Salvador</i><par n="Lugar__np"/></e>
+<e lm="Zagreb"><i>Zagreb</i><par n="Lugar__np"/></e>
+<e lm="San José"><i>San<b/>José</i><par n="Lugar__np"/></e>
+<e lm="Yamoussoukro"><i>Yamoussoukro</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Cook"><i>Ilhas<b/>Cook</i><par n="Lugar__np"/></e>
+<e lm="Avarua"><i>Avarua</i><par n="Lugar__np"/></e>
+<e lm="República Democrática do Congo"><i>República<b/>Democrática<b/>do<b/>Congo</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Cocos"><i>Ilhas<b/>Cocos</i><par n="Lugar__np"/></e>
+<e lm="República Turca do Chipre do Norte"><i>República<b/>Turca<b/>do<b/>Chipre<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Yaoundé"><i>Yaoundé</i><par n="Lugar__np"/></e>
+<e lm="Praia"><i>Praia</i><par n="Lugar__np"/></e>
+<e lm="Butão"><i>Butão</i><par n="Lugar__np"/></e>
+<e lm="Thimbu"><i>Thimbu</i><par n="Lugar__np"/></e>
+<e lm="Bujumbura"><i>Bujumbura</i><par n="Lugar__np"/></e>
+<e lm="Burkina Faso"><i>Burkina<b/>Faso</i><par n="Lugar__np"/></e>
+<e lm="Brunei"><i>Brunei</i><par n="Lugar__np"/></e>
+<e lm="Bandar Seri Begawan"><i>Bandar<b/>Seri<b/>Begawan</i><par n="Lugar__np"/></e>
+<e lm="Botswana"><i>Botswana</i><par n="Lugar__np"/></e>
+<e lm="Gaborone"><i>Gaborone</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Bósnia e Herzegovina"><i>Bósnia<b/>e<b/>Herzegovina</i><par n="Lugar__np"/></e>
+<e lm="Minsk"><i>Minsk</i><par n="Lugar__np"/></e>
+<e lm="Belmopan"><i>Belmopan</i><par n="Lugar__np"/></e>
+<e lm="Belize"><i>Belize</i><par n="Lugar__np"/></e>
+<e lm="Hamilton"><i>Hamilton</i><par n="Lugar__np"/></e>
+<e lm="Porto-Novo"><i>Porto-Novo</i><par n="Lugar__np"/></e>
+<e lm="Bridgetown"><i>Bridgetown</i><par n="Lugar__np"/></e>
+<e lm="Daca"><i>Daca</i><par n="Lugar__np"/></e>
+<e lm="Bahrein"><i>Bahrein</i><par n="Lugar__np"/></e>
+<e lm="Manama"><i>Manama</i><par n="Lugar__np"/></e>
+<e lm="Nassau"><i>Nassau</i><par n="Lugar__np"/></e>
+<e lm="Camberra"><i>Camberra</i><par n="Lugar__np"/></e>
+<e lm="Erevan"><i>Erevan</i><par n="Lugar__np"/></e>
+<e lm="Aruba"><i>Aruba</i><par n="Lugar__np"/></e>
+<e lm="Ascensão"><i>Ascensão</i><par n="Lugar__np"/></e>
+<e lm="Oranjestad"><i>Oranjestad</i><par n="Lugar__np"/></e>
+<e lm="Luanda"><i>Luanda</i><par n="Lugar__np"/></e>
+<e lm="Anguilla"><i>Anguilla</i><par n="Lugar__np"/></e>
+<e lm="Saint John's"><i>Saint<b/>John's</i><par n="Lugar__np"/></e>
+<e lm="Teguise"><i>Teguise</i><par n="Lugar__np"/></e>
+<e lm="Caxemira"><i>Caxemira</i><par n="Lugar__np"/></e>
+<e lm="Berastegi"><i>Berastegi</i><par n="Lugar__np"/></e>
+<e lm="Alsasua"><i>Alsasua</i><par n="Lugar__np"/></e>
+<e lm="Wisconsin"><i>Wisconsin</i><par n="Lugar__np"/></e>
+<e lm="Artziniega"><i>Artziniega</i><par n="Lugar__np"/></e>
+<e lm="Lodosa"><i>Lodosa</i><par n="Lugar__np"/></e>
+<e lm="Monte Rainier"><i>Monte<b/>Rainier</i><par n="Lugar__np"/></e>
+<e lm="Gamarra"><i>Gamarra</i><par n="Lugar__np"/></e>
+<e lm="Tudela"><i>Tudela</i><par n="Lugar__np"/></e>
+<e lm="Beasain"><i>Beasain</i><par n="Lugar__np"/></e>
+<e lm="Kortezubi"><i>Kortezubi</i><par n="Lugar__np"/></e>
+<e lm="Lancy"><i>Lancy</i><par n="Lugar__np"/></e>
+<e lm="Tudela"><i>Tudela</i><par n="Lugar__np"/></e>
+<e lm="Llanos"><i>Llanos</i><par n="Lugar__np"/></e>
+<e lm="Havaí"><i>Havaí</i><par n="Lugar__np"/></e>
+<e lm="Zarautz"><i>Zarautz</i><par n="Lugar__np"/></e>
+<e lm="Havaí"><i>Havaí</i><par n="Lugar__np"/></e>
+<e lm="Burlada"><i>Burlada</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Corisco"><i>Ilha<b/>de<b/>Corisco</i><par n="Lugar__np"/></e>
+<e lm="Biriatou"><i>Biriatou</i><par n="Lugar__np"/></e>
+<e lm="Hamar"><i>Hamar</i><par n="Lugar__np"/></e>
+<e lm="Mar Cáspio"><i>Mar<b/>Cáspio</i><par n="Lugar__np"/></e>
+<e lm="Santoña"><i>Santoña</i><par n="Lugar__np"/></e>
+<e lm="Patagónia"><i>Patagónia</i><par n="Lugar__np"/></e>
+<e lm="Estação de Atocha"><i>Estação<b/>de<b/>Atocha</i><par n="Lugar__np"/></e>
+<e lm="Saclay"><i>Saclay</i><par n="Lugar__np"/></e>
+<e lm="Legutiano"><i>Legutiano</i><par n="Lugar__np"/></e>
+<e lm="Guizhou"><i>Guizhou</i><par n="Lugar__np"/></e>
+<e lm="Otxandio"><i>Otxandio</i><par n="Lugar__np"/></e>
+<e lm="Tibete"><i>Tibete</i><par n="Lugar__np"/></e>
+<e lm="Niágara"><i>Niágara</i><par n="Lugar__np"/></e>
+<e lm="Fuenlabrada"><i>Fuenlabrada</i><par n="Lugar__np"/></e>
+<e lm="Elgorriaga"><i>Elgorriaga</i><par n="Lugar__np"/></e>
+<e lm="Costa Azul"><i>Costa<b/>Azul</i><par n="Lugar__np"/></e>
+<e lm="Guipúscoa"><i>Guipúscoa</i><par n="Lugar__np"/></e>
+<e lm="Saint Martin"><i>Saint<b/>Martin</i><par n="Lugar__np"/></e>
+<e lm="Reino Unido da Grã-Bretanha e Irlanda"><i>Reino<b/>Unido<b/>da<b/>Grã-Bretanha<b/>e<b/>Irlanda</i><par n="Lugar__np"/></e>
+<e lm="Nova Brunswick"><i>Nova<b/>Brunswick</i><par n="Lugar__np"/></e>
+<e lm="Ribeira"><i>Ribeira</i><par n="Lugar__np"/></e>
+<e lm="Ataun"><i>Ataun</i><par n="Lugar__np"/></e>
+<e lm="Bascortostão"><i>Bascortostão</i><par n="Lugar__np"/></e>
+<e lm="Basileia"><i>Basileia</i><par n="Lugar__np"/></e>
+<e lm="Baçorá"><i>Baçorá</i><par n="Lugar__np"/></e>
+<e lm="Baviera"><i>Baviera</i><par n="Lugar__np"/></e>
+<e lm="Beirute"><i>Beirute</i><par n="Lugar__np"/></e>
+<e lm="Bélgica"><i>Bélgica</i><par n="Lugar__np"/></e>
+<e lm="Bengala"><i>Bengala</i><par n="Lugar__np"/></e>
+<e lm="Bermudas"><i>Bermudas</i><par n="Lugar__np"/></e>
+<e lm="Bética"><i>Bética</i><par n="Lugar__np"/></e>
+<e lm="Biblos"><i>Biblos</i><par n="Lugar__np"/></e>
+<e lm="Bitínia"><i>Bitínia</i><par n="Lugar__np"/></e>
+<e lm="Bizâncio"><i>Bizâncio</i><par n="Lugar__np"/></e>
+<e lm="Boémia"><i>Boémia</i><par n="Lugar__np"/></e>
+<e lm="Borgonha"><i>Borgonha</i><par n="Lugar__np"/></e>
+<e lm="Castejón"><i>Castejón</i><par n="Lugar__np"/></e>
+<e lm="Bósforo"><i>Bósforo</i><par n="Lugar__np"/></e>
+<e lm="Bremen"><i>Bremen</i><par n="Lugar__np"/></e>
+<e lm="Brno"><i>Brno</i><par n="Lugar__np"/></e>
+<e lm="Bruges"><i>Bruges</i><par n="Lugar__np"/></e>
+<e lm="Bucovina"><i>Bucovina</i><par n="Lugar__np"/></e>
+<e lm="Bucovina"><i>Bucovina</i><par n="Lugar__np"/></e>
+<e lm="Cabo da Boa Esperança"><i>Cabo<b/>da<b/>Boa<b/>Esperança</i><par n="Lugar__np"/></e>
+<e lm="Bucara"><i>Bucara</i><par n="Lugar__np"/></e>
+<e lm="Bursa"><i>Bursa</i><par n="Lugar__np"/></e>
+<e lm="Cabo Verde"><i>Cabo<b/>Verde</i><par n="Lugar__np"/></e>
+<e lm="Peninos"><i>Peninos</i><par n="Lugar__np"/></e>
+<e lm="Cádis"><i>Cádis</i><par n="Lugar__np"/></e>
+<e lm="Cafarnaum"><i>Cafarnaum</i><par n="Lugar__np"/></e>
+<e lm="Calábria"><i>Calábria</i><par n="Lugar__np"/></e>
+<e lm="Caldeia"><i>Caldeia</i><par n="Lugar__np"/></e>
+<e lm="Caledônia"><i>Caledônia</i><par n="Lugar__np"/></e>
+<e lm="Cruzeiro"><i>Cruzeiro</i><par n="Lugar__np"/></e>
+<e lm="Calçada dos Gigantes"><i>Calçada<b/>dos<b/>Gigantes</i><par n="Lugar__np"/></e>
+<e lm="Camarões"><i>Camarões</i><par n="Lugar__np"/></e>
+<e lm="Campos Elísios"><i>Campos<b/>Elísios</i><par n="Lugar__np"/></e>
+<e lm="Campos Elísios"><i>Campos<b/>Elísios</i><par n="Lugar__np"/></e>
+<e lm="Canaã"><i>Canaã</i><par n="Lugar__np"/></e>
+<e lm="Canadá"><i>Canadá</i><par n="Lugar__np"/></e>
+<e lm="Cancún"><i>Cancún</i><par n="Lugar__np"/></e>
+<e lm="Cordilheira Cantábrica"><i>Cordilheira<b/>Cantábrica</i><par n="Lugar__np"/></e>
+<e lm="Cabo Canaveral"><i>Cabo<b/>Canaveral</i><par n="Lugar__np"/></e>
+<e lm="Centro Espacial John F. Kennedy"><i>Centro<b/>Espacial<b/>John<b/>F.<b/>Kennedy</i><par n="Lugar__np"/></e>
+<e lm="Capadócia"><i>Capadócia</i><par n="Lugar__np"/></e>
+<e lm="Carolina do Norte"><i>Carolina<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Carolina do Sul"><i>Carolina<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Carolinas"><i>Ilhas<b/>Carolinas</i><par n="Lugar__np"/></e>
+<e lm="Cartagena"><i>Cartagena</i><par n="Lugar__np"/></e>
+<e lm="Cartago"><i>Cartago</i><par n="Lugar__np"/></e>
+<e lm="Cassiopeia"><i>Cassiopeia</i><par n="Lugar__np"/></e>
+<e lm="Catalunha"><i>Catalunha</i><par n="Lugar__np"/></e>
+<e lm="Catânia"><i>Catânia</i><par n="Lugar__np"/></e>
+<e lm="Cebu"><i>Cebu</i><par n="Lugar__np"/></e>
+<e lm="Centauro"><i>Centauro</i><par n="Lugar__np"/></e>
+<e lm="Cerdanha"><i>Cerdanha</i><par n="Lugar__np"/></e>
+<e lm="Sardenha"><i>Sardenha</i><par n="Lugar__np"/></e>
+<e lm="Matterhorn"><i>Matterhorn</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Chafarinas"><i>Ilhas<b/>Chafarinas</i><par n="Lugar__np"/></e>
+<e lm="Arquipélago de Chagos"><i>Arquipélago<b/>de<b/>Chagos</i><par n="Lugar__np"/></e>
+<e lm="Champanha-Ardenas"><i>Champanha-Ardenas</i><par n="Lugar__np"/></e>
+<e lm="Checoslováquia"><i>Checoslováquia</i><par n="Lugar__np"/></e>
+<e lm="Cíclades"><i>Cíclades</i><par n="Lugar__np"/></e>
+<e lm="Cilícia"><i>Cilícia</i><par n="Lugar__np"/></e>
+<e lm="Cirenaica"><i>Cirenaica</i><par n="Lugar__np"/></e>
+<e lm="Xangai"><i>Xangai</i><par n="Lugar__np"/></e>
+<e lm="Coblença"><i>Coblença</i><par n="Lugar__np"/></e>
+<e lm="Colônia"><i>Colônia</i><par n="Lugar__np"/></e>
+<e lm="Cólquida"><i>Cólquida</i><par n="Lugar__np"/></e>
+<e lm="Constantino"><i>Constantino</i><par n="Lugar__np"/></e>
+<e lm="Constantinopla"><i>Constantinopla</i><par n="Lugar__np"/></e>
+<e lm="Constança"><i>Constança</i><par n="Lugar__np"/></e>
+<e lm="Mar de Coral"><i>Mar<b/>de<b/>Coral</i><par n="Lugar__np"/></e>
+<e lm="Corfu"><i>Corfu</i><par n="Lugar__np"/></e>
+<e lm="Corinto"><i>Corinto</i><par n="Lugar__np"/></e>
+<e lm="Cornualha"><i>Cornualha</i><par n="Lugar__np"/></e>
+<e lm="Costa Brava"><i>Costa<b/>Brava</i><par n="Lugar__np"/></e>
+<e lm="Costa del Sol"><i>Costa<b/>del<b/>Sol</i><par n="Lugar__np"/></e>
+<e lm="Creta"><i>Creta</i><par n="Lugar__np"/></e>
+<e lm="Crimeia"><i>Crimeia</i><par n="Lugar__np"/></e>
+<e lm="Croácia"><i>Croácia</i><par n="Lugar__np"/></e>
+<e lm="Crotone"><i>Crotone</i><par n="Lugar__np"/></e>
+<e lm="Cumas"><i>Cumas</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Curilas"><i>Ilhas<b/>Curilas</i><par n="Lugar__np"/></e>
+<e lm="Dácia"><i>Dácia</i><par n="Lugar__np"/></e>
+<e lm="Daguestão"><i>Daguestão</i><par n="Lugar__np"/></e>
+<e lm="Dakota do Norte"><i>Dakota<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Dakota do Sul"><i>Dakota<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Dalmácia"><i>Dalmácia</i><par n="Lugar__np"/></e>
+<e lm="Dardanelos"><i>Dardanelos</i><par n="Lugar__np"/></e>
+<e lm="Decão"><i>Decão</i><par n="Lugar__np"/></e>
+<e lm="Delfos"><i>Delfos</i><par n="Lugar__np"/></e>
+<e lm="Dodecaneso"><i>Dodecaneso</i><par n="Lugar__np"/></e>
+<e lm="Estreito de Dover"><i>Estreito<b/>de<b/>Dover</i><par n="Lugar__np"/></e>
+<e lm="Duchambe"><i>Duchambe</i><par n="Lugar__np"/></e>
+<e lm="Edessa"><i>Edessa</i><par n="Lugar__np"/></e>
+<e lm="Lago Eduardo"><i>Lago<b/>Eduardo</i><par n="Lugar__np"/></e>
+<e lm="Éfeso"><i>Éfeso</i><par n="Lugar__np"/></e>
+<e lm="Egito"><i>Egito</i><par n="Lugar__np"/></e>
+<e lm="El Aaiún"><i>El<b/>Aaiún</i><par n="Lugar__np"/></e>
+<e lm="Elba"><i>Elba</i><par n="Lugar__np"/></e>
+<e lm="Estados Pontifícios"><i>Estados<b/>Pontifícios</i><par n="Lugar__np"/></e>
+<e lm="Elam"><i>Elam</i><par n="Lugar__np"/></e>
+<e lm="Monte Elbrus"><i>Monte<b/>Elbrus</i><par n="Lugar__np"/></e>
+<e lm="Eleia"><i>Eleia</i><par n="Lugar__np"/></e>
+<e lm="Emília-Romanha"><i>Emília-Romanha</i><par n="Lugar__np"/></e>
+<e lm="Eritreia"><i>Eritreia</i><par n="Lugar__np"/></e>
+<e lm="Escandinávia"><i>Escandinávia</i><par n="Lugar__np"/></e>
+<e lm="Citas"><i>Citas</i><par n="Lugar__np"/></e>
+<e lm="Grande Lago do Escravo"><i>Grande<b/>Lago<b/>do<b/>Escravo</i><par n="Lugar__np"/></e>
+<e lm="Costa dos escravos"><i>Costa<b/>dos<b/>escravos</i><par n="Lugar__np"/></e>
+<e lm="Escócia"><i>Escócia</i><par n="Lugar__np"/></e>
+<e lm="Escorpião"><i>Escorpião</i><par n="Lugar__np"/></e>
+<e lm="Escorpião"><i>Escorpião</i><par n="Lugar__np"/></e>
+<e lm="João Escoto Erígena"><i>João<b/>Escoto<b/>Erígena</i><par n="Lugar__np"/></e>
+<e lm="Eslavônia"><i>Eslavônia</i><par n="Lugar__np"/></e>
+<e lm="Eslováquia"><i>Eslováquia</i><par n="Lugar__np"/></e>
+<e lm="Eslovénia"><i>Eslovénia</i><par n="Lugar__np"/></e>
+<e lm="Esmirna"><i>Esmirna</i><par n="Lugar__np"/></e>
+<e lm="Sparta"><i>Sparta</i><par n="Lugar__np"/></e>
+<e lm="Espórades"><i>Espórades</i><par n="Lugar__np"/></e>
+<e lm="Estado Livre de Orange"><i>Estado<b/>Livre<b/>de<b/>Orange</i><par n="Lugar__np"/></e>
+<e lm="Istambul"><i>Istambul</i><par n="Lugar__np"/></e>
+<e lm="Estónia"><i>Estónia</i><par n="Lugar__np"/></e>
+<e lm="Rio Eufrates"><i>Rio<b/>Eufrates</i><par n="Lugar__np"/></e>
+<e lm="Europa"><i>Europa</i><par n="Lugar__np"/></e>
+<e lm="Extremadura"><i>Extremadura</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Feroe"><i>Ilhas<b/>Feroe</i><par n="Lugar__np"/></e>
+<e lm="Faium"><i>Faium</i><par n="Lugar__np"/></e>
+<e lm="Febo"><i>Febo</i><par n="Lugar__np"/></e>
+<e lm="Fenícia"><i>Fenícia</i><par n="Lugar__np"/></e>
+<e lm="Fez"><i>Fez</i><par n="Lugar__np"/></e>
+<e lm="Fiji"><i>Fiji</i><par n="Lugar__np"/></e>
+<e lm="Filadélfia"><i>Filadélfia</i><par n="Lugar__np"/></e>
+<e lm="Filas"><i>Filas</i><par n="Lugar__np"/></e>
+<e lm="Filipinas"><i>Filipinas</i><par n="Lugar__np"/></e>
+<e lm="Filipos"><i>Filipos</i><par n="Lugar__np"/></e>
+<e lm="Flandres"><i>Flandres</i><par n="Lugar__np"/></e>
+<e lm="Florença"><i>Florença</i><par n="Lugar__np"/></e>
+<e lm="Flores"><i>Flores</i><par n="Lugar__np"/></e>
+<e lm="Estreito da Flórida"><i>Estreito<b/>da<b/>Flórida</i><par n="Lugar__np"/></e>
+<e lm="França"><i>França</i><par n="Lugar__np"/></e>
+<e lm="Friburgo"><i>Friburgo</i><par n="Lugar__np"/></e>
+<e lm="Frígia"><i>Frígia</i><par n="Lugar__np"/></e>
+<e lm="Friesland"><i>Friesland</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Frísias"><i>Ilhas<b/>Frísias</i><par n="Lugar__np"/></e>
+<e lm="Gabão"><i>Gabão</i><par n="Lugar__np"/></e>
+<e lm="Gadamés"><i>Gadamés</i><par n="Lugar__np"/></e>
+<e lm="Galácia"><i>Galácia</i><par n="Lugar__np"/></e>
+<e lm="Galápagos"><i>Galápagos</i><par n="Lugar__np"/></e>
+<e lm="Galli"><i>Galli</i><par n="Lugar__np"/></e>
+<e lm="País de Gales"><i>País<b/>de<b/>Gales</i><par n="Lugar__np"/></e>
+<e lm="Gália"><i>Gália</i><par n="Lugar__np"/></e>
+<e lm="Galiza"><i>Galiza</i><par n="Lugar__np"/></e>
+<e lm="Gâmbia"><i>Gâmbia</i><par n="Lugar__np"/></e>
+<e lm="Rio Garona"><i>Rio<b/>Garona</i><par n="Lugar__np"/></e>
+<e lm="Gasconha"><i>Gasconha</i><par n="Lugar__np"/></e>
+<e lm="Germânia"><i>Germânia</i><par n="Lugar__np"/></e>
+<e lm="Gerunda"><i>Gerunda</i><par n="Lugar__np"/></e>
+<e lm="Colinas de Golã"><i>Colinas<b/>de<b/>Golã</i><par n="Lugar__np"/></e>
+<e lm="Göttingen"><i>Göttingen</i><par n="Lugar__np"/></e>
+<e lm="Grande Baía Australiana"><i>Grande<b/>Baía<b/>Australiana</i><par n="Lugar__np"/></e>
+<e lm="Grã Canária"><i>Grã<b/>Canária</i><par n="Lugar__np"/></e>
+<e lm="Parque Nacional do Grand Canyon"><i>Parque<b/>Nacional<b/>do<b/>Grand<b/>Canyon</i><par n="Lugar__np"/></e>
+<e lm="Grã-Colômbia"><i>Grã-Colômbia</i><par n="Lugar__np"/></e>
+<e lm="Cordilheira australiana"><i>Cordilheira<b/>australiana</i><par n="Lugar__np"/></e>
+<e lm="Grande Lago Salgado"><i>Grande<b/>Lago<b/>Salgado</i><par n="Lugar__np"/></e>
+<e lm="Grande Londres"><i>Grande<b/>Londres</i><par n="Lugar__np"/></e>
+<e lm="Grande Londres"><i>Grande<b/>Londres</i><par n="Lugar__np"/></e>
+<e lm="Grande Manchester"><i>Grande<b/>Manchester</i><par n="Lugar__np"/></e>
+<e lm="Muralha da China"><i>Muralha<b/>da<b/>China</i><par n="Lugar__np"/></e>
+<e lm="Granadinas"><i>Granadinas</i><par n="Lugar__np"/></e>
+<e lm="Grandes Antilhas"><i>Grandes<b/>Antilhas</i><par n="Lugar__np"/></e>
+<e lm="Grécia"><i>Grécia</i><par n="Lugar__np"/></e>
+<e lm="Gronelândia"><i>Gronelândia</i><par n="Lugar__np"/></e>
+<e lm="Grózni"><i>Grózni</i><par n="Lugar__np"/></e>
+<e lm="Guadalupe"><i>Guadalupe</i><par n="Lugar__np"/></e>
+<e lm="Guiana Francesa"><i>Guiana<b/>Francesa</i><par n="Lugar__np"/></e>
+<e lm="Planalto das Guianas"><i>Planalto<b/>das<b/>Guianas</i><par n="Lugar__np"/></e>
+<e lm="Guiné"><i>Guiné</i><par n="Lugar__np"/></e>
+<e lm="Guiné-Bissau"><i>Guiné-Bissau</i><par n="Lugar__np"/></e>
+<e lm="Haifa"><i>Haifa</i><par n="Lugar__np"/></e>
+<e lm="Cardiff"><i>Cardiff</i><par n="Lugar__np"/></e>
+<e lm="Halicarnasso"><i>Halicarnasso</i><par n="Lugar__np"/></e>
+<e lm="Hamburgo"><i>Hamburgo</i><par n="Lugar__np"/></e>
+<e lm="Hanôver"><i>Hanôver</i><par n="Lugar__np"/></e>
+<e lm="Hanói"><i>Hanói</i><par n="Lugar__np"/></e>
+<e lm="Hébridas"><i>Hébridas</i><par n="Lugar__np"/></e>
+<e lm="Hebron"><i>Hebron</i><par n="Lugar__np"/></e>
+<e lm="Dardanelos"><i>Dardanelos</i><par n="Lugar__np"/></e>
+<e lm="Hindu Kush"><i>Hindu<b/>Kush</i><par n="Lugar__np"/></e>
+<e lm="Hispânia"><i>Hispânia</i><par n="Lugar__np"/></e>
+<e lm="Hispânia Citerior"><i>Hispânia<b/>Citerior</i><par n="Lugar__np"/></e>
+<e lm="Hispânia Ulterior"><i>Hispânia<b/>Ulterior</i><par n="Lugar__np"/></e>
+<e lm="Hokkaido"><i>Hokkaido</i><par n="Lugar__np"/></e>
+<e lm="Cabo Horn"><i>Cabo<b/>Horn</i><par n="Lugar__np"/></e>
+<e lm="Huascarán"><i>Huascarán</i><par n="Lugar__np"/></e>
+<e lm="Hurões"><i>Hurões</i><par n="Lugar__np"/></e>
+<e lm="Iberia"><i>Iberia</i><par n="Lugar__np"/></e>
+<e lm="Península Ibérica"><i>Península<b/>Ibérica</i><par n="Lugar__np"/></e>
+<e lm="Sistema Ibérico"><i>Sistema<b/>Ibérico</i><par n="Lugar__np"/></e>
+<e lm="Ilíria"><i>Ilíria</i><par n="Lugar__np"/></e>
+<e lm="Império Bizantino"><i>Império<b/>Bizantino</i><par n="Lugar__np"/></e>
+<e lm="Império Romano do Ocidente"><i>Império<b/>Romano<b/>do<b/>Ocidente</i><par n="Lugar__np"/></e>
+<e lm="Índia britânica"><i>Índia<b/>britânica</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Índia"><i>Índia</i><par n="Lugar__np"/></e>
+<e lm="Indochina"><i>Indochina</i><par n="Lugar__np"/></e>
+<e lm="Subcontinente indiano"><i>Subcontinente<b/>indiano</i><par n="Lugar__np"/></e>
+<e lm="Insulíndia"><i>Insulíndia</i><par n="Lugar__np"/></e>
+<e lm="Iraque"><i>Iraque</i><par n="Lugar__np"/></e>
+<e lm="Irkutsk"><i>Irkutsk</i><par n="Lugar__np"/></e>
+<e lm="Irlanda do Norte"><i>Irlanda<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Ilhas da Madalena"><i>Ilhas<b/>da<b/>Madalena</i><par n="Lugar__np"/></e>
+<e lm="Ilha do Urso"><i>Ilha<b/>do<b/>Urso</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Páscoa"><i>Ilha<b/>de<b/>Páscoa</i><par n="Lugar__np"/></e>
+<e lm="Ilha Norte"><i>Ilha<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Ilha Sul"><i>Ilha<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Islândia"><i>Islândia</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Aleutas"><i>Ilhas<b/>Aleutas</i><par n="Lugar__np"/></e>
+<e lm="Ilhas do Canal"><i>Ilhas<b/>do<b/>Canal</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Britânicas"><i>Ilhas<b/>Britânicas</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Cayman"><i>Ilhas<b/>Cayman</i><par n="Lugar__np"/></e>
+<e lm="Ilhas de Barlavento"><i>Ilhas<b/>de<b/>Barlavento</i><par n="Lugar__np"/></e>
+<e lm="Ilhas da Nova Sibéria"><i>Ilhas<b/>da<b/>Nova<b/>Sibéria</i><par n="Lugar__np"/></e>
+<e lm="Ilhas do Mar de Coral"><i>Ilhas<b/>do<b/>Mar<b/>de<b/>Coral</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Jónicas"><i>Ilhas<b/>Jónicas</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Virgens"><i>Ilhas<b/>Virgens</i><par n="Lugar__np"/></e>
+<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
+<e lm="Palestina"><i>Palestina</i><par n="Lugar__np"/></e>
+<e lm="Ístria"><i>Ístria</i><par n="Lugar__np"/></e>
+<e lm="Ítaca"><i>Ítaca</i><par n="Lugar__np"/></e>
+<e lm="Usina Hidrelétrica de Itaipu"><i>Usina<b/>Hidrelétrica<b/>de<b/>Itaipu</i><par n="Lugar__np"/></e>
+<e lm="Itália"><i>Itália</i><par n="Lugar__np"/></e>
+<e lm="Jalal-Abad"><i>Jalal-Abad</i><par n="Lugar__np"/></e>
+<e lm="Japão"><i>Japão</i><par n="Lugar__np"/></e>
+<e lm="Jericó"><i>Jericó</i><par n="Lugar__np"/></e>
+<e lm="Jônia"><i>Jônia</i><par n="Lugar__np"/></e>
+<e lm="Jutlândia"><i>Jutlândia</i><par n="Lugar__np"/></e>
+<e lm="Cabul"><i>Cabul</i><par n="Lugar__np"/></e>
+<e lm="Kairouan"><i>Kairouan</i><par n="Lugar__np"/></e>
+<e lm="Kaliningrado"><i>Kaliningrado</i><par n="Lugar__np"/></e>
+<e lm="Península de Kamchatka"><i>Península<b/>de<b/>Kamchatka</i><par n="Lugar__np"/></e>
+<e lm="Península de Kamchatka"><i>Península<b/>de<b/>Kamchatka</i><par n="Lugar__np"/></e>
+<e lm="Palácio de Karakorum"><i>Palácio<b/>de<b/>Karakorum</i><par n="Lugar__np"/></e>
+<e lm="Kilimanjaro"><i>Kilimanjaro</i><par n="Lugar__np"/></e>
+<e lm="Krakatoa"><i>Krakatoa</i><par n="Lugar__np"/></e>
+<e lm="Fossa das Curilas-Kamchatka"><i>Fossa<b/>das<b/>Curilas-Kamchatka</i><par n="Lugar__np"/></e>
+<e lm="Kursk"><i>Kursk</i><par n="Lugar__np"/></e>
+<e lm="Quioto"><i>Quioto</i><par n="Lugar__np"/></e>
+<e lm="Lácio"><i>Lácio</i><par n="Lugar__np"/></e>
+<e lm="Lacônia"><i>Lacônia</i><par n="Lugar__np"/></e>
+<e lm="Lago Maior"><i>Lago<b/>Maior</i><par n="Lugar__np"/></e>
+<e lm="Lapónia"><i>Lapónia</i><par n="Lugar__np"/></e>
+<e lm="Lausana"><i>Lausana</i><par n="Lugar__np"/></e>
+<e lm="Leida"><i>Leida</i><par n="Lugar__np"/></e>
+<e lm="São Petersburgo"><i>São<b/>Petersburgo</i><par n="Lugar__np"/></e>
+<e lm="Lepanto"><i>Lepanto</i><par n="Lugar__np"/></e>
+<e lm="Letónia"><i>Letónia</i><par n="Lugar__np"/></e>
+<e lm="Deserto da Líbia"><i>Deserto<b/>da<b/>Líbia</i><par n="Lugar__np"/></e>
+<e lm="Lídia"><i>Lídia</i><par n="Lugar__np"/></e>
+<e lm="Liège"><i>Liège</i><par n="Lugar__np"/></e>
+<e lm="Ligúria"><i>Ligúria</i><par n="Lugar__np"/></e>
+<e lm="Liubliana"><i>Liubliana</i><par n="Lugar__np"/></e>
+<e lm="Livônia"><i>Livônia</i><par n="Lugar__np"/></e>
+<e lm="Lombardia"><i>Lombardia</i><par n="Lugar__np"/></e>
+<e lm="Lotaríngia"><i>Lotaríngia</i><par n="Lugar__np"/></e>
+<e lm="Lovaina"><i>Lovaina</i><par n="Lugar__np"/></e>
+<e lm="Lusácia"><i>Lusácia</i><par n="Lugar__np"/></e>
+<e lm="Lusitânia"><i>Lusitânia</i><par n="Lugar__np"/></e>
+<e lm="Lutécia"><i>Lutécia</i><par n="Lugar__np"/></e>
+<e lm="Luxor"><i>Luxor</i><par n="Lugar__np"/></e>
+<e lm="Maciço central"><i>Maciço<b/>central</i><par n="Lugar__np"/></e>
+<e lm="Região Autónoma da Madeira"><i>Região<b/>Autónoma<b/>da<b/>Madeira</i><par n="Lugar__np"/></e>
+<e lm="Magrebe"><i>Magrebe</i><par n="Lugar__np"/></e>
+<e lm="Mainz"><i>Mainz</i><par n="Lugar__np"/></e>
+<e lm="Malaca"><i>Malaca</i><par n="Lugar__np"/></e>
+<e lm="Maldivas"><i>Maldivas</i><par n="Lugar__np"/></e>
+<e lm="Mechelen"><i>Mechelen</i><par n="Lugar__np"/></e>
+<e lm="Maiorca"><i>Maiorca</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Malvinas"><i>Ilhas<b/>Malvinas</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Malvinas"><i>Ilhas<b/>Malvinas</i><par n="Lugar__np"/></e>
+<e lm="Manchúria"><i>Manchúria</i><par n="Lugar__np"/></e>
+<e lm="Mântua"><i>Mântua</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Marianas"><i>Ilhas<b/>Marianas</i><par n="Lugar__np"/></e>
+<e lm="Fossa das Marianas"><i>Fossa<b/>das<b/>Marianas</i><par n="Lugar__np"/></e>
+<e lm="Arquipélago das Marquesas"><i>Arquipélago<b/>das<b/>Marquesas</i><par n="Lugar__np"/></e>
+<e lm="Martinica"><i>Martinica</i><par n="Lugar__np"/></e>
+<e lm="Mauritânia"><i>Mauritânia</i><par n="Lugar__np"/></e>
+<e lm="Mazar-e Sharif"><i>Mazar-e<b/>Sharif</i><par n="Lugar__np"/></e>
+<e lm="Mazóvia"><i>Mazóvia</i><par n="Lugar__np"/></e>
+<e lm="Meca"><i>Meca</i><par n="Lugar__np"/></e>
+<e lm="Mecklemburgo"><i>Mecklemburgo</i><par n="Lugar__np"/></e>
+<e lm="Medos"><i>Medos</i><par n="Lugar__np"/></e>
+<e lm="Medina"><i>Medina</i><par n="Lugar__np"/></e>
+<e lm="Rio Mekong"><i>Rio<b/>Mekong</i><par n="Lugar__np"/></e>
+<e lm="Minorca"><i>Minorca</i><par n="Lugar__np"/></e>
+<e lm="Reino da Mércia"><i>Reino<b/>da<b/>Mércia</i><par n="Lugar__np"/></e>
+<e lm="Messina"><i>Messina</i><par n="Lugar__np"/></e>
+<e lm="Estreito de Messina"><i>Estreito<b/>de<b/>Messina</i><par n="Lugar__np"/></e>
+<e lm="Mesopotâmia"><i>Mesopotâmia</i><par n="Lugar__np"/></e>
+<e lm="Messina"><i>Messina</i><par n="Lugar__np"/></e>
+<e lm="Golfo do México"><i>Golfo<b/>do<b/>México</i><par n="Lugar__np"/></e>
+<e lm="Micenas"><i>Micenas</i><par n="Lugar__np"/></e>
+<e lm="Míconos"><i>Míconos</i><par n="Lugar__np"/></e>
+<e lm="Mileto"><i>Mileto</i><par n="Lugar__np"/></e>
+<e lm="Rio Minho"><i>Rio<b/>Minho</i><par n="Lugar__np"/></e>
+<e lm="Moldávia"><i>Moldávia</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Molucas"><i>Ilhas<b/>Molucas</i><par n="Lugar__np"/></e>
+<e lm="Monte Rosa"><i>Monte<b/>Rosa</i><par n="Lugar__np"/></e>
+<e lm="Morávia"><i>Morávia</i><par n="Lugar__np"/></e>
+<e lm="Mordóvia"><i>Mordóvia</i><par n="Lugar__np"/></e>
+<e lm="Nagorno-Karabakh"><i>Nagorno-Karabakh</i><par n="Lugar__np"/></e>
+<e lm="Nazaré"><i>Nazaré</i><par n="Lugar__np"/></e>
+<e lm="Neptuno"><i>Neptuno</i><par n="Lugar__np"/></e>
+<e lm="Cataratas do Niágara"><i>Cataratas<b/>do<b/>Niágara</i><par n="Lugar__np"/></e>
+<e lm="İznik"><i>İznik</i><par n="Lugar__np"/></e>
+<e lm="Nilo Azul"><i>Nilo<b/>Azul</i><par n="Lugar__np"/></e>
+<e lm="Nilo Branco"><i>Nilo<b/>Branco</i><par n="Lugar__np"/></e>
+<e lm="Nimegue"><i>Nimegue</i><par n="Lugar__np"/></e>
+<e lm="Níjni Novgorod"><i>Níjni<b/>Novgorod</i><par n="Lugar__np"/></e>
+<e lm="Nórica"><i>Nórica</i><par n="Lugar__np"/></e>
+<e lm="Reino da Nortúmbria"><i>Reino<b/>da<b/>Nortúmbria</i><par n="Lugar__np"/></e>
+<e lm="Noruega"><i>Noruega</i><par n="Lugar__np"/></e>
+<e lm="Núbia"><i>Núbia</i><par n="Lugar__np"/></e>
+<e lm="Nova Bretanha"><i>Nova<b/>Bretanha</i><par n="Lugar__np"/></e>
+<e lm="Nova Deli"><i>Nova<b/>Deli</i><par n="Lugar__np"/></e>
+<e lm="Vice-Reino da Nova Espanha"><i>Vice-Reino<b/>da<b/>Nova<b/>Espanha</i><par n="Lugar__np"/></e>
+<e lm="Nova França"><i>Nova<b/>França</i><par n="Lugar__np"/></e>
+<e lm="Nova Gales do Sul"><i>Nova<b/>Gales<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Vice-Reino de Nova Granada"><i>Vice-Reino<b/>de<b/>Nova<b/>Granada</i><par n="Lugar__np"/></e>
+<e lm="Nova Guiné"><i>Nova<b/>Guiné</i><par n="Lugar__np"/></e>
+<e lm="Nova Inglaterra"><i>Nova<b/>Inglaterra</i><par n="Lugar__np"/></e>
+<e lm="Nova Irlanda"><i>Nova<b/>Irlanda</i><par n="Lugar__np"/></e>
+<e lm="Nova Jérsei"><i>Nova<b/>Jérsei</i><par n="Lugar__np"/></e>
+<e lm="Nova Orleães"><i>Nova<b/>Orleães</i><par n="Lugar__np"/></e>
+<e lm="Nova Iorque"><i>Nova<b/>Iorque</i><par n="Lugar__np"/></e>
+<e lm="Nova Zembla"><i>Nova<b/>Zembla</i><par n="Lugar__np"/></e>
+<e lm="Novo México"><i>Novo<b/>México</i><par n="Lugar__np"/></e>
+<e lm="Numância"><i>Numância</i><par n="Lugar__np"/></e>
+<e lm="Numídia"><i>Numídia</i><par n="Lugar__np"/></e>
+<e lm="Occitânia"><i>Occitânia</i><par n="Lugar__np"/></e>
+<e lm="Odessa"><i>Odessa</i><par n="Lugar__np"/></e>
+<e lm="Olímpia"><i>Olímpia</i><par n="Lugar__np"/></e>
+<e lm="Monte das Oliveiras"><i>Monte<b/>das<b/>Oliveiras</i><par n="Lugar__np"/></e>
+<e lm="Omã"><i>Omã</i><par n="Lugar__np"/></e>
+<e lm="Aristóteles Onassis"><i>Aristóteles<b/>Onassis</i><par n="Lugar__np"/></e>
+<e lm="Orã"><i>Orã</i><par n="Lugar__np"/></e>
+<e lm="Órcades"><i>Órcades</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Órcades do Sul"><i>Ilhas<b/>Órcades<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Ursa Major"><i>Ursa<b/>Major</i><par n="Lugar__np"/></e>
+<e lm="Ursa Minor"><i>Ursa<b/>Minor</i><par n="Lugar__np"/></e>
+<e lm="Ossétia"><i>Ossétia</i><par n="Lugar__np"/></e>
+<e lm="Otranto"><i>Otranto</i><par n="Lugar__np"/></e>
+<e lm="Pádua"><i>Pádua</i><par n="Lugar__np"/></e>
+<e lm="Países Baixos"><i>Países<b/>Baixos</i><par n="Lugar__np"/></e>
+<e lm="Palatinado"><i>Palatinado</i><par n="Lugar__np"/></e>
+<e lm="Palmira"><i>Palmira</i><par n="Lugar__np"/></e>
+<e lm="Panamá"><i>Panamá</i><par n="Lugar__np"/></e>
+<e lm="Parma"><i>Parma</i><par n="Lugar__np"/></e>
+<e lm="Pavia"><i>Pavia</i><par n="Lugar__np"/></e>
+<e lm="Peloponeso"><i>Peloponeso</i><par n="Lugar__np"/></e>
+<e lm="Pequenas Antilhas"><i>Pequenas<b/>Antilhas</i><par n="Lugar__np"/></e>
+<e lm="Pequeno Belt"><i>Pequeno<b/>Belt</i><par n="Lugar__np"/></e>
+<e lm="Monte Perdido"><i>Monte<b/>Perdido</i><par n="Lugar__np"/></e>
+<e lm="Pérsia"><i>Pérsia</i><par n="Lugar__np"/></e>
+<e lm="Golfo Pérsico"><i>Golfo<b/>Pérsico</i><par n="Lugar__np"/></e>
+<e lm="São Petersburgo"><i>São<b/>Petersburgo</i><par n="Lugar__np"/></e>
+<e lm="Piemonte"><i>Piemonte</i><par n="Lugar__np"/></e>
+<e lm="Pireu"><i>Pireu</i><par n="Lugar__np"/></e>
+<e lm="Pisa"><i>Pisa</i><par n="Lugar__np"/></e>
+<e lm="Pisces"><i>Pisces</i><par n="Lugar__np"/></e>
+<e lm="Pluto"><i>Pluto</i><par n="Lugar__np"/></e>
+<e lm="Polo Norte"><i>Polo<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Polo Sul"><i>Polo<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Polinésia"><i>Polinésia</i><par n="Lugar__np"/></e>
+<e lm="Pomerânia"><i>Pomerânia</i><par n="Lugar__np"/></e>
+<e lm="Mar Negro"><i>Mar<b/>Negro</i><par n="Lugar__np"/></e>
+<e lm="Porto Said"><i>Porto<b/>Said</i><par n="Lugar__np"/></e>
+<e lm="Ilha do Príncipe"><i>Ilha<b/>do<b/>Príncipe</i><par n="Lugar__np"/></e>
+<e lm="Cabo"><i>Cabo</i><par n="Lugar__np"/></e>
+<e lm="República das Sete Províncias Unidas dos Países Baixos"><i>República<b/>das<b/>Sete<b/>Províncias<b/>Unidas<b/>dos<b/>Países<b/>Baixos</i><par n="Lugar__np"/></e>
+<e lm="Prússia"><i>Prússia</i><par n="Lugar__np"/></e>
+<e lm="Gordexola"><i>Gordexola</i><par n="Lugar__np"/></e>
+<e lm="Prússia Ocidental"><i>Prússia<b/>Ocidental</i><par n="Lugar__np"/></e>
+<e lm="Prússia Oriental"><i>Prússia<b/>Oriental</i><par n="Lugar__np"/></e>
+<e lm="Porto Rico"><i>Porto<b/>Rico</i><par n="Lugar__np"/></e>
+<e lm="Ratisbona"><i>Ratisbona</i><par n="Lugar__np"/></e>
+<e lm="Ravenna"><i>Ravenna</i><par n="Lugar__np"/></e>
+<e lm="Renânia"><i>Renânia</i><par n="Lugar__np"/></e>
+<e lm="República Árabe Unida"><i>República<b/>Árabe<b/>Unida</i><par n="Lugar__np"/></e>
+<e lm="Alemanha Oriental"><i>Alemanha<b/>Oriental</i><par n="Lugar__np"/></e>
+<e lm="República Dominicana"><i>República<b/>Dominicana</i><par n="Lugar__np"/></e>
+<e lm="Récia"><i>Récia</i><par n="Lugar__np"/></e>
+<e lm="Vale dos Reis"><i>Vale<b/>dos<b/>Reis</i><par n="Lugar__np"/></e>
+<e lm="Montanhas Rochosas"><i>Montanhas<b/>Rochosas</i><par n="Lugar__np"/></e>
+<e lm="Rodes"><i>Rodes</i><par n="Lugar__np"/></e>
+<e lm="Roménia"><i>Roménia</i><par n="Lugar__np"/></e>
+<e lm="Rússia"><i>Rússia</i><par n="Lugar__np"/></e>
+<e lm="Golfo de São Lourenço"><i>Golfo<b/>de<b/>São<b/>Lourenço</i><par n="Lugar__np"/></e>
+<e lm="Sacro Império Romano-Germânico"><i>Sacro<b/>Império<b/>Romano-Germânico</i><par n="Lugar__np"/></e>
+<e lm="Salamanca"><i>Salamanca</i><par n="Lugar__np"/></e>
+<e lm="Salamina"><i>Salamina</i><par n="Lugar__np"/></e>
+<e lm="Salerno"><i>Salerno</i><par n="Lugar__np"/></e>
+<e lm="República Social Italiana"><i>República<b/>Social<b/>Italiana</i><par n="Lugar__np"/></e>
+<e lm="Samarcanda"><i>Samarcanda</i><par n="Lugar__np"/></e>
+<e lm="Samotrácia"><i>Samotrácia</i><par n="Lugar__np"/></e>
+<e lm="Saint-Pierre e Miquelon"><i>Saint-Pierre<b/>e<b/>Miquelon</i><par n="Lugar__np"/></e>
+<e lm="Cabo de São Vicente"><i>Cabo<b/>de<b/>São<b/>Vicente</i><par n="Lugar__np"/></e>
+<e lm="Santiago de Compostela"><i>Santiago<b/>de<b/>Compostela</i><par n="Lugar__np"/></e>
+<e lm="Saturno"><i>Saturno</i><par n="Lugar__np"/></e>
+<e lm="Sebastopol"><i>Sebastopol</i><par n="Lugar__np"/></e>
+<e lm="Segóvia"><i>Segóvia</i><par n="Lugar__np"/></e>
+<e lm="Sevilha"><i>Sevilha</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Shetland do Sul"><i>Ilhas<b/>Shetland<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Xiraz"><i>Xiraz</i><par n="Lugar__np"/></e>
+<e lm="Sibéria"><i>Sibéria</i><par n="Lugar__np"/></e>
+<e lm="Serra Leoa"><i>Serra<b/>Leoa</i><par n="Lugar__np"/></e>
+<e lm="Silésia"><i>Silésia</i><par n="Lugar__np"/></e>
+<e lm="Sinai"><i>Sinai</i><par n="Lugar__np"/></e>
+<e lm="Siracusa"><i>Siracusa</i><par n="Lugar__np"/></e>
+<e lm="Síria"><i>Síria</i><par n="Lugar__np"/></e>
+<e lm="Somalilândia"><i>Somalilândia</i><par n="Lugar__np"/></e>
+<e lm="Stalingrad"><i>Stalingrad</i><par n="Lugar__np"/></e>
+<e lm="Estíria"><i>Estíria</i><par n="Lugar__np"/></e>
+<e lm="Sudetos"><i>Sudetos</i><par n="Lugar__np"/></e>
+<e lm="Península de Taimir"><i>Península<b/>de<b/>Taimir</i><par n="Lugar__np"/></e>
+<e lm="Península de Taimir"><i>Península<b/>de<b/>Taimir</i><par n="Lugar__np"/></e>
+<e lm="Tallinn"><i>Tallinn</i><par n="Lugar__np"/></e>
+<e lm="Tânger"><i>Tânger</i><par n="Lugar__np"/></e>
+<e lm="Tarn-et-Garonne"><i>Tarn-et-Garonne</i><par n="Lugar__np"/></e>
+<e lm="Tarragona"><i>Tarragona</i><par n="Lugar__np"/></e>
+<e lm="Tasmânia"><i>Tasmânia</i><par n="Lugar__np"/></e>
+<e lm="Piotr Ilitch Tchaikovsky"><i>Piotr<b/>Ilitch<b/>Tchaikovsky</i><par n="Lugar__np"/></e>
+<e lm="Tebas"><i>Tebas</i><par n="Lugar__np"/></e>
+<e lm="Termópilas"><i>Termópilas</i><par n="Lugar__np"/></e>
+<e lm="Terra Nova"><i>Terra<b/>Nova</i><par n="Lugar__np"/></e>
+<e lm="Tessália"><i>Tessália</i><par n="Lugar__np"/></e>
+<e lm="Salónica"><i>Salónica</i><par n="Lugar__np"/></e>
+<e lm="Salónica"><i>Salónica</i><par n="Lugar__np"/></e>
+<e lm="Tétouan"><i>Tétouan</i><par n="Lugar__np"/></e>
+<e lm="Tiberíades"><i>Tiberíades</i><par n="Lugar__np"/></e>
+<e lm="Terra do Fogo"><i>Terra<b/>do<b/>Fogo</i><par n="Lugar__np"/></e>
+<e lm="Tiro"><i>Tiro</i><par n="Lugar__np"/></e>
+<e lm="Tirol"><i>Tirol</i><par n="Lugar__np"/></e>
+<e lm="Mar Tirreno"><i>Mar<b/>Tirreno</i><par n="Lugar__np"/></e>
+<e lm="Toledo"><i>Toledo</i><par n="Lugar__np"/></e>
+<e lm="Tombuctu"><i>Tombuctu</i><par n="Lugar__np"/></e>
+<e lm="Toscana"><i>Toscana</i><par n="Lugar__np"/></e>
+<e lm="Trebizonda"><i>Trebizonda</i><par n="Lugar__np"/></e>
+<e lm="Trebizonda"><i>Trebizonda</i><par n="Lugar__np"/></e>
+<e lm="Trácia"><i>Trácia</i><par n="Lugar__np"/></e>
+<e lm="Transcaucásia"><i>Transcaucásia</i><par n="Lugar__np"/></e>
+<e lm="Trentino-Alto Ádige"><i>Trentino-Alto<b/>Ádige</i><par n="Lugar__np"/></e>
+<e lm="Tripolitânia"><i>Tripolitânia</i><par n="Lugar__np"/></e>
+<e lm="Trópico de Câncer"><i>Trópico<b/>de<b/>Câncer</i><par n="Lugar__np"/></e>
+<e lm="Troia"><i>Troia</i><par n="Lugar__np"/></e>
+<e lm="Tobruk"><i>Tobruk</i><par n="Lugar__np"/></e>
+<e lm="Tucumán"><i>Tucumán</i><par n="Lugar__np"/></e>
+<e lm="Turíngia"><i>Turíngia</i><par n="Lugar__np"/></e>
+<e lm="Tuva"><i>Tuva</i><par n="Lugar__np"/></e>
+<e lm="Ouagadougou"><i>Ouagadougou</i><par n="Lugar__np"/></e>
+<e lm="Transcarpátia"><i>Transcarpátia</i><par n="Lugar__np"/></e>
+<e lm="Transcarpátia"><i>Transcarpátia</i><par n="Lugar__np"/></e>
+<e lm="Úmbria"><i>Úmbria</i><par n="Lugar__np"/></e>
+<e lm="União das Repúblicas Socialistas Soviéticas"><i>União<b/>das<b/>Repúblicas<b/>Socialistas<b/>Soviéticas</i><par n="Lugar__np"/></e>
+<e lm="União Sul-Africana"><i>União<b/>Sul-Africana</i><par n="Lugar__np"/></e>
+<e lm="Montes Urais"><i>Montes<b/>Urais</i><par n="Lugar__np"/></e>
+<e lm="Urano"><i>Urano</i><par n="Lugar__np"/></e>
+<e lm="Urmia"><i>Urmia</i><par n="Lugar__np"/></e>
+<e lm="Valônia"><i>Valônia</i><par n="Lugar__np"/></e>
+<e lm="Vêneto"><i>Vêneto</i><par n="Lugar__np"/></e>
+<e lm="Vênus"><i>Vênus</i><par n="Lugar__np"/></e>
+<e lm="Verkhoiansk"><i>Verkhoiansk</i><par n="Lugar__np"/></e>
+<e lm="Verona"><i>Verona</i><par n="Lugar__np"/></e>
+<e lm="Versalhes"><i>Versalhes</i><par n="Lugar__np"/></e>
+<e lm="Américo Vespúcio"><i>Américo<b/>Vespúcio</i><par n="Lugar__np"/></e>
+<e lm="Vesúvio"><i>Vesúvio</i><par n="Lugar__np"/></e>
+<e lm="Via Láctea"><i>Via<b/>Láctea</i><par n="Lugar__np"/></e>
+<e lm="Vienne"><i>Vienne</i><par n="Lugar__np"/></e>
+<e lm="Virgem"><i>Virgem</i><par n="Lugar__np"/></e>
+<e lm="Golfo da Biscaia"><i>Golfo<b/>da<b/>Biscaia</i><par n="Lugar__np"/></e>
+<e lm="Voivodina"><i>Voivodina</i><par n="Lugar__np"/></e>
+<e lm="Volgogrado"><i>Volgogrado</i><par n="Lugar__np"/></e>
+<e lm="Vestfália"><i>Vestfália</i><par n="Lugar__np"/></e>
+<e lm="Jacarta"><i>Jacarta</i><par n="Lugar__np"/></e>
+<e lm="Rio Jarmuque"><i>Rio<b/>Jarmuque</i><par n="Lugar__np"/></e>
+<e lm="Yaoundé"><i>Yaoundé</i><par n="Lugar__np"/></e>
+<e lm="Rio Ienissei"><i>Rio<b/>Ienissei</i><par n="Lugar__np"/></e>
+<e lm="Jugoslávia"><i>Jugoslávia</i><par n="Lugar__np"/></e>
+<e lm="Zelândia"><i>Zelândia</i><par n="Lugar__np"/></e>
+<e lm="Guijuelo"><i>Guijuelo</i><par n="Lugar__np"/></e>
+<e lm="Armagnac"><i>Armagnac</i><par n="Lugar__np"/></e>
+<e lm="Alta-Normandia"><i>Alta-Normandia</i><par n="Lugar__np"/></e>
+<e lm="País do Loira"><i>País<b/>do<b/>Loira</i><par n="Lugar__np"/></e>
+<e lm="Delfinado"><i>Delfinado</i><par n="Lugar__np"/></e>
+<e lm="Bielorrússia"><i>Bielorrússia</i><par n="Lugar__np"/></e>
+<e lm="Cazaquistão"><i>Cazaquistão</i><par n="Lugar__np"/></e>
+<e lm="Cazaquistão"><i>Cazaquistão</i><par n="Lugar__np"/></e>
+<e lm="Quirguistão"><i>Quirguistão</i><par n="Lugar__np"/></e>
+<e lm="Phnom Penh"><i>Phnom<b/>Penh</i><par n="Lugar__np"/></e>
+<e lm="Lituânia"><i>Lituânia</i><par n="Lugar__np"/></e>
+<e lm="China"><i>China</i><par n="Lugar__np"/></e>
+<e lm="Malta"><i>Malta</i><par n="Lugar__np"/></e>
+<e lm="Coreia do Norte"><i>Coreia<b/>do<b/>Norte</i><par n="Lugar__np"/></e>
+<e lm="Coreia do Sul"><i>Coreia<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Maurice"><i>Maurice</i><par n="Lugar__np"/></e>
+<e lm="Dinamarca"><i>Dinamarca</i><par n="Lugar__np"/></e>
+<e lm="Djibouti"><i>Djibouti</i><par n="Lugar__np"/></e>
+<e lm="Emirados Árabes Unidos"><i>Emirados<b/>Árabes<b/>Unidos</i><par n="Lugar__np"/></e>
+<e lm="Namíbia"><i>Namíbia</i><par n="Lugar__np"/></e>
+<e lm="Estados Unidos"><i>Estados<b/>Unidos</i><par n="Lugar__np"/></e>
+<e lm="Finlândia"><i>Finlândia</i><par n="Lugar__np"/></e>
+<e lm="Papua-Nova Guiné"><i>Papua-Nova<b/>Guiné</i><par n="Lugar__np"/></e>
+<e lm="Polónia"><i>Polónia</i><par n="Lugar__np"/></e>
+<e lm="São Cristóvão e Nevis"><i>São<b/>Cristóvão<b/>e<b/>Nevis</i><par n="Lugar__np"/></e>
+<e lm="São Cristóvão e Nevis"><i>São<b/>Cristóvão<b/>e<b/>Nevis</i><par n="Lugar__np"/></e>
+<e lm="Santa Lúcia"><i>Santa<b/>Lúcia</i><par n="Lugar__np"/></e>
+<e lm="San Marino"><i>San<b/>Marino</i><par n="Lugar__np"/></e>
+<e lm="São Vicente e Granadinas"><i>São<b/>Vicente<b/>e<b/>Granadinas</i><par n="Lugar__np"/></e>
+<e lm="São Tomé e Príncipe"><i>São<b/>Tomé<b/>e<b/>Príncipe</i><par n="Lugar__np"/></e>
+<e lm="Suécia"><i>Suécia</i><par n="Lugar__np"/></e>
+<e lm="Suazilândia"><i>Suazilândia</i><par n="Lugar__np"/></e>
+<e lm="Tadjiquistão"><i>Tadjiquistão</i><par n="Lugar__np"/></e>
+<e lm="Tanzânia"><i>Tanzânia</i><par n="Lugar__np"/></e>
+<e lm="Singapura"><i>Singapura</i><par n="Lugar__np"/></e>
+<e lm="Trinidad e Tobago"><i>Trinidad<b/>e<b/>Tobago</i><par n="Lugar__np"/></e>
+<e lm="Tunísia"><i>Tunísia</i><par n="Lugar__np"/></e>
+<e lm="Tunes"><i>Tunes</i><par n="Lugar__np"/></e>
+<e lm="Turquemenistão"><i>Turquemenistão</i><par n="Lugar__np"/></e>
+<e lm="Ucrânia"><i>Ucrânia</i><par n="Lugar__np"/></e>
+<e lm="Iémen"><i>Iémen</i><par n="Lugar__np"/></e>
+<e lm="Zâmbia"><i>Zâmbia</i><par n="Lugar__np"/></e>
+<e lm="Assuão"><i>Assuão</i><par n="Lugar__np"/></e>
+<e lm="Cartum"><i>Cartum</i><par n="Lugar__np"/></e>
+<e lm="Cartum"><i>Cartum</i><par n="Lugar__np"/></e>
+<e lm="Abidjan"><i>Abidjan</i><par n="Lugar__np"/></e>
+<e lm="Duala"><i>Duala</i><par n="Lugar__np"/></e>
+<e lm="Mogadíscio"><i>Mogadíscio</i><par n="Lugar__np"/></e>
+<e lm="N'Djamena"><i>N'Djamena</i><par n="Lugar__np"/></e>
+<e lm="Riade"><i>Riade</i><par n="Lugar__np"/></e>
+<e lm="Thimbu"><i>Thimbu</i><par n="Lugar__np"/></e>
+<e lm="Tbilisi"><i>Tbilisi</i><par n="Lugar__np"/></e>
+<e lm="Teerã"><i>Teerã</i><par n="Lugar__np"/></e>
+<e lm="Amã"><i>Amã</i><par n="Lugar__np"/></e>
+<e lm="Bisqueque"><i>Bisqueque</i><par n="Lugar__np"/></e>
+<e lm="Malé"><i>Malé</i><par n="Lugar__np"/></e>
+<e lm="Ulaanbaatar"><i>Ulaanbaatar</i><par n="Lugar__np"/></e>
+<e lm="Asgabate"><i>Asgabate</i><par n="Lugar__np"/></e>
+<e lm="Hanói"><i>Hanói</i><par n="Lugar__np"/></e>
+<e lm="Sana"><i>Sana</i><par n="Lugar__np"/></e>
+<e lm="Nicósia"><i>Nicósia</i><par n="Lugar__np"/></e>
+<e lm="Dublin"><i>Dublin</i><par n="Lugar__np"/></e>
+<e lm="Skopje"><i>Skopje</i><par n="Lugar__np"/></e>
+<e lm="Valeta"><i>Valeta</i><par n="Lugar__np"/></e>
+<e lm="Mónaco"><i>Mónaco</i><par n="Lugar__np"/></e>
+<e lm="Varsóvia"><i>Varsóvia</i><par n="Lugar__np"/></e>
+<e lm="Praga"><i>Praga</i><par n="Lugar__np"/></e>
+<e lm="Josef Stalin"><i>Josef<b/>Stalin</i><par n="Lugar__np"/></e>
+<e lm="Médio Oriente"><i>Médio<b/>Oriente</i><par n="Lugar__np"/></e>
+<e lm="Oriente Próximo"><i>Oriente<b/>Próximo</i><par n="Lugar__np"/></e>
+<e lm="Extremo Oriente"><i>Extremo<b/>Oriente</i><par n="Lugar__np"/></e>
+<e lm="Oriente Próximo"><i>Oriente<b/>Próximo</i><par n="Lugar__np"/></e>
+<e lm="Oriente Próximo"><i>Oriente<b/>Próximo</i><par n="Lugar__np"/></e>
+<e lm="Oriente Próximo"><i>Oriente<b/>Próximo</i><par n="Lugar__np"/></e>
+<e lm="Sueste asiático"><i>Sueste<b/>asiático</i><par n="Lugar__np"/></e>
+<e lm="Ásia Central"><i>Ásia<b/>Central</i><par n="Lugar__np"/></e>
+<e lm="Subcontinente indiano"><i>Subcontinente<b/>indiano</i><par n="Lugar__np"/></e>
+<e lm="Subcontinente indiano"><i>Subcontinente<b/>indiano</i><par n="Lugar__np"/></e>
+<e lm="Zizurkil"><i>Zizurkil</i><par n="Lugar__np"/></e>
+<e lm="Ponte de Adão"><i>Ponte<b/>de<b/>Adão</i><par n="Lugar__np"/></e>
+<e lm="Irun"><i>Irun</i><par n="Lugar__np"/></e>
+<e lm="Ålborg"><i>Ålborg</i><par n="Lugar__np"/></e>
+<e lm="Rio Aar"><i>Rio<b/>Aar</i><par n="Lugar__np"/></e>
+<e lm="Abadan"><i>Abadan</i><par n="Lugar__np"/></e>
+<e lm="Abadiño"><i>Abadiño</i><par n="Lugar__np"/></e>
+<e lm="Abaltzisketa"><i>Abaltzisketa</i><par n="Lugar__np"/></e>
+<e lm="Abanto"><i>Abanto</i><par n="Lugar__np"/></e>
+<e lm="Abárzuza"><i>Abárzuza</i><par n="Lugar__np"/></e>
+<e lm="Abárzuza"><i>Abárzuza</i><par n="Lugar__np"/></e>
+<e lm="Abbott"><i>Abbott</i><par n="Lugar__np"/></e>
+<e lm="Abetone"><i>Abetone</i><par n="Lugar__np"/></e>
+<e lm="Abia"><i>Abia</i><par n="Lugar__np"/></e>
+<e lm="Abuja"><i>Abuja</i><par n="Lugar__np"/></e>
+<e lm="Abidos"><i>Abidos</i><par n="Lugar__np"/></e>
+<e lm="Império Etíope"><i>Império<b/>Etíope</i><par n="Lugar__np"/></e>
+<e lm="Acajutla"><i>Acajutla</i><par n="Lugar__np"/></e>
+<e lm="Acapulco"><i>Acapulco</i><par n="Lugar__np"/></e>
+<e lm="Acapulco"><i>Acapulco</i><par n="Lugar__np"/></e>
+<e lm="Acra"><i>Acra</i><par n="Lugar__np"/></e>
+<e lm="Achém"><i>Achém</i><par n="Lugar__np"/></e>
+<e lm="Acaia"><i>Acaia</i><par n="Lugar__np"/></e>
+<e lm="Aconcágua"><i>Aconcágua</i><par n="Lugar__np"/></e>
+<e lm="Acrópole"><i>Acrópole</i><par n="Lugar__np"/></e>
+<e lm="Adis Abeba"><i>Adis<b/>Abeba</i><par n="Lugar__np"/></e>
+<e lm="Adis Abeba"><i>Adis<b/>Abeba</i><par n="Lugar__np"/></e>
+<e lm="Áden"><i>Áden</i><par n="Lugar__np"/></e>
+<e lm="Adour"><i>Adour</i><par n="Lugar__np"/></e>
+<e lm="Adria"><i>Adria</i><par n="Lugar__np"/></e>
+<e lm="África Austral"><i>África<b/>Austral</i><par n="Lugar__np"/></e>
+<e lm="África subsariana"><i>África<b/>subsariana</i><par n="Lugar__np"/></e>
+<e lm="África subsariana"><i>África<b/>subsariana</i><par n="Lugar__np"/></e>
+<e lm="Agadir"><i>Agadir</i><par n="Lugar__np"/></e>
+<e lm="Agen"><i>Agen</i><par n="Lugar__np"/></e>
+<e lm="Aoiz"><i>Aoiz</i><par n="Lugar__np"/></e>
+<e lm="Agra"><i>Agra</i><par n="Lugar__np"/></e>
+<e lm="Agrigento"><i>Agrigento</i><par n="Lugar__np"/></e>
+<e lm="Salvatierra"><i>Salvatierra</i><par n="Lugar__np"/></e>
+<e lm="Aibar"><i>Aibar</i><par n="Lugar__np"/></e>
+<e lm="Aichi"><i>Aichi</i><par n="Lugar__np"/></e>
+<e lm="Aigueperse"><i>Aigueperse</i><par n="Lugar__np"/></e>
+<e lm="Aisne"><i>Aisne</i><par n="Lugar__np"/></e>
+<e lm="Aix-en-Provence"><i>Aix-en-Provence</i><par n="Lugar__np"/></e>
+<e lm="Aquisgrano"><i>Aquisgrano</i><par n="Lugar__np"/></e>
+<e lm="Aix-les-Bains"><i>Aix-les-Bains</i><par n="Lugar__np"/></e>
+<e lm="Ajaccio"><i>Ajaccio</i><par n="Lugar__np"/></e>
+<e lm="Ajangiz"><i>Ajangiz</i><par n="Lugar__np"/></e>
+<e lm="Ajax"><i>Ajax</i><par n="Lugar__np"/></e>
+<e lm="Aqaba"><i>Aqaba</i><par n="Lugar__np"/></e>
+<e lm="Akranes"><i>Akranes</i><par n="Lugar__np"/></e>
+<e lm="Alabama"><i>Alabama</i><par n="Lugar__np"/></e>
+<e lm="Alagón"><i>Alagón</i><par n="Lugar__np"/></e>
+<e lm="Alasca"><i>Alasca</i><par n="Lugar__np"/></e>
+<e lm="St Albans"><i>St<b/>Albans</i><par n="Lugar__np"/></e>
+<e lm="Albertville"><i>Albertville</i><par n="Lugar__np"/></e>
+<e lm="Albia"><i>Albia</i><par n="Lugar__np"/></e>
+<e lm="Albi"><i>Albi</i><par n="Lugar__np"/></e>
+<e lm="Albina"><i>Albina</i><par n="Lugar__np"/></e>
+<e lm="Albuñol"><i>Albuñol</i><par n="Lugar__np"/></e>
+<e lm="Albuquerque"><i>Albuquerque</i><par n="Lugar__np"/></e>
+<e lm="Alburquerque"><i>Alburquerque</i><par n="Lugar__np"/></e>
+<e lm="Alcaine"><i>Alcaine</i><par n="Lugar__np"/></e>
+<e lm="Alcalá de Henares"><i>Alcalá<b/>de<b/>Henares</i><par n="Lugar__np"/></e>
+<e lm="Alcanar"><i>Alcanar</i><par n="Lugar__np"/></e>
+<e lm="Alcántara"><i>Alcántara</i><par n="Lugar__np"/></e>
+<e lm="Ilha de Alcatraz"><i>Ilha<b/>de<b/>Alcatraz</i><par n="Lugar__np"/></e>
+<e lm="Alçay-Alçabéhéty-Sunharette"><i>Alçay-Alçabéhéty-Sunharette</i><par n="Lugar__np"/></e>
+<e lm="Alcobaça"><i>Alcobaça</i><par n="Lugar__np"/></e>
+<e lm="Alcobendas"><i>Alcobendas</i><par n="Lugar__np"/></e>
+<e lm="Alconchel"><i>Alconchel</i><par n="Lugar__np"/></e>
+<e lm="Aldudes"><i>Aldudes</i><par n="Lugar__np"/></e>
+<e lm="Alegia"><i>Alegia</i><par n="Lugar__np"/></e>
+<e lm="Alegría"><i>Alegría</i><par n="Lugar__np"/></e>
+<e lm="Alegría"><i>Alegría</i><par n="Lugar__np"/></e>
+<e lm="Alepo"><i>Alepo</i><par n="Lugar__np"/></e>
+<e lm="Alexandria"><i>Alexandria</i><par n="Lugar__np"/></e>
+<e lm="L'Alfàs del Pi"><i>L'Alfàs<b/>del<b/>Pi</i><par n="Lugar__np"/></e>
+<e lm="Algar"><i>Algar</i><par n="Lugar__np"/></e>
+<e lm="Alhambra"><i>Alhambra</i><par n="Lugar__np"/></e>
+<e lm="Alkmaar"><i>Alkmaar</i><par n="Lugar__np"/></e>
+<e lm="Alleghe"><i>Alleghe</i><par n="Lugar__np"/></e>
+<e lm="Allo"><i>Allo</i><par n="Lugar__np"/></e>
+<e lm="Almagro"><i>Almagro</i><par n="Lugar__np"/></e>
+<e lm="Almaty"><i>Almaty</i><par n="Lugar__np"/></e>
+<e lm="Almenar"><i>Almenar</i><par n="Lugar__np"/></e>
+<e lm="Almendralejo"><i>Almendralejo</i><par n="Lugar__np"/></e>
+<e lm="Almeria"><i>Almeria</i><par n="Lugar__np"/></e>
+<e lm="Almuñécar"><i>Almuñécar</i><par n="Lugar__np"/></e>
+<e lm="Alonsotegi"><i>Alonsotegi</i><par n="Lugar__np"/></e>
+<e lm="Aalst"><i>Aalst</i><par n="Lugar__np"/></e>
+<e lm="Alpe d'Huez"><i>Alpe<b/>d'Huez</i><par n="Lugar__np"/></e>
+<e lm="Alpes australianos"><i>Alpes<b/>australianos</i><par n="Lugar__np"/></e>
+<e lm="Alpes Escandinavos"><i>Alpes<b/>Escandinavos</i><par n="Lugar__np"/></e>
+<e lm="Alquézar"><i>Alquézar</i><par n="Lugar__np"/></e>
+<e lm="Alsácia"><i>Alsácia</i><par n="Lugar__np"/></e>
+<e lm="Caverna de Altamira"><i>Caverna<b/>de<b/>Altamira</i><par n="Lugar__np"/></e>
+<e lm="Altdorf"><i>Altdorf</i><par n="Lugar__np"/></e>
+<e lm="Alto Alentejo"><i>Alto<b/>Alentejo</i><par n="Lugar__np"/></e>
+<e lm="Alsasua"><i>Alsasua</i><par n="Lugar__np"/></e>
+<e lm="Altzaga"><i>Altzaga</i><par n="Lugar__np"/></e>
+<e lm="Altzaga"><i>Altzaga</i><par n="Lugar__np"/></e>
+<e lm="Amagasaki"><i>Amagasaki</i><par n="Lugar__np"/></e>
+<e lm="Amazônia"><i>Amazônia</i><par n="Lugar__np"/></e>
+<e lm="América"><i>América</i><par n="Lugar__np"/></e>
+<e lm="Amor"><i>Amor</i><par n="Lugar__np"/></e>
+<e lm="Amsterdão"><i>Amsterdão</i><par n="Lugar__np"/></e>
+<e lm="Anatólia"><i>Anatólia</i><par n="Lugar__np"/></e>
+<e lm="Andorra"><i>Andorra</i><par n="Lugar__np"/></e>
+<e lm="Edirne"><i>Edirne</i><par n="Lugar__np"/></e>
+<e lm="Andrômeda"><i>Andrômeda</i><par n="Lugar__np"/></e>
+<e lm="Andros"><i>Andros</i><par n="Lugar__np"/></e>
+<e lm="Monte Aneto"><i>Monte<b/>Aneto</i><par n="Lugar__np"/></e>
+<e lm="Anjou"><i>Anjou</i><par n="Lugar__np"/></e>
+<e lm="Annam"><i>Annam</i><par n="Lugar__np"/></e>
+<e lm="Annapurna"><i>Annapurna</i><par n="Lugar__np"/></e>
+<e lm="Anoeta"><i>Anoeta</i><par n="Lugar__np"/></e>
+<e lm="Antália"><i>Antália</i><par n="Lugar__np"/></e>
+<e lm="Antígua e Barbuda"><i>Antígua<b/>e<b/>Barbuda</i><par n="Lugar__np"/></e>
+<e lm="Antilhas Holandesas"><i>Antilhas<b/>Holandesas</i><par n="Lugar__np"/></e>
+<e lm="Antioquia"><i>Antioquia</i><par n="Lugar__np"/></e>
+<e lm="Antuérpia"><i>Antuérpia</i><par n="Lugar__np"/></e>
+<e lm="Aoiz"><i>Aoiz</i><par n="Lugar__np"/></e>
+<e lm="Aosta"><i>Aosta</i><par n="Lugar__np"/></e>
+<e lm="Apeninos"><i>Apeninos</i><par n="Lugar__np"/></e>
+<e lm="Apia"><i>Apia</i><par n="Lugar__np"/></e>
+<e lm="Aquitânia"><i>Aquitânia</i><par n="Lugar__np"/></e>
+<e lm="Álava"><i>Álava</i><par n="Lugar__np"/></e>
+<e lm="Arakil"><i>Arakil</i><par n="Lugar__np"/></e>
+<e lm="Ararat"><i>Ararat</i><par n="Lugar__np"/></e>
+<e lm="Rio Arax"><i>Rio<b/>Arax</i><par n="Lugar__np"/></e>
+<e lm="Bahamas"><i>Bahamas</i><par n="Lugar__np"/></e>
+<e lm="Arequipa"><i>Arequipa</i><par n="Lugar__np"/></e>
+<e lm="Arezzo"><i>Arezzo</i><par n="Lugar__np"/></e>
+<e lm="Argentina"><i>Argentina</i><par n="Lugar__np"/></e>
+<e lm="Argos"><i>Argos</i><par n="Lugar__np"/></e>
+<e lm="Arizona"><i>Arizona</i><par n="Lugar__np"/></e>
+<e lm="Arkansas"><i>Arkansas</i><par n="Lugar__np"/></e>
+<e lm="Arcangel"><i>Arcangel</i><par n="Lugar__np"/></e>
+<e lm="Artois"><i>Artois</i><par n="Lugar__np"/></e>
+<e lm="Anatólia"><i>Anatólia</i><par n="Lugar__np"/></e>
+<e lm="Asmara"><i>Asmara</i><par n="Lugar__np"/></e>
+<e lm="Assab"><i>Assab</i><par n="Lugar__np"/></e>
+<e lm="Assiut"><i>Assiut</i><par n="Lugar__np"/></e>
+<e lm="Assíria"><i>Assíria</i><par n="Lugar__np"/></e>
+<e lm="Astana"><i>Astana</i><par n="Lugar__np"/></e>
+<e lm="Astracã"><i>Astracã</i><par n="Lugar__np"/></e>
+<e lm="Astúrias"><i>Astúrias</i><par n="Lugar__np"/></e>
+<e lm="Assunção"><i>Assunção</i><par n="Lugar__np"/></e>
+<e lm="Atacama"><i>Atacama</i><par n="Lugar__np"/></e>
+<e lm="Atahualpa"><i>Atahualpa</i><par n="Lugar__np"/></e>
+<e lm="Athos"><i>Athos</i><par n="Lugar__np"/></e>
+<e lm="Atlas"><i>Atlas</i><par n="Lugar__np"/></e>
+<e lm="Auch"><i>Auch</i><par n="Lugar__np"/></e>
+<e lm="Auckland"><i>Auckland</i><par n="Lugar__np"/></e>
+<e lm="Augsburgo"><i>Augsburgo</i><par n="Lugar__np"/></e>
+<e lm="Auschwitz-Birkenau"><i>Auschwitz-Birkenau</i><par n="Lugar__np"/></e>
+<e lm="Austin"><i>Austin</i><par n="Lugar__np"/></e>
+<e lm="Australásia"><i>Australásia</i><par n="Lugar__np"/></e>
+<e lm="Austrália"><i>Austrália</i><par n="Lugar__np"/></e>
+<e lm="Austrália Meridional"><i>Austrália<b/>Meridional</i><par n="Lugar__np"/></e>
+<e lm="Austrásia"><i>Austrásia</i><par n="Lugar__np"/></e>
+<e lm="Áustria"><i>Áustria</i><par n="Lugar__np"/></e>
+<e lm="Avinhão"><i>Avinhão</i><par n="Lugar__np"/></e>
+<e lm="Ayacucho"><i>Ayacucho</i><par n="Lugar__np"/></e>
+<e lm="Azerbaijão"><i>Azerbaijão</i><par n="Lugar__np"/></e>
+<e lm="Azov"><i>Azov</i><par n="Lugar__np"/></e>
+<e lm="Azpeitia"><i>Azpeitia</i><par n="Lugar__np"/></e>
+<e lm="Azpeitia"><i>Azpeitia</i><par n="Lugar__np"/></e>
+<e lm="Babilônia"><i>Babilônia</i><par n="Lugar__np"/></e>
+<e lm="Badajoz"><i>Badajoz</i><par n="Lugar__np"/></e>
+<e lm="Baden-Baden"><i>Baden-Baden</i><par n="Lugar__np"/></e>
+<e lm="Bagdá"><i>Bagdá</i><par n="Lugar__np"/></e>
+<e lm="Bahamas"><i>Bahamas</i><par n="Lugar__np"/></e>
+<e lm="Bahia"><i>Bahia</i><par n="Lugar__np"/></e>
+<e lm="Bahía Blanca"><i>Bahía<b/>Blanca</i><par n="Lugar__np"/></e>
+<e lm="Lago Baikal"><i>Lago<b/>Baikal</i><par n="Lugar__np"/></e>
+<e lm="Bailén"><i>Bailén</i><par n="Lugar__np"/></e>
+<e lm="Tarawa do Sul"><i>Tarawa<b/>do<b/>Sul</i><par n="Lugar__np"/></e>
+<e lm="Baixo Alentejo"><i>Baixo<b/>Alentejo</i><par n="Lugar__np"/></e>
+<e lm="Baku"><i>Baku</i><par n="Lugar__np"/></e>
+<e lm="Lago Balaton"><i>Lago<b/>Balaton</i><par n="Lugar__np"/></e>
+<e lm="Baleares"><i>Baleares</i><par n="Lugar__np"/></e>
+<e lm="Bali"><i>Bali</i><par n="Lugar__np"/></e>
+<e lm="Baltimore"><i>Baltimore</i><par n="Lugar__np"/></e>
+<e lm="Bamako"><i>Bamako</i><par n="Lugar__np"/></e>
+<e lm="Bamberg"><i>Bamberg</i><par n="Lugar__np"/></e>
+<e lm="Bandar Seri Begawan"><i>Bandar<b/>Seri<b/>Begawan</i><par n="Lugar__np"/></e>
+<e lm="Banguecoque"><i>Banguecoque</i><par n="Lugar__np"/></e>
+<e lm="Bangui"><i>Bangui</i><par n="Lugar__np"/></e>
+<e lm="Banjul"><i>Banjul</i><par n="Lugar__np"/></e>
+<e lm="Barakaldo"><i>Barakaldo</i><par n="Lugar__np"/></e>
+<e lm="Basauri"><i>Basauri</i><par n="Lugar__np"/></e>
+<e lm="Baixa Áustria"><i>Baixa<b/>Áustria</i><par n="Lugar__np"/></e>
+<e lm="Baja California"><i>Baja<b/>California</i><par n="Lugar__np"/></e>
+<e lm="Baixo Egito"><i>Baixo<b/>Egito</i><par n="Lugar__np"/></e>
+<e lm="Baiona"><i>Baiona</i><par n="Lugar__np"/></e>
+<e lm="Bera"><i>Bera</i><par n="Lugar__np"/></e>
+<e lm="Bermeo"><i>Bermeo</i><par n="Lugar__np"/></e>
+<e lm="Rio Bidasoa"><i>Rio<b/>Bidasoa</i><par n="Lugar__np"/></e>
+<e lm="Bilbau"><i>Bilbau</i><par n="Lugar__np"/></e>
+<e lm="Bilbau"><i>Bilbau</i><par n="Lugar__np"/></e>
+<e lm="Biscaia"><i>Biscaia</i><par n="Lugar__np"/></e>
+<e lm="Boiro"><i>Boiro</i><par n="Lugar__np"/></e>
+<e lm="Cádis"><i>Cádis</i><par n="Lugar__np"/></e>
+<e lm="Canal do Meio-dia"><i>Canal<b/>do<b/>Meio-dia</i><par n="Lugar__np"/></e>
+<e lm="Círculo Polar Ártico"><i>Círculo<b/>Polar<b/>Ártico</i><par n="Lugar__np"/></e>
+<e lm="Cordilheira dos Andes"><i>Cordilheira<b/>dos<b/>Andes</i><par n="Lugar__np"/></e>
+<e lm="Corno de África"><i>Corno<b/>de<b/>África</i><par n="Lugar__np"/></e>
+<e lm="Cuenca"><i>Cuenca</i><par n="Lugar__np"/></e>
+<e lm="Deserto do Atacama"><i>Deserto<b/>do<b/>Atacama</i><par n="Lugar__np"/></e>
+<e lm="Durango"><i>Durango</i><par n="Lugar__np"/></e>
+<e lm="Eibar"><i>Eibar</i><par n="Lugar__np"/></e>
+<e lm="Ermua"><i>Ermua</i><par n="Lugar__np"/></e>
+<e lm="Guernica"><i>Guernica</i><par n="Lugar__np"/></e>
+<e lm="Guernica"><i>Guernica</i><par n="Lugar__np"/></e>
+<e lm="Glaciar de Aletsch"><i>Glaciar<b/>de<b/>Aletsch</i><par n="Lugar__np"/></e>
+<e lm="Golfo de Áden"><i>Golfo<b/>de<b/>Áden</i><par n="Lugar__np"/></e>
+<e lm="Golfo do Anadyr"><i>Golfo<b/>do<b/>Anadyr</i><par n="Lugar__np"/></e>
+<e lm="Alto Egito"><i>Alto<b/>Egito</i><par n="Lugar__np"/></e>
+<e lm="Hondarribia"><i>Hondarribia</i><par n="Lugar__np"/></e>
+<e lm="Huesca"><i>Huesca</i><par n="Lugar__np"/></e>
+<e lm="Ilhas Andamão"><i>Ilhas<b/>Andamão</i><par n="Lugar__np"/></e>
+<e lm="Baleares"><i>Baleares</i><par n="Lugar__np"/></e>
+<e lm="Iowa"><i>Iowa</i><par n="Lugar__np"/></e>
+<e lm="Irun"><i>Irun</i><par n="Lugar__np"/></e>
+<e lm="Cabárdia-Balcária"><i>Cabárdia-Balcária</i><par n="Lugar__np"/></e>
+<e lm="Rio Karun"><i>Rio<b/>Karun</i><par n="Lugar__np"/></e>
+<e lm="Banguecoque"><i>Banguecoque</i><par n="Lugar__np"/></e>
+<e lm="Barbados"><i>Barbados</i><par n="Lugar__np"/></e>
+<e lm="Lago de Annecy"><i>Lago<b/>de<b/>Annecy</i><par n="Lugar__np"/></e>
+<e lm="Corunha"><i>Corunha</i><par n="Lugar__np"/></e>
+<e lm="Larraun"><i>Larraun</i><par n="Lugar__np"/></e>
+<e lm="Lekeitio"><i>Lekeitio</i><par n="Lugar__np"/></e>
+<e lm="Ma'ale Adummim"><i>Ma'ale<b/>Adummim</i><par n="Lugar__np"/></e>
+<e lm="Marcoussis"><i>Marcoussis</i><par n="Lugar__np"/></e>
+<e lm="Mar de Azov"><i>Mar<b/>de<b/>Azov</i><par n="Lugar__np"/></e>
+<e lm="Mar do Caribe"><i>Mar<b/>do<b/>Caribe</i><par n="Lugar__np"/></e>
+<e lm="Mar do Caribe"><i>Mar<b/>do<b/>Caribe</i><par n="Lugar__np"/></e>
+<e lm="Minneapolis"><i>Minneapolis</i><par n="Lugar__np"/></e>
+<e lm="Minnesota"><i>Minnesota</i><par n="Lugar__np"/></e>
+<e lm="Mississippi"><i>Mississippi</i><par n="Lugar__np"/></e>
+<e lm="Mongólia"><i>Mongólia</i><par n="Lugar__np"/></e>
+<e lm="Monte Mitchell"><i>Monte<b/>Mitchell</i><par n="Lugar__np"/></e>
+<e lm="Mutriku"><i>Mutriku</i><par n="Lugar__np"/></e>
+<e lm="Palência"><i>Palência</i><par n="Lugar__np"/></e>
+<e lm="Pamplona"><i>Pamplona</i><par n="Lugar__np"/></e>
+<e lm="Península Antártica"><i>Península<b/>Antártica</i><par n="Lugar__np"/></e>
+<e lm="Arábia"><i>Arábia</i><par n="Lugar__np"/></e>
+<e lm="Portland"><i>Portland</i><par n="Lugar__np"/></e>
+<e lm="Península do Alasca"><i>Península<b/>do<b/>Alasca</i><par n="Lugar__np"/></e>
+<e lm="Rovereto"><i>Rovereto</i><par n="Lugar__np"/></e>
+<e lm="Saint-Étienne-de-Baïgorry"><i>Saint-Étienne-de-Baïgorry</i><par n="Lugar__np"/></e>
+<e lm="Sudoeste Africano"><i>Sudoeste<b/>Africano</i><par n="Lugar__np"/></e>
+<e lm="Antananarivo"><i>Antananarivo</i><par n="Lugar__np"/></e>
+<e lm="Tarento"><i>Tarento</i><par n="Lugar__np"/></e>
+<e lm="Vitoria-Gasteiz"><i>Vitoria-Gasteiz</i><par n="Lugar__np"/></e>
+<e lm="Zarautz"><i>Zarautz</i><par n="Lugar__np"/></e>
       
       <e lm="Caldas">
         <i>Caldas</i>
@@ -150578,4 +152677,3 @@
   </section>
 
 </dictionary>
-
