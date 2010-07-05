@@ -135451,7 +135451,7 @@
         <par n="abal/ar__vblex"/>
       </e>
       
-      <e lm="haver" r="LR">
+      <e lm="haver">
         <i>h</i>
         <par n="h/aver__vblex"/>
       </e>
@@ -136968,8 +136968,8 @@
         <par n="abal/ar__vblex"/>
       </e>
       
-      <e lm="reinvindicar">
-        <i>reinvindi</i>
+      <e lm="reivindicar">
+        <i>reivindi</i>
         <par n="abdi/car__vblex"/>
       </e>
       
@@ -139482,23 +139482,23 @@
 			</p>
 		</e>
 		
-		<e lm="achar_que">
+		<!--<e lm="achar_que">
 			<i>ach</i>
 			<par n="abal/ar__vblex"/>
 			<p>
 				<l><b/>que</l>
 				<r><g><b/>que</g></r>
 			</p>
-		</e>
+		</e>-->
 		
-		<e lm="crer_que" r="LR">
+		<!--<e lm="crer_que" r="LR">
 			<i>cr</i>
 			<par n="cr/er__vblex"/>
 			<p>
 				<l><b/>que</l>
 				<r><g><b/>que</g></r>
 			</p>
-		</e>
+		</e>-->
 		
 		<e lm="fazer_parte">
 			<i>f</i>
