@@ -11060,12 +11060,14 @@
 	<e r="LR"><p><l>il<b/>y<b/>avoir</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="inf"/></r></p></e>
 	<e r="LR"><p><l>il<b/>y<b/>ayant</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="ger"/></r></p></e>
 	<e r="LR"><p><l>il<b/>y<b/>ayant</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pprs"/><s n="p3"/><s n="ND"/></r></p></e>
-	<e r="LR"><p><l>il<b/>y<b/>aura</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>il<b/>y<b/>aura</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
 
-<e r="LR"><p><l>il<b/>y<b/>eu</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/></r></p></e>
+
+<!--<e r="LR"><p><l>il<b/>y<b/>eu</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
 	<e r="LR"><p><l>il<b/>y<b/>eue</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
 	<e r="LR"><p><l>il<b/>y<b/>eues</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
-	<e r="LR"><p><l>il<b/>y<b/>eus</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+	<e r="LR"><p><l>il<b/>y<b/>eus</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>-->
 	<e r="LR"><p><l>il<b/>y<b/>eut</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
 	<e r="LR"><p><l>il<b/>y<b/>eût</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
 	<e r="RL"><p><l>y<b/>a</l><r>y<b/>avoir<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -11075,11 +11077,11 @@
 	<e r="RL"><p><l>y<b/>avoir</l><r>y<b/>avoir<s n="vblex"/><s n="inf"/></r></p></e>
 	<e r="RL"><p><l>y<b/>ayant</l><r>y<b/>avoir<s n="vblex"/><s n="ger"/></r></p></e>
 	<e r="RL"><p><l>y<b/>ayant</l><r>y<b/>avoir<s n="vblex"/><s n="pprs"/><s n="p3"/><s n="ND"/></r></p></e>
-<e r="RL"><p><l>y<b/>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+<!--<e r="RL"><p><l>y<b/>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>y<b/>eue</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>y<b/>eues</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
-    <e r="RL"><p><l>y<b/>eus</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
-	<e r="RL"><p><l>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>y<b/>eus</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>-->
+	<e r="RL"><p><l>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/></r></p></e>
 	<e r="RL"><p><l>y<b/>eut</l><r>y<b/>avoir<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
 	<e r="RL"><p><l>y<b/>eût</l><r>y<b/>avoir<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
 	<e r="RL"><p><l>y<b/>aura</l><r>y<b/>avoir<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -11113,7 +11115,7 @@
 	<e r="RL"><p><l>y<b/>eue</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
 	<e r="RL"><p><l>y<b/>eues</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
 	<e r="RL"><p><l>y<b/>eus</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>-->
-	<e r="RL"><p><l>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+	<!--<e r="RL"><p><l>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>-->
 	<e r="RL"><p><l>y<b/>eut</l><r>y<b/>avoir<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
 	<e r="RL"><p><l>y<b/>eût</l><r>y<b/>avoir<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
 	<e r="RL"><p><l>y<b/>aura</l><r>y<b/>avoir<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -66252,6 +66254,7 @@
           <e lm="arnaquer"><i>arnaqu</i><par n="abaiss/er__vblex"/></e>
           <e lm="asperger"><i>asperg</i><par n="allong/er__vblex"/></e>
           <e lm="attarder"><i>attard</i><par n="abaiss/er__vblex"/></e>
+          <e lm="avoir la nostalgie"><i></i><par n="/avoir__vblex"/><p><l><b/>la<b/>nostalgie</l><r><g><b/>la<b/>nostalgie</g></r></p></e>
           <e lm="axer"><i>ax</i><par n="abaiss/er__vblex"/></e>
           <e lm="barboter"><i>barbot</i><par n="abaiss/er__vblex"/></e>
           <e lm="bêler"><i>bêl</i><par n="abaiss/er__vblex"/></e>
@@ -66285,7 +66288,9 @@
           <e lm="cloner"><i>clon</i><par n="abaiss/er__vblex"/></e>
           <e lm="collectionner"><i>collectionn</i><par n="abaiss/er__vblex"/></e>
           <e lm="colorier"><i>colori</i><par n="abaiss/er__vblex"/></e>
+          <e lm="combiner avec"><i>combin</i><par n="abaiss/er__vblex"/><p><l><b/>avec</l><r><g><b/>avec</g></r></p></e>
           <e lm="commémorer"><i>commémor</i><par n="abaiss/er__vblex"/></e>
+          <e lm="commencer à faire jour"><i>commen</i><par n="annon/cer__vblex"/><p><l><b/>à<b/>faire<b/>jour</l><r><g><b/>à<b/>faire<b/>jour</g></r></p></e>
           <e lm="commuer"><i>commu</i><par n="abaiss/er__vblex"/></e>
           <e lm="compatibiliser"><i>compatibilis</i><par n="abaiss/er__vblex"/></e>
           <e lm="concerner"><i>concern</i><par n="abaiss/er__vblex"/></e>
@@ -66303,6 +66308,7 @@
           <e lm="courser"><i>cours</i><par n="abaiss/er__vblex"/></e>
           <e lm="cracher"><i>crach</i><par n="abaiss/er__vblex"/></e>
           <e lm="craticuler"><i>craticul</i><par n="abaiss/er__vblex"/></e>
+          <e lm="croire à"><i>cr</i><par n="cr/oire__vblex"/><p><l><b/>à</l><r><g><b/>à</g></r></p></e>
           <e lm="crucifier"><i>crucifi</i><par n="abaiss/er__vblex"/></e>
           <e lm="daigner"><i>daign</i><par n="abaiss/er__vblex"/></e>
           <e lm="débaucher"><i>débauch</i><par n="abaiss/er__vblex"/></e>
@@ -66331,6 +66337,8 @@
           <e lm="dévaster"><i>dévast</i><par n="abaiss/er__vblex"/></e>
           <e lm="dévêrtir"><i>dévêrt</i><par n="about/[]ir__vblex"/></e>
           <e lm="disperser"><i>dispers</i><par n="abaiss/er__vblex"/></e>
+          <e lm="donner honte"><i>donn</i><par n="abaiss/er__vblex"/><p><l><b/>honte</l><r><g><b/>honte</g></r></p></e>
+          <e lm="donner l'exeat"><i>donn</i><par n="abaiss/er__vblex"/><p><l><b/>l'exeat</l><r><g><b/>l'exeat</g></r></p></e>
           <e lm="ébaucher"><i>ébauch</i><par n="abaiss/er__vblex"/></e>
           <e lm="édifier"><i>édifi</i><par n="abaiss/er__vblex"/></e>
           <e lm="égratigner"><i>égratign</i><par n="abaiss/er__vblex"/></e>
@@ -66351,6 +66359,7 @@
           <e lm="espérer"><i>esp</i><par n="accél/é[R]er__vblex" prm="r"/></e>
           <e lm="étancher"><i>étanch</i><par n="abaiss/er__vblex"/></e>
           <e lm="étrangler"><i>étrangl</i><par n="abaiss/er__vblex"/></e>
+          <e lm="être en retard"><par n="/être__vblex"/><p><l><b/>en<b/>retard</l><r><g><b/>en<b/>retard</g></r></p></e>
           <e lm="étiqueter"><i>étiquet</i><par n="abaiss/er__vblex"/></e>
           <e lm="excaver"><i>excav</i><par n="abaiss/er__vblex"/></e>
           <e lm="exhaler"><i>exhal</i><par n="abaiss/er__vblex"/></e>
@@ -66359,6 +66368,12 @@
           <e lm="évanouir"><i>évanou</i><par n="about/[]ir__vblex"/></e>
           <e lm="éveiller"><i>éveill</i><par n="abaiss/er__vblex"/></e>
           <e lm="évider"><i>évid</i><par n="abaiss/er__vblex"/></e>
+          <e lm="faire avec vigueur"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>avec<b/>vigueur</l><r><g><b/>avec<b/>vigueur</g></r></p></e>
+          <e lm="faire de la place"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>de<b/>la<b/>place</l><r><g><b/>de<b/>la<b/>place</g></r></p></e>
+          <e lm="faire du zèle"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>du<b/>zèle</l><r><g><b/>du<b/>zèle</g></r></p></e>
+          <e lm="faire front"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>front</l><r><g><b/>front</g></r></p></e>
+          <e lm="faire mal"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>mal</l><r><g><b/>mal</g></r></p></e>
+          <e lm="faire sens"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>sens</l><r><g><b/>sens</g></r></p></e>
           <e lm="fier"><i>fi</i><par n="abaiss/er__vblex"/></e>
           <e lm="flétrir"><i>flétr</i><par n="about/[]ir__vblex"/></e>
           <e lm="fleurir"><i>fleur</i><par n="about/[]ir__vblex"/></e>
@@ -66387,9 +66402,11 @@
           <e lm="lécher"><i>l</i><par n="accél/é[R]er__vblex" prm="ch"/></e>
           <e lm="légaliser"><i>légalis</i><par n="abaiss/er__vblex"/></e>
           <e lm="marginer"><i>margin</i><par n="abaiss/er__vblex"/></e>
+          <e lm="marquer un point"><i>marqu</i><par n="abaiss/er__vblex"/><p><l><b/>un<b/>point</l><r><g><b/>un<b/>point</g></r></p></e>
           <e lm="marteler"><i>martel</i><par n="abaiss/er__vblex"/></e>
           <e lm="méfier"><i>méfi</i><par n="abaiss/er__vblex"/></e>
           <e lm="mendier"><i>mendi</i><par n="abaiss/er__vblex"/></e>
+          <e lm="mettre à part"><i>m</i><par n="adm/ettre__vblex"/><p><l><b/>à<b/>part</l><r><g><b/>à<b/>part</g></r></p></e>
           <e lm="miner"><i>min</i><par n="abaiss/er__vblex"/></e>
           <e lm="mordre"><i>mord</i><par n="attend/re__vblex"/></e>
           <e lm="mouler"><i>moul</i><par n="abaiss/er__vblex"/></e>
@@ -66416,6 +66433,7 @@
           <e lm="préconiser"><i>préconis</i><par n="abaiss/er__vblex"/></e>
           <e lm="prédire"><i>préd</i><par n="d/i[]re__vblex"/></e>
           <e lm="préfixer"><i>préfix</i><par n="abaiss/er__vblex"/></e>
+          <e lm="prescrire un arrêt-maladie"><i>prescri</i><par n="décri/re__vblex"/><p><l><b/>un<b/>arrêt-maladie</l><r><g><b/>un<b/>arrêt-maladie</g></r></p></e>
           <e lm="privatiser"><i>privatis</i><par n="abaiss/er__vblex"/></e>
           <e lm="prôner"><i>prôn</i><par n="abaiss/er__vblex"/></e>
           <e lm="proroger"><i>prorog</i><par n="allong/er__vblex"/></e>
@@ -66435,6 +66453,7 @@
           <e lm="régénérer"><i>régén</i><par n="accél/é[R]er__vblex" prm="r"/></e>
           <e lm="reléguer"><i>relégu</i><par n="abaiss/er__vblex"/></e>
           <e lm="remuer"><i>remu</i><par n="abaiss/er__vblex"/></e>
+          <e lm="rendre hommage à"><i>r</i><par n="appr/endre__vblex"/><p><l><b/>hommage<b/>à</l><r><g><b/>hommage<b/>à</g></r></p></e>
           <e lm="renommer"><i>renomm</i><par n="abaiss/er__vblex"/></e>
           <e lm="renvoyer"><i>renv</i><par n="env/oyer__vblex"/></e>
           <e lm="repentir"><i>repen</i><par n="consen/tir__vblex"/></e>
@@ -66450,6 +66469,7 @@
           <e lm="rugir"><i>rug</i><par n="about/[]ir__vblex"/></e>
           <e lm="saper"><i>sap</i><par n="abaiss/er__vblex"/></e>
           <e lm="saupoudrer"><i>saupoudr</i><par n="abaiss/er__vblex"/></e>
+          <e lm="sentir l'absence"><i>sen</i><par n="consen/tir__vblex"/><p><l><b/>l'absence</l><r><g><b/>l'absence</g></r></p></e>
           <e lm="souder"><i>soud</i><par n="abaiss/er__vblex"/></e>
           <e lm="soumissionner"><i>soumissionn</i><par n="abaiss/er__vblex"/></e>
           <e lm="soupeser"><i>soupes</i><par n="abaiss/er__vblex"/></e>
@@ -66460,6 +66480,7 @@
           <e lm="superviser"><i>supervis</i><par n="abaiss/er__vblex"/></e>
           <e lm="survivre"><i>surv</i><par n="rev/ivre__vblex"/></e>
           <e lm="survoler"><i>survol</i><par n="abaiss/er__vblex"/></e>
+          <e lm="tenir à"><i>t</i><par n="appart/enir__vblex"/><p><l><b/>à</l><r><g><b/>à</g></r></p></e>
           <e lm="terroriser"><i>terroris</i><par n="abaiss/er__vblex"/></e>
           <e lm="tisser"><i>tiss</i><par n="abaiss/er__vblex"/></e>
           <e lm="tituber"><i>titub</i><par n="abaiss/er__vblex"/></e>
@@ -66470,6 +66491,7 @@
           <e lm="transposer"><i>transpos</i><par n="abaiss/er__vblex"/></e>
           <e lm="tressaillir"><i>tressaill</i><par n="about/[]ir__vblex"/></e>
           <e lm="usurper"><i>usurp</i><par n="abaiss/er__vblex"/></e>
+          <e lm="valoir la peine"><i>va</i><par n="va/loir__vblex"/><p><l><b/>la<b/>peine</l><r><g><b/>la<b/>peine</g></r></p></e>
           <e lm="vaquer"><i>vaqu</i><par n="abaiss/er__vblex"/></e>
           <e lm="vicier"><i>vici</i><par n="abaiss/er__vblex"/></e>
           <e lm="voiler"><i>voil</i><par n="abaiss/er__vblex"/></e>
