@@ -17395,6 +17395,7 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e r="LR"><p><l>dans<b/>la<b/>mesure<b/>où<s n="cnjadv"/></l><r>desde<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>dans<b/>le<b/>cas<b/>où<s n="cnjadv"/></l><r>em<b/>caso<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>d'après<s n="cnjadv"/></l>             <r>segundo<s n="cnjadv"/></r></p></e>
+<e>       <p><l>d'ici<s n="cnjadv"/></l>             <r>daí<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>d'aussi<b/>loin<b/>que<s n="cnjadv"/></l><r>desde<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>d'autant<b/>plus<b/>que<s n="cnjadv"/></l><r>tanto<b/>mais<b/>quanto<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>d'autant<b/>que<s n="cnjadv"/></l>     <r>porquanto<s n="cnjadv"/></r></p></e>
@@ -17518,6 +17519,9 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
     <!-- ******************************
           group pr_symbol
           ****************************** -->
+<e>       <p><l>malgré<s n="pr"/></l>                  <r>apesar<b/>de<s n="pr"/></r></p></e> <!-- TODO:CHECK -->
+<e>       <p><l>à<b/>travers<s n="pr"/></l>            <r>através<b/>de<s n="pr"/></r></p></e> <!-- TODO:CHECK -->
+<e>       <p><l>tant<b/>qu'à<s n="pr"/></l>                  <r>postos<b/>a<s n="pr"/></r></p></e> <!-- TODO:CHECK -->
 <e>       <p><l>à<s n="pr"/></l>                       <r>a<s n="pr"/></r></p></e>
 <e>       <p><l>à<b/>cause<b/>de<s n="pr"/></l>        <r>por<b/>causa<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>à<b/>défaut<b/>de<s n="pr"/></l>       <r>a<b/>falta<b/>de<s n="pr"/></r></p></e>
@@ -17915,6 +17919,7 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e>       <p><l>ouf<s n="ij"/></l>                     <r>ufa<s n="ij"/></r></p></e>
 <e>       <p><l>pouah<s n="ij"/></l>                   <r>puf<s n="ij"/></r></p></e>
 <e>       <p><l>salut<s n="ij"/></l>                   <r>oi<s n="ij"/></r></p></e>
+<e r="RL"><p><l>salut<s n="ij"/></l>                   <r>olá<s n="ij"/></r></p></e> <!-- TODO:CHECK -->
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
