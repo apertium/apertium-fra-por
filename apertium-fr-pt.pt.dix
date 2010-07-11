@@ -152227,6 +152227,7 @@
 	<i>perdiç</i>
 	<par n="aceitaç/ão__n"/>
 </e>
+<!--
 <e lm="Brasil">
 	<p>
 	<l>Brasil</l>
@@ -152251,7 +152252,6 @@
 	<r>Afeganistão<s n="n"/><s n="m"/><s n="sg"/></r>
 	</p>
 </e>
-<!--
 <e lm="África">
 	<p>
 	<l>África</l>
