@@ -30,6 +30,7 @@ dev/cross-model-fr-es-pt.xml -text
 dev/cross.xml -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
+dev/interwiki.noun.pt-fr -text
 dev/patterns-not-detected.xml -text
 dev/summary -text
 dev/testvoc-summary.fr-pt.txt -text

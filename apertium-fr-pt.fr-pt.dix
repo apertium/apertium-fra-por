@@ -17520,12 +17520,14 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
           group pr_symbol
           ****************************** -->
 <e>       <p><l>malgré<s n="pr"/></l>                  <r>apesar<b/>de<s n="pr"/></r></p></e> <!-- TODO:CHECK -->
+<e r="LR"><p><l>en<b/>dépit<b/>de<s n="pr"/></l>       <r>apesar<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>à<b/>travers<s n="pr"/></l>            <r>através<b/>de<s n="pr"/></r></p></e> <!-- TODO:CHECK -->
+<e r="LR"><p><l>par<b/>l'intermédiaire<b/>de<s n="pr"/></l><r>através<b/>de<s n="pr"/></r></p></e>
+<e r="LR"><p><l>à<b/>force<b/>de<s n="pr"/></l>        <r>através<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>tant<b/>qu'à<s n="pr"/></l>                  <r>postos<b/>a<s n="pr"/></r></p></e> <!-- TODO:CHECK -->
 <e>       <p><l>à<s n="pr"/></l>                       <r>a<s n="pr"/></r></p></e>
 <e>       <p><l>à<b/>cause<b/>de<s n="pr"/></l>        <r>por<b/>causa<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>à<b/>défaut<b/>de<s n="pr"/></l>       <r>a<b/>falta<b/>de<s n="pr"/></r></p></e>
-<e r="LR"><p><l>à<b/>force<b/>de<s n="pr"/></l>        <r>através<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>à<b/>la<b/>demande<b/>de<s n="pr"/></l><r>a<b/>pedido<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>à<b/>la<b/>suite<b/>de<s n="pr"/></l>  <r>após<s n="pr"/></r></p></e>
 <e>       <p><l>à<b/>la<b/>fin<b/>de<s n="pr"/></l>    <r>no<b/>final<b/>de<s n="pr"/></r></p></e>
@@ -17601,7 +17603,6 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e v="pt"><p><l>en<b/>conséquence<b/>de<s n="pr"/></l> <r>em<b/>consequência<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>en<b/>cours<b/>de<s n="pr"/></l>       <r>em<b/>decorrência<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>en<b/>dehors<b/>de<s n="pr"/></l>      <r>no<b/>exterior<b/>de<s n="pr"/></r></p></e>
-<e>       <p><l>en<b/>dépit<b/>de<s n="pr"/></l>       <r>apesar<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>en<b/>échange<b/>de<s n="pr"/></l>     <r>em<b/>troca<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>en<b/>finissant<s n="pr"/></l>         <r>acabando<s n="pr"/></r></p></e>
 <e>       <p><l>en<b/>raison<b/>de<s n="pr"/></l>      <r>devido<b/>a<s n="pr"/></r></p></e>
@@ -17626,7 +17627,6 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e>       <p><l>moyennant<s n="pr"/></l>               <r>mediante<s n="pr"/></r></p></e>
 <e r="LR"><p><l>outre<s n="pr"/></l>                   <r>além<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>par<s n="pr"/></l>                     <r>por<s n="pr"/></r></p></e>
-<e>       <p><l>par<b/>l'intermédiaire<b/>de<s n="pr"/></l><r>através<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>par<b/>rapport<b/>à<s n="pr"/></l>     <r>com<b/>respeito<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>par<b/>suite<b/>de<s n="pr"/></l>      <r>portanto<s n="pr"/></r></p></e>
 <e r="LR"><p><l>parmi<s n="pr"/></l>                   <r>entre<s n="pr"/></r></p></e>
@@ -17927,6 +17927,7 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e r="RL"><p><l>avoir<s n="vbhaver"/></l>              <r>haver<s n="vbhaver"/></r></p></e>
 <e>       <p><l>avoir<s n="vbhaver"/></l>              <r>ter<s n="vbhaver"/></r></p></e>
 <e>       <p><l>être<s n="vbser"/></l>                 <r>ser<s n="vbser"/></r></p></e>
+<e>       <p><l>pouvoir<s n="vbmod"/></l>              <r>poder<s n="vbmod"/></r></p></e>
 <e>       <re>,</re><p><l><s n="cm"/></l>              <r><s n="cm"/></r></p></e>
 <e>       <p><l>que<s n="cnjsub"/></l>                 <r>que<s n="cnjsub"/></r></p></e>
 

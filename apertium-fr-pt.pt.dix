@@ -152251,6 +152251,7 @@
 	<r>Afeganistão<s n="n"/><s n="m"/><s n="sg"/></r>
 	</p>
 </e>
+<!--
 <e lm="África">
 	<p>
 	<l>África</l>
@@ -152760,6 +152761,7 @@
 			<r>Vietnã<s n="n"/><s n="m"/><s n="sg"/></r>
 		</p>
 	</e>
+-->
 
   <e lm="bacalhau" a="imaxin|software">
         <i>bacalhau</i>
@@ -153785,17 +153787,17 @@
 		</p>
 	</e> 
 	  		 	
-	<e lm="dona-de-casa" a="imaxin|software">
+	<e lm="dona-de-casa" a="imaxin|software" r="LR">
 		<p>
 			<l>dona-de-casa</l>
-			<r>dona-de-casa<s n="n"/><s n="f"/><s n="sg"/></r>
+			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="sg"/></r>
 		</p>
 	</e>
 	 	
-	<e lm="dona-de-casa" a="imaxin|software">
+	<e lm="dona-de-casa" a="imaxin|software" r="LR">
 		<p>
 			<l>donas-de-casa</l>
-			<r>dona-de-casa<s n="n"/><s n="f"/><s n="pl"/></r>
+			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="pl"/></r>
 		</p>
 	</e> 
       
