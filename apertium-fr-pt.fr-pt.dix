@@ -14945,7 +14945,11 @@
 <e r="LR" v="pt"><p><l>autonome<s n="adj"/><s n="mf"/></l><r>autónomo<s n="adj"/><s n="GD"/></r></p></e>
 <e r="RL" v="pt"><p><l>autonome<s n="adj"/><s n="mf"/></l><r>autónomo<s n="adj"/><s n="m"/></r></p></e>
 <e r="RL" v="pt"><p><l>autonome<s n="adj"/><s n="mf"/></l><r>autónomo<s n="adj"/><s n="f"/></r></p></e>
-<e>       <p><l>autre<s n="adj"/></l>                  <r>outro<s n="adj"/></r></p></e>
+
+<e r="LR"><p><l>autre<s n="adj"/><s n="ind"/><s n="mf"/></l>                  <r>outro<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>autre<s n="adj"/><s n="ind"/><s n="mf"/></l>                  <r>outro<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>autre<s n="adj"/><s n="ind"/><s n="mf"/></l>                  <r>outro<s n="adj"/><s n="f"/></r></p></e>
+
 <e>       <p><l>autrichien<s n="adj"/></l>             <r>austríaco<s n="adj"/></r></p></e>
 <e>       <p><l>averti<s n="adj"/></l>                 <r>ciente<s n="adj"/></r></p></e>
 <e>       <p><l>aveugle<s n="adj"/></l>                <r>cego<s n="adj"/></r></p></e>
