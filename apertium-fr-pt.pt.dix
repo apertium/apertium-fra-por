@@ -93262,6 +93262,18 @@
         </p>
         <par n="S__falá"/>
       </e>-->
+  </pardef>
+
+  
+  <pardef n="/pode-se__vblex"> 
+      
+      <e>
+        <p>
+          <l>pode-se</l>
+          <r>pode-se<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>      
+      
     </pardef>
 
     <pardef n="dev/er__vbmod">
@@ -106183,8 +106195,13 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="comummente">
+      <e lm="comummente" v="pt">
         <i>comummente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="comumente" v="br">
+        <i>comumente</i>
         <par n="Op.Cit.__adv"/>
       </e>
       
@@ -124934,10 +124951,10 @@
         <par n="atletismo__n"/>
       </e>
       
-      <e lm="na internet" r="LR">
+      <!--<e lm="na internet" r="LR">
         <i>na<b/>internet</i>
         <par n="na_internet__n"/>
-      </e>
+      </e>-->
       
       <e lm="nacionalidade">
         <i>nacionalidade</i>
@@ -160272,6 +160289,24 @@
 <e lm="Alegi"><i>Alegi</i><par n="Lugar__np"/></e>
 <e lm="Anadyr"><i>Anadyr</i><par n="Lugar__np"/></e>
 
+
+<e lm="colectânea" r="LR" v="pt"><i>colectânea</i><par n="abadia__n"/></e>
+<e lm="coletânea" r="LR" v="br"><i>coletânea</i><par n="abadia__n"/></e>
+<e lm="obra"><i>obra</i><par n="abadia__n"/></e>
+
+<e lm="alfabético"><i>alfabétic</i><par n="abert/o__adj"/></e>
+<e lm="classificador"><i>classificador</i><par n="conservador__adj"/></e>
+<e lm="temático"><i>temátic</i><par n="abert/o__adj"/></e>
+
+<e lm="pode-se"><i></i><par n="/pode-se__vblex"/></e>
+<e lm="ser questão de">
+    <i></i>
+    <par n="/ser__vbser"/>
+    <p>
+        <l><b/>questão<b/>de</l>
+        <r><g><b/>questão<b/>de</g></r>
+    </p>
+</e>
 
   </section>
 

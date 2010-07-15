@@ -11048,6 +11048,17 @@
             
 <e><p><l>ont</l><r>avoir<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
     </pardef>
+  
+  <pardef n="/il_se_peut__vblex"> 
+      
+      <e>
+        <p>
+          <l>il<b/>se<b/>peut</l>
+          <r>il<b/>se<b/>peut<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>      
+      
+    </pardef>
         
         <pardef n="/y_avoir__vblex">
     
@@ -16354,7 +16365,7 @@
           <e lm="négociation"><i>négociation</i><par n="abeille__n"/></e>
           <e lm="négocier"><i>négoci</i><par n="abaiss/er__vblex"/></e>
           <e lm="objectif"><i>objecti</i><par n="affirmati/f__adj"/></e>
-          <e lm="objectif" r="LR"><i>objectif</i><par n="livre__n"/></e>
+          <e lm="objectif"><i>objectif</i><par n="livre__n"/></e>
           <e lm="objection"><i>objection</i><par n="abeille__n"/></e>
           <e lm="objet"><i>objet</i><par n="livre__n"/></e>
           <e lm="obligation"><i>obligation</i><par n="abeille__n"/></e>
@@ -22904,7 +22915,7 @@
 <e lm="analyste" a="webform"><i>analyste</i><par n="artiste__n"/></e>
 <e lm="sinon" a="webform"><i>sinon</i><par n="afin_que__cnjadv"/></e>
 <e lm="baptiser" a="webform"><i>baptis</i><par n="abaiss/er__vblex"/></e>
-<e lm="chantier" a="webform" r="LR"><i>chantier</i><par n="livre__n"/></e>
+<e lm="chantier" a="webform"><i>chantier</i><par n="livre__n"/></e>
 <e lm="contrairement" a="webform"><i>contrairement</i><par n="hier__adv"/></e>
 <e lm="contrairement à" a="webform" r="LR"><i>contrairement<b/></i><par n="conta__pr"/></e>
 <e lm="durable" a="webform"><i>durable</i><par n="académique__adj"/></e>
@@ -66878,6 +66889,13 @@
     <e r="LR" lm="pour cause d'"><p><l>pour<b/>cause<b/>d'</l><r>pour<b/>cause<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="sur le point d'"><p><l>sur<b/>le<b/>point<b/>d'</l><r>sur<b/>le<b/>point<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="tout au long d'"><p><l>tout<b/>au<b/>long<b/>d'</l><r>tout<b/>au<b/>long<b/>de<s n="pr"/></r></p></e>
+
+
+<e lm="communément"><i>communément</i><par n="hier__adv"/></e>
+<e lm="quasiment"><i>quasiment</i><par n="hier__adv"/></e>
+
+<e lm="il se peut"><i></i><par n="/il_se_peut__vblex"/></e>
+
            
 </section>
 

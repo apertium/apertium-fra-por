@@ -203,7 +203,7 @@
 <e r="LR"><p><l>toi<s n="prn"/></l>                    <r>tu<s n="prn"/></r></p></e>
 <e r="RL"><p><l>toi<s n="prn"/></l>                    <r>ti<s n="prn"/></r></p></e>
 <e>       <p><l>tous<b/>les<b/>deux<s n="prn"/></l>    <r>ambos<s n="prn"/></r></p></e>
-<e>       <p><l>tout<s n="prn"/></l>                   <r>todo<s n="prn"/></r></p></e>
+<e>       <p><l>tout<s n="prn"/><s n="tn"/></l>        <r>todo<s n="prn"/><s n="tn"/></r></p></e>
 <e r="RL"><p><l>tout<s n="prn"/><s n="tn"/><s n="m"/></l><r>tudo<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 <e>       <p><l>tout<b/>le<b/>monde<s n="prn"/></l>    <r>todo<b/>mundo<s n="prn"/></r></p></e>
 <e>       <p><l>tu<s n="prn"/></l>                     <r>tu<s n="prn"/></r></p></e>
@@ -252,8 +252,13 @@
 <e>       <p><l>que<s n="rel"/></l>                    <r>que<s n="rel"/><s n="an"/></r></p></e>
 <e>       <p><l>qui<s n="rel"/></l>                    <r>quem<s n="rel"/><s n="nn"/></r></p></e>
     <!-- ******************************
+          group vbmod_symbol
+      ****************************** -->
+<e>       <p><l>pouvoir<s n="vbmod"/></l>              <r>poder<s n="vbmod"/></r></p></e>
+    <!-- ******************************
           group vblex_symbol
       ****************************** -->
+      <e><p><l>il<b/>se<b/>peut<s n="vblex"/></l>      <r>pode-se<s n="vblex"/></r></p></e>
 <!-- check for pt/br-ness -->
     <e><p><l>envoyer<s n="vblex"/></l><r>enviar<s n="vblex"/></r></p></e>
     <e><p><l>déposer<s n="vblex"/></l><r>depositar<s n="vblex"/></r></p></e>
@@ -347,6 +352,7 @@
 <e>       <p><l>aggraver<s n="vblex"/></l>             <r>agravar<s n="vblex"/></r></p></e>
 <e>       <p><l>agir<s n="vblex"/></l>                 <r>tratar<s n="vblex"/></r></p></e>
 <e>       <p><l>agir<s n="vblex"/></l>                 <r>agir<s n="vblex"/></r></p></e>
+<e>       <p><l>agir<g><b/>de</g><s n="vblex"/></l>    <r>ser<s n="vbser"/><g><b/>questão<b/>de</g></r></p></e>
 <e>       <p><l>agiter<s n="vblex"/></l>               <r>agitar<s n="vblex"/></r></p></e>
 <e>       <p><l>agresser<s n="vblex"/></l>             <r>agredir<s n="vblex"/></r></p></e>
 <e>       <p><l>agréer<s n="vblex"/></l>               <r>aceitar<s n="vblex"/></r></p></e>
@@ -2754,6 +2760,8 @@
 <e>       <p><l>clairement<s n="adv"/></l>             <r>claro<s n="adv"/></r></p></e>
 <e>       <p><l>clairement<s n="adv"/></l>             <r>rotundamente<s n="adv"/></r></p></e>
 <e>       <p><l>comment<s n="adv"/></l>                <r>como<s n="adv"/></r></p></e>
+<e v="pt"><p><l>communément<s n="adv"/></l>            <r>comummente<s n="adv"/></r></p></e>
+<e v="br"><p><l>communément<s n="adv"/></l>            <r>comumente<s n="adv"/></r></p></e>
 <e>       <p><l>complètement<s n="adv"/></l>           <r>completamente<s n="adv"/></r></p></e>
 <e>       <p><l>concrètement<s n="adv"/></l>           <r>concretamente<s n="adv"/></r></p></e>
 <e>       <p><l>conformément<s n="adv"/></l>           <r>conforme<s n="adv"/></r></p></e>
@@ -11343,6 +11351,7 @@
 <e>       <p><l>arrondisement<s n="n"/></l>            <r>distrito<s n="n"/></r></p></e>
 <e>       <p><l>arrêté<s n="n"/></l>                   <r>decreto<s n="n"/></r></p></e>
 <e>       <p><l>arsenal<s n="n"/></l>                  <r>arsenal<s n="n"/></r></p></e>
+<e>       <p><l>art<s n="n"/><s n="m"/></l>            <r>arte<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>article<s n="n"/></l>                  <r>artigo<s n="n"/></r></p></e>
 <e>       <p><l>articulation<s n="n"/></l>             <r>articulação<s n="n"/></r></p></e>
 <e>       <p><l>artisan<s n="n"/></l>                  <r>artesão<s n="n"/></r></p></e>
@@ -11604,7 +11613,7 @@
 <e>       <p><l>chancelier<s n="n"/></l>               <r>chanceler<s n="n"/></r></p></e>
 <e>       <p><l>chanson<s n="n"/></l>                  <r>canção<s n="n"/></r></p></e>
 <e>       <p><l>chant<s n="n"/></l>                    <r>canto<s n="n"/></r></p></e>
-<e>       <p><l>chantier<s n="n"/><s n="m"/></l>       <r>obra<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>chantier<s n="n"/><s n="m"/></l>       <r>obra<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>chaos<s n="n"/></l>                    <r>caos<s n="n"/></r></p></e>
 <e>       <p><l>chapitre<s n="n"/></l>                 <r>capítulo<s n="n"/></r></p></e>
 <e>       <p><l>charbon<s n="n"/></l>                  <r>carvão<s n="n"/></r></p></e>
@@ -11698,6 +11707,8 @@
 <e>       <p><l>collaboration<s n="n"/></l>            <r>colaboração<s n="n"/></r></p></e>
 <e v="pt"><p><l>collection<s n="n"/></l>               <r>colecção<s n="n"/></r></p></e>
 <e v="br"><p><l>collection<s n="n"/></l>               <r>coleção<s n="n"/></r></p></e>
+<e r="RL" v="pt"><p><l>collection<s n="n"/></l>        <r>colectânea<s n="n"/></r></p></e>
+<e r="RL" v="br"><p><l>collection<s n="n"/></l>        <r>coletânea<s n="n"/></r></p></e>
 <e>       <p><l>collet<s n="n"/></l>                   <r>pescoço<s n="n"/></r></p></e>
 <e>       <p><l>collier<s n="n"/></l>                  <r>colar<s n="n"/></r></p></e>
 <e>       <p><l>colline<s n="n"/></l>                  <r>colina<s n="n"/></r></p></e>
@@ -13047,6 +13058,8 @@
 <e>       <p><l>négative<s n="n"/></l>                 <r>negativa<s n="n"/></r></p></e>
 <e>       <p><l>négoce<s n="n"/></l>                   <r>negócio<s n="n"/></r></p></e>
 <e>       <p><l>négociation<s n="n"/></l>              <r>negociação<s n="n"/></r></p></e>
+<e v="br"><p><l>objectif<s n="n"/></l>                 <r>objetivo<s n="n"/></r></p></e>
+<e v="pt"><p><l>objectif<s n="n"/></l>                 <r>objectivo<s n="n"/></r></p></e>
 <e v="pt"><p><l>objet<s n="n"/></l>                    <r>objecto<s n="n"/></r></p></e>
 <e v="br"><p><l>objet<s n="n"/></l>                    <r>objeto<s n="n"/></r></p></e>
 <e>       <p><l>obligation<s n="n"/></l>               <r>obrigação<s n="n"/></r></p></e>
@@ -13119,6 +13132,7 @@
 <e>       <p><l>outrage<s n="n"/><s n="m"/></l>        <r>ofensa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>outrance<s n="n"/><s n="f"/></l>       <r>excesso<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>ouverture<s n="n"/></l>                <r>abertura<s n="n"/></r></p></e>
+<e r="LR"><p><l>ouvrage<s n="n"/><s n="m"/></l>        <r>obra<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>ouvrier<s n="n"/></l>                  <r>operário<s n="n"/></r></p></e>
 <e>       <p><l>ouvrier<s n="n"/></l>                  <r>funcionário<s n="n"/></r></p></e>
 <e>       <p><l>ovation<s n="n"/></l>                  <r>ovação<s n="n"/></r></p></e>
@@ -14756,8 +14770,12 @@
 <e v="pt"><p><l>actif<s n="adj"/></l>                  <r>activo<s n="adj"/></r></p></e>
 <e v="br"><p><l>activiste<s n="adj"/></l>              <r>ativista<s n="adj"/></r></p></e>
 <e v="pt"><p><l>activiste<s n="adj"/></l>              <r>activista<s n="adj"/></r></p></e>
-<e v="br"><p><l>actuel<s n="adj"/></l>                 <r>atual<s n="adj"/></r></p></e>
-<e v="pt"><p><l>actuel<s n="adj"/></l>                 <r>actual<s n="adj"/></r></p></e>
+<e r="RL" v="pt"><p><l>actuel<s n="adj"/><s n="GD"/></l><r>actual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" v="pt"><p><l>actuel<s n="adj"/><s n="m"/></l><r>actual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" v="pt"><p><l>actuel<s n="adj"/><s n="f"/></l><r>actual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL" v="br"><p><l>actuel<s n="adj"/><s n="GD"/></l><r>atual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" v="br"><p><l>actuel<s n="adj"/><s n="m"/></l><r>atual<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR" v="br"><p><l>actuel<s n="adj"/><s n="f"/></l><r>atual<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>adaptable<s n="adj"/></l>              <r>adaptável<s n="adj"/></r></p></e>
 <e r="RL"><p><l>additionnel<s n="adj"/><s n="GD"/></l> <r>adicional<s n="adj"/><s n="mf"/></r></p></e>
 <!--<e r="RL"><p><l>additionnel<s n="adj"/><s n="m"/></l> <r>adicional<s n="adj"/><s n="mf"/></r></p></e>-->
@@ -14801,6 +14819,9 @@
 <!--<e r="LR"><p><l>aléatoire<s n="adj"/><s n="mf"/></l>   <r>aleatório<s n="adj"/><s n="GD"/></r></p></e>-->
 <!--<e r="LR"><p><l>aléatoire<s n="adj"/><s n="mf"/></l>   <r>aleatório<s n="adj"/><s n="m"/></r></p></e>-->
 <!--<e r="LR"><p><l>aléatoire<s n="adj"/><s n="mf"/></l>   <r>aleatório<s n="adj"/><s n="f"/></r></p></e>-->
+<e r="LR"><p><l>alphabétique<s n="adj"/><s n="mf"/></l><r>alfabético<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>alphabétique<s n="adj"/><s n="mf"/></l><r>alfabético<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>alphabétique<s n="adj"/><s n="mf"/></l><r>alfabético<s n="adj"/><s n="f"/></r></p></e>
 <e>       <p><l>algérien<s n="adj"/></l>               <r>argelino<s n="adj"/></r></p></e>
 <e>       <p><l>alimentaire<s n="adj"/></l>            <r>alimentário<s n="adj"/></r></p></e>
 <!--<e r="LR"><p><l>alimentaire<s n="adj"/><s n="mf"/></l> <r>alimentário<s n="adj"/><s n="GD"/></r></p></e>-->
@@ -15115,6 +15136,9 @@
 <!--<e r="RL"><p><l>civil<s n="adj"/><s n="f"/></l>       <r>civil<s n="adj"/><s n="mf"/></r></p></e>-->
 <e>       <p><l>clair<s n="adj"/></l>                  <r>claro<s n="adj"/></r></p></e>
 <e>       <p><l>clandestin<s n="adj"/></l>             <r>clandestino<s n="adj"/></r></p></e>
+<e r="LR"><p><l>classificatoire<s n="adj"/><s n="mf"/></l><r>classificador<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>classificatoire<s n="adj"/><s n="mf"/></l><r>classificador<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>classificatoire<s n="adj"/><s n="mf"/></l><r>classificador<s n="adj"/><s n="f"/></r></p></e>
 <e>       <p><l>classique<s n="adj"/></l>              <r>clássico<s n="adj"/></r></p></e>
 <!--<e r="LR"><p><l>classique<s n="adj"/><s n="mf"/></l>   <r>clássico<s n="adj"/><s n="GD"/></r></p></e>-->
 <!--<e r="LR"><p><l>classique<s n="adj"/><s n="mf"/></l>   <r>clássico<s n="adj"/><s n="m"/></r></p></e>-->
@@ -16056,10 +16080,9 @@
 <!--<e r="LR"><p><l>laïque<s n="adj"/><s n="mf"/></l>      <r>laico<s n="adj"/><s n="m"/></r></p></e>-->
 <!--<e r="LR"><p><l>laïque<s n="adj"/><s n="mf"/></l>      <r>laico<s n="adj"/><s n="f"/></r></p></e>-->
 <e>       <p><l>lamentable<s n="adj"/></l>             <r>lamentável<s n="adj"/></r></p></e>
-<e>       <p><l>large<s n="adj"/></l>                  <r>largo<s n="adj"/></r></p></e>
-<!--<e r="LR"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="GD"/></r></p></e>-->
-<!--<e r="LR"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="m"/></r></p></e>-->
-<!--<e r="LR"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="f"/></r></p></e>-->
+<e r="LR"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>large<s n="adj"/><s n="mf"/></l>       <r>largo<s n="adj"/><s n="f"/></r></p></e>
 <e>       <p><l>latino-américain<s n="adj"/></l>       <r>latinoamericano<s n="adj"/></r></p></e>
 <e r="RL"><p><l>légal<s n="adj"/><s n="GD"/></l>       <r>legal<s n="adj"/><s n="mf"/></r></p></e>
 <!--<e r="RL"><p><l>légal<s n="adj"/><s n="m"/></l>       <r>legal<s n="adj"/><s n="mf"/></r></p></e>-->
@@ -17130,10 +17153,9 @@
 <e r="RL"><p><l>théâtral<s n="adj"/><s n="GD"/></l>    <r>teatral<s n="adj"/><s n="mf"/></r></p></e>
 <!--<e r="RL"><p><l>théâtral<s n="adj"/><s n="m"/></l>    <r>teatral<s n="adj"/><s n="mf"/></r></p></e>-->
 <!--<e r="RL"><p><l>théâtral<s n="adj"/><s n="f"/></l>    <r>teatral<s n="adj"/><s n="mf"/></r></p></e>-->
-<e>       <p><l>thématique<s n="adj"/></l>             <r>temático<s n="adj"/></r></p></e>
-<!--<e r="LR"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="GD"/></r></p></e>-->
-<!--<e r="LR"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="m"/></r></p></e>-->
-<!--<e r="LR"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="f"/></r></p></e>-->
+<e r="LR"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>thématique<s n="adj"/><s n="mf"/></l>  <r>temático<s n="adj"/><s n="f"/></r></p></e>
 <e>       <p><l>thérapeutique<s n="adj"/></l>          <r>terapêutico<s n="adj"/></r></p></e>
 <!--<e r="LR"><p><l>thérapeutique<s n="adj"/><s n="mf"/></l><r>terapêutico<s n="adj"/><s n="GD"/></r></p></e>-->
 <!--<e r="LR"><p><l>thérapeutique<s n="adj"/><s n="mf"/></l><r>terapêutico<s n="adj"/><s n="m"/></r></p></e>-->
@@ -17924,6 +17946,10 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e>       <p><l>pouah<s n="ij"/></l>                   <r>puf<s n="ij"/></r></p></e>
 <e>       <p><l>salut<s n="ij"/></l>                   <r>oi<s n="ij"/></r></p></e>
 <e r="RL"><p><l>salut<s n="ij"/></l>                   <r>olá<s n="ij"/></r></p></e> <!-- TODO:CHECK -->
+    <!-- ******************************
+          group predet_symbol
+      ****************************** -->
+<e>       <p><l>tout<s n="predet"/></l>                <r>todo<s n="predet"/></r></p></e>
     <!-- ******************************
           group(s) with only one element
       ****************************** -->
