@@ -137221,6 +137221,12 @@
         <par n="admit/ir__vblex"/>
       </e>
       
+      <e lm="assistir">
+        <i>assist</i>
+        <par n="admit/ir__vblex"/>
+        <p><l><b/>a</l><r><g><b/>a</g></r></p>
+      </e>
+      
       <e lm="subsistir">
         <i>subsist</i>
         <par n="admit/ir__vblex"/>
@@ -154743,27 +154749,39 @@
     <e lm="vibrar"><i>vibr</i><par n="abal/ar__vblex"/></e>
 
 
-<e lm="actuar em lugar"><i>actu</i><par n="abal/ar__vblex"/><p><l><b/>em<b/>lugar</l><r><g><b/>em<b/>lugar</g></r></p></e>
+<!--<e lm="actuar em lugar"><i>actu</i><par n="abal/ar__vblex"/><p><l><b/>em<b/>lugar</l><r><g><b/>em<b/>lugar</g></r></p></e>-->
+<e lm="alegrar de"><i>alegr</i><par n="abal/ar__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
+<e lm="apostar por"><i>apost</i><par n="abal/ar__vblex"/><p><l><b/>por</l><r><g><b/>por</g></r></p></e>
 
 <e lm="chegar aos calcanhares"><i>cheg</i><par n="abrig/ar__vblex"/><p><l><b/>aos<b/>calcanhares</l><r><g><b/>aos<b/>calcanhares</g></r></p></e>
 <e lm="concentrar sobre"><i>concentr</i><par n="abal/ar__vblex"/><p><l><b/>sobre</l><r><g><b/>sobre</g></r></p></e>
+<e lm="consagrar a"><i>consagr</i><par n="abal/ar__vblex"/><p><l><b/>a</l><r><g><b/>a</g></r></p></e>
 <e lm="consistir em"><i>consist</i><par n="admit/ir__vblex"/><p><l><b/>em</l><r><g><b/>em</g></r></p></e>
+<e lm="correr para"><i>corr</i><par n="abat/er__vblex"/><p><l><b/>para</l><r><g><b/>para</g></r></p></e>
 
 <e lm="dar nome aos bois"><i>d</i><par n="d/ar__vblex"/><p><l><b/>nome<b/>aos<b/>bois</l><r><g><b/>nome<b/>aos<b/>bois</g></r></p></e>
 <e lm="dar o alarme"><i>d</i><par n="d/ar__vblex"/><p><l><b/>o<b/>alarme</l><r><g><b/>o<b/>alarme</g></r></p></e>
+<e lm="desdobrar em"><i>desdobr</i><par n="abal/ar__vblex"/><p><l><b/>em</l><r><g><b/>em</g></r></p></e>
 
+<e lm="fazer notar"><i>f</i><par n="f/azer__vblex"/><p><l><b/>notar</l><r><g><b/>notar</g></r></p></e>
 <e lm="fundar sobre"><i>fund</i><par n="abal/ar__vblex"/><p><l><b/>sobre</l><r><g><b/>sobre</g></r></p></e>
 
 <e lm="levar agua ao moinho"><i>lev</i><par n="abal/ar__vblex"/><p><l><b/>agua<b/>ao<b/>moinho</l><r><g><b/>agua<b/>ao<b/>moinho</g></r></p></e>
 
+<e lm="participar de"><i>particip</i><par n="abal/ar__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
 <e lm="passar pelo crivo"><i>pass</i><par n="abal/ar__vblex"/><p><l><b/>pelo<b/>crivo</l><r><g><b/>pelo<b/>crivo</g></r></p></e>
 <e lm="pôr em obra"><i>p</i><par n="p/ôr__vblex"/><p><l><b/>em<b/>obra</l><r><g><b/>em<b/>obra</g></r></p></e>
+<e lm="prolongar de"><i>prolong</i><par n="abrig/ar__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
+<e lm="recusar de"><i>recus</i><par n="abal/ar__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
+
+<!--<e lm="ser questão de"><i></i><par n="/ser__vbser"/><p><l><b/>questão<b/>de</l><r><g><b/>questão<b/>de</g></r></p></e>-->
 
 <e lm="ter formigamento nas pernas"><i>t</i><par n="t/er__vblex"/><p><l><b/>formigamento<b/>nas<b/>pernas</l><r><g><b/>formigamento<b/>nas<b/>pernas</g></r></p></e>
 <e lm="ter objectiva de" v="pt"><i>t</i><par n="t/er__vblex"/><p><l><b/>objectiva<b/>de</l><r><g><b/>objectiva<b/>de</g></r></p></e>
 <e lm="ter objetiva de" v="br"><i>t</i><par n="t/er__vblex"/><p><l><b/>objetiva<b/>de</l><r><g><b/>objetiva<b/>de</g></r></p></e>
 <e lm="ter olhos de lince"><i>t</i><par n="t/er__vblex"/><p><l><b/>olhos<b/>de<b/>lince</l><r><g><b/>olhos<b/>de<b/>lince</g></r></p></e>
 <e lm="tomar o pequeno almoço"><i>tom</i><par n="abal/ar__vblex"/><p><l><b/>o<b/>pequeno<b/>almoço</l><r><g><b/>o<b/>pequeno<b/>almoço</g></r></p></e>
+<e lm="topar com"><i>top</i><par n="abal/ar__vblex"/><p><l><b/>com</l><r><g><b/>com</g></r></p></e>
 <e lm="tornar a dar"><i>torn</i><par n="abal/ar__vblex"/><p><l><b/>a<b/>dar</l><r><g><b/>a<b/>dar</g></r></p></e>
 <e lm="tornar a dobrar"><i>torn</i><par n="abal/ar__vblex"/><p><l><b/>a<b/>dobrar</l><r><g><b/>a<b/>dobrar</g></r></p></e>
 <e lm="tornar a pensar"><i>torn</i><par n="abal/ar__vblex"/><p><l><b/>a<b/>pensar</l><r><g><b/>a<b/>pensar</g></r></p></e>
