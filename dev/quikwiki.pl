@@ -3,8 +3,8 @@ use strict;
 my $cat = 'np';
 #my $cat = 'n';
 
-my $source = 'fr'; my $target = 'pt';
-#my $source = 'pt'; my $target = 'fr';';
+#my $source = 'fr'; my $target = 'pt';
+my $source = 'pt'; my $target = 'fr';
 my $dir = $source.$target;
 
 my $infile = $dir . 'wiki.txt';

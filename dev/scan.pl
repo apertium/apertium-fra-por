@@ -1,7 +1,7 @@
 use strict;
 
-#my $dir = 'frpt';
-my $dir = 'ptfr';
+my $dir = 'frpt';
+#my $dir = 'ptfr';
 
 #my $want_multiples = 0;
 my $want_multiples = 1;
@@ -21,7 +21,7 @@ my $want_multiwords = 1;
 #my $cat = 'prn';	# clean in both directions
 #my $cat = 'rel';	# clean in both directions
 #my $cat = 'vbhaver';	# clean in both directions
-my $cat = 'vbser';	# clean in both directions
+#my $cat = 'vbser';	# clean in both directions
 
 # other categories
 #my $cat = 'adj';
@@ -30,7 +30,7 @@ my $cat = 'vbser';	# clean in both directions
 	# fr-pt lists 244/12 errors, pt-fr 1901/10
 #my $cat = 'n';
 	# fr-pt lists 8844/163 errors, pt-fr 2588/224
-#my $cat = 'np';
+my $cat = 'np';
 	# fr-pt lists 7316/27 errors, pt-fr 0/27
 #my $cat = 'vblex';
 	# fr-pt lists 30321/402 errors, pt-fr 44678/1070
