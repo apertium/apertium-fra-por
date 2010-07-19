@@ -3618,7 +3618,6 @@
 <e>       <p><l>Libye<s n="np"/></l>                   <r>Líbia<s n="np"/></r></p></e>
 <e>       <p><l>Lima<s n="np"/></l>                    <r>Lima<s n="np"/></r></p></e>
 <e>       <p><l>Linares<s n="np"/></l>                 <r>Linares<s n="np"/></r></p></e>
-<e>       <p><l>Lisboa<s n="np"/></l>                  <r>Lisboa<s n="np"/></r></p></e>
 <e>       <p><l>Lisbonne<s n="np"/></l>                <r>Lisboa<s n="np"/></r></p></e>
 <e>       <p><l>Liverpool<s n="np"/></l>               <r>Liverpool<s n="np"/></r></p></e>
 <e>       <p><l>Lleida<s n="np"/></l>                  <r>Lleida<s n="np"/></r></p></e>
@@ -3652,7 +3651,6 @@
 <e r="RL"><p><l>Madrid<s n="np"/></l>                  <r>Madrid<s n="np"/></r></p></e>
 <e>       <p><l>Mahomet<s n="np"/></l>                 <r>Mahoma<s n="np"/></r></p></e>
 <e>       <p><l>Maia<s n="np"/></l>                    <r>Maia<s n="np"/></r></p></e>
-<e>       <p><l>Casa Branca<s n="np"/></l>             <r>Casa<b/>Branca<s n="np"/></r></p></e>
 <e>       <p><l>Malaisie<s n="np"/></l>                <r>Malásia<s n="np"/></r></p></e>
 <e>       <p><l>Manchester<s n="np"/></l>              <r>Manchester<s n="np"/></r></p></e>
 <e>       <p><l>Mandela<s n="np"/></l>                 <r>Mandela<s n="np"/></r></p></e>
@@ -3711,7 +3709,6 @@
 <e>       <p><l>Montevideo<s n="np"/></l>              <r>Montevideo<s n="np"/></r></p></e>
 <e>       <p><l>Montevideo<s n="np"/></l>              <r>Montevidéu<s n="np"/></r></p></e>
 <e>       <p><l>Montilla<s n="np"/></l>                <r>Montilla<s n="np"/></r></p></e>
-<e>       <p><l>Monténégro<s n="np"/></l>              <r>Montenegro<s n="np"/></r></p></e>
 <e>       <p><l>Morris<s n="np"/></l>                  <r>Morris<s n="np"/></r></p></e>
 <e v="br"><p><l>Moscou<s n="np"/></l>                  <r>Moscou<s n="np"/></r></p></e>
 <e v="pt"><p><l>Moscou<s n="np"/></l>                  <r>Moscovo<s n="np"/></r></p></e>
@@ -3853,7 +3850,7 @@
 <e>       <p><l>Rwanda<s n="np"/></l>                  <r>Ruanda<s n="np"/></r></p></e>
 <e>       <p><l>République<b/>tchèque<s n="np"/></l>   <r>República<b/>Checa<s n="np"/></r></p></e>
 <e>       <p><l>Sabio<s n="np"/></l>                   <r>Sabio<s n="np"/></r></p></e>
-<e>       <p><l>Sadam<s n="np"/></l>                   <r>Saddam<s n="np"/></r></p></e>
+<e>       <p><l>Sadam<s n="np"/></l>                   <r>Sadam<s n="np"/></r></p></e>
 <e>       <p><l>Saint<s n="np"/></l>                   <r>Saint<s n="np"/></r></p></e>
 <e>       <p><l>Sainz<s n="np"/></l>                   <r>Sainz<s n="np"/></r></p></e>
 <e>       <p><l>Salazar<s n="np"/></l>                 <r>Salazar<s n="np"/></r></p></e>
@@ -4000,7 +3997,6 @@
 <e>       <p><l>Édimbourg<s n="np"/></l>               <r>Edimburgo<s n="np"/></r></p></e>
 <e>       <p><l>Équateur<s n="np"/></l>                <r>Equador<s n="np"/></r></p></e>
 <e>       <p><l>Érythrée<s n="np"/></l>                <r>Eritréia<s n="np"/></r></p></e>
-<e>       <p><l>Éthiopie<s n="np"/></l>                <r>Etiópia<s n="np"/></r></p></e>
 
 
 <!-- TO BE CHECKED -->
@@ -4010,7 +4006,7 @@
 <e>       <p><l>Acosta<s n="np"/></l>                  <r>Acosta<s n="np"/></r></p></e>
 <e>       <p><l>Adriana<s n="np"/></l>                 <r>Adriana<s n="np"/></r></p></e>
 <e>       <p><l>Albelda<s n="np"/></l>                 <r>Albelda<s n="np"/></r></p></e>
-<e>       <p><l>Albert<s n="np"/></l>                  <r>Alberto<s n="np"/></r></p></e>
+<e>       <p><l>Albert<s n="np"/></l>                  <r>Albert<s n="np"/></r></p></e>
 <e r="RL"><p><l>Albiol<s n="np"/></l>                  <r>L'Albiol<s n="np"/></r></p></e>
 <e>       <p><l>Alcántara<s n="np"/></l>               <r>Alcántara<s n="np"/></r></p></e>
 <e>       <p><l>Alfaro<s n="np"/></l>                  <r>Alfaro<s n="np"/></r></p></e>
@@ -4095,7 +4091,7 @@
 <e>       <p><l>Judas<s n="np"/></l>                   <r>Judas<s n="np"/></r></p></e>
 <e>       <p><l>Juli<s n="np"/></l>                    <r>Juli<s n="np"/></r></p></e>
 <e>       <p><l>Julia<s n="np"/></l>                   <r>Julia<s n="np"/></r></p></e>
-<e>       <p><l>Jésus-Christ<s n="np"/></l>            <r>Cristo<s n="np"/></r></p></e>
+<e>       <p><l>Jésus-Christ<s n="np"/></l>            <r>Jesus Cristo<s n="np"/></r></p></e>
 <e>       <p><l>Karen<s n="np"/></l>                   <r>Karen<s n="np"/></r></p></e>
 <e>       <p><l>Karina<s n="np"/></l>                  <r>Karina<s n="np"/></r></p></e>
 <e>       <p><l>Koldo<s n="np"/></l>                   <r>Koldo<s n="np"/></r></p></e>
@@ -4145,7 +4141,7 @@
 <e>       <p><l>Poveda<s n="np"/></l>                  <r>Poveda<s n="np"/></r></p></e>
 <e>       <p><l>Pénélope<s n="np"/></l>                <r>Penélope<s n="np"/></r></p></e>
 <e>       <p><l>Ramiro<s n="np"/></l>                  <r>Ramiro<s n="np"/></r></p></e>
-<e>       <p><l>Ramon<s n="np"/></l>                   <r>Ramón<s n="np"/></r></p></e>
+<e>       <p><l>Ramon<s n="np"/></l>                   <r>Ramon<s n="np"/></r></p></e>
 <e>       <p><l>Ramona<s n="np"/></l>                  <r>Ramona<s n="np"/></r></p></e>
 <e>       <p><l>Renfe<s n="np"/></l>                   <r>Renfe<s n="np"/></r></p></e>
 <e>       <p><l>Rita<s n="np"/></l>                    <r>Rita<s n="np"/></r></p></e>
@@ -4188,7 +4184,7 @@
 <e r="RL"><p><l>Philippe<s n="np"/></l>                <r>Phil<s n="np"/></r></p></e>
 <e>       <p><l>Villiers<s n="np"/></l>                <r>Villiers<s n="np"/></r></p></e>
 <e>       <p><l>Nicolas<s n="np"/></l>                 <r>Nicolas<s n="np"/></r></p></e>
-<e r="RL"><p><l>Abdallah<s n="np"/></l>                <r>Abdullah<s n="np"/></r></p></e>
+<e>       <p><l>Abdallah<s n="np"/></l>                <r>Abdallah<s n="np"/></r></p></e>
 <e>       <p><l>Adidas<s n="np"/></l>                  <r>Adidas<s n="np"/></r></p></e>
 <e>       <p><l>Adler<s n="np"/></l>                   <r>Adler<s n="np"/></r></p></e>
 <e>       <p><l>Adrien<s n="np"/></l>                  <r>Adrien<s n="np"/></r></p></e>
@@ -4211,7 +4207,7 @@
 <e>       <p><l>Apple Inc.<s n="np"/></l>              <r>Apple Inc.<s n="np"/></r></p></e>
 <e>       <p><l>Arcelor<s n="np"/></l>                 <r>Arcelor<s n="np"/></r></p></e>
 <e>       <p><l>Arnaud<s n="np"/></l>                  <r>Arnold<s n="np"/></r></p></e>
-<e>       <p><l>Arthur<s n="np"/></l>                  <r>Artur<s n="np"/></r></p></e>
+<e>       <p><l>Arthur<s n="np"/></l>                  <r>Arthur<s n="np"/></r></p></e>
 <e>       <p><l>Auchan<s n="np"/></l>                  <r>Auchan<s n="np"/></r></p></e>
 <e>       <p><l>Audi<s n="np"/></l>                    <r>Audi<s n="np"/></r></p></e>
 <e>       <p><l>Audrey<s n="np"/></l>                  <r>Audrey<s n="np"/></r></p></e>
@@ -4222,7 +4218,7 @@
 <e>       <p><l>Beauvais<s n="np"/></l>                <r>Beauvais<s n="np"/></r></p></e>
 <e>       <p><l>Beckett<s n="np"/></l>                 <r>Beckett<s n="np"/></r></p></e>
 <e>       <p><l>Bennett<s n="np"/></l>                 <r>Bennett<s n="np"/></r></p></e>
-<e r="RL"><p><l>Benoît<s n="np"/></l>                  <r>Benoit<s n="np"/></r></p></e>
+<e>       <p><l>Benoît<s n="np"/></l>                  <r>Benoît<s n="np"/></r></p></e>
 <e>       <p><l>Bergen<s n="np"/></l>                  <r>Bergen<s n="np"/></r></p></e>
 <e>       <p><l>Berry<s n="np"/></l>                   <r>Província de Berry<s n="np"/></r></p></e>
 <e>       <p><l>Bertelsmann<s n="np"/></l>             <r>Bertelsmann<s n="np"/></r></p></e>
@@ -4245,14 +4241,14 @@
 <e>       <p><l>Camille<s n="np"/></l>                 <r>Camille<s n="np"/></r></p></e>
 <e>       <p><l>Camus<s n="np"/></l>                   <r>Camus<s n="np"/></r></p></e>
 <e>       <p><l>Carole<s n="np"/></l>                  <r>Carole<s n="np"/></r></p></e>
-<e>       <p><l>Caroline<s n="np"/></l>                <r>Carolina<s n="np"/></r></p></e>
+<e>       <p><l>Caroline<s n="np"/></l>                <r>Caroline<s n="np"/></r></p></e>
 <e>       <p><l>Céline<s n="np"/></l>                  <r>Céline<s n="np"/></r></p></e>
 <e>       <p><l>Charlie<s n="np"/></l>                 <r>Charlie<s n="np"/></r></p></e>
 <e>       <p><l>Charlotte<s n="np"/></l>               <r>Charlotte<s n="np"/></r></p></e>
 <e>       <p><l>Cheney<s n="np"/></l>                  <r>Cheney<s n="np"/></r></p></e>
 <e>       <p><l>Cher<s n="np"/></l>                    <r>Cher<s n="np"/></r></p></e>
 <e>       <p><l>Chris<s n="np"/></l>                   <r>Chris<s n="np"/></r></p></e>
-<e>       <p><l>Christophe<s n="np"/></l>              <r>Christopher<s n="np"/></r></p></e>
+<e>       <p><l>Christophe<s n="np"/></l>              <r>Christophe<s n="np"/></r></p></e>
 <e>       <p><l>Churchill<s n="np"/></l>               <r>Churchill<s n="np"/></r></p></e>
 <e>       <p><l>Citigroup<s n="np"/></l>               <r>Citigroup<s n="np"/></r></p></e>
 <e>       <p><l>Citroën<s n="np"/></l>                 <r>Citroën<s n="np"/></r></p></e>
@@ -4300,7 +4296,7 @@
 <e>       <p><l>Fatah<s n="np"/></l>                   <r>Fatah<s n="np"/></r></p></e>
 <e>       <p><l>Faure<s n="np"/></l>                   <r>Faure<s n="np"/></r></p></e>
 <e>       <p><l>FedEx<s n="np"/></l>                   <r>FedEx<s n="np"/></r></p></e>
-<e>       <p><l>Ferdinand<s n="np"/></l>               <r>Fernando<s n="np"/></r></p></e>
+<e>       <p><l>Ferdinand<s n="np"/></l>               <r>Ferdinand<s n="np"/></r></p></e>
 <e>       <p><l>Florence<s n="np"/></l>                <r>Florença<s n="np"/></r></p></e>
 <e>       <p><l>Fnac<s n="np"/></l>                    <r>Fnac<s n="np"/></r></p></e>
 <e>       <p><l>Fontaine<s n="np"/></l>                <r>Fontaine<s n="np"/></r></p></e>
@@ -4326,13 +4322,13 @@
 <e>       <p><l>Grass<s n="np"/></l>                   <r>Grass<s n="np"/></r></p></e>
 <e>       <p><l>Gucci<s n="np"/></l>                   <r>Gucci<s n="np"/></r></p></e>
 <e>       <p><l>Guggenheim<s n="np"/></l>              <r>Guggenheim<s n="np"/></r></p></e>
-<e>       <p><l>Gustave<s n="np"/></l>                 <r>Gustavo<s n="np"/></r></p></e>
+<e>       <p><l>Gustave<s n="np"/></l>                 <r>Gustave<s n="np"/></r></p></e>
 <e>       <p><l>Guy<s n="np"/></l>                     <r>Guy<s n="np"/></r></p></e>
 <e>       <p><l>Haaretz<s n="np"/></l>                 <r>Haaretz<s n="np"/></r></p></e>
 <e r="RL"><p><l>Hallyday<s n="np"/></l>                <r>Halliday<s n="np"/></r></p></e>
 <e>       <p><l>Harper<s n="np"/></l>                  <r>Harper<s n="np"/></r></p></e>
 <e>       <p><l>Heather<s n="np"/></l>                 <r>Heather<s n="np"/></r></p></e>
-<e>       <p><l>Henri<s n="np"/></l>                   <r>Henrique<s n="np"/></r></p></e>
+<e>       <p><l>Henri<s n="np"/></l>                   <r>Henri<s n="np"/></r></p></e>
 <e>       <p><l>Hewlett-Packard<s n="np"/></l>         <r>Hewlett-Packard<s n="np"/></r></p></e>
 <e r="RL"><p><l>Hezbollah<s n="np"/></l>               <r>Hizbollah<s n="np"/></r></p></e>
 <e>       <p><l>Hill<s n="np"/></l>                    <r>Hill<s n="np"/></r></p></e>
@@ -4360,7 +4356,7 @@
 <e>       <p><l>Joyce<s n="np"/></l>                   <r>Joyce<s n="np"/></r></p></e>
 <e>       <p><l>Judith<s n="np"/></l>                  <r>Judith<s n="np"/></r></p></e>
 <e>       <p><l>Jules<s n="np"/></l>                   <r>Jules<s n="np"/></r></p></e>
-<e r="RL"><p><l>Julien<s n="np"/></l>                  <r>Julian<s n="np"/></r></p></e>
+<e>       <p><l>Julien<s n="np"/></l>                  <r>Julien<s n="np"/></r></p></e>
 <e>       <p><l>Kabila<s n="np"/></l>                  <r>Kabila<s n="np"/></r></p></e>
 <e>       <p><l>Kandahar<s n="np"/></l>                <r>Kandahar<s n="np"/></r></p></e>
 <e>       <p><l>Karim<s n="np"/></l>                   <r>Karim<s n="np"/></r></p></e>
@@ -4389,7 +4385,7 @@
 <e>       <p><l>Lennon<s n="np"/></l>                  <r>Lennon<s n="np"/></r></p></e>
 <e>       <p><l>Léo<s n="np"/></l>                     <r>Leo<s n="np"/></r></p></e>
 <e>       <p><l>Léonard<s n="np"/></l>                 <r>Leonard<s n="np"/></r></p></e>
-<e>       <p><l>Léopold<s n="np"/></l>                 <r>Leopoldo<s n="np"/></r></p></e>
+<e>       <p><l>Léopold<s n="np"/></l>                 <r>Léopold<s n="np"/></r></p></e>
 <e>       <p><l>L'Express<s n="np"/></l>               <r>L'Express<s n="np"/></r></p></e>
 <e>       <p><l>Lina<s n="np"/></l>                    <r>Lina<s n="np"/></r></p></e>
 <e>       <p><l>Linda<s n="np"/></l>                   <r>Linda<s n="np"/></r></p></e>
@@ -4398,7 +4394,6 @@
 <e>       <p><l>Lloyd<s n="np"/></l>                   <r>Lloyd<s n="np"/></r></p></e>
 <e>       <p><l>Logan<s n="np"/></l>                   <r>Logan<s n="np"/></r></p></e>
 <e>       <p><l>L'Oréal<s n="np"/></l>                 <r>L'Oréal<s n="np"/></r></p></e>
-<e>       <p><l>Lorraine<s n="np"/></l>                <r>Lorena<s n="np"/></r></p></e>
 <e>       <p><l>Louise<s n="np"/></l>                  <r>Louise<s n="np"/></r></p></e>
 <e>       <p><l>Lourdes<s n="np"/></l>                 <r>Lourdes<s n="np"/></r></p></e>
 <e>       <p><l>Lucien<s n="np"/></l>                  <r>Lucien<s n="np"/></r></p></e>
@@ -4461,7 +4456,6 @@
 <e>       <p><l>Peugeot<s n="np"/></l>                 <r>Peugeot<s n="np"/></r></p></e>
 <e>       <p><l>Pfizer<s n="np"/></l>                  <r>Pfizer<s n="np"/></r></p></e>
 <e>       <p><l>Phelps<s n="np"/></l>                  <r>Phelps<s n="np"/></r></p></e>
-<e>       <p><l>Philippe<s n="np"/></l>                <r>Phil<s n="np"/></r></p></e>
 <e>       <p><l>Philips<s n="np"/></l>                 <r>Philips<s n="np"/></r></p></e>
 <e>       <p><l>Quimper<s n="np"/></l>                 <r>Quimper<s n="np"/></r></p></e>
 <e>       <p><l>Raphaël<s n="np"/></l>                 <r>Raphael<s n="np"/></r></p></e>
@@ -4488,7 +4482,7 @@
 <e r="RL"><p><l>Sagem<s n="np"/></l>                   <r>SAGEM<s n="np"/></r></p></e>
 <e>       <p><l>Schneider<s n="np"/></l>               <r>Schneider<s n="np"/></r></p></e>
 <e>       <p><l>Schröder<s n="np"/></l>                <r>Schröder<s n="np"/></r></p></e>
-<e>       <p><l>Sébastien<s n="np"/></l>               <r>Sebastian<s n="np"/></r></p></e>
+<e>       <p><l>Sébastien<s n="np"/></l>               <r>Sébastien<s n="np"/></r></p></e>
 <e>       <p><l>Serge<s n="np"/></l>                   <r>Sérgio<s n="np"/></r></p></e>
 <e>       <p><l>Shell<s n="np"/></l>                   <r>Shell<s n="np"/></r></p></e>
 <e r="RL"><p><l>Shoah<s n="np"/></l>                   <r>Holocausto<s n="np"/></r></p></e>
@@ -4562,7 +4556,9 @@
 <e>       <p><l>Aprilia<s n="np"/></l>                 <r>Aprilia<s n="np"/></r></p></e>
 <e>       <p><l>Aqualung<s n="np"/></l>                <r>Aqualung<s n="np"/></r></p></e>
 <e>       <p><l>Aquarium<s n="np"/></l>                <r>Aquário<s n="np"/></r></p></e>
+<e r="RL"><p><l>Aquarium<s n="np"/></l>                <r>Aquarium<s n="np"/></r></p></e>
 <e>       <p><l>Achille<s n="np"/></l>                 <r>Aquiles<s n="np"/></r></p></e>
+<e r="RL"><p><l>Achille<s n="np"/></l>                 <r>Achille<s n="np"/></r></p></e>
 <e>       <p><l>Araitz<s n="np"/></l>                  <r>Araitz<s n="np"/></r></p></e>
 <e>       <p><l>Aralar<s n="np"/></l>                  <r>Aralar<s n="np"/></r></p></e>
 <e r="RL"><p><l>Seat<s n="np"/></l>                    <r>SEAT<s n="np"/></r></p></e>
@@ -4572,11 +4568,14 @@
 <e>       <p><l>Arata Isozaki<s n="np"/></l>           <r>Arata Isozaki<s n="np"/></r></p></e>
 <e>       <p><l>Arcas<s n="np"/></l>                   <r>Arcas<s n="np"/></r></p></e>
 <e>       <p><l>Grand Schisme d'Occident<s n="np"/></l><r>Grande Cisma do Ocidente<s n="np"/></r></p></e>
+<e r="RL"><p><l>Grand Schisme d'Occident<s n="np"/></l><r>Grand Schisme d'Occident<s n="np"/></r></p></e>
 <e>       <p><l>Colonnes d'Hercule<s n="np"/></l>      <r>Colunas de Hércules<s n="np"/></r></p></e>
+<e r="RL"><p><l>Colonnes d'Hercule<s n="np"/></l>      <r>Colonnes d'Hercule<s n="np"/></r></p></e>
 <e>       <p><l>El Mundo<s n="np"/></l>                <r>El Mundo<s n="np"/></r></p></e>
 <e>       <p><l>El País<s n="np"/></l>                 <r>El País<s n="np"/></r></p></e>
 <e>       <p><l>Antena 3<s n="np"/></l>                <r>Antena 3<s n="np"/></r></p></e>
 <e>       <p><l>mer Baltique<s n="np"/></l>            <r>Mar Báltico<s n="np"/></r></p></e>
+<e r="RL"><p><l>mer Baltique<s n="np"/></l>            <r>mer Baltique<s n="np"/></r></p></e>
 <e>       <p><l>World Trade Center<s n="np"/></l>      <r>World Trade Center<s n="np"/></r></p></e>
 <e>       <p><l>Catherine d'Aragon<s n="np"/></l>      <r>Catarina de Aragão<s n="np"/></r></p></e>
 <e>       <p><l>mer Adriatique<s n="np"/></l>          <r>Mar Adriático<s n="np"/></r></p></e>
@@ -4605,9 +4604,8 @@
 <e>       <p><l>Chapelle Sixtine<s n="np"/></l>        <r>Capela Sistina<s n="np"/></r></p></e>
 <e>       <p><l>Carloman<s n="np"/></l>                <r>Carlomano<s n="np"/></r></p></e>
 <e>       <p><l>Charles Martel<s n="np"/></l>          <r>Carlos Martel<s n="np"/></r></p></e>
-<e>       <p><l>Maison Blanche<s n="np"/></l>          <r>Casa Branca<s n="np"/></r></p></e>
 <e>       <p><l>Casa Rosada<s n="np"/></l>             <r>Casa Rosada<s n="np"/></r></p></e>
-<e>       <p><l>Cassandre<s n="np"/></l>               <r>Cassandra<s n="np"/></r></p></e>
+<e>       <p><l>Cassandre<s n="np"/></l>               <r>Cassandre<s n="np"/></r></p></e>
 <e>       <p><l>Cassiopée<s n="np"/></l>               <r>Cassiopeia<s n="np"/></r></p></e>
 <e>       <p><l>Newark<s n="np"/></l>                  <r>Newark<s n="np"/></r></p></e>
 <e>       <p><l>Catherine de Médicis<s n="np"/></l>    <r>Catarina de Médici<s n="np"/></r></p></e>
@@ -4664,11 +4662,10 @@
 <e>       <p><l>Valdis Zatlers<s n="np"/></l>          <r>Valdis Zatlers<s n="np"/></r></p></e>
 <e>       <p><l>Valdas Adamkus<s n="np"/></l>          <r>Valdas Adamkus<s n="np"/></r></p></e>
 <e>       <p><l>Edward Fenech Adami<s n="np"/></l>     <r>Edward Fenech Adami<s n="np"/></r></p></e>
-<e>       <p><l>Lech<s n="np"/></l>                    <r>Rio Lech<s n="np"/></r></p></e>
+<e>       <p><l>Lech<s n="np"/></l>                    <r>Lech<s n="np"/></r></p></e>
 <e>       <p><l>Aníbal Cavaco Silva<s n="np"/></l>     <r>Aníbal Cavaco Silva<s n="np"/></r></p></e>
 <e>       <p><l>Václav Klaus<s n="np"/></l>            <r>Václav Klaus<s n="np"/></r></p></e>
 <e>       <p><l>Vladimir Poutine<s n="np"/></l>        <r>Vladimir Putin<s n="np"/></r></p></e>
-<e>       <p><l>Abdullah Gül<s n="np"/></l>            <r>Abdullah Gül<s n="np"/></r></p></e>
 <e>       <p><l>Viktor Iouchtchenko<s n="np"/></l>     <r>Viktor Yushchenko<s n="np"/></r></p></e>
 <e>       <p><l>Mikhaïl Gorbatchev<s n="np"/></l>      <r>Mikhail Gorbachev<s n="np"/></r></p></e>
 <e>       <p><l>Ellen Johnson-Sirleaf<s n="np"/></l>   <r>Ellen Johnson-Sirleaf<s n="np"/></r></p></e>
@@ -4705,15 +4702,12 @@
 <e>       <p><l>Océanie<s n="np"/></l>                 <r>Oceania<s n="np"/></r></p></e>
 <e>       <p><l>Atlético de Madrid<s n="np"/></l>      <r>Club Atlético de Madrid<s n="np"/></r></p></e>
 <e>       <p><l>Real Sociedad<s n="np"/></l>           <r>Real Sociedad de Fútbol<s n="np"/></r></p></e>
-<e>       <p><l>Osasuna<s n="np"/></l>                 <r>Club Atlético Osasuna<s n="np"/></r></p></e>
 <e>       <p><l>Conley<s n="np"/></l>                  <r>Conley<s n="np"/></r></p></e>
 <e>       <p><l>XP<s n="np"/></l>                      <r>XP<s n="np"/></r></p></e>
 <e>       <p><l>Real Sporting de Gijón<s n="np"/></l>  <r>Real Sporting de Gijón<s n="np"/></r></p></e>
 <e>       <p><l>Sandra Bullock<s n="np"/></l>          <r>Sandra Bullock<s n="np"/></r></p></e>
 <e>       <p><l>Nick<s n="np"/></l>                    <r>Nick<s n="np"/></r></p></e>
 <e>       <p><l>Fabian<s n="np"/></l>                  <r>Fabián<s n="np"/></r></p></e>
-<e>       <p><l>Standard<s n="np"/></l>                <r>Padrão<s n="np"/></r></p></e>
-<e>       <p><l>Athletic Bilbao<s n="np"/></l>         <r>Athletic Club<s n="np"/></r></p></e>
 <e>       <p><l>Igon<s n="np"/></l>                    <r>Igon<s n="np"/></r></p></e>
 <e>       <p><l>NH<s n="np"/></l>                      <r>NH<s n="np"/></r></p></e>
 <e>       <p><l>Hamar<s n="np"/></l>                   <r>Hamar<s n="np"/></r></p></e>
@@ -4721,7 +4715,6 @@
 <e>       <p><l>Robbie Williams<s n="np"/></l>         <r>Robbie Williams<s n="np"/></r></p></e>
 <e>       <p><l>Mahmoud Abbas<s n="np"/></l>           <r>Mahmoud Abbas<s n="np"/></r></p></e>
 <e>       <p><l>Lewis Hamilton<s n="np"/></l>          <r>Lewis Hamilton<s n="np"/></r></p></e>
-<e>       <p><l>Sandy<s n="np"/></l>                   <r>Sandy (desambiguação)<s n="np"/></r></p></e>
 <e>       <p><l>Gilberto Gil<s n="np"/></l>            <r>Gilberto Gil<s n="np"/></r></p></e>
 <e>       <p><l>Gilberto<s n="np"/></l>                <r>Gilberto<s n="np"/></r></p></e>
 <e>       <p><l>Eusko Alkartasuna<s n="np"/></l>       <r>Eusko Alkartasuna<s n="np"/></r></p></e>
@@ -4742,9 +4735,7 @@
 <e>       <p><l>Apertium<s n="np"/></l>                <r>Apertium<s n="np"/></r></p></e>
 <e>       <p><l>Marzio<s n="np"/></l>                  <r>Marzio<s n="np"/></r></p></e>
 <e>       <p><l>Mazda<s n="np"/></l>                   <r>Mazda<s n="np"/></r></p></e>
-<e>       <p><l>Giuliana<s n="np"/></l>                <r>Giuliana (Itália)<s n="np"/></r></p></e>
 <e>       <p><l>Guido<s n="np"/></l>                   <r>Guido<s n="np"/></r></p></e>
-<e>       <p><l>Recreativo de Huelva<s n="np"/></l>    <r>Real Club Recreativo de Huelva<s n="np"/></r></p></e>
 <e>       <p><l>Cofidis<s n="np"/></l>                 <r>Cofidis<s n="np"/></r></p></e>
 <e>       <p><l>Souto<s n="np"/></l>                   <r>Souto<s n="np"/></r></p></e>
 <e>       <p><l>Telefónica<s n="np"/></l>              <r>Telefónica<s n="np"/></r></p></e>
@@ -4770,19 +4761,16 @@
 <e>       <p><l>Ariel Sharon<s n="np"/></l>            <r>Ariel Sharon<s n="np"/></r></p></e>
 <e>       <p><l>Montgomery<s n="np"/></l>              <r>Montgomery (Alabama)<s n="np"/></r></p></e>
 <e>       <p><l>Mori<s n="np"/></l>                    <r>Mori<s n="np"/></r></p></e>
-<e>       <p><l>Celestino<s n="np"/></l>               <r>Pedro Celestino Silva Soares<s n="np"/></r></p></e>
 <e>       <p><l>AMP<s n="np"/></l>                     <r>AMP<s n="np"/></r></p></e>
 <e>       <p><l>Moreni<s n="np"/></l>                  <r>Moreni<s n="np"/></r></p></e>
 <e>       <p><l>Lancaster<s n="np"/></l>               <r>Lancaster<s n="np"/></r></p></e>
 <e>       <p><l>Haley<s n="np"/></l>                   <r>Haley<s n="np"/></r></p></e>
 <e>       <p><l>Richardson<s n="np"/></l>              <r>Richardson<s n="np"/></r></p></e>
 <e>       <p><l>Valentino<s n="np"/></l>               <r>Valentino<s n="np"/></r></p></e>
-<e>       <p><l>Ikea<s n="np"/></l>                    <r>IKEA<s n="np"/></r></p></e>
 <e>       <p><l>Nargis<s n="np"/></l>                  <r>Nargis<s n="np"/></r></p></e>
 <e>       <p><l>Julian Schnabel<s n="np"/></l>         <r>Julian Schnabel<s n="np"/></r></p></e>
 <e>       <p><l>Lou Reed<s n="np"/></l>                <r>Lou Reed<s n="np"/></r></p></e>
 <e>       <p><l>Corella<s n="np"/></l>                 <r>Corella<s n="np"/></r></p></e>
-<e>       <p><l>Valira<s n="np"/></l>                  <r>Rio Valira<s n="np"/></r></p></e>
 <e>       <p><l>Agüero<s n="np"/></l>                  <r>Agüero (cidade)<s n="np"/></r></p></e>
 <e>       <p><l>Acciona<s n="np"/></l>                 <r>Acciona<s n="np"/></r></p></e>
 <e>       <p><l>dalaï-lama<s n="np"/></l>              <r>Dalai Lama<s n="np"/></r></p></e>
@@ -4793,18 +4781,14 @@
 <e>       <p><l>Rex<s n="np"/></l>                     <r>Rex<s n="np"/></r></p></e>
 <e>       <p><l>Reporting<s n="np"/></l>               <r>Relatório<s n="np"/></r></p></e>
 <e>       <p><l>Monty<s n="np"/></l>                   <r>Monty<s n="np"/></r></p></e>
-<e>       <p><l>Casse-Noisette<s n="np"/></l>          <r>O Quebra-Nozes (balé)<s n="np"/></r></p></e>
+<e>       <p><l>Casse-Noisette<s n="np"/></l>          <r>O Quebra-Nozes<s n="np"/></r></p></e>
 <e>       <p><l>Ban Ki-moon<s n="np"/></l>             <r>Ban Ki-moon<s n="np"/></r></p></e>
-<e>       <p><l>Rodolphe<s n="np"/></l>                <r>Rudolph<s n="np"/></r></p></e>
 <e>       <p><l>Rolland<s n="np"/></l>                 <r>Rolland<s n="np"/></r></p></e>
-<e>       <p><l>Kim Jong-il<s n="np"/></l>             <r>Kim Jong-Il<s n="np"/></r></p></e>
 <e>       <p><l>Eriz<s n="np"/></l>                    <r>Eriz<s n="np"/></r></p></e>
-<e>       <p><l>Accent<s n="np"/></l>                  <r>Sotaque<s n="np"/></r></p></e>
 <e>       <p><l>Tzipi Livni<s n="np"/></l>             <r>Tzipi Livni<s n="np"/></r></p></e>
-<e>       <p><l>Bandeira<s n="np"/></l>                <r>Bandeira (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Bandeira<s n="np"/></l>                <r>Bandeira<s n="np"/></r></p></e>
 <e>       <p><l>Kadima<s n="np"/></l>                  <r>Kadima<s n="np"/></r></p></e>
 <e>       <p><l>Wiktionnaire<s n="np"/></l>            <r>Wikcionário<s n="np"/></r></p></e>
-<e>       <p><l>Epsilon<s n="np"/></l>                 <r>Ε<s n="np"/></r></p></e>
 <e>       <p><l>Chávez<s n="np"/></l>                  <r>Chávez<s n="np"/></r></p></e>
 <e>       <p><l>Le Vert<s n="np"/></l>                 <r>Le Vert<s n="np"/></r></p></e>
 <e>       <p><l>Newsletter<s n="np"/></l>              <r>Boletim informativo<s n="np"/></r></p></e>
@@ -4812,7 +4796,7 @@
 <e>       <p><l>Celtic<s n="np"/></l>                  <r>Celtic<s n="np"/></r></p></e>
 <e>       <p><l>Bruce<s n="np"/></l>                   <r>Bruce<s n="np"/></r></p></e>
 <e>       <p><l>Orphée<s n="np"/></l>                  <r>Orfeu<s n="np"/></r></p></e>
-<e>       <p><l>Boss<s n="np"/></l>                    <r>Chefe (jogos eletrônicos)<s n="np"/></r></p></e>
+<e>       <p><l>Boss<s n="np"/></l>                    <r>Chefe<s n="np"/></r></p></e>
 <e>       <p><l>Rousseau<s n="np"/></l>                <r>Rousseau<s n="np"/></r></p></e>
 <e>       <p><l>Euribor<s n="np"/></l>                 <r>Euribor<s n="np"/></r></p></e>
 <e>       <p><l>Olaberria<s n="np"/></l>               <r>Olaberria<s n="np"/></r></p></e>
@@ -4821,9 +4805,8 @@
 <e>       <p><l>El Niño<s n="np"/></l>                 <r>El Niño<s n="np"/></r></p></e>
 <e>       <p><l>Iron Maiden<s n="np"/></l>             <r>Iron Maiden<s n="np"/></r></p></e>
 <e>       <p><l>Brody<s n="np"/></l>                   <r>Brody<s n="np"/></r></p></e>
-<e>       <p><l>Cooper<s n="np"/></l>                  <r>Cooper (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Cooper<s n="np"/></l>                  <r>Cooper<s n="np"/></r></p></e>
 <e>       <p><l>Slater<s n="np"/></l>                  <r>Slater<s n="np"/></r></p></e>
-<e>       <p><l>Danny<s n="np"/></l>                   <r>Daniel Miguel Alves Gomes<s n="np"/></r></p></e>
 <e>       <p><l>Balaguer<s n="np"/></l>                <r>Balaguer<s n="np"/></r></p></e>
 <e>       <p><l>Suzuki<s n="np"/></l>                  <r>Suzuki<s n="np"/></r></p></e>
 <e>       <p><l>Le Monde<s n="np"/></l>                <r>Le Monde<s n="np"/></r></p></e>
@@ -4841,9 +4824,8 @@
 <e>       <p><l>Farrell<s n="np"/></l>                 <r>Farrell<s n="np"/></r></p></e>
 <e>       <p><l>Benazir Bhutto<s n="np"/></l>          <r>Benazir Bhutto<s n="np"/></r></p></e>
 <e>       <p><l>Bollywood<s n="np"/></l>               <r>Bollywood<s n="np"/></r></p></e>
-<e>       <p><l>Roms<s n="np"/></l>                    <r>Ciganos<s n="np"/></r></p></e>
-<e>       <p><l>Ironman<s n="np"/></l>                 <r>Ironman Triathlon<s n="np"/></r></p></e>
-<e>       <p><l>Zarate<s n="np"/></l>                  <r>Zárate (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Ciganos<s n="np"/></l>                 <r>Ciganos<s n="np"/></r></p></e>
+<e>       <p><l>Zarate<s n="np"/></l>                  <r>Zárate<s n="np"/></r></p></e>
 <e>       <p><l>Jeux olympiques<s n="np"/></l>         <r>Jogos Olímpicos<s n="np"/></r></p></e>
 <e>       <p><l>Odón<s n="np"/></l>                    <r>Odón<s n="np"/></r></p></e>
 <e>       <p><l>Stan<s n="np"/></l>                    <r>Stan<s n="np"/></r></p></e>
@@ -4856,7 +4838,6 @@
 <e>       <p><l>Simula<s n="np"/></l>                  <r>Simula<s n="np"/></r></p></e>
 <e>       <p><l>teriyaki<s n="np"/></l>                <r>Teriyaki<s n="np"/></r></p></e>
 <e>       <p><l>Midland<s n="np"/></l>                 <r>Midland<s n="np"/></r></p></e>
-<e>       <p><l>Caixa<s n="np"/></l>                   <r>Caixa (desambiguação)<s n="np"/></r></p></e>
 <e>       <p><l>Hatem Ben Arfa<s n="np"/></l>          <r>Hatem Ben Arfa<s n="np"/></r></p></e>
 <e>       <p><l>Zheng Jie<s n="np"/></l>               <r>Zheng Jie<s n="np"/></r></p></e>
 <e>       <p><l>Hu Jintao<s n="np"/></l>               <r>Hu Jintao<s n="np"/></r></p></e>
@@ -4872,16 +4853,16 @@
 <e>       <p><l>Chambre des députés<s n="np"/></l>     <r>Câmara dos Deputados<s n="np"/></r></p></e>
 <e>       <p><l>Habib Bourguiba<s n="np"/></l>         <r>Habib Bourguiba<s n="np"/></r></p></e>
 <e>       <p><l>Arroyo<s n="np"/></l>                  <r>Arroyo<s n="np"/></r></p></e>
-<e>       <p><l>Tour de France<s n="np"/></l>          <r>Tour de France (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Tour de France<s n="np"/></l>          <r>Tour de France<s n="np"/></r></p></e>
 <e>       <p><l>Tour d'Espagne<s n="np"/></l>          <r>Vuelta a España<s n="np"/></r></p></e>
 <e>       <p><l>Saint-Antoine<s n="np"/></l>           <r>Saint-Antoine<s n="np"/></r></p></e>
 <e>       <p><l>Stanislav Gross<s n="np"/></l>         <r>Stanislav Gross<s n="np"/></r></p></e>
 <e>       <p><l>Braun<s n="np"/></l>                   <r>Braun<s n="np"/></r></p></e>
-<e>       <p><l>Cooper<s n="np"/></l>                  <r>Cooper (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Cooper<s n="np"/></l>                  <r>Cooper<s n="np"/></r></p></e>
 <e>       <p><l>Afinsa<s n="np"/></l>                  <r>Afinsa<s n="np"/></r></p></e>
 <e>       <p><l>Belzébuth<s n="np"/></l>               <r>Beelzebuth<s n="np"/></r></p></e>
 <e>       <p><l>Boèce<s n="np"/></l>                   <r>Boécio<s n="np"/></r></p></e>
-<e>       <p><l>pèlerinage de Saint-Jacques-de-Compostelle<s n="np"/></l><r>Caminhos de Santiago<s n="np"/></r></p></e>
+<e>       <p><l>Pélérinage de Saint-Jacques-de-Compostelle<s n="np"/></l><r>Caminhos de Santiago<s n="np"/></r></p></e>
 <e>       <p><l>Capricorne<s n="np"/></l>              <r>Capricórnio<s n="np"/></r></p></e>
 <e>       <p><l>Cybèle<s n="np"/></l>                  <r>Cibele<s n="np"/></r></p></e>
 <e>       <p><l>Cicéron<s n="np"/></l>                 <r>Cícero<s n="np"/></r></p></e>
@@ -4899,13 +4880,13 @@
 <e>       <p><l>Real Madrid<s n="np"/></l>             <r>Real Madrid Club de Fútbol<s n="np"/></r></p></e>
 <e>       <p><l>Pierre de Cortone<s n="np"/></l>       <r>Pietro de Cortona<s n="np"/></r></p></e>
 <e>       <p><l>Crassus<s n="np"/></l>                 <r>Marco Licínio Crasso<s n="np"/></r></p></e>
-<e>       <p><l>Cupidon<s n="np"/></l>                 <r>Cupido<s n="np"/></r></p></e>
+<e>       <p><l>Cupidon<s n="np"/><s n="ant"/></l>     <r>Cupido<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Cupido<s n="np"/><s n="al"/></l>       <r>Cupido<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Dédale<s n="np"/></l>                  <r>Dédalo<s n="np"/></r></p></e>
 <e>       <p><l>Démocrite<s n="np"/></l>               <r>Demócrito de Abdera<s n="np"/></r></p></e>
 <e>       <p><l>Démosthène<s n="np"/></l>              <r>Demóstenes<s n="np"/></r></p></e>
 <e>       <p><l>Dioclétien<s n="np"/></l>              <r>Diocleciano<s n="np"/></r></p></e>
 <e>       <p><l>Dracula<s n="np"/></l>                 <r>Drácula<s n="np"/></r></p></e>
-<e>       <p><l>Alexandre Dumas<s n="np"/></l>         <r>Alexandre Dumas, pai<s n="np"/></r></p></e>
 <e>       <p><l>Albrecht Dürer<s n="np"/></l>          <r>Albrecht Dürer<s n="np"/></r></p></e>
 <e>       <p><l>Le Cuirassé Potemkine<s n="np"/></l>   <r>Bronenosets Potyomkin<s n="np"/></r></p></e>
 <e>       <p><l>Ennius<s n="np"/></l>                  <r>Quinto Ênio<s n="np"/></r></p></e>
@@ -4917,17 +4898,17 @@
 <e>       <p><l>Strabon<s n="np"/></l>                 <r>Estrabão<s n="np"/></r></p></e>
 <e>       <p><l>Euclide<s n="np"/></l>                 <r>Euclides<s n="np"/></r></p></e>
 <e>       <p><l>Euripide<s n="np"/></l>                <r>Eurípedes<s n="np"/></r></p></e>
-<e>       <p><l>Exode<s n="np"/></l>                   <r>Livro do Êxodo<s n="np"/></r></p></e>
+<e>       <p><l>Exode<s n="np"/></l>                   <r>Êxodo<s n="np"/></r></p></e>
 <e>       <p><l>duc d'Édimbourg<s n="np"/></l>         <r>Duque de Edimburgo<s n="np"/></r></p></e>
 <e>       <p><l>Phénix<s n="np"/></l>                  <r>Fênix<s n="np"/></r></p></e>
 <e>       <p><l>Marsile Ficin<s n="np"/></l>           <r>Marsílio Ficino<s n="np"/></r></p></e>
 <e>       <p><l>Phidias<s n="np"/></l>                 <r>Fídias<s n="np"/></r></p></e>
-<e>       <p><l>Phrynichos<s n="np"/></l>              <r>Frínico (poeta trágico)<s n="np"/></r></p></e>
+<e>       <p><l>Phrynichos<s n="np"/></l>              <r>Frínico<s n="np"/></r></p></e>
 <e>       <p><l>Mouammar Kadhafi<s n="np"/></l>        <r>Muammar al-Gaddafi<s n="np"/></r></p></e>
 <e>       <p><l>Serge Gainsbourg<s n="np"/></l>        <r>Serge Gainsbourg<s n="np"/></r></p></e>
 <e>       <p><l>Galatée<s n="np"/></l>                 <r>Galatea<s n="np"/></r></p></e>
-<e>       <p><l>Vasco da Gama<s n="np"/></l>           <r>Vasco da Gama (desambiguação)<s n="np"/></r></p></e>
-<e>       <p><l>Ganymède<s n="np"/></l>                <r>Ganímedes (mitologia)<s n="np"/></r></p></e>
+<e>       <p><l>Vasco da Gama<s n="np"/></l>           <r>Vasco da Gama<s n="np"/></r></p></e>
+<e>       <p><l>Ganymède<s n="np"/></l>                <r>Ganímedes<s n="np"/></r></p></e>
 <e>       <p><l>Gemeaux<s n="np"/></l>                 <r>Gemeaux<s n="np"/></r></p></e>
 <e>       <p><l>Gengis Khan<s n="np"/></l>             <r>Gengis Khan<s n="np"/></r></p></e>
 <e>       <p><l>Guerre et Paix<s n="np"/></l>          <r>Guerra e Paz<s n="np"/></r></p></e>
@@ -4983,7 +4964,6 @@
 <e>       <p><l>Méduse<s n="np"/></l>                  <r>Medusa (desambiguação)<s n="np"/></r></p></e>
 <e>       <p><l>Mercure<s n="np"/></l>                 <r>Mercúrio<s n="np"/></r></p></e>
 <e>       <p><l>Messie<s n="np"/></l>                  <r>Messias<s n="np"/></r></p></e>
-<e>       <p><l>Bachar el-Assad<s n="np"/></l>         <r>Bashar al-Assad<s n="np"/></r></p></e>
 <e>       <p><l>Molotov<s n="np"/></l>                 <r>Molotov<s n="np"/></r></p></e>
 <e>       <p><l>Morphée<s n="np"/></l>                 <r>Morfeu<s n="np"/></r></p></e>
 <e>       <p><l>Néfertari<s n="np"/></l>               <r>Nefertari<s n="np"/></r></p></e>
@@ -5021,27 +5001,26 @@
 <e>       <p><l>Thalès<s n="np"/></l>                  <r>Tales de Mileto<s n="np"/></r></p></e>
 <e>       <p><l>Télémaque<s n="np"/></l>               <r>Telêmaco<s n="np"/></r></p></e>
 <e>       <p><l>Mère Teresa<s n="np"/></l>             <r>Madre Teresa de Calcutá<s n="np"/></r></p></e>
-<e>       <p><l>Mère Teresa<s n="np"/></l>             <r>Madre Teresa de Calcutá<s n="np"/></r></p></e>
 <e>       <p><l>Thésée<s n="np"/></l>                  <r>Teseu<s n="np"/></r></p></e>
 <e>       <p><l>Titien<s n="np"/></l>                  <r>Ticiano<s n="np"/></r></p></e>
 <e>       <p><l>Humbert<s n="np"/></l>                 <r>Humbert<s n="np"/></r></p></e>
-<e>       <p><l>Bandeira<s n="np"/></l>                <r>Bandeira (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Bandeira<s n="np"/></l>                <r>Bandeira<s n="np"/></r></p></e>
 <e>       <p><l>Ptolémée<s n="np"/></l>                <r>Ptolemeu<s n="np"/></r></p></e>
 <e>       <p><l>Thomas More<s n="np"/></l>             <r>Thomas More<s n="np"/></r></p></e>
 <e>       <p><l>Torah<s n="np"/></l>                   <r>Torá<s n="np"/></r></p></e>
 <e>       <p><l>Trajan<s n="np"/></l>                  <r>Trajano<s n="np"/></r></p></e>
 <e>       <p><l>Vespasien<s n="np"/></l>               <r>Vespasiano<s n="np"/></r></p></e>
 <e>       <p><l>Virgile<s n="np"/></l>                 <r>Virgílio<s n="np"/></r></p></e>
-<e>       <p><l>Vulcain<s n="np"/></l>                 <r>Vulcano (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Vulcain<s n="np"/></l>                 <r>Vulcano<s n="np"/></r></p></e>
 <e>       <p><l>Jugurtha<s n="np"/></l>                <r>Jugurta<s n="np"/></r></p></e>
 <e>       <p><l>Cy Twombly<s n="np"/></l>              <r>Cy Twombly<s n="np"/></r></p></e>
-<e>       <p><l>Kim Ki-duk<s n="np"/></l>              <r>Kim Ki-Duk<s n="np"/></r></p></e>
+<e>       <p><l>Kim Ki-duk<s n="np"/></l>              <r>Kim Ki-duk<s n="np"/></r></p></e>
 <e>       <p><l>Joseph Staline<s n="np"/></l>          <r>Josef Stalin<s n="np"/></r></p></e>
 <e>       <p><l>Mapfre<s n="np"/></l>                  <r>Mapfre<s n="np"/></r></p></e>
 <e>       <p><l>Citibank<s n="np"/></l>                <r>Citibank<s n="np"/></r></p></e>
 <e>       <p><l>Wharton<s n="np"/></l>                 <r>Wharton<s n="np"/></r></p></e>
 <e>       <p><l>Adana<s n="np"/></l>                   <r>Adana<s n="np"/></r></p></e>
-<e>       <p><l>Adige<s n="np"/></l>                   <r>Rio Ádige<s n="np"/></r></p></e>
+<e>       <p><l>Adige<s n="np"/></l>                   <r>Ádige<s n="np"/></r></p></e>
 <e>       <p><l>Adria<s n="np"/></l>                   <r>Adria<s n="np"/></r></p></e>
 <e>       <p><l>Aerosmith<s n="np"/></l>               <r>Aerosmith<s n="np"/></r></p></e>
 <e>       <p><l>Ainsi parlait Zarathoustra<s n="np"/></l><r>Assim Falou Zaratustra<s n="np"/></r></p></e>
@@ -5050,14 +5029,13 @@
 <e>       <p><l>Alceste<s n="np"/></l>                 <r>Alceste<s n="np"/></r></p></e>
 <e>       <p><l>Alcoa<s n="np"/></l>                   <r>Alcoa<s n="np"/></r></p></e>
 <e>       <p><l>Aldo<s n="np"/></l>                    <r>Aldo<s n="np"/></r></p></e>
-<e>       <p><l>Alexa<s n="np"/></l>                   <r>Alexa (desambiguação)<s n="np"/></r></p></e>
 <e>       <p><l>Alfa Romeo<s n="np"/></l>              <r>Alfa Romeo<s n="np"/></r></p></e>
 <e>       <p><l>Alias<s n="np"/></l>                   <r>Alias<s n="np"/></r></p></e>
 <e>       <p><l>Allison<s n="np"/></l>                 <r>Allison<s n="np"/></r></p></e>
 <e>       <p><l>Almageste<s n="np"/></l>               <r>Almagesto<s n="np"/></r></p></e>
 <e>       <p><l>ALM<s n="np"/></l>                     <r>Alm<s n="np"/></r></p></e>
 <e>       <p><l>Alpha<s n="np"/></l>                   <r>Α<s n="np"/></r></p></e>
-<e>       <p><l>Alpine<s n="np"/></l>                  <r>Alpine (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Alpine<s n="np"/></l>                  <r>Alpine<s n="np"/></r></p></e>
 <e>       <p><l>Altadis<s n="np"/></l>                 <r>Altadis<s n="np"/></r></p></e>
 <e>       <p><l>Alvin<s n="np"/></l>                   <r>Alvin<s n="np"/></r></p></e>
 <e>       <p><l>Amaral<s n="np"/></l>                  <r>Amaral<s n="np"/></r></p></e>
@@ -5068,7 +5046,7 @@
 <e>       <p><l>bataille d'Austerlitz<s n="np"/></l>   <r>Batalha de Austerlitz<s n="np"/></r></p></e>
 <e>       <p><l>Cosworth<s n="np"/></l>                <r>Cosworth<s n="np"/></r></p></e>
 <e>       <p><l>Deportivo Alavés<s n="np"/></l>        <r>Deportivo Alavés<s n="np"/></r></p></e>
-<e>       <p><l>Discovery<s n="np"/></l>               <r>Discovery (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Discovery<s n="np"/></l>               <r>Discovery<s n="np"/></r></p></e>
 <e>       <p><l>Euskadi ta Askatasuna<s n="np"/></l>   <r>Euskadi Ta Askatasuna<s n="np"/></r></p></e>
 <e>       <p><l>Hansen<s n="np"/></l>                  <r>Hansen<s n="np"/></r></p></e>
 <e>       <p><l>Invincible Armada<s n="np"/></l>       <r>Invencível Armada<s n="np"/></r></p></e>
@@ -5087,10 +5065,10 @@
 <e>       <p><l>Abraham<s n="np"/></l>                 <r>Abraão<s n="np"/></r></p></e>
 <e>       <p><l>Absalom<s n="np"/></l>                 <r>Absalão<s n="np"/></r></p></e>
 <e>       <p><l>Adel<s n="np"/></l>                    <r>Adel<s n="np"/></r></p></e>
-<e>       <p><l>Adolphe<s n="np"/></l>                 <r>Adolfo<s n="np"/></r></p></e>
-<e>       <p><l>Adriano<s n="np"/></l>                 <r>Adriano (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Adolphe<s n="np"/></l>                 <r>Adolphe<s n="np"/></r></p></e>
+<e>       <p><l>Adriano<s n="np"/></l>                 <r>Adriano<s n="np"/></r></p></e>
 <e>       <p><l>Agamemnon<s n="np"/></l>               <r>Agamemnon<s n="np"/></r></p></e>
-<e>       <p><l>Agénor<s n="np"/></l>                  <r>Agenor (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Agénor<s n="np"/></l>                  <r>Agenor<s n="np"/></r></p></e>
 <e>       <p><l>Agricola<s n="np"/></l>                <r>Agrícola<s n="np"/></r></p></e>
 <e>       <p><l>Agrippa<s n="np"/></l>                 <r>Agrippa<s n="np"/></r></p></e>
 <e>       <p><l>Aida<s n="np"/></l>                    <r>Aida<s n="np"/></r></p></e>
@@ -5100,8 +5078,8 @@
 <e>       <p><l>Aizarnazabal<s n="np"/></l>            <r>Aizarnazabal<s n="np"/></r></p></e>
 <e>       <p><l>Akbar<s n="np"/></l>                   <r>Akbar<s n="np"/></r></p></e>
 <e>       <p><l>Akihito<s n="np"/></l>                 <r>Akihito<s n="np"/></r></p></e>
-<e>       <p><l>Akira<s n="np"/></l>                   <r>Akira (desambiguação)<s n="np"/></r></p></e>
-<e>       <p><l>Akita<s n="np"/></l>                   <r>Akita (cidade)<s n="np"/></r></p></e>
+<e>       <p><l>Akira<s n="np"/></l>                   <r>Akira<s n="np"/></r></p></e>
+<e>       <p><l>Akita<s n="np"/></l>                   <r>Akita<s n="np"/></r></p></e>
 <e>       <p><l>Albert Ier de Monaco<s n="np"/></l>    <r>Alberto I, Príncipe do Mónaco<s n="np"/></r></p></e>
 <e>       <p><l>Albrecht Altdorfer<s n="np"/></l>      <r>Albrecht Altdorfer<s n="np"/></r></p></e>
 <e>       <p><l>Alcamène<s n="np"/></l>                <r>Alcamenes<s n="np"/></r></p></e>
@@ -5111,40 +5089,37 @@
 <e>       <p><l>Alessandro<s n="np"/></l>              <r>Alessandro<s n="np"/></r></p></e>
 <e>       <p><l>Alessandro Algardi<s n="np"/></l>      <r>Alessandro Algardi<s n="np"/></r></p></e>
 <e>       <p><l>Alexandre le Grand<s n="np"/></l>      <r>Alexandre, o Grande<s n="np"/></r></p></e>
-<e>       <p><l>Alive<s n="np"/></l>                   <r>Alive (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Alive<s n="np"/></l>                   <r>Alive<s n="np"/></r></p></e>
 <e>       <p><l>Alizée<s n="np"/></l>                  <r>Alizée<s n="np"/></r></p></e>
 <e>       <p><l>Alkiza<s n="np"/></l>                  <r>Alkiza<s n="np"/></r></p></e>
 <e>       <p><l>Allah<s n="np"/></l>                   <r>Alá<s n="np"/></r></p></e>
 <e>       <p><l>Allan<s n="np"/></l>                   <r>Allan<s n="np"/></r></p></e>
-<e>       <p><l>Almería<s n="np"/></l>                 <r>Almeria<s n="np"/></r></p></e>
-<e>       <p><l>Almodovar<s n="np"/></l>               <r>Almodóvar (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Almodovar<s n="np"/></l>               <r>Almodóvar<s n="np"/></r></p></e>
 <e>       <p><l>Alphonse<s n="np"/></l>                <r>Afonso<s n="np"/></r></p></e>
 <e>       <p><l>Alvalade<s n="np"/></l>                <r>Alvalade<s n="np"/></r></p></e>
-<e>       <p><l>Amadeus<s n="np"/></l>                 <r>Amadeus (desambiguação)<s n="np"/></r></p></e>
-<e>       <p><l>Amaro<s n="np"/></l>                   <r>Amaro (Itália)<s n="np"/></r></p></e>
+<e>       <p><l>Amadeus<s n="np"/></l>                 <r>Amadeus<s n="np"/></r></p></e>
+<e>       <p><l>Amaro<s n="np"/></l>                   <r>Amaro<s n="np"/></r></p></e>
 <e>       <p><l>Anaclet<s n="np"/></l>                 <r>Papa Anacleto<s n="np"/></r></p></e>
 <e>       <p><l>Anacréon<s n="np"/></l>                <r>Anacreonte<s n="np"/></r></p></e>
 <e>       <p><l>Anatolie<s n="np"/></l>                <r>Anatólia<s n="np"/></r></p></e>
 <e>       <p><l>Andrea del Sarto<s n="np"/></l>        <r>Andrea del Sarto<s n="np"/></r></p></e>
 <e>       <p><l>Andre Agassi<s n="np"/></l>            <r>Andre Agassi<s n="np"/></r></p></e>
-<e>       <p><l>Angel<s n="np"/></l>                   <r>Angel (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Angel<s n="np"/></l>                   <r>Angel<s n="np"/></r></p></e>
 <e>       <p><l>Anne Boleyn<s n="np"/></l>             <r>Ana Bolena<s n="np"/></r></p></e>
 <e>       <p><l>Anne d'Autriche<s n="np"/></l>         <r>Ana de Áustria<s n="np"/></r></p></e>
 <e>       <p><l>Aphrodite<s n="np"/></l>               <r>Afrodite<s n="np"/></r></p></e>
-<e>       <p><l>Astérix<s n="np"/></l>                 <r>Asterix (personagem)<s n="np"/></r></p></e>
 <e>       <p><l>Averroès<s n="np"/></l>                <r>Averróis<s n="np"/></r></p></e>
 <e>       <p><l>Avicenne<s n="np"/></l>                <r>Avicena<s n="np"/></r></p></e>
 <e>       <p><l>Bacchus<s n="np"/></l>                 <r>Baco<s n="np"/></r></p></e>
 <e>       <p><l>Bianchi<s n="np"/></l>                 <r>Bianchi<s n="np"/></r></p></e>
 <e>       <p><l>Chayanne<s n="np"/></l>                <r>Chayanne<s n="np"/></r></p></e>
 <e>       <p><l>Dario Fo<s n="np"/></l>                <r>Dario Fo<s n="np"/></r></p></e>
-<e>       <p><l>Diego de Almagro<s n="np"/></l>        <r>Diego de Almagro, o Velho<s n="np"/></r></p></e>
 <e>       <p><l>Edgar Allan Poe<s n="np"/></l>         <r>Edgar Allan Poe<s n="np"/></r></p></e>
 <e>       <p><l>Etxebarria<s n="np"/></l>              <r>Etxebarria<s n="np"/></r></p></e>
 <e>       <p><l>Evans<s n="np"/></l>                   <r>Evans<s n="np"/></r></p></e>
 <e>       <p><l>Francis Bacon<s n="np"/></l>           <r>Francis Bacon<s n="np"/></r></p></e>
 <e>       <p><l>Fran<s n="np"/></l>                    <r>Fran<s n="np"/></r></p></e>
-<e>       <p><l>Gari<s n="np"/></l>                    <r>Gari (culinária japonesa)<s n="np"/></r></p></e>
+<e>       <p><l>Gari<s n="np"/></l>                    <r>Gari<s n="np"/></r></p></e>
 <e>       <p><l>George Berkeley<s n="np"/></l>         <r>George Berkeley<s n="np"/></r></p></e>
 <e>       <p><l>Golfe d'Anadyr<s n="np"/></l>          <r>Golfo do Anadyr<s n="np"/></r></p></e>
 <e>       <p><l>Goñi<s n="np"/></l>                    <r>Goñi<s n="np"/></r></p></e>
@@ -5161,14 +5136,12 @@
 <e>       <p><l>Marge<s n="np"/></l>                   <r>Marge<s n="np"/></r></p></e>
 <e>       <p><l>Matthew<s n="np"/></l>                 <r>Matthew<s n="np"/></r></p></e>
 <e>       <p><l>Mikhaïl Aleksandrovitch Bakounine<s n="np"/></l><r>Mikhail Bakunin<s n="np"/></r></p></e>
-<e>       <p><l>Mustafa Kemal Atatürk<s n="np"/></l>   <r>Kemal Atatürk<s n="np"/></r></p></e>
-<e>       <p><l>Nicanor<s n="np"/></l>                 <r>Nicanor (desambiguação)<s n="np"/></r></p></e>
+<e>       <p><l>Nicanor<s n="np"/></l>                 <r>Nicanor<s n="np"/></r></p></e>
 <e>       <p><l>Paolo<s n="np"/></l>                   <r>Paolo<s n="np"/></r></p></e>
 <e>       <p><l>Peio<s n="np"/></l>                    <r>Peio<s n="np"/></r></p></e>
 <e>       <p><l>Pierre Abélard<s n="np"/></l>          <r>Pedro Abelardo<s n="np"/></r></p></e>
 <e>       <p><l>Roger Bacon<s n="np"/></l>             <r>Roger Bacon<s n="np"/></r></p></e>
 <e>       <p><l>Scarlatti<s n="np"/></l>               <r>Scarlatti<s n="np"/></r></p></e>
-<e>       <p><l>Tiago<s n="np"/></l>                   <r>Tiago Mendes<s n="np"/></r></p></e>
 <e>       <p><l>Tiko<s n="np"/></l>                    <r>Tiko<s n="np"/></r></p></e>
 <e>       <p><l>Yeste<s n="np"/></l>                   <r>Yeste<s n="np"/></r></p></e>
 <e>       <p><l>Zubieta<s n="np"/></l>                 <r>Zubieta<s n="np"/></r></p></e>
@@ -5329,7 +5302,6 @@
 <e>       <p><l>Cristóbal<s n="np"/></l>               <r>Cristóbal<s n="np"/></r></p></e>
 <e>       <p><l>Cruise<s n="np"/></l>                  <r>Cruise<s n="np"/></r></p></e>
 <e>       <p><l>Cuevas<s n="np"/></l>                  <r>Cuevas<s n="np"/></r></p></e>
-<e>       <p><l>Cupido<s n="np"/></l>                  <r>Cupido<s n="np"/></r></p></e>
 <e>       <p><l>Cárcer<s n="np"/></l>                  <r>Cárcer<s n="np"/></r></p></e>
 <e>       <p><l>Damián<s n="np"/></l>                  <r>Damián<s n="np"/></r></p></e>
 <e>       <p><l>Darío<s n="np"/></l>                   <r>Darío<s n="np"/></r></p></e>
@@ -5430,7 +5402,6 @@
 <e>       <p><l>Henares<s n="np"/></l>                 <r>Henares<s n="np"/></r></p></e>
 <e>       <p><l>Heras<s n="np"/></l>                   <r>Heras<s n="np"/></r></p></e>
 <e>       <p><l>Hercule<s n="np"/></l>                 <r>Hercule<s n="np"/></r></p></e>
-<e>       <p><l>Hermes<s n="np"/></l>                  <r>Hermes<s n="np"/></r></p></e>
 <e>       <p><l>Herminia<s n="np"/></l>                <r>Herminia<s n="np"/></r></p></e>
 <e>       <p><l>Hernán<s n="np"/></l>                  <r>Hernán<s n="np"/></r></p></e>
 <e>       <p><l>Herrero<s n="np"/></l>                 <r>Herrero<s n="np"/></r></p></e>
@@ -5499,7 +5470,6 @@
 <e>       <p><l>Lobato<s n="np"/></l>                  <r>Lobato<s n="np"/></r></p></e>
 <e>       <p><l>Loli<s n="np"/></l>                    <r>Loli<s n="np"/></r></p></e>
 <e>       <p><l>Lorca<s n="np"/></l>                   <r>Lorca<s n="np"/></r></p></e>
-<e>       <p><l>Lorena<s n="np"/></l>                  <r>Lorena<s n="np"/></r></p></e>
 <e>       <p><l>Lorente<s n="np"/></l>                 <r>Lorente<s n="np"/></r></p></e>
 <e>       <p><l>Lozoya<s n="np"/></l>                  <r>Lozoya<s n="np"/></r></p></e>
 <e>       <p><l>Lucio<s n="np"/></l>                   <r>Lucio<s n="np"/></r></p></e>
@@ -5740,7 +5710,6 @@
 <e>       <p><l>Zamorano<s n="np"/></l>                <r>Zamorano<s n="np"/></r></p></e>
 <e>       <p><l>Zanón<s n="np"/></l>                   <r>Zanón<s n="np"/></r></p></e>
 <e>       <p><l>Zapater<s n="np"/></l>                 <r>Zapater<s n="np"/></r></p></e>
-<e>       <p><l>Zaragoza<s n="np"/></l>                <r>Zaragoza<s n="np"/></r></p></e>
 <e>       <p><l>Zeta<s n="np"/></l>                    <r>Zeta<s n="np"/></r></p></e>
 <e>       <p><l>Zidane<s n="np"/></l>                  <r>Zidane<s n="np"/></r></p></e>
 <e>       <p><l>Zorrilla<s n="np"/></l>                <r>Zorrilla<s n="np"/></r></p></e>
@@ -5778,6 +5747,7 @@
 <e>       <p><l>Ahtisaari<s n="np"/></l>               <r>Ahtisaari<s n="np"/></r></p></e>
 <e>       <p><l>Alain<s n="np"/></l>                   <r>Alain<s n="np"/></r></p></e>
 <e>       <p><l>Alcatel<s n="np"/></l>                 <r>Alcatel<s n="np"/></r></p></e>
+<e>       <p><l>Alexandre Dumas<s n="np"/></l>         <r>Alexandre Dumas<s n="np"/></r></p></e>
 <e>       <p><l>al-Jezira<s n="np"/></l>               <r>al-Jezira<s n="np"/></r></p></e>
 <e>       <p><l>Alliot-Marie<s n="np"/></l>            <r>Alliot-Marie<s n="np"/></r></p></e>
 <e>       <p><l>al-Maliki<s n="np"/></l>               <r>al-Maliki<s n="np"/></r></p></e>
@@ -6473,7 +6443,6 @@
 <e>       <p><l>Antelo<s n="np"/></l>                  <r>Antelo<s n="np"/></r></p></e>
 <e>       <p><l>Anthonin<s n="np"/></l>                <r>Anthonin<s n="np"/></r></p></e>
 <e>       <p><l>Antía<s n="np"/></l>                   <r>Antía<s n="np"/></r></p></e>
-<!--<e>       <p><l>Mastercard<s n="np"/></l>              <r>Mastercard<s n="np"/></r></p></e>-->
 <e>       <p><l>Antonella<s n="np"/></l>               <r>Antonella<s n="np"/></r></p></e>
 <e>       <p><l>Taraf<s n="np"/></l>                   <r>Taraf<s n="np"/></r></p></e>
 <e>       <p><l>Antonelli<s n="np"/></l>               <r>Antonelli<s n="np"/></r></p></e>
@@ -6682,8 +6651,8 @@
 <e>       <p><l>Rapoport<s n="np"/></l>                <r>Rapoport<s n="np"/></r></p></e>
 <e>       <p><l>Boimare<s n="np"/></l>                 <r>Boimare<s n="np"/></r></p></e>
 <e>       <p><l>Bastille<s n="np"/></l>                <r>Bastille<s n="np"/></r></p></e>
-<e>       <p><l>Urkia<s n="np"/></l>                   <r>Urkia<s n="np"/></r></p></e>
-<e>       <p><l>URKIA<s n="np"/></l>                   <r>URKIA<s n="np"/></r></p></e>
+<e>       <p><l>Urkia<s n="np"/><s n="ant"/></l>       <r>Urkia<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>URKIA<s n="np"/><s n="al"/></l>        <r>URKIA<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Unicredito<s n="np"/></l>              <r>Unicredito<s n="np"/></r></p></e>
 <e>       <p><l>Reunion<s n="np"/></l>                 <r>Reunion<s n="np"/></r></p></e>
 <e>       <p><l>Liaño<s n="np"/></l>                   <r>Liaño<s n="np"/></r></p></e>
@@ -6957,11 +6926,11 @@
 <e>       <p><l>Gerolsteiner<s n="np"/></l>            <r>Gerolsteiner<s n="np"/></r></p></e>
 <e>       <p><l>Júbilo<s n="np"/></l>                  <r>Júbilo<s n="np"/></r></p></e>
 <e>       <p><l>Zearra<s n="np"/></l>                  <r>Zearra<s n="np"/></r></p></e>
-<e>       <p><l>Kutxa<s n="np"/></l>                   <r>Kutxa<s n="np"/></r></p></e>
+<e>       <p><l>Kutxa<s n="np"/><s n="ant"/></l>       <r>Kutxa<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>kutxa<s n="np"/><s n="al"/></l>        <r>kutxa<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>MCC<s n="np"/></l>                     <r>MCC<s n="np"/></r></p></e>
 <e>       <p><l>Norbolsa<s n="np"/></l>                <r>Norbolsa<s n="np"/></r></p></e>
 <e>       <p><l>Eolia<s n="np"/></l>                   <r>Eolia<s n="np"/></r></p></e>
-<e>       <p><l>kutxa<s n="np"/></l>                   <r>kutxa<s n="np"/></r></p></e>
 <e>       <p><l>pdf<s n="np"/></l>                     <r>pdf<s n="np"/></r></p></e>
 <e>       <p><l>PDA<s n="np"/></l>                     <r>PDA<s n="np"/></r></p></e>
 <e>       <p><l>Obarema<s n="np"/></l>                 <r>Obarema<s n="np"/></r></p></e>
@@ -7771,7 +7740,6 @@
 <e>       <p><l>Magie<s n="np"/></l>                   <r>Magie<s n="np"/></r></p></e>
 <e>       <p><l>Mariasun<s n="np"/></l>                <r>Mariasun<s n="np"/></r></p></e>
 <e>       <p><l>Vitorica<s n="np"/></l>                <r>Vitorica<s n="np"/></r></p></e>
-<e>       <p><l>Bachar Al-Assad<s n="np"/></l>         <r>Bachar Al-Assad<s n="np"/></r></p></e>
 <e>       <p><l>Saralegi<s n="np"/></l>                <r>Saralegi<s n="np"/></r></p></e>
 <e>       <p><l>Saleh<s n="np"/></l>                   <r>Saleh<s n="np"/></r></p></e>
 <e>       <p><l>Said<s n="np"/></l>                    <r>Said<s n="np"/></r></p></e>
@@ -9295,264 +9263,37 @@
 <e>       <p><l>Hannibal Barca<s n="np"/></l>          <r>Hannibal Barca<s n="np"/></r></p></e>
 <e>       <p><l>Ankaraspor<s n="np"/></l>              <r>Ankaraspor<s n="np"/></r></p></e>
 <e>       <p><l>Chanel<s n="np"/></l>                  <r>Chanel<s n="np"/></r></p></e>
-<e r="RL"><p><l>Aquarium<s n="np"/></l>                <r>Aquarium<s n="np"/></r></p></e>
-<e r="RL"><p><l>Achille<s n="np"/></l>                 <r>Achille<s n="np"/></r></p></e>
-<e r="RL"><p><l>Grand Schisme d'Occident<s n="np"/></l><r>Grand Schisme d'Occident<s n="np"/></r></p></e>
-<e r="RL"><p><l>Colonnes d'Hercule<s n="np"/></l>      <r>Colonnes d'Hercule<s n="np"/></r></p></e>
-<e r="RL"><p><l>mer Baltique<s n="np"/></l>            <r>mer Baltique<s n="np"/></r></p></e>
-<e>       <p><l>Catherine d'Aragon<s n="np"/></l>      <r>Catherine d'Aragon<s n="np"/></r></p></e>
-<e>       <p><l>mer Adriatique<s n="np"/></l>          <r>mer Adriatique<s n="np"/></r></p></e>
-<e>       <p><l>Parti social-démocrate d'Allemagne<s n="np"/></l><r>Parti social-démocrate d'Allemagne<s n="np"/></r></p></e>
-<e>       <p><l>Union européenne<s n="np"/></l>        <r>Union européenne<s n="np"/></r></p></e>
-<e>       <p><l>Déclaration universelle des droits de l'homme<s n="np"/></l><r>Déclaration universelle des droits de l'homme<s n="np"/></r></p></e>
-<e>       <p><l>Organisation des Nations unies<s n="np"/></l><r>Organisation des Nations unies<s n="np"/></r></p></e>
-<e>       <p><l>Conseil de sécurité des Nations unies<s n="np"/></l><r>Conseil de sécurité des Nations unies<s n="np"/></r></p></e>
-<e>       <p><l>Bible<s n="np"/></l>                   <r>Bible<s n="np"/></r></p></e>
-<e>       <p><l>Jean Cabot<s n="np"/></l>              <r>Jean Cabot<s n="np"/></r></p></e>
-<e>       <p><l>Caïphe<s n="np"/></l>                  <r>Caïphe<s n="np"/></r></p></e>
-<e>       <p><l>Caïn<s n="np"/></l>                    <r>Caïn<s n="np"/></r></p></e>
-<e>       <p><l>Jean Calvin<s n="np"/></l>             <r>Jean Calvin<s n="np"/></r></p></e>
-<e>       <p><l>Chambre des Lords<s n="np"/></l>       <r>Chambre des Lords<s n="np"/></r></p></e>
-<e>       <p><l>Cambyse II<s n="np"/></l>              <r>Cambyse II<s n="np"/></r></p></e>
-<e>       <p><l>Chanson de Roland<s n="np"/></l>       <r>Chanson de Roland<s n="np"/></r></p></e>
-<e>       <p><l>Chapelle Sixtine<s n="np"/></l>        <r>Chapelle Sixtine<s n="np"/></r></p></e>
-<e>       <p><l>Carloman<s n="np"/></l>                <r>Carloman<s n="np"/></r></p></e>
-<e>       <p><l>Charles Martel<s n="np"/></l>          <r>Charles Martel<s n="np"/></r></p></e>
-<e>       <p><l>Maison Blanche<s n="np"/></l>          <r>Maison Blanche<s n="np"/></r></p></e>
-<e>       <p><l>Cassandre<s n="np"/></l>               <r>Cassandre<s n="np"/></r></p></e>
-<e>       <p><l>Cassiopée<s n="np"/></l>               <r>Cassiopée<s n="np"/></r></p></e>
-<e>       <p><l>Catherine de Médicis<s n="np"/></l>    <r>Catherine de Médicis<s n="np"/></r></p></e>
-<e>       <p><l>Jules César<s n="np"/></l>             <r>Jules César<s n="np"/></r></p></e>
-<e>       <p><l>Organisation mondiale du tourisme<s n="np"/></l><r>Organisation mondiale du tourisme<s n="np"/></r></p></e>
-<e>       <p><l>prince des Asturies<s n="np"/></l>     <r>prince des Asturies<s n="np"/></r></p></e>
-<e>       <p><l>Rois mages<s n="np"/></l>              <r>Rois mages<s n="np"/></r></p></e>
-<e>       <p><l>Gueorgui Parvanov<s n="np"/></l>       <r>Gueorgui Parvanov<s n="np"/></r></p></e>
-<e>       <p><l>Tassos Papadopoulos<s n="np"/></l>     <r>Tassos Papadopoulos<s n="np"/></r></p></e>
-<e>       <p><l>Mikheil Saakachvili<s n="np"/></l>     <r>Mikheil Saakachvili<s n="np"/></r></p></e>
-<e>       <p><l>Károlos Papoúlias<s n="np"/></l>       <r>Károlos Papoúlias<s n="np"/></r></p></e>
-<e>       <p><l>Lech<s n="np"/></l>                    <r>Lech<s n="np"/></r></p></e>
-<e>       <p><l>Vladimir Poutine<s n="np"/></l>        <r>Vladimir Poutine<s n="np"/></r></p></e>
-<e>       <p><l>Viktor Iouchtchenko<s n="np"/></l>     <r>Viktor Iouchtchenko<s n="np"/></r></p></e>
-<e>       <p><l>Mikhaïl Gorbatchev<s n="np"/></l>      <r>Mikhaïl Gorbatchev<s n="np"/></r></p></e>
-<e>       <p><l>Nicanor Duarte Frutos<s n="np"/></l>   <r>Nicanor Duarte Frutos<s n="np"/></r></p></e>
-<e>       <p><l>Robert Kotcharian<s n="np"/></l>       <r>Robert Kotcharian<s n="np"/></r></p></e>
-<e>       <p><l>Kalkot Matas Kelekele<s n="np"/></l>   <r>Kalkot Matas Kelekele<s n="np"/></r></p></e>
-<e>       <p><l>Miguel Ángel Revilla Roiz<s n="np"/></l><r>Miguel Ángel Revilla Roiz<s n="np"/></r></p></e>
-<e>       <p><l>Océanie<s n="np"/></l>                 <r>Océanie<s n="np"/></r></p></e>
-<e>       <p><l>Atlético de Madrid<s n="np"/></l>      <r>Atlético de Madrid<s n="np"/></r></p></e>
-<e>       <p><l>Real Sociedad<s n="np"/></l>           <r>Real Sociedad<s n="np"/></r></p></e>
-<e>       <p><l>Fabian<s n="np"/></l>                  <r>Fabian<s n="np"/></r></p></e>
 <e>       <p><l>Standard<s n="np"/></l>                <r>Standard<s n="np"/></r></p></e>
 <e>       <p><l>Athletic Bilbao<s n="np"/></l>         <r>Athletic Bilbao<s n="np"/></r></p></e>
 <e>       <p><l>Sandy<s n="np"/></l>                   <r>Sandy<s n="np"/></r></p></e>
 <e>       <p><l>Giuliana<s n="np"/></l>                <r>Giuliana<s n="np"/></r></p></e>
 <e>       <p><l>Recreativo de Huelva<s n="np"/></l>    <r>Recreativo de Huelva<s n="np"/></r></p></e>
-<e>       <p><l>Cyrille<s n="np"/></l>                 <r>Cyrille<s n="np"/></r></p></e>
 <e>       <p><l>Celestino<s n="np"/></l>               <r>Celestino<s n="np"/></r></p></e>
 <e>       <p><l>Valira<s n="np"/></l>                  <r>Valira<s n="np"/></r></p></e>
-<e>       <p><l>dalaï-lama<s n="np"/></l>              <r>dalaï-lama<s n="np"/></r></p></e>
-<e>       <p><l>Reporting<s n="np"/></l>               <r>Reporting<s n="np"/></r></p></e>
-<e>       <p><l>Casse-Noisette<s n="np"/></l>          <r>Casse-Noisette<s n="np"/></r></p></e>
 <e>       <p><l>Rodolphe<s n="np"/></l>                <r>Rodolphe<s n="np"/></r></p></e>
 <e>       <p><l>Kim Jong-il<s n="np"/></l>             <r>Kim Jong-il<s n="np"/></r></p></e>
 <e>       <p><l>Accent<s n="np"/></l>                  <r>Accent<s n="np"/></r></p></e>
-<e>       <p><l>Wiktionnaire<s n="np"/></l>            <r>Wiktionnaire<s n="np"/></r></p></e>
 <e>       <p><l>Epsilon<s n="np"/></l>                 <r>Epsilon<s n="np"/></r></p></e>
-<e>       <p><l>Newsletter<s n="np"/></l>              <r>Newsletter<s n="np"/></r></p></e>
-<e>       <p><l>Orphée<s n="np"/></l>                  <r>Orphée<s n="np"/></r></p></e>
-<e>       <p><l>Hollande<s n="np"/></l>                <r>Hollande<s n="np"/></r></p></e>
 <e>       <p><l>Danny<s n="np"/></l>                   <r>Danny<s n="np"/></r></p></e>
-<e>       <p><l>Super Mardi<s n="np"/></l>             <r>Super Mardi<s n="np"/></r></p></e>
 <e>       <p><l>Roms<s n="np"/></l>                    <r>Roms<s n="np"/></r></p></e>
 <e>       <p><l>Ironman<s n="np"/></l>                 <r>Ironman<s n="np"/></r></p></e>
-<e>       <p><l>Zarate<s n="np"/></l>                  <r>Zarate<s n="np"/></r></p></e>
-<e>       <p><l>Jeux olympiques<s n="np"/></l>         <r>Jeux olympiques<s n="np"/></r></p></e>
 <e>       <p><l>Caixa<s n="np"/></l>                   <r>Caixa<s n="np"/></r></p></e>
-<e>       <p><l>Journal<s n="np"/></l>                 <r>Journal<s n="np"/></r></p></e>
-<e>       <p><l>Likoud<s n="np"/></l>                  <r>Likoud<s n="np"/></r></p></e>
-<e>       <p><l>Benyamin Netanyahou<s n="np"/></l>     <r>Benyamin Netanyahou<s n="np"/></r></p></e>
-<e>       <p><l>Chambre des députés<s n="np"/></l>     <r>Chambre des députés<s n="np"/></r></p></e>
-<e>       <p><l>Tour d'Espagne<s n="np"/></l>          <r>Tour d'Espagne<s n="np"/></r></p></e>
-<e>       <p><l>Belzébuth<s n="np"/></l>               <r>Belzébuth<s n="np"/></r></p></e>
-<e>       <p><l>Boèce<s n="np"/></l>                   <r>Boèce<s n="np"/></r></p></e>
-<e>       <p><l>pèlerinage de Saint-Jacques-de-Compostelle<s n="np"/></l><r>pèlerinage de Saint-Jacques-de-Compostelle<s n="np"/></r></p></e>
-<e>       <p><l>Capricorne<s n="np"/></l>              <r>Capricorne<s n="np"/></r></p></e>
-<e>       <p><l>Cybèle<s n="np"/></l>                  <r>Cybèle<s n="np"/></r></p></e>
-<e>       <p><l>Cicéron<s n="np"/></l>                 <r>Cicéron<s n="np"/></r></p></e>
-<e>       <p><l>guerre de Cent Ans<s n="np"/></l>      <r>guerre de Cent Ans<s n="np"/></r></p></e>
-<e>       <p><l>Cyrus<s n="np"/></l>                   <r>Cyrus<s n="np"/></r></p></e>
-<e>       <p><l>Cyrus le Jeune<s n="np"/></l>          <r>Cyrus le Jeune<s n="np"/></r></p></e>
-<e>       <p><l>Cléopâtre<s n="np"/></l>               <r>Cléopâtre<s n="np"/></r></p></e>
-<e>       <p><l>Colisée<s n="np"/></l>                 <r>Colisée<s n="np"/></r></p></e>
-<e>       <p><l>Christophe Colomb<s n="np"/></l>       <r>Christophe Colomb<s n="np"/></r></p></e>
-<e>       <p><l>Confucius<s n="np"/></l>               <r>Confucius<s n="np"/></r></p></e>
-<e>       <p><l>Contre-Réforme<s n="np"/></l>          <r>Contre-Réforme<s n="np"/></r></p></e>
-<e>       <p><l>Nicolas Copernic<s n="np"/></l>        <r>Nicolas Copernic<s n="np"/></r></p></e>
-<e>       <p><l>Real Madrid<s n="np"/></l>             <r>Real Madrid<s n="np"/></r></p></e>
-<e>       <p><l>Pierre de Cortone<s n="np"/></l>       <r>Pierre de Cortone<s n="np"/></r></p></e>
-<e>       <p><l>Crassus<s n="np"/></l>                 <r>Crassus<s n="np"/></r></p></e>
-<e>       <p><l>Cupidon<s n="np"/></l>                 <r>Cupidon<s n="np"/></r></p></e>
-<e>       <p><l>Dédale<s n="np"/></l>                  <r>Dédale<s n="np"/></r></p></e>
-<e>       <p><l>Démocrite<s n="np"/></l>               <r>Démocrite<s n="np"/></r></p></e>
-<e>       <p><l>Démosthène<s n="np"/></l>              <r>Démosthène<s n="np"/></r></p></e>
-<e>       <p><l>Dioclétien<s n="np"/></l>              <r>Dioclétien<s n="np"/></r></p></e>
-<e>       <p><l>Dracula<s n="np"/></l>                 <r>Dracula<s n="np"/></r></p></e>
-<e>       <p><l>Alexandre Dumas<s n="np"/></l>         <r>Alexandre Dumas<s n="np"/></r></p></e>
-<e>       <p><l>Le Cuirassé Potemkine<s n="np"/></l>   <r>Le Cuirassé Potemkine<s n="np"/></r></p></e>
-<e>       <p><l>Ennius<s n="np"/></l>                  <r>Ennius<s n="np"/></r></p></e>
-<e>       <p><l>Henri le Navigateur<s n="np"/></l>     <r>Henri le Navigateur<s n="np"/></r></p></e>
-<e>       <p><l>Erik le Rouge<s n="np"/></l>           <r>Erik le Rouge<s n="np"/></r></p></e>
-<e>       <p><l>Jean Scot Érigène<s n="np"/></l>       <r>Jean Scot Érigène<s n="np"/></r></p></e>
-<e>       <p><l>Eschyle<s n="np"/></l>                 <r>Eschyle<s n="np"/></r></p></e>
-<e>       <p><l>Strabon<s n="np"/></l>                 <r>Strabon<s n="np"/></r></p></e>
-<e>       <p><l>Euclide<s n="np"/></l>                 <r>Euclide<s n="np"/></r></p></e>
-<e>       <p><l>Euripide<s n="np"/></l>                <r>Euripide<s n="np"/></r></p></e>
-<e>       <p><l>Exode<s n="np"/></l>                   <r>Exode<s n="np"/></r></p></e>
-<e>       <p><l>duc d'Édimbourg<s n="np"/></l>         <r>duc d'Édimbourg<s n="np"/></r></p></e>
-<e>       <p><l>Phénix<s n="np"/></l>                  <r>Phénix<s n="np"/></r></p></e>
-<e>       <p><l>Marsile Ficin<s n="np"/></l>           <r>Marsile Ficin<s n="np"/></r></p></e>
-<e>       <p><l>Phidias<s n="np"/></l>                 <r>Phidias<s n="np"/></r></p></e>
-<e>       <p><l>Phrynichos<s n="np"/></l>              <r>Phrynichos<s n="np"/></r></p></e>
-<e>       <p><l>Mouammar Kadhafi<s n="np"/></l>        <r>Mouammar Kadhafi<s n="np"/></r></p></e>
-<e>       <p><l>Galatée<s n="np"/></l>                 <r>Galatée<s n="np"/></r></p></e>
-<e>       <p><l>Ganymède<s n="np"/></l>                <r>Ganymède<s n="np"/></r></p></e>
-<e>       <p><l>Guerre et Paix<s n="np"/></l>          <r>Guerre et Paix<s n="np"/></r></p></e>
-<e>       <p><l>guerres balkaniques<s n="np"/></l>     <r>guerres balkaniques<s n="np"/></r></p></e>
-<e>       <p><l>Guillaume Tell<s n="np"/></l>          <r>Guillaume Tell<s n="np"/></r></p></e>
-<e>       <p><l>Héraclès<s n="np"/></l>                <r>Héraclès<s n="np"/></r></p></e>
-<e>       <p><l>Héraclide du Pont<s n="np"/></l>       <r>Héraclide du Pont<s n="np"/></r></p></e>
-<e>       <p><l>Héraclite<s n="np"/></l>               <r>Héraclite<s n="np"/></r></p></e>
-<e>       <p><l>Hérode<s n="np"/></l>                  <r>Hérode<s n="np"/></r></p></e>
-<e>       <p><l>Hérodote<s n="np"/></l>                <r>Hérodote<s n="np"/></r></p></e>
-<e>       <p><l>Hippocrate<s n="np"/></l>              <r>Hippocrate<s n="np"/></r></p></e>
-<e>       <p><l>Homère<s n="np"/></l>                  <r>Homère<s n="np"/></r></p></e>
-<e>       <p><l>Icare<s n="np"/></l>                   <r>Icare<s n="np"/></r></p></e>
-<e>       <p><l>Iphigénie<s n="np"/></l>               <r>Iphigénie<s n="np"/></r></p></e>
-<e>       <p><l>Iliade<s n="np"/></l>                  <r>Iliade<s n="np"/></r></p></e>
-<e>       <p><l>Légion d'honneur<s n="np"/></l>        <r>Légion d'honneur<s n="np"/></r></p></e>
-<e>       <p><l>Inquisition<s n="np"/></l>             <r>Inquisition<s n="np"/></r></p></e>
-<e>       <p><l>Isocrate<s n="np"/></l>                <r>Isocrate<s n="np"/></r></p></e>
-<e>       <p><l>Xénophane<s n="np"/></l>               <r>Xénophane<s n="np"/></r></p></e>
-<e>       <p><l>Xénophon<s n="np"/></l>                <r>Xénophon<s n="np"/></r></p></e>
-<e>       <p><l>Xerxès<s n="np"/></l>                  <r>Xerxès<s n="np"/></r></p></e>
-<e>       <p><l>Jupiter<s n="np"/></l>                 <r>Jupiter<s n="np"/></r></p></e>
-<e>       <p><l>Khéops<s n="np"/></l>                  <r>Khéops<s n="np"/></r></p></e>
-<e>       <p><l>Laocoon<s n="np"/></l>                 <r>Laocoon<s n="np"/></r></p></e>
-<e>       <p><l>Longue Marche<s n="np"/></l>           <r>Longue Marche<s n="np"/></r></p></e>
-<e>       <p><l>Lion<s n="np"/></l>                    <r>Lion<s n="np"/></r></p></e>
-<e>       <p><l>Léonard de Vinci<s n="np"/></l>        <r>Léonard de Vinci<s n="np"/></r></p></e>
-<e>       <p><l>Lépide<s n="np"/></l>                  <r>Lépide<s n="np"/></r></p></e>
-<e>       <p><l>Leucippe<s n="np"/></l>                <r>Leucippe<s n="np"/></r></p></e>
-<e>       <p><l>Lysandre<s n="np"/></l>                <r>Lysandre<s n="np"/></r></p></e>
-<e>       <p><l>Lysimaque<s n="np"/></l>               <r>Lysimaque<s n="np"/></r></p></e>
-<e>       <p><l>Lothaire<s n="np"/></l>                <r>Lothaire<s n="np"/></r></p></e>
-<e>       <p><l>Lucain<s n="np"/></l>                  <r>Lucain<s n="np"/></r></p></e>
-<e>       <p><l>Fernand de Magellan<s n="np"/></l>     <r>Fernand de Magellan<s n="np"/></r></p></e>
-<e>       <p><l>nuages de Magellan<s n="np"/></l>      <r>nuages de Magellan<s n="np"/></r></p></e>
-<e>       <p><l>Mao Zedong<s n="np"/></l>              <r>Mao Zedong<s n="np"/></r></p></e>
-<e>       <p><l>Nicolas Machiavel<s n="np"/></l>       <r>Nicolas Machiavel<s n="np"/></r></p></e>
-<e>       <p><l>Mathusalem<s n="np"/></l>              <r>Mathusalem<s n="np"/></r></p></e>
-<e>       <p><l>Médée<s n="np"/></l>                   <r>Médée<s n="np"/></r></p></e>
-<e>       <p><l>guerres médiques<s n="np"/></l>        <r>guerres médiques<s n="np"/></r></p></e>
-<e>       <p><l>Méduse<s n="np"/></l>                  <r>Méduse<s n="np"/></r></p></e>
-<e>       <p><l>Messie<s n="np"/></l>                  <r>Messie<s n="np"/></r></p></e>
 <e>       <p><l>Bachar el-Assad<s n="np"/></l>         <r>Bachar el-Assad<s n="np"/></r></p></e>
-<e>       <p><l>Morphée<s n="np"/></l>                 <r>Morphée<s n="np"/></r></p></e>
-<e>       <p><l>Néfertari<s n="np"/></l>               <r>Néfertari<s n="np"/></r></p></e>
-<e>       <p><l>Néfertiti<s n="np"/></l>               <r>Néfertiti<s n="np"/></r></p></e>
-<e>       <p><l>Normandie<s n="np"/></l>               <r>Normandie<s n="np"/></r></p></e>
-<e>       <p><l>Odyssée<s n="np"/></l>                 <r>Odyssée<s n="np"/></r></p></e>
-<e>       <p><l>Aristote Onassis<s n="np"/></l>        <r>Aristote Onassis<s n="np"/></r></p></e>
-<e>       <p><l>palais des Tuileries<s n="np"/></l>    <r>palais des Tuileries<s n="np"/></r></p></e>
-<e>       <p><l>Périclès<s n="np"/></l>                <r>Périclès<s n="np"/></r></p></e>
-<e>       <p><l>Perséphone<s n="np"/></l>              <r>Perséphone<s n="np"/></r></p></e>
-<e>       <p><l>Persée<s n="np"/></l>                  <r>Persée<s n="np"/></r></p></e>
-<e>       <p><l>Ponce Pilate<s n="np"/></l>            <r>Ponce Pilate<s n="np"/></r></p></e>
-<e>       <p><l>Pépin le Bref<s n="np"/></l>           <r>Pépin le Bref<s n="np"/></r></p></e>
-<e>       <p><l>Pythagore<s n="np"/></l>               <r>Pythagore<s n="np"/></r></p></e>
-<e>       <p><l>Plaute<s n="np"/></l>                  <r>Plaute<s n="np"/></r></p></e>
-<e>       <p><l>Pline<s n="np"/></l>                   <r>Pline<s n="np"/></r></p></e>
-<e>       <p><l>Pline le Jeune<s n="np"/></l>          <r>Pline le Jeune<s n="np"/></r></p></e>
-<e>       <p><l>Pline l'Ancien<s n="np"/></l>          <r>Pline l'Ancien<s n="np"/></r></p></e>
-<e>       <p><l>Plutarque<s n="np"/></l>               <r>Plutarque<s n="np"/></r></p></e>
-<e>       <p><l>Pomone<s n="np"/></l>                  <r>Pomone<s n="np"/></r></p></e>
-<e>       <p><l>Pompéi<s n="np"/></l>                  <r>Pompéi<s n="np"/></r></p></e>
-<e>       <p><l>Pompée<s n="np"/></l>                  <r>Pompée<s n="np"/></r></p></e>
-<e>       <p><l>Première Guerre mondiale<s n="np"/></l><r>Première Guerre mondiale<s n="np"/></r></p></e>
-<e>       <p><l>guerres puniques<s n="np"/></l>        <r>guerres puniques<s n="np"/></r></p></e>
-<e>       <p><l>Raspoutine<s n="np"/></l>              <r>Raspoutine<s n="np"/></r></p></e>
-<e>       <p><l>Anouar el-Sadate<s n="np"/></l>        <r>Anouar el-Sadate<s n="np"/></r></p></e>
-<e>       <p><l>route de la soie<s n="np"/></l>        <r>route de la soie<s n="np"/></r></p></e>
-<e>       <p><l>Culture<s n="np"/></l>                 <r>Culture<s n="np"/></r></p></e>
-<e>       <p><l>Seconde Guerre mondiale<s n="np"/></l> <r>Seconde Guerre mondiale<s n="np"/></r></p></e>
-<e>       <p><l>Sisyphe<s n="np"/></l>                 <r>Sisyphe<s n="np"/></r></p></e>
-<e>       <p><l>Sophocle<s n="np"/></l>                <r>Sophocle<s n="np"/></r></p></e>
-<e>       <p><l>Thalès<s n="np"/></l>                  <r>Thalès<s n="np"/></r></p></e>
-<e>       <p><l>Télémaque<s n="np"/></l>               <r>Télémaque<s n="np"/></r></p></e>
-<e>       <p><l>Mère Teresa<s n="np"/></l>             <r>Mère Teresa<s n="np"/></r></p></e>
-<e>       <p><l>Titien<s n="np"/></l>                  <r>Titien<s n="np"/></r></p></e>
-<e>       <p><l>Ptolémée<s n="np"/></l>                <r>Ptolémée<s n="np"/></r></p></e>
-<e>       <p><l>Torah<s n="np"/></l>                   <r>Torah<s n="np"/></r></p></e>
-<e>       <p><l>Trajan<s n="np"/></l>                  <r>Trajan<s n="np"/></r></p></e>
-<e>       <p><l>Vespasien<s n="np"/></l>               <r>Vespasien<s n="np"/></r></p></e>
-<e>       <p><l>Virgile<s n="np"/></l>                 <r>Virgile<s n="np"/></r></p></e>
-<e>       <p><l>Vulcain<s n="np"/></l>                 <r>Vulcain<s n="np"/></r></p></e>
-<e>       <p><l>Jugurtha<s n="np"/></l>                <r>Jugurtha<s n="np"/></r></p></e>
-<e>       <p><l>Kim Ki-duk<s n="np"/></l>              <r>Kim Ki-duk<s n="np"/></r></p></e>
-<e>       <p><l>Joseph Staline<s n="np"/></l>          <r>Joseph Staline<s n="np"/></r></p></e>
-<e>       <p><l>Adige<s n="np"/></l>                   <r>Adige<s n="np"/></r></p></e>
-<e>       <p><l>Ainsi parlait Zarathoustra<s n="np"/></l><r>Ainsi parlait Zarathoustra<s n="np"/></r></p></e>
 <e>       <p><l>Alexa<s n="np"/></l>                   <r>Alexa<s n="np"/></r></p></e>
-<e>       <p><l>Almageste<s n="np"/></l>               <r>Almageste<s n="np"/></r></p></e>
-<e>       <p><l>Ancien Régime<s n="np"/></l>           <r>Ancien Régime<s n="np"/></r></p></e>
-<e>       <p><l>Arlequin<s n="np"/></l>                <r>Arlequin<s n="np"/></r></p></e>
-<e>       <p><l>bataille d'Actium<s n="np"/></l>       <r>bataille d'Actium<s n="np"/></r></p></e>
-<e>       <p><l>bataille d'Austerlitz<s n="np"/></l>   <r>bataille d'Austerlitz<s n="np"/></r></p></e>
 <e>       <p><l>Discovery<s n="np"/></l>               <r>Discovery<s n="np"/></r></p></e>
-<e>       <p><l>Invincible Armada<s n="np"/></l>       <r>Invincible Armada<s n="np"/></r></p></e>
-<e>       <p><l>siècle des Lumières<s n="np"/></l>     <r>siècle des Lumières<s n="np"/></r></p></e>
-<e>       <p><l>tour de Babel<s n="np"/></l>           <r>tour de Babel<s n="np"/></r></p></e>
-<e>       <p><l>Abdülhamid II<s n="np"/></l>           <r>Abdülhamid II<s n="np"/></r></p></e>
-<e>       <p><l>Abraham<s n="np"/></l>                 <r>Abraham<s n="np"/></r></p></e>
-<e>       <p><l>Absalom<s n="np"/></l>                 <r>Absalom<s n="np"/></r></p></e>
-<e>       <p><l>Agénor<s n="np"/></l>                  <r>Agénor<s n="np"/></r></p></e>
-<e>       <p><l>Agricola<s n="np"/></l>                <r>Agricola<s n="np"/></r></p></e>
-<e>       <p><l>Albert Ier de Monaco<s n="np"/></l>    <r>Albert Ier de Monaco<s n="np"/></r></p></e>
-<e>       <p><l>Alcamène<s n="np"/></l>                <r>Alcamène<s n="np"/></r></p></e>
-<e>       <p><l>Alcée<s n="np"/></l>                   <r>Alcée<s n="np"/></r></p></e>
-<e>       <p><l>Alexandre le Grand<s n="np"/></l>      <r>Alexandre le Grand<s n="np"/></r></p></e>
-<e>       <p><l>Alive<s n="np"/></l>                   <r>Alive<s n="np"/></r></p></e>
-<e>       <p><l>Allah<s n="np"/></l>                   <r>Allah<s n="np"/></r></p></e>
 <e>       <p><l>Almería<s n="np"/></l>                 <r>Almería<s n="np"/></r></p></e>
-<e>       <p><l>Almodovar<s n="np"/></l>               <r>Almodovar<s n="np"/></r></p></e>
-<e>       <p><l>Alphonse<s n="np"/></l>                <r>Alphonse<s n="np"/></r></p></e>
-<e>       <p><l>Amaro<s n="np"/></l>                   <r>Amaro<s n="np"/></r></p></e>
-<e>       <p><l>Anaclet<s n="np"/></l>                 <r>Anaclet<s n="np"/></r></p></e>
-<e>       <p><l>Anacréon<s n="np"/></l>                <r>Anacréon<s n="np"/></r></p></e>
-<e>       <p><l>Anatolie<s n="np"/></l>                <r>Anatolie<s n="np"/></r></p></e>
-<e>       <p><l>Anne Boleyn<s n="np"/></l>             <r>Anne Boleyn<s n="np"/></r></p></e>
-<e>       <p><l>Anne d'Autriche<s n="np"/></l>         <r>Anne d'Autriche<s n="np"/></r></p></e>
 <e>       <p><l>Astérix<s n="np"/></l>                 <r>Astérix<s n="np"/></r></p></e>
-<e>       <p><l>Averroès<s n="np"/></l>                <r>Averroès<s n="np"/></r></p></e>
-<e>       <p><l>Avicenne<s n="np"/></l>                <r>Avicenne<s n="np"/></r></p></e>
-<e>       <p><l>Bacchus<s n="np"/></l>                 <r>Bacchus<s n="np"/></r></p></e>
 <e>       <p><l>Diego de Almagro<s n="np"/></l>        <r>Diego de Almagro<s n="np"/></r></p></e>
 <e>       <p><l>Gari<s n="np"/></l>                    <r>Gari<s n="np"/></r></p></e>
-<e>       <p><l>Golfe d'Anadyr<s n="np"/></l>          <r>Golfe d'Anadyr<s n="np"/></r></p></e>
-<e>       <p><l>Ibn Khaldoun<s n="np"/></l>            <r>Ibn Khaldoun<s n="np"/></r></p></e>
-<e>       <p><l>Ion<s n="np"/></l>                     <r>Ion<s n="np"/></r></p></e>
-<e>       <p><l>Mikhaïl Aleksandrovitch Bakounine<s n="np"/></l><r>Mikhaïl Aleksandrovitch Bakounine<s n="np"/></r></p></e>
 <e>       <p><l>Mustafa Kemal Atatürk<s n="np"/></l>   <r>Mustafa Kemal Atatürk<s n="np"/></r></p></e>
-<e>       <p><l>Pierre Abélard<s n="np"/></l>          <r>Pierre Abélard<s n="np"/></r></p></e>
 <e>       <p><l>Tiago<s n="np"/></l>                   <r>Tiago<s n="np"/></r></p></e>
 <e>       <p><l>Sagem<s n="np"/></l>                   <r>Sagem<s n="np"/></r></p></e>
 <e>       <p><l>Seat<s n="np"/></l>                    <r>Seat<s n="np"/></r></p></e>
 <e>       <p><l>Ikea<s n="np"/></l>                    <r>Ikea<s n="np"/></r></p></e>
-<e>       <p><l>Euskadi ta Askatasuna<s n="np"/></l>   <r>Euskadi ta Askatasuna<s n="np"/></r></p></e>
-<e>       <p><l>Virginie<s n="np"/></l>                <r>Virginie<s n="np"/></r></p></e>
-
-
-
+<e>       <p><l>Virginie<s n="np"/><s n="ant"/></l>    <r>Virginie<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Virginia<s n="np"/><s n="ant"/></l>    <r>Virginia<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Virginie<s n="np"/><s n="loc"/></l>    <r>Virginia<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Toussaint<s n="np"/></l>               <r>Todos os santos<s n="np"/></r></p></e>
 
 <e><p><l>Aalborg<s n="np"/><s n="loc"/></l><r>Ålborg<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Aar<s n="np"/><s n="loc"/></l><r>Rio<b/>Aar<s n="np"/><s n="loc"/></r></p></e>
@@ -10651,8 +10392,6 @@
 <e><p><l>Limousin<s n="np"/><s n="loc"/></l><r>Limusino<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Linares<s n="np"/><s n="loc"/></l><r>Linares<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Liria<s n="np"/><s n="loc"/></l><r>Llíria<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Lisboa<s n="np"/><s n="loc"/></l><r>Lisboa<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Lisbonne<s n="np"/><s n="loc"/></l><r>Lisboa<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Lituanie<s n="np"/><s n="loc"/></l><r>Lituânia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Liverpool<s n="np"/><s n="loc"/></l><r>Liverpool<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Livonie<s n="np"/><s n="loc"/></l><r>Livônia<s n="np"/><s n="loc"/></r></p></e>
@@ -10671,7 +10410,9 @@
 <e><p><l>Londres<s n="np"/><s n="loc"/></l><r>Londres<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Long<s n="np"/><s n="loc"/></l><r>Long<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Longyearbyen<s n="np"/><s n="loc"/></l><r>Longyearbyen<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Lorraine<s n="np"/><s n="ant"/></l><r>Lorraine<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Lorraine<s n="np"/><s n="loc"/></l><r>Lorena<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Lorena<s n="np"/><s n="ant"/></l><r>Lorena<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Los<b/>Angeles<s n="np"/><s n="loc"/></l><r>Los<b/>Angeles<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Lot-et-Garonne<s n="np"/><s n="loc"/></l><r>Lot<b/>e<b/>Garona<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Lotharingie<s n="np"/><s n="loc"/></l><r>Lotaríngia<s n="np"/><s n="loc"/></r></p></e>
@@ -10691,19 +10432,20 @@
 <e><p><l>Luxembourg<s n="np"/><s n="loc"/></l><r>Luxemburgo<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Lydie<s n="np"/><s n="loc"/></l><r>Lídia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Lyon<s n="np"/><s n="loc"/></l><r>Lyon<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Ma'aleh<b/>Adumim<s n="np"/><s n="loc"/></l><r>Ma'ale<b/>Adummim<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Ma'aleh Adumim<s n="np"/><s n="loc"/></l><r>Ma'ale Adummim<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Maastricht<s n="np"/><s n="loc"/></l><r>Maastricht<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Macao<s n="np"/><s n="loc"/></l><r>display:none;<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Macao<s n="np"/><s n="loc"/></l><r>Macao<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Macédoine<s n="np"/><s n="loc"/></l><r>Macedónia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Mackenzie<s n="np"/><s n="loc"/></l><r>Mackenzie<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Mâcon<s n="np"/><s n="loc"/></l><r>Mâcon<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Madagascar<s n="np"/><s n="loc"/></l><r>Madagáscar<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Madère<s n="np"/><s n="loc"/></l><r>Região<b/>Autónoma<b/>da<b/>Madeira<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Madère<s n="np"/><s n="loc"/></l><r>Madeira<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Region Autonome de Madère<s n="np"/><s n="loc"/></l><r>Região Autónoma da Madeira<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Madrid<s n="np"/><s n="loc"/></l><r>Madrid<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Madrigal<s n="np"/><s n="loc"/></l><r>Madrigal<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Maghreb<s n="np"/><s n="loc"/></l><r>Magrebe<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Maine-et-Loire<s n="np"/><s n="loc"/></l><r>Maine-et-Loire<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Maison<b/>Blanche<s n="np"/><s n="loc"/></l><r>Casa<b/>Branca<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Maison Blanche<s n="np"/></l><r>Casa Branca<s n="np"/></r></p></e>
 <e><p><l>Majorque<s n="np"/><s n="loc"/></l><r>Maiorca<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Majuro<s n="np"/><s n="loc"/></l><r>Majuro<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Malabo<s n="np"/><s n="loc"/></l><r>Malabo<s n="np"/><s n="loc"/></r></p></e>
@@ -10857,6 +10599,7 @@
 <e><p><l>Mont-de-Marsan<s n="np"/><s n="loc"/></l><r>Mont-de-Marsan<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>mont<b/>des<b/>Oliviers<s n="np"/><s n="loc"/></l><r>Monte<b/>das<b/>Oliveiras<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Monte-Carlo<s n="np"/><s n="loc"/></l><r>Monte<b/>Carlo<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Monténégro<s n="np"/><s n="ant"/></l><r>Montenegro<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Monténégro<s n="np"/><s n="loc"/></l><r>Montenegro<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Montevideo<s n="np"/><s n="loc"/></l><r>Montevidéu<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Montjuic<s n="np"/><s n="loc"/></l><r>Montjuïc<s n="np"/><s n="loc"/></r></p></e>
@@ -11037,7 +10780,6 @@
 <e><p><l>Pays-de-la-Loire<s n="np"/><s n="loc"/></l><r>País<b/>do<b/>Loira<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Pays<b/>de<b/>Loire<s n="np"/><s n="loc"/></l><r>País<b/>do<b/>Loira<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Pékin<s n="np"/><s n="loc"/></l><r>Pequim<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>pèlerinage<b/>de<b/>Saint-Jacques-de-Compostelle<s n="np"/><s n="loc"/></l><r>Caminhos<b/>de<b/>Santiago<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Péloponnèse<s n="np"/><s n="loc"/></l><r>Peloponeso<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Penang<s n="np"/><s n="loc"/></l><r>Penang<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Péninsule<b/>Antarctique<s n="np"/><s n="loc"/></l><r>Península<b/>Antártica<s n="np"/><s n="loc"/></r></p></e>

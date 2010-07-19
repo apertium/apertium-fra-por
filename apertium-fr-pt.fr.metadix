@@ -12232,7 +12232,6 @@
           <e lm="Heras"><i>Heras</i><par n="Nom__np"/></e>
           <e lm="Hercule"><i>Hercule</i><par n="Nom__np"/></e>
           <e lm="Heredia"><i>Heredia</i><par n="Lieu__np"/></e>
-          <e lm="Hermes"><i>Hermes</i><par n="Nom__np"/></e>
           <e lm="Herminia"><i>Herminia</i><par n="Nom__np"/></e>
           <e lm="Hernando"><i>Hernando</i><par n="Nom__np"/></e>
           <e lm="Hernán"><i>Hernán</i><par n="Nom__np"/></e>
@@ -12381,7 +12380,6 @@
           <e lm="Linares"><i>Linares</i><par n="NomLieu__np"/></e>
           <e lm="Linux"><i>Linux</i><par n="Autre__np"/></e>
           <e lm="Liria"><i>Liria</i><par n="Lieu__np"/></e>
-          <e lm="Lisboa"><i>Lisboa</i><par n="Lieu__np"/></e>
           <e lm="Llamazares"><i>Llamazares</i><par n="Lieu__np"/></e>
           <e lm="Llinares"><i>Llinares</i><par n="Nom__np"/></e>
           <e lm="Llobregat"><i>Llobregat</i><par n="Lieu__np"/></e>
@@ -12871,7 +12869,6 @@
           <e lm="São Paulo"><i>São Paulo</i><par n="Lieu__np"/></e>
           <e lm="São Pedro"><i>São Pedro</i><par n="Lieu__np"/></e>
           <e lm="Sara"><i>Sara</i><par n="Nom__np"/></e>
-          <e lm="Saragosse"><i>Saragosse</i><par n="Lieu__np"/></e>
           <e lm="Sarajevo"><i>Sarajevo</i><par n="Lieu__np"/></e>
           <e lm="Sardaigne"><i>Sardaigne</i><par n="Lieu__np"/></e>
           <e lm="Satan"><i>Satan</i><par n="Nom__np"/></e>
@@ -13238,8 +13235,6 @@
           <e lm="Zapater"><i>Zapater</i><par n="Nom__np"/></e>
           <e lm="Zapatero"><i>Zapatero</i><par n="Nom__np"/></e>
           <e lm="Zaplana"><i>Zaplana</i><par n="Nom__np"/></e>
-          <e lm="Zaragoza"><i>Zaragoza</i><par n="Nom__np"/></e>
-          <e lm="Zaragozá"><i>Zaragozá</i><par n="Nom__np"/></e>
           <e lm="Zeta"><i>Zeta</i><par n="Autre__np"/></e>
           <e lm="Zidane"><i>Zidane</i><par n="Nom__np"/></e>
           <e lm="Zorrilla"><i>Zorrilla</i><par n="Nom__np"/></e>
@@ -22144,7 +22139,6 @@
 <e lm="Lina" a="webform"><i>Lina</i><par n="Nom__np"/></e>
 <e lm="Linda" a="webform"><i>Linda</i><par n="Nom__np"/></e>
 <e lm="Lionel" a="webform"><i>Lionel</i><par n="Nom__np"/></e>
-<e lm="Lisbonne" a="webform"><i>Lisbonne</i><par n="Lieu__np"/></e>
 <e lm="Littell" a="webform"><i>Littell</i><par n="Nom__np"/></e>
 <e lm="Little" a="webform"><i>Little</i><par n="Nom__np"/></e>
 <e lm="Litvinenko" a="webform"><i>Litvinenko</i><par n="Nom__np"/></e>
@@ -25921,10 +25915,6 @@
   <i>MasterCard</i>
   <par n="Autre__np"/>
 </e>
-<e lm="Mastercard" a="eleka">
-  <i>Mastercard</i>
-  <par n="Autre__np"/>
-</e>
 <e lm="envie" a="eleka">
   <i>envie</i>
   <par n="abeille__n"/>
@@ -28344,10 +28334,6 @@
   <i>tsunami</i>
   <par n="livre__n"/>
 </e>
-<e lm="mer Baltique" a="eleka">
-  <i>mer<b/>Baltique</i>
-  <par n="Autre__np"/>
-</e>
 <e lm="World Trade Center" a="eleka">
   <i>World<b/>Trade<b/>Center</i>
   <par n="Autre__np"/>
@@ -28465,7 +28451,7 @@
 </e>
 <e lm="mer Baltique" a="eleka">
   <i>mer<b/>Baltique</i>
-  <par n="Lieu__np"/>
+  <par n="LieuAutre__np"/>
 </e>
 <e lm="poteau" a="eleka">
   <i>poteau</i>
@@ -30373,9 +30359,9 @@
   <par n="Nom__np"/>
 </e>
 
-<e lm="pèlerinage de Saint-Jacques-de-Compostelle" a="eleka">
-  <i>pèlerinage<b/>de<b/>Saint-Jacques-de-Compostelle</i>
-  <par n="Lieu__np"/>
+<e lm="Pélérinage de Saint-Jacques-de-Compostelle" a="eleka">
+  <i>Pélérinage<b/>de<b/>Saint-Jacques-de-Compostelle</i>
+  <par n="LieuAutre__np"/>
 </e>
 <e lm="Champs Élysées" a="eleka">
   <i>Champs<b/>Élysées</i>
@@ -57155,10 +57141,6 @@
   <i>Cameroun</i>
   <par n="Lieu__np"/>
 </e>
-<e lm="pèlerinage de Saint-Jacques-de-Compostelle" a="eleka">
-  <i>pèlerinage<b/>de<b/>Saint-Jacques-de-Compostelle</i>
-  <par n="Autre__np"/>
-</e>
 <e lm="Champs Élysées" a="eleka">
   <i>Champs<b/>Élysées</i>
   <par n="Lieu__np"/>
@@ -57334,10 +57316,6 @@
 <e lm="Carthage" a="eleka">
   <i>Carthage</i>
   <par n="Lieu__np"/>
-</e>
-<e lm="Maison Blanche" a="eleka">
-  <i>Maison<b/>Blanche</i>
-  <par n="Autre__np"/>
 </e>
 <e lm="Casa Rosada" a="eleka">
   <i>Casa<b/>Rosada</i>
@@ -66874,6 +66852,84 @@
     <e r="LR" lm="pour cause d'"><p><l>pour<b/>cause<b/>d'</l><r>pour<b/>cause<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="sur le point d'"><p><l>sur<b/>le<b/>point<b/>d'</l><r>sur<b/>le<b/>point<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="tout au long d'"><p><l>tout<b/>au<b/>long<b/>d'</l><r>tout<b/>au<b/>long<b/>de<s n="pr"/></r></p></e>
+
+
+<e lm="Barça"><i>Barça</i><par n="Lieu__np"/></e>
+<e lm="Boeing"><i>Boeing</i><par n="Nom__np"/></e>
+<e lm="Castro"><i>Castro</i><par n="Lieu__np"/></e>
+<e lm="Flamengo"><i>Flamengo</i><par n="Autre__np"/></e>
+<e lm="Jerez"><i>Jerez</i><par n="Autre__np"/></e>
+<e lm="León"><i>León</i><par n="Nom__np"/></e>
+<e lm="Lima"><i>Lima</i><par n="Nom__np"/></e>
+<e lm="Maria"><i>Maria</i><par n="Lieu__np"/></e>
+<e lm="Vénus"><i>Vénus</i><par n="Autre__np"/></e>
+<e lm="Nasa"><i>Nasa</i><par n="Nom__np"/></e>
+<e lm="Nobel"><i>Nobel</i><par n="Autre__np"/></e>
+<e lm="Rabin"><i>Rabin</i><par n="Lieu__np"/></e>
+<e lm="Real"><i>Real</i><par n="Nom__np"/></e>
+<e lm="Santiago"><i>Santiago</i><par n="Nom__np"/></e>
+<e lm="Santos"><i>Santos</i><par n="Lieu__np"/></e>
+<e lm="Sony"><i>Sony</i><par n="Nom__np"/></e>
+<e lm="Angra"><i>Angra</i><par n="Nom__np"/></e>
+<e lm="Lérida"><i>Lérida</i><par n="Lieu__np"/></e>
+<e lm="Guadalupe"><i>Guadalupe</i><par n="Lieu__np"/></e>
+<e lm="Yangon"><i>Yangon</i><par n="Lieu__np"/></e>
+<e lm="Guadalupe"><i>Guadalupe</i><par n="Lieu__np"/></e>
+
+<e lm="Ethiopie"><i>Ethiopie</i><par n="Lieu__np"/></e>
+<e lm="Moubarak"><i>Moubarak</i><par n="Lieu__np"/></e>
+<e lm="Bombay"><i>Bombay</i><par n="Lieu__np"/></e>
+<e lm="Ecosse"><i>Ecosse</i><par n="Lieu__np"/></e>
+<e lm="Golfe de Biscaye"><i>Golfe<b/>de<b/>Biscaye</i><par n="Lieu__np"/></e>
+<e lm="mer d'Oman"><i>mer<b/>d'Oman</i><par n="Lieu__np"/></e>
+<e lm="Cordillère Cantabrique"><i>Cordillère<b/>Cantabrique</i><par n="Lieu__np"/></e>
+<e lm="Cordillère Cantabrique"><i>Cordillère<b/>Cantabrique</i><par n="Lieu__np"/></e>
+<e lm="El Aaiun"><i>El<b/>Aaiun</i><par n="Lieu__np"/></e>
+<e lm="Ecosse"><i>Ecosse</i><par n="Lieu__np"/></e>
+<e lm="Monts ibériques"><i>Monts<b/>ibériques</i><par n="Lieu__np"/></e>
+<e lm="Golfe de Biscaye"><i>Golfe<b/>de<b/>Biscaye</i><par n="Lieu__np"/></e>
+<e lm="Jakarta"><i>Jakarta</i><par n="Lieu__np"/></e>
+<e lm="Etats-Unis"><i>Etats-Unis</i><par n="Lieu__np"/></e>
+<e lm="Equateur"><i>Equateur</i><par n="Lieu__np"/></e>
+<e lm="Ibérie"><i>Ibérie</i><par n="Nom__np"/></e>
+<e lm="Seine"><i>Seine</i><par n="Nom__np"/></e>
+<e lm="Candelaria (Santa Cruz de Ténérife)"><i>Candelaria<b/>(Santa<b/>Cruz<b/>de<b/>Ténérife)</i><par n="Nom__np"/></e>
+<e lm="Nature (revue)"><i>Nature<b/>(revue)</i><par n="Autre__np"/></e>
+<e lm="Ponce (Porto Rico)"><i>Ponce<b/>(Porto<b/>Rico)</i><par n="Nom__np"/></e>
+<e lm="Pont (Côte-d'Or)"><i>Pont<b/>(Côte-d'Or)</i><par n="Autre__np"/></e>
+<e lm="Arnaud (Haïti)"><i>Arnaud<b/>(Haïti)</i><par n="Nom__np"/></e>
+<e lm="Berri"><i>Berri</i><par n="Nom__np"/></e>
+<e lm="Christophe (chanteur)"><i>Christophe<b/>(chanteur)</i><par n="Nom__np"/></e>
+<e lm="Florence (homonymie)"><i>Florence<b/>(homonymie)</i><par n="Nom__np"/></e>
+<e lm="Toussaint (Seine-Maritime)"><i>Toussaint<b/>(Seine-Maritime)</i><par n="Autre__np"/></e>
+<e lm="Boomerang (chaîne de télévision)"><i>Boomerang<b/>(chaîne<b/>de<b/>télévision)</i><par n="Autre__np"/></e>
+<e lm="Jason (homonymie)"><i>Jason<b/>(homonymie)</i><par n="Nom__np"/></e>
+<e lm="Montgomery (homonymie)"><i>Montgomery<b/>(homonymie)</i><par n="Nom__np"/></e>
+<e lm="Aguero"><i>Aguero</i><par n="Nom__np"/></e>
+<e lm="Drapeau"><i>Drapeau</i><par n="Nom__np"/></e>
+<e lm="The Boss"><i>The<b/>Boss</i><par n="Nom__np"/></e>
+<e lm="Jogging (sport)"><i>Jogging<b/>(sport)</i><par n="Nom__np"/></e>
+<e lm="Tour de France (cyclisme)"><i>Tour<b/>de<b/>France<b/>(cyclisme)</i><par n="Autre__np"/></e>
+<e lm="Jogging (sport)"><i>Jogging<b/>(sport)</i><par n="Nom__np"/></e>
+<e lm="Spartacus (homonymie)"><i>Spartacus<b/>(homonymie)</i><par n="Nom__np"/></e>
+<e lm="Vasco de Gama"><i>Vasco<b/>de<b/>Gama</i><par n="Nom__np"/></e>
+<e lm="Martin Luther (homonymie)"><i>Martin<b/>Luther<b/>(homonymie)</i><par n="Nom__np"/></e>
+<e lm="Magellan (sonde spatiale)"><i>Magellan<b/>(sonde<b/>spatiale)</i><par n="Nom__np"/></e>
+<e lm="Mercure (entreprise)"><i>Mercure<b/>(entreprise)</i><par n="Nom__np"/></e>
+<e lm="Thésée (Loir-et-Cher)"><i>Thésée<b/>(Loir-et-Cher)</i><par n="Nom__np"/></e>
+<e lm="Drapeau"><i>Drapeau</i><par n="Nom__np"/></e>
+<e lm="Alpha (homonymie)"><i>Alpha<b/>(homonymie)</i><par n="Autre__np"/></e>
+<e lm="Alpine Renault"><i>Alpine<b/>Renault</i><par n="Autre__np"/></e>
+<e lm="Hadrien"><i>Hadrien</i><par n="Nom__np"/></e>
+<e lm="Akira (manga)"><i>Akira<b/>(manga)</i><par n="Nom__np"/></e>
+<e lm="Préfecture d'Akita"><i>Préfecture<b/>d'Akita</i><par n="Nom__np"/></e>
+<e lm="Amadeus (film)"><i>Amadeus<b/>(film)</i><par n="Nom__np"/></e>
+<e lm="Angel (série télévisée)"><i>Angel<b/>(série<b/>télévisée)</i><par n="Nom__np"/></e>
+<e lm="Aphrodite (Kylie Minogue)"><i>Aphrodite<b/>(Kylie<b/>Minogue)</i><par n="Nom__np"/></e>
+<e lm="Arnaud (Haïti)"><i>Arnaud<b/>(Haïti)</i><par n="Nom__np"/></e>
+<e lm="Nicanor (général de Démétrios)"><i>Nicanor<b/>(général<b/>de<b/>Démétrios)</i><par n="Nom__np"/></e>
+<e lm="Monténégro"><i>Monténégro</i><par n="Nom__np"/></e>
+
 
 
 <e lm="communément"><i>communément</i><par n="hier__adv"/></e>

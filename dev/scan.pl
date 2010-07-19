@@ -1,7 +1,7 @@
 use strict;
 
-my $dir = 'frpt';
-#my $dir = 'ptfr';
+#my $dir = 'frpt';
+my $dir = 'ptfr';
 
 #my $want_multiples = 0;
 my $want_multiples = 1;
