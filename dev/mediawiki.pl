@@ -31,7 +31,7 @@ while (<DATA>) {
 #	print "NOTFOUND:$source:$_\n";
 }
 
-exit;
+#exit;
 
 my (%seen_mono, %seen_bi);
 open IN, $infile or die "Unable to open file '$infile': $!";

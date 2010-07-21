@@ -12715,7 +12715,7 @@
           <e lm="Plana"><i>Plana</i><par n="Lieu__np"/></e>
           <e lm="Platero"><i>Platero</i><par n="Autre__np"/></e>
           <e lm="Pomares"><i>Pomares</i><par n="Nom__np"/></e>
-          <e lm="Ponce"><i>Ponce</i><par n="Nom__np"/></e>
+          <e lm="Ponce"><i>Ponce</i><par n="NomAutre__np"/></e>
           <e lm="Pons"><i>Pons</i><par n="Nom__np"/></e>
           <e lm="Pont"><i>Pont</i><par n="Autre__np"/></e>
           <e lm="Pontevedra"><i>Pontevedra</i><par n="Lieu__np"/></e>
@@ -60272,7 +60272,7 @@
 </e>
 <e lm="Magellan" a="eleka">
   <i>Magellan</i>
-  <par n="Nom__np"/>
+  <par n="NomAutre__np"/>
 </e>
 <e lm="Fernand de Magellan" a="eleka">
   <i>Fernand<b/>de<b/>Magellan</i>
@@ -60464,7 +60464,7 @@
 </e>
 <e lm="Mercure" a="eleka">
   <i>Mercure</i>
-  <par n="Nom__np"/>
+  <par n="NomAutre__np"/>
 </e>
 <e lm="Meseta Ibérique" a="eleka">
   <i>Meseta<b/>Ibérique</i>
@@ -65096,7 +65096,7 @@
 <e lm="Antigone" a="eleka"><i>Antigone</i><par n="Nom__np"/></e>
 <e lm="Anzéré" a="eleka"><i>Anzéré</i><par n="Nom__np"/></e>
 <e lm="Aperribai" a="eleka"><i>Aperribai</i><par n="Nom__np"/></e>
-<e lm="Aphrodite" a="eleka"><i>Aphrodite</i><par n="Nom__np"/></e>
+<e lm="Aphrodite" a="eleka"><i>Aphrodite</i><par n="NomAutre__np"/></e>
 <e lm="Apo" a="eleka"><i>Apo</i><par n="Nom__np"/></e>
 <e lm="Aramburu" a="eleka"><i>Aramburu</i><par n="Nom__np"/></e>
 <e lm="Aranburu" a="eleka"><i>Aranburu</i><par n="Nom__np"/></e>
@@ -66893,43 +66893,22 @@
 <e lm="Equateur"><i>Equateur</i><par n="Lieu__np"/></e>
 <e lm="Ibérie"><i>Ibérie</i><par n="Nom__np"/></e>
 <e lm="Seine"><i>Seine</i><par n="Nom__np"/></e>
-<e lm="Candelaria (Santa Cruz de Ténérife)"><i>Candelaria<b/>(Santa<b/>Cruz<b/>de<b/>Ténérife)</i><par n="Nom__np"/></e>
-<e lm="Nature (revue)"><i>Nature<b/>(revue)</i><par n="Autre__np"/></e>
-<e lm="Ponce (Porto Rico)"><i>Ponce<b/>(Porto<b/>Rico)</i><par n="Nom__np"/></e>
-<e lm="Pont (Côte-d'Or)"><i>Pont<b/>(Côte-d'Or)</i><par n="Autre__np"/></e>
-<e lm="Arnaud (Haïti)"><i>Arnaud<b/>(Haïti)</i><par n="Nom__np"/></e>
 <e lm="Berri"><i>Berri</i><par n="Nom__np"/></e>
-<e lm="Christophe (chanteur)"><i>Christophe<b/>(chanteur)</i><par n="Nom__np"/></e>
-<e lm="Florence (homonymie)"><i>Florence<b/>(homonymie)</i><par n="Nom__np"/></e>
-<e lm="Toussaint (Seine-Maritime)"><i>Toussaint<b/>(Seine-Maritime)</i><par n="Autre__np"/></e>
-<e lm="Boomerang (chaîne de télévision)"><i>Boomerang<b/>(chaîne<b/>de<b/>télévision)</i><par n="Autre__np"/></e>
-<e lm="Jason (homonymie)"><i>Jason<b/>(homonymie)</i><par n="Nom__np"/></e>
-<e lm="Montgomery (homonymie)"><i>Montgomery<b/>(homonymie)</i><par n="Nom__np"/></e>
 <e lm="Aguero"><i>Aguero</i><par n="Nom__np"/></e>
 <e lm="Drapeau"><i>Drapeau</i><par n="Nom__np"/></e>
 <e lm="The Boss"><i>The<b/>Boss</i><par n="Nom__np"/></e>
-<e lm="Jogging (sport)"><i>Jogging<b/>(sport)</i><par n="Nom__np"/></e>
-<e lm="Tour de France (cyclisme)"><i>Tour<b/>de<b/>France<b/>(cyclisme)</i><par n="Autre__np"/></e>
-<e lm="Jogging (sport)"><i>Jogging<b/>(sport)</i><par n="Nom__np"/></e>
-<e lm="Spartacus (homonymie)"><i>Spartacus<b/>(homonymie)</i><par n="Nom__np"/></e>
 <e lm="Vasco de Gama"><i>Vasco<b/>de<b/>Gama</i><par n="Nom__np"/></e>
-<e lm="Martin Luther (homonymie)"><i>Martin<b/>Luther<b/>(homonymie)</i><par n="Nom__np"/></e>
-<e lm="Magellan (sonde spatiale)"><i>Magellan<b/>(sonde<b/>spatiale)</i><par n="Nom__np"/></e>
-<e lm="Mercure (entreprise)"><i>Mercure<b/>(entreprise)</i><par n="Nom__np"/></e>
-<e lm="Thésée (Loir-et-Cher)"><i>Thésée<b/>(Loir-et-Cher)</i><par n="Nom__np"/></e>
 <e lm="Drapeau"><i>Drapeau</i><par n="Nom__np"/></e>
-<e lm="Alpha (homonymie)"><i>Alpha<b/>(homonymie)</i><par n="Autre__np"/></e>
 <e lm="Alpine Renault"><i>Alpine<b/>Renault</i><par n="Autre__np"/></e>
 <e lm="Hadrien"><i>Hadrien</i><par n="Nom__np"/></e>
-<e lm="Akira (manga)"><i>Akira<b/>(manga)</i><par n="Nom__np"/></e>
 <e lm="Préfecture d'Akita"><i>Préfecture<b/>d'Akita</i><par n="Nom__np"/></e>
-<e lm="Amadeus (film)"><i>Amadeus<b/>(film)</i><par n="Nom__np"/></e>
-<e lm="Angel (série télévisée)"><i>Angel<b/>(série<b/>télévisée)</i><par n="Nom__np"/></e>
-<e lm="Aphrodite (Kylie Minogue)"><i>Aphrodite<b/>(Kylie<b/>Minogue)</i><par n="Nom__np"/></e>
-<e lm="Arnaud (Haïti)"><i>Arnaud<b/>(Haïti)</i><par n="Nom__np"/></e>
-<e lm="Nicanor (général de Démétrios)"><i>Nicanor<b/>(général<b/>de<b/>Démétrios)</i><par n="Nom__np"/></e>
 <e lm="Monténégro"><i>Monténégro</i><par n="Nom__np"/></e>
-
+<e lm="Lisbonne"><i>Lisbonne</i><par n="Nom__np"/></e>
+<e lm="Region Autonome de Madère"><i>Region<b/>Autonome<b/>de<b/>Madère</i><par n="Lieu__np"/></e>
+<e lm="Saragosse"><i>Saragosse</i><par n="Nom__np"/></e>
+<e lm="Arnold"><i>Arnold</i><par n="Nom__np"/></e>
+<e lm="Arnaud"><i>Arnaud</i><par n="Lieu__np"/></e>
+<e lm="Florença"><i>Florença</i><par n="Nom__np"/></e>
 
 
 <e lm="communément"><i>communément</i><par n="hier__adv"/></e>
