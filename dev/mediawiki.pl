@@ -4,11 +4,11 @@ use Time::HiRes qw(usleep);
 
 $| = 1;
 
-#my $cat = 'n';
-my $cat = 'np';
+my $cat = 'n';
+#my $cat = 'np';
 
-#my $source = 'fr'; my $target = 'pt';
-my $source = 'pt'; my $target = 'fr';
+my $source = 'fr'; my $target = 'pt';
+#my $source = 'pt'; my $target = 'fr';
 my $bidixdir = 'frpt';
 my $dir = $source.$target;
 

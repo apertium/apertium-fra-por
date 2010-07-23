@@ -30,9 +30,11 @@ dev/cross-model-fr-es-pt.xml -text
 dev/cross.xml -text
 dev/dics/frpt.dic -text
 dev/dics/ptfr.dic -text
+dev/getsample.pl -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
 dev/interwiki.noun.pt-fr -text
+dev/interwiki.pl -text
 dev/mediawiki.pl -text
 dev/npfix.pl -text
 dev/patterns-not-detected.xml -text
@@ -41,8 +43,12 @@ dev/quikscan.pl -text
 dev/quikwiki.pl -text
 dev/roundup-corpus.pl -text
 dev/roundup-paragraph.pl -text
+dev/sample.fr -text
+dev/sample.pt -text
+dev/scan-samples.pl -text
 dev/scan.pl -text
 dev/summary -text
+dev/test.sh -text
 dev/testvoc-summary.fr-pt.txt -text
 dev/testvoc-summary.pt-fr.txt -text
 dev/testvoc.sh -text
@@ -55,4 +61,6 @@ dev/verify.sh -text
 /pending-tests.sh -text
 /principal.xsl -text
 /pt-fr.prob -text svneol=unset#unset
+/test.sh -text
 /translate-to-default-equivalent.xsl -text
+/xmlchk.pl -text

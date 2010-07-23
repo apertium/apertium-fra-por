@@ -1,7 +1,7 @@
 use strict;
 
-#my $dir = 'frpt';
-my $dir = 'ptfr';
+my $dir = 'frpt';
+#my $dir = 'ptfr';
 
 my $want_multiples = 0;
 #my $want_multiples = 1;
@@ -26,9 +26,9 @@ my $want_multiwords = 1;
 # other categories
 #my $cat = 'adj';
 	# fr-pt lists 4379/821 errors, pt-fr 0/2392
-my $cat = 'adv';
+#my $cat = 'adv';
 	# fr-pt lists 244/12 errors, pt-fr 1901/10
-#my $cat = 'n';
+my $cat = 'n';
 	# fr-pt lists 8844/163 errors, pt-fr 2588/224
 #my $cat = 'np';	# clean in both directions
 #my $cat = 'vblex';
@@ -46,6 +46,7 @@ my %diccat = (
 	'num'    => 'num',
 	'rel'    => 'pron',
 	'np'     => 'n',
+	'n'      => 'n',
 	'vblex'  => '(v|vt|vi)',
 	'vbmod'  => '(v|vt|vi)',
 	'vbser'  => '(v|vt|vi)',
@@ -162,8 +163,7 @@ while (<IN>) {
 		for my $p (@p) {
 			next unless (
 				   $p eq $cat
-				or ($cat eq 'n' and ($p eq 'm' or $p eq 'f'))
-				
+#					or ($cat eq 'n' and ($p eq 'm' or $p eq 'f'))
 			);
 			for ($s1, @poss) {
 				$_ .= qq(<s n="$p"/>);

@@ -1,15 +1,17 @@
 use strict;
 
-my $cat = 'np';
-#my $cat = 'n';
+#my $cat = 'np';
+my $cat = 'n';
 
-#my $source = 'fr'; my $target = 'pt';
-my $source = 'pt'; my $target = 'fr';
+my $source = 'fr'; my $target = 'pt';
+#my $source = 'pt'; my $target = 'fr';
 my $dir = $source.$target;
 
 my $infile = $dir . 'wiki.txt';
 my $outfile = 'wikifix.txt';
 
+my %seen;
+my %seen_nf;
 open IN, $infile or die $!;
 binmode(IN,':utf8');
 open OUT, ">$outfile" or die $!;
@@ -20,6 +22,8 @@ while (<IN>) {
 		format_notfound($_);
 		next;
 	}
+next if $seen{$_};
+$seen{$_} = 1;
 	print;
 }
 close IN;
@@ -28,6 +32,8 @@ close OUT;
 sub format_notfound {
 	my $w = $_[0];
 	chomp $w;
+	return if $seen_nf{$w};
+	$seen_nf{$w} = 1;
 	
 	$w .= qq(<s n="$cat"/>);
 	if (length($w) >= 35) {
