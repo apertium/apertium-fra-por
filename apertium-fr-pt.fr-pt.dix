@@ -15533,7 +15533,9 @@
 <e>       <p><l>technique<s n="n"/><s n="f"/></l>      <r>técnica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>toile d'araignée<s n="n"/><s n="f"/></l><r>teia de aranha<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>télégraphe<s n="n"/><s n="m"/></l>     <r>telegrama<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>temps<s n="n"/><s n="m"/></l>          <r>tempo<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>temps<s n="n"/><s n="m"/><s n="sp"/></l><r>tempo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>temps<s n="n"/><s n="m"/><s n="sp"/></l><r>tempo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>temps<s n="n"/><s n="m"/><s n="sp"/></l><r>tempo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e>       <p><l>lieutenant<s n="n"/><s n="mf"/></l>    <r>tenente<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>ténia<s n="n"/><s n="f"/></l>          <r>ténia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>ténia<s n="n"/><s n="f"/></l>          <r>tênia<s n="n"/><s n="f"/></r></p></e>

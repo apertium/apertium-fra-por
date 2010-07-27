@@ -28,10 +28,10 @@ my $want_multiwords = 1;
 	# fr-pt lists 4379/821 errors, pt-fr 0/2392
 #my $cat = 'adv';
 	# fr-pt lists 244/12 errors, pt-fr 1901/10
-my $cat = 'n';
+#my $cat = 'n';
 	# fr-pt lists 8844/163 errors, pt-fr 2588/224
 #my $cat = 'np';	# clean in both directions
-#my $cat = 'vblex';
+my $cat = 'vblex';
 	# fr-pt lists 0/51 errors, pt-fr 0/0
 	# this is mettre en place / actuar en lugar (not sure what is going on)
 #my $cat = 'vbmod';	# not listed with the errors
