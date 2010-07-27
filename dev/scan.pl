@@ -34,8 +34,7 @@ my $cat = 'n';
 #my $cat = 'vblex';
 	# fr-pt lists 0/51 errors, pt-fr 0/0
 	# this is mettre en place / actuar en lugar (not sure what is going on)
-#my $cat = 'vbmod';
-	# not listed with the errors
+#my $cat = 'vbmod';	# not listed with the errors
 
 my %diccat = (
 	'adv'    => 'adv',

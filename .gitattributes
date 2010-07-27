@@ -38,6 +38,7 @@ dev/interwiki.pl -text
 dev/mediawiki.pl -text
 dev/npfix.pl -text
 dev/patterns-not-detected.xml -text
+dev/pending.pl -text
 dev/quikfix.pl -text
 dev/quikscan.pl -text
 dev/quikwiki.pl -text
@@ -48,6 +49,7 @@ dev/sample.pt -text
 dev/scan-samples.pl -text
 dev/scan.pl -text
 dev/summary -text
+dev/test-samples.sh -text
 dev/test.sh -text
 dev/testvoc-summary.fr-pt.txt -text
 dev/testvoc-summary.pt-fr.txt -text

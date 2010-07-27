@@ -116677,6 +116677,11 @@
         <par n="a_fim_de_que__cnjadv"/>
       </e>
       
+      <e lm="do qual">
+        <i>do<b/>qual</i>
+        <par n="a_fim_de_que__cnjadv"/>
+      </e>
+      
       <e lm="para que">
         <i>para<b/>que</i>
         <par n="a_fim_de_que__cnjadv"/>
@@ -160258,41 +160263,6 @@
 <e lm="pode-se"><i></i><par n="/pode-se__vblex"/></e>
 
 
-<!-- Treat these Latin terms as proper nouns -->
-<e lm="Animalia"><i>Animalia</i><par n="Outro__np"/></e>
-<e lm="Atelocynus"><i>Atelocynus</i><par n="Outro__np"/></e>
-<e lm="Bos primigenius taurus"><i>Bos<b/>primigenius<b/>taurus</i><par n="Outro__np"/></e>
-<e lm="Bos primigenius f. taurus"><i>Bos<b/>primigenius<b/>f.<b/>taurus</i><par n="Outro__np"/></e>
-<e lm="Bos taurus"><i>Bos<b/>taurus</i><par n="Outro__np"/></e>
-<e lm="Canidae"><i>Canidae</i><par n="Outro__np"/></e>
-<e lm="Caniformia"><i>Caniformia</i><par n="Outro__np"/></e>
-<e lm="canis"><i>canis</i><par n="Outro__np"/></e>
-<e lm="Canis canis"><i>Canis<b/>canis</i><par n="Outro__np"/></e>
-<e lm="Canis familiaris"><i>Canis<b/>familiaris</i><par n="Outro__np"/></e>
-<e lm="Canis familiarus"><i>Canis<b/>familiarus</i><par n="Outro__np"/></e>
-<e lm="Canis familiarus domesticus"><i>Canis<b/>familiarus<b/>domesticus</i><par n="Outro__np"/></e>
-<e lm="Canis lupus"><i>Canis<b/>lupus</i><par n="Outro__np"/></e>
-<e lm="Canis lupus familiaris"><i>Canis<b/>lupus<b/>familiaris</i><par n="Outro__np"/></e>
-<e lm="Canis lupus f. familiaris"><i>Canis<b/>lupus<b/>f.<b/>familiaris</i><par n="Outro__np"/></e>
-<e lm="Capra hircus"><i>Capra<b/>hircus</i><par n="Outro__np"/></e>
-<e lm="Capra aegagrus hircus"><i>Capra<b/>aegagrus<b/>hircus</i><par n="Outro__np"/></e>
-<e lm="Capra aegagrus f. hircus"><i>Capra<b/>aegagrus<b/>f.<b/>hircus</i><par n="Outro__np"/></e>
-<e lm="Carnivora"><i>Carnivora</i><par n="Outro__np"/></e>
-<e lm="Cynomys"><i>Cynomys</i><par n="Outro__np"/></e>
-<e lm="Animalia"><i>Animalia</i><par n="Outro__np"/></e>
-<e lm="Chordata"><i>Chordata</i><par n="Outro__np"/></e>
-<e lm="Eutheria"><i>Eutheria</i><par n="Outro__np"/></e>
-<e lm="Mammalia"><i>Mammalia</i><par n="Outro__np"/></e>
-<e lm="Speothos"><i>Speothos</i><par n="Outro__np"/></e>
-<e lm="Theria"><i>Theria</i><par n="Outro__np"/></e>
-<e lm="Vertebrata"><i>Vertebrata</i><par n="Outro__np"/></e>
-<!-- end of Latin terms -->
-
-<e lm="antes de Cristo"><i>antes<b/>de<b/>Cristo</i><par n="anti__adj"/></e>
-<e lm="a.C."><i>a.C.</i><par n="anti__adj"/></e>
-<e lm="depois de Cristo"><i>depois<b/>de<b/>Cristo</i><par n="anti__adj"/></e>
-<e lm="d.C."><i>d.C.</i><par n="anti__adj"/></e>
-
   </section>
 
   <section id="final" type="inconditional">
@@ -160327,5 +160297,8 @@
 	<par n="urls"/>
       </e>
   </section>
+
+  <!--<section id="pending" type="standard">
+  </section>-->
 
 </dictionary>
