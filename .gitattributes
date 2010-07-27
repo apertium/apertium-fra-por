@@ -63,6 +63,8 @@ dev/verify.sh -text
 /pending-tests.sh -text
 /principal.xsl -text
 /pt-fr.prob -text svneol=unset#unset
+/regression-tests.sh -text
 /test.sh -text
 /translate-to-default-equivalent.xsl -text
+/wiki-tests.sh -text
 /xmlchk.pl -text
