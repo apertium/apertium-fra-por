@@ -15,7 +15,7 @@ my $want_multiwords = 1;
 #my $cat = 'cnjsub';	# clean in both directions
 #my $cat = 'det';	# clean in both directions
 #my $cat = 'num';	# clean in both directions
-#my $cat = 'ij';	# clean in both directions
+my $cat = 'ij';	# clean in both directions
 #my $cat = 'pr';	# clean in both directions
 #my $cat = 'preadv';	# clean in both directions
 #my $cat = 'prn';	# clean in both directions
@@ -31,7 +31,7 @@ my $want_multiwords = 1;
 #my $cat = 'n';
 	# fr-pt lists 8844/163 errors, pt-fr 2588/224
 #my $cat = 'np';	# clean in both directions
-my $cat = 'vblex';
+#my $cat = 'vblex';
 	# fr-pt lists 0/51 errors, pt-fr 0/0
 	# this is mettre en place / actuar en lugar (not sure what is going on)
 #my $cat = 'vbmod';	# not listed with the errors
@@ -42,6 +42,7 @@ my %diccat = (
 	'cnjcoo' => 'conj',
 	'cnjsub' => 'conj',
 	'det'    => '(def|indef)',
+	'ij'     => 'interj',
 	'num'    => 'num',
 	'rel'    => 'pron',
 	'np'     => 'n',
@@ -78,7 +79,7 @@ open MONOFIX, ">$monofile" or die "Unable to create file '$monofile': $!";
 binmode(MONOFIX,':utf8');
 while (<IN>) {
 	next unless m:<$cat>:;	# only get lines that have our category
-	next if /REGEX/;	# skips lines containing 'REGEX'
+#	next if /REGEX/;	# skips lines containing 'REGEX'
 	
 	# don't get <det> lines if a noun is also present
 	if ($cat eq 'det') {
@@ -140,7 +141,7 @@ while (<IN>) {
 	unless ($want_multiwords) {
 		next if $w=~/#/;
 	}
-	
+print;
 	# entries missing from bidix
 	if (/@/ and not $seen_bi{$w}) {
 		$seen_bi{$w} = 1 unless $want_multiples;

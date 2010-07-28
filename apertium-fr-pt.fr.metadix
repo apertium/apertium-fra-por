@@ -46763,6 +46763,350 @@
 
 <e lm="il se peut"><i></i><par n="/il_se_peut__vblex"/></e>
 
+<e lm="pas"><i>pas</i><par n="hier__adv"/></e>
+<e lm="temps"><i>temps</i><par n="mois__n"/></e>
+
+
+
+<!-- Treat these Latin terms as proper nouns -->
+<e lm="Animalia"><i>Animalia</i><par n="Autre__np"/></e>
+<e lm="Atelocynus"><i>Atelocynus</i><par n="Autre__np"/></e>
+<e lm="Bos primigenius taurus"><i>Bos<b/>primigenius<b/>taurus</i><par n="Autre__np"/></e>
+<e lm="Bos primigenius f. taurus"><i>Bos<b/>primigenius<b/>f.<b/>taurus</i><par n="Autre__np"/></e>
+<e lm="Bos taurus"><i>Bos<b/>taurus</i><par n="Autre__np"/></e>
+<e lm="Canidae"><i>Canidae</i><par n="Autre__np"/></e>
+<e lm="Caniformia"><i>Caniformia</i><par n="Autre__np"/></e>
+<e lm="canis"><i>canis</i><par n="Autre__np"/></e>
+<e lm="Canis canis"><i>Canis<b/>canis</i><par n="Autre__np"/></e>
+<e lm="Canis familiaris"><i>Canis<b/>familiaris</i><par n="Autre__np"/></e>
+<e lm="Canis familiarus"><i>Canis<b/>familiarus</i><par n="Autre__np"/></e>
+<e lm="Canis familiarus domesticus"><i>Canis<b/>familiarus<b/>domesticus</i><par n="Autre__np"/></e>
+<e lm="Canis lupus"><i>Canis<b/>lupus</i><par n="Autre__np"/></e>
+<e lm="Canis lupus familiaris"><i>Canis<b/>lupus<b/>familiaris</i><par n="Autre__np"/></e>
+<e lm="Canis lupus f. familiaris"><i>Canis<b/>lupus<b/>f.<b/>familiaris</i><par n="Autre__np"/></e>
+<e lm="Capra hircus"><i>Capra<b/>hircus</i><par n="Autre__np"/></e>
+<e lm="Capra aegagrus hircus"><i>Capra<b/>aegagrus<b/>hircus</i><par n="Autre__np"/></e>
+<e lm="Capra aegagrus f. hircus"><i>Capra<b/>aegagrus<b/>f.<b/>hircus</i><par n="Autre__np"/></e>
+<e lm="Carnivora"><i>Carnivora</i><par n="Autre__np"/></e>
+<e lm="Chordata"><i>Chordata</i><par n="Autre__np"/></e>
+<e lm="Dipylidium caninum"><i>Dipylidium<b/>caninum</i><par n="Autre__np"/></e>
+<e lm="Cynomys"><i>Cynomys</i><par n="Autre__np"/></e>
+<e lm="Eutheria"><i>Eutheria</i><par n="Autre__np"/></e>
+<e lm="Mammalia"><i>Mammalia</i><par n="Autre__np"/></e>
+<e lm="Speothos"><i>Speothos</i><par n="Autre__np"/></e>
+<e lm="tapetum lucidum"><i>tapetum<b/>lucidum</i><par n="Autre__np"/></e>
+<e lm="Theria"><i>Theria</i><par n="Autre__np"/></e>
+<e lm="Vertebrata"><i>Vertebrata</i><par n="Autre__np"/></e>
+<!-- end of Latin terms -->
+
+<!-- treat letters as proper nouns -->
+<!--<e lm="a"><i>a</i><par n="Autre__np"/></e>
+<e lm="b"><i>b</i><par n="Autre__np"/></e>
+<e lm="c"><i>c</i><par n="Autre__np"/></e>
+<e lm="d"><i>d</i><par n="Autre__np"/></e>
+<e lm="e"><i>e</i><par n="Autre__np"/></e>
+<e lm="f"><i>f</i><par n="Autre__np"/></e>
+<e lm="g"><i>g</i><par n="Autre__np"/></e>
+<e lm="h"><i>h</i><par n="Autre__np"/></e>
+<e lm="i"><i>i</i><par n="Autre__np"/></e>
+<e lm="j"><i>j</i><par n="Autre__np"/></e>
+<e lm="k"><i>k</i><par n="Autre__np"/></e>
+<e lm="l"><i>l</i><par n="Autre__np"/></e>
+<e lm="m"><i>m</i><par n="Autre__np"/></e>
+<e lm="n"><i>n</i><par n="Autre__np"/></e>
+<e lm="o"><i>o</i><par n="Autre__np"/></e>
+<e lm="p"><i>p</i><par n="Autre__np"/></e>
+<e lm="q"><i>q</i><par n="Autre__np"/></e>
+<e lm="r"><i>r</i><par n="Autre__np"/></e>
+<e lm="s"><i>s</i><par n="Autre__np"/></e>
+<e lm="t"><i>t</i><par n="Autre__np"/></e>
+<e lm="u"><i>u</i><par n="Autre__np"/></e>
+<e lm="v"><i>v</i><par n="Autre__np"/></e>
+<e lm="w"><i>w</i><par n="Autre__np"/></e>
+<e lm="x"><i>x</i><par n="Autre__np"/></e>
+<e lm="y"><i>y</i><par n="Autre__np"/></e>
+<e lm="z"><i>z</i><par n="Autre__np"/></e>-->
+<!-- end of letters  -->
+
+<e lm="Baltique"><i>Baltique</i><par n="Nom__np"/></e>
+<e lm="Balto"><i>Balto</i><par n="Nom__np"/></e>
+<e lm="Belka"><i>Belka</i><par n="Nom__np"/></e>
+<e lm="Strelka"><i>Strelka</i><par n="Nom__np"/></e>
+<e lm="Bo"><i>Bo</i><par n="Nom__np"/></e>
+<e lm="COM"><i>COM</i><par n="Autre__np"/></e>
+<e lm="Greyfriars Bobby"><i>Greyfriars<b/>Bobby</i><par n="Nom__np"/></e>
+<e lm="Hachikō"><i>Hachikō</i><par n="Nom__np"/></e>
+<e lm="Laïka"><i>Laïka</i><par n="Nom__np"/></e>
+<e lm="Mabrouk"><i>Mabrouk</i><par n="Nom__np"/></e>
+<e lm="Mabrouka"><i>Mabrouka</i><par n="Nom__np"/></e>
+<e lm="MALDI"><i>MALDI</i><par n="Autre__np"/></e>
+<e lm="First Dog"><i>First<b/>Dog</i><par n="Nom__np"/></e>
+<e lm="Gustave FlaLOFbert"><i>Gustave<b/>Flaubert</i><par n="Nom__np"/></e>
+<e lm="LOF"><i>LOF</i><par n="Autre__np"/></e>
+<e lm="Markos Kyprianou"><i>Markos<b/>Kyprianou</i><par n="Nom__np"/></e>
+<e lm="PETA"><i>PETA</i><par n="Autre__np"/></e>
+<e lm="Rubarth"><i>Rubarth</i><par n="Nom__np"/></e>
+<e lm="TOF"><i>TOF</i><par n="Autre__np"/></e>
+<e lm="Toutounet"><i>Toutounet</i><par n="Lieu__np"/></e>
+<e lm="U.S.Navy"><i>U.S.Navy</i><par n="Autre__np"/></e>
+<e lm="Vietnam"><i>Vietnam</i><par n="Lieu__np"/></e>
+
+<e lm="Berger Belge Malinois"><i>Berger<b/>Belge<b/>Malinois</i><par n="Autre__np"/></e>
+<e lm="Berger de Beauce"><i>Berger<b/>de<b/>Beauce</i><par n="Autre__np"/></e>
+<!--<e lm="bichon maltais"><i>bichon<b/>maltais</i><par n="Autre__np"/></e>-->
+<e lm="Brie"><i>Brie</i><par n="LieuAutre__np"/></e>
+<e lm="Commons"><i>Common</i><par n="Autre__np"/></e>
+<e lm="Golden Retriever"><i>Golden<b/>Retriever</i><par n="Autre__np"/></e>
+<e lm="Gos d'Atura"><i>Gos<b/>d'Atura</i><par n="Autre__np"/></e>
+<e lm="Irish Wolfhound"><i>Irish<b/>Wolfhound</i><par n="Autre__np"/></e>
+<e lm="Linnaeus"><i>Linnaeus</i><par n="Nom__np"/></e>
+<e lm="Parson russel terrier"><i>Parson<b/>russel<b/>terrier</i><par n="Autre__np"/></e>
+
+<e lm="aboyer"><i>abo</i><par n="bala/yer__vblex" prm=""/></e>
+<e lm="brosser"><i>bross</i><par n="abaiss/er__vblex"/></e>
+<e lm="coincer"><i>coin</i><par n="annon/cer__vblex"/></e>
+<e lm="courtiser"><i>courtis</i><par n="abaiss/er__vblex"/></e>
+<e lm="débrouiller"><i>débrouill</i><par n="abaiss/er__vblex"/></e>
+<e lm="découler"><i>découl</i><par n="abaiss/er__vblex"/></e>
+<e lm="dédier"><i>dédi</i><par n="abaiss/er__vblex"/></e>
+<e lm="digérer"><i>dig</i><par n="accél/é[R]er__vblex" prm="r"/></e>
+<e lm="ébattre"><i>ébat</i><par n="abat/tre__vblex"/></e>
+<e lm="épiler"><i>épil</i><par n="abaiss/er__vblex"/></e>
+<e lm="flairer"><i>flair</i><par n="abaiss/er__vblex"/></e>
+<e lm="fuguer"><i>fugu</i><par n="abaiss/er__vblex"/></e>
+<e lm="inclure"><i>incl</i><par n="concl/u[]re__vblex" prm=""/></e>
+<e lm="insurgir"><i>insurg</i><par n="about/[]ir__vblex" prm=""/></e>
+<e lm="glapir"><i>glap</i><par n="about/[]ir__vblex"/></e>
+<e lm="grillager"><i>grillag</i><par n="allong/er__vblex"/></e>
+<e lm="homogénéiser"><i>homogénéis</i><par n="abaiss/er__vblex"/></e>
+<e lm="japper"><i>japp</i><par n="abaiss/er__vblex"/></e>
+<e lm="lasser"><i>lass</i><par n="abaiss/er__vblex"/></e>
+<e lm="légiférer"><i>légif</i><par n="accél/é[R]er__vblex" prm="r"/></e>
+<e lm="lubrifier"><i>lubrifi</i><par n="abaiss/er__vblex"/></e>
+<e lm="mâchouiller"><i>mâchouill</i><par n="abaiss/er__vblex"/></e>
+<e lm="maîtriser"><i>maîtris</i><par n="abaiss/er__vblex"/></e>
+<e lm="modeler"><i>mod</i><par n="ach/e[T]er__vblex" prm="l"/></e>
+<e lm="pénaliser"><i>pénalis</i><par n="abaiss/er__vblex"/></e>
+<e lm="plier"><i>pli</i><par n="abaiss/er__vblex"/></e>
+<e lm="redevenir"><i>redev</i><par n="appart/enir__vblex"/></e>
+<e lm="référencer"><i>référen</i><par n="annon/cer__vblex"/></e>
+<e lm="renseigner"><i>renseign</i><par n="abaiss/er__vblex"/></e>
+<e lm="stériliser"><i>stérilis</i><par n="abaiss/er__vblex"/></e>
+<e lm="sourcer"><i>sour</i><par n="annon/cer__vblex" prm="l"/></e>
+<e lm="tracter"><i>tract</i><par n="abaiss/er__vblex"/></e>
+<e lm="transporter"><i>transport</i><par n="abaiss/er__vblex"/></e>
+<e lm="vermifuger"><i>vermifug</i><par n="allong/er__vblex"/></e>
+
+<e lm="aliments"><i>aliments</i><par n="livre__n"/></e>
+<e lm="animalerie"><i>animalerie</i><par n="abeille__n"/></e>
+<e lm="ankylostome"><i>ankylostome</i><par n="abeille__n"/></e> <!-- always plural? -->
+<e lm="ascari"><i>ascari</i><par n="livre__n"/></e>
+<e lm="attelage"><i>attelage</i><par n="abeille__n"/></e>
+<e lm="beagle"><i>beagle</i><par n="livre__n"/></e>
+<e lm="bibliographie"><i>bibliographie</i><par n="abeille__n"/></e>
+<e lm="bichon"><i>bichon</i><par n="livre__n"/></e>
+<e lm="boitement"><i>boitement</i><par n="livre__n"/></e>
+<e lm="boucherie"><i>boucherie</i><par n="abeille__n"/></e>
+<e lm="bovin"><i>bovin</i><par n="chat__n"/></e>
+<e lm="boxer"><i>boxer</i><par n="livre__n"/></e>
+<e lm="braccoïde"><i>braccoïde</i><par n="livre__n"/></e>
+<e lm="brossage"><i>brossage</i><par n="livre__n"/></e>
+<e lm="caniche"><i>caniche</i><par n="livre__n"/></e>
+<e lm="canidé"><i>canidé</i><par n="livre__n"/></e>
+<e lm="carnivore"><i>carnivore</i><par n="livre__n"/></e>
+<e lm="céréales"><i>céréales</i><par n="abeille__n"/></e>
+<e lm="chacal"><i>chacal</i><par n="chat__n"/></e>
+<e lm="charognard"><i>charognard</i><par n="livre__n"/></e>
+<e lm="charrette"><i>charrette</i><par n="abeille__n"/></e>
+<e lm="chenil"><i>chenil</i><par n="livre__n"/></e>
+<e lm="chihuahua"><i>chihuahua</i><par n="livre__n"/></e>
+<e lm="chiot"><i>chiot</i><par n="livre__n"/></e>
+<e lm="chow-chow"><i>chow-chow</i><par n="livre__n"/></e>
+<e lm="coccidie"><i>coccidie</i><par n="livre__n"/></e>
+<e lm="collerette"><i>collerette</i><par n="abeille__n"/></e>
+<e lm="comportementaliste"><i>comportementaliste</i><par n="artiste__n"/></e>
+<e lm="convenance"><i>convenance</i><par n="abeille__n"/></e>
+<e lm="cordon"><i>cordon</i><par n="livre__n"/></e>
+<e lm="coussinet"><i>coussinet</i><par n="livre__n"/></e>
+<e lm="crotte"><i>crotte</i><par n="abeille__n"/></e>
+<e lm="cynologie"><i>cynologie</i><par n="abeille__n"/></e>
+<e lm="cynophagie"><i>cynophagie</i><par n="abeille__n"/></e>
+<e lm="cynophilie"><i>cynophilie</i><par n="abeille__n"/></e>
+<e lm="dédommagement"><i>dédommagement</i><par n="livre__n"/></e>
+<e lm="déjection"><i>déjection</i><par n="abeille__n"/></e>
+<e lm="démangeaison"><i>démangeaison</i><par n="abeille__n"/></e>
+<e lm="déménagement"><i>déménagement</i><par n="livre__n"/></e>
+<e lm="démodécie"><i>démodécie</i><par n="abeille__n"/></e>
+<e lm="denture"><i>denture</i><par n="abeille__n"/></e>
+<e lm="digitigrade"><i>digitigrade</i><par n="livre__n"/></e>
+<e lm="dingo"><i>dingo</i><par n="livre__n"/></e>
+<e lm="dipylidiose"><i>dipylidiose</i><par n="abeille__n"/></e>
+<e lm="dirofilariose"><i>dirofilariose</i><par n="abeille__n"/></e>
+<e lm="disette"><i>disette</i><par n="abeille__n"/></e>
+<e lm="dog-sitting"><i>dog-sitting</i><par n="livre__n"/></e>
+<e lm="douve"><i>douve</i><par n="abeille__n"/></e>
+<e lm="eczéma"><i>eczéma</i><par n="livre__n"/></e>
+<e lm="embonpoint"><i>embonpoint</i><par n="livre__n"/></e>
+<e lm="endurance"><i>endurance</i><par n="abeille__n"/></e>
+<e lm="étalon"><i>étalon</i><par n="livre__n"/></e>
+<e lm="étiquetage"><i>étiquetage</i><par n="abeille__n"/></e>
+<e lm="euthanasie"><i>euthanasie</i><par n="abeille__n"/></e>
+<e lm="gale"><i>gale</i><par n="abeille__n"/></e>
+<e lm="gamelle"><i>gamelle</i><par n="abeille__n"/></e>
+<e lm="giardose"><i>giardose</i><par n="abeille__n"/></e>
+<e lm="généalogie"><i>généalogie</i><par n="abeille__n"/></e>
+<e lm="graïoïde"><i>graïoïde</i><par n="livre__n"/></e>
+<e lm="griffe"><i>griffe</i><par n="abeille__n"/></e>
+<e lm="homonyme"><i>homonyme</i><par n="livre__n"/></e>
+<e lm="homonymie"><i>homonymie</i><par n="abeille__n"/></e>
+<e lm="husky"><i>husk</i><par n="brand/y__n"/></e>
+<e lm="indemnité"><i>indemnité</i><par n="livre__n"/></e>
+<e lm="infra-classe"><i>infra-classe</i><par n="abeille__n"/></e>
+<e lm="infortune"><i>infortune</i><par n="abeille__n"/></e>
+<e lm="labrador"><i>labrador</i><par n="livre__n"/></e>
+<e lm="lactation"><i>lactation</i><par n="abeille__n"/></e>
+<e lm="lavage"><i>lavage</i><par n="abeille__n"/></e>
+<e lm="leptospirose"><i>leptospirose</i><par n="abeille__n"/></e>
+<e lm="lettrage"><i>lettrage</i><par n="abeille__n"/></e>
+<e lm="lévri"><i>lévri</i><par n="bouch/er__n"/></e>
+<e lm="lice"><i>lice</i><par n="abeille__n"/></e>
+<e lm="louve"><i>louve</i><par n="abeille__n"/></e>
+<e lm="lupoïde"><i>lupoïde</i><par n="livre__n"/></e>
+<e lm="mâchoire"><i>mâchoire</i><par n="abeille__n"/></e>
+<e lm="maltraitance"><i>maltraitance</i><par n="abeille__n"/></e>
+<e lm="marquage"><i>marquage</i><par n="livre__n"/></e>
+<e lm="marronnage"><i>marronnage</i><par n="livre__n"/></e>
+<e lm="mastiff"><i>mastiff</i><par n="livre__n"/></e>
+<e lm="mégarde"><i>mégarde</i><par n="abeille__n"/></e>
+<e lm="membrane"><i>membrane</i><par n="abeille__n"/></e>
+<e lm="mignon"><i>mignon</i><par n="chat__n"/></e>
+<e lm="molosse"><i>molosse</i><par n="livre__n"/></e>
+<e lm="molossoïde"><i>molossoïde</i><par n="livre__n"/></e>
+<e lm="morphologie"><i>morphologie</i><par n="abeille__n"/></e>
+<e lm="morsure"><i>morsure</i><par n="abeille__n"/></e>
+<e lm="multitude"><i>multitude</i><par n="abeille__n"/></e>
+<e lm="museau"><i>museau</i><par n="lieu__n"/></e>
+<e lm="nettoyage"><i>nettoyage</i><par n="livre__n"/></e>
+<e lm="omnivore"><i>omnivore</i><par n="livre__n"/></e>
+<e lm="ovulation"><i>ovulation</i><par n="abeille__n"/></e>
+<e lm="parvovirose"><i>parvovirose</i><par n="abeille__n"/></e>
+<e lm="pâtée"><i>pâtée</i><par n="abeille__n"/></e>
+<e lm="pédomorphisme"><i>pédomorphisme</i><par n="livre__n"/></e>
+<e lm="perspicacité"><i>perspicacité</i><par n="livre__n"/></e>
+<e lm="phalange"><i>phalange</i><par n="livre__n"/></e>
+<e lm="pinces"><i>pinces</i><par n="fois__n"/></e>
+<e lm="pinscher"><i>pinscher</i><par n="livre__n"/></e>
+<e lm="pitbull"><i>pitbull</i><par n="livre__n"/></e>
+<e lm="placenta"><i>placenta</i><par n="livre__n"/></e>
+<e lm="planche"><i>planche</i><par n="abeille__n"/></e>
+<e lm="prairie"><i>prairie</i><par n="abeille__n"/></e>
+<e lm="prévalence"><i>prévalence</i><par n="abeille__n"/></e>
+<e lm="promeneur"><i>promen</i><par n="débit/eur__n"/></e>
+<e lm="rage"><i>rage</i><par n="abeille__n"/></e>
+<e lm="ramassage"><i>ramassage</i><par n="abeille__n"/></e>
+<e lm="rappel"><i>rappel</i><par n="livre__n"/></e>
+<e lm="règlementation"><i>règlementation</i><par n="abeille__n"/></e>
+<e lm="réticence"><i>réticence</i><par n="abeille__n"/></e>
+<e lm="rongeur"><i>rong</i><par n="débit/eur__n"/></e>
+<e lm="rottweiler"><i>rottweiler</i><par n="livre__n"/></e>
+<e lm="salissure"><i>salissure</i><par n="livre__n"/></e>
+<e lm="selle"><i>selle</i><par n="livre__n"/></e>
+<e lm="senior"><i>senior</i><par n="livre__n"/></e>
+<e lm="shampooing"><i>shampooing</i><par n="livre__n"/></e>
+<e lm="sous-embranchement"><i>sous-embranchement</i><par n="livre__n"/></e>
+<e lm="sous-embr."><i>sous-embr.</i><par n="personnel__n"/></e>
+<e lm="spectrométrie"><i>spectrométrie</i><par n="abeille__n"/></e>
+<e lm="spitz"><i>spitz</i><par n="mois__n"/></e>
+<e lm="synonyme"><i>synonyme</i><par n="livre__n"/></e>
+<e lm="tæniasis"><i>tæniasis</i><par n="mois__n"/></e>
+<e lm="teckel"><i>teckel</i><par n="colonel__n"/></e>
+<e lm="tempérament"><i>tempérament</i><par n="livre__n"/></e>
+<e lm="ténia"><i>ténia</i><par n="livre__n"/></e>
+<e lm="terrier"><i>terri</i><par n="bouch/er__n"/></e>
+<e lm="théobromine"><i>théobromine</i><par n="abeille__n"/></e>
+<e lm="thorax"><i>thorax</i><par n="flash__n"/></e>
+<e lm="tique"><i>tique</i><par n="livre__n"/></e>
+<e lm="toilettage"><i>toilettage</i><par n="abeille__n"/></e>
+<e lm="toxoplasmose"><i>toxoplasmose</i><par n="abeille__n"/></e>
+<e lm="trichuri"><i>trichuri</i><par n="livre__n"/></e>
+<e lm="truffe"><i>truffe</i><par n="abeille__n"/></e>
+<e lm="ultrason"><i>ultrason</i><par n="livre__n"/></e>
+<e lm="vénerie"><i>vénerie</i><par n="abeille__n"/></e>
+<e lm="vermifugation"><i>vermifugation</i><par n="abeille__n"/></e>
+<e lm="vermifuge"><i>vermifuge</i><par n="livre__n"/></e>
+<e lm="vessie"><i>vessie</i><par n="abeille__n"/></e>
+<e lm="zoothérapie"><i>zoothérapie</i><par n="abeille__n"/></e>
+
+<e lm="cm2"><i>cm2</i><par n="mois__n"/></e>    <!-- do we need this? -->
+<e lm="no"><i>no</i><par n="mois__n"/></e>    <!-- do we need this? -->
+
+<e lm="adéquat"><i>adéquat</i><par n="pèlerin__adj"/></e>
+<e lm="animal"><i>anima</i><par n="amica/l__adj"/></e>
+<e lm="athlétique"><i>athlétique</i><par n="académique__adj"/></e>
+<e lm="auriculaire"><i>auriculaire</i><par n="académique__adj"/></e>
+<e lm="canin"><i>canin</i><par n="pèlerin__adj"/></e>
+<e lm="comportemental"><i>comportementa</i><par n="amica/l__adj"/></e>
+<e lm="congénère"><i>congénère</i><par n="académique__adj"/></e>
+<e lm="connexe"><i>connexe</i><par n="académique__adj"/></e>
+<e lm="corporel"><i>corporel</i><par n="annuel__adj"/></e>
+<e lm="cynégétique"><i>cynégétique</i><par n="académique__adj"/></e>
+<e lm="cynologique"><i>cynologique</i><par n="académique__adj"/></e>
+<e lm="endurant"><i>endurant</i><par n="pèlerin__adj"/></e>
+<e lm="excitant"><i>excitant</i><par n="pèlerin__adj"/></e>
+<e lm="fécal"><i>féca</i><par n="amica/l__adj"/></e>
+<e lm="francophones"><i>francophones</i><par n="académique__adj"/></e>
+<e lm="friable"><i>friable</i><par n="académique__adj"/></e>
+<e lm="homogène"><i>homogène</i><par n="académique__adj"/></e>
+<e lm="immature"><i>immature</i><par n="académique__adj"/></e>
+<e lm="immunologique"><i>immunologique</i><par n="académique__adj"/></e>
+<e lm="inaudible"><i>inaudible</i><par n="académique__adj"/></e>
+<e lm="infime"><i>infime</i><par n="académique__adj"/></e>
+<e lm="inhabituel"><i>inhabituel</i><par n="annuel__adj"/></e>
+<e lm="intempestif"><i>intempesti</i><par n="affirmati/f__adj"/></e>
+<e lm="interfécond"><i>interfécond</i><par n="pèlerin__adj"/></e>
+<e lm="intestinal"><i>intestina</i><par n="amica/l__adj"/></e>
+<e lm="judicieux"><i>judicieu</i><par n="affectueu/x__adj"/></e>
+<e lm="maltais"><i>maltais</i><par n="anglais__adj"/></e>
+<e lm="mensonger"><i>mensong</i><par n="ch/er__adj"/></e>
+<e lm="meute"><i>meute</i><par n="académique__adj"/></e>
+<e lm="nauséabonde"><i>nauséabonde</i><par n="académique__adj"/></e>
+<e lm="négligeable"><i>négligeable</i><par n="académique__adj"/></e>
+<e lm="obèse"><i>obèse</i><par n="académique__adj"/></e>
+<e lm="olfactif"><i>olfacti</i><par n="affirmati/f__adj"/></e>
+<e lm="omnivore"><i>omnivore</i><par n="académique__adj"/></e>
+<e lm="originel"><i>originel</i><par n="annuel__adj"/></e>
+<e lm="pisteur"><i>pisteu</i><par n="causeu/r__adj"/></e>
+<e lm="plantaire"><i>plantaire</i><par n="académique__adj"/></e>
+<e lm="pluvieux"><i>pluvieu</i><par n="affectueu/x__adj"/></e>
+<e lm="pointu"><i>pointu</i><par n="pèlerin__adj"/></e>
+<e lm="primitif"><i>primiti</i><par n="affirmati/f__adj"/></e>
+<e lm="pyramidal"><i>pyramida</i><par n="amica/l__adj"/></e>
+<e lm="réfléchissant"><i>réfléchissant</i><par n="pèlerin__adj"/></e>
+<e lm="rénal"><i>réna</i><par n="amica/l__adj"/></e>
+<e lm="répétitif"><i>répétiti</i><par n="affirmati/f__adj"/></e>
+<e lm="romain"><i>romain</i><par n="pèlerin__adj"/></e>
+<e lm="rusé"><i>rusé</i><par n="pèlerin__adj"/></e>
+<e lm="sibérien"><i>sibérien</i><par n="ancien__adj"/></e>
+<e lm="sociable"><i>sociable</i><par n="académique__adj"/></e>
+<e lm="soyeux"><i>soyeu</i><par n="affectueu/x__adj"/></e>
+<e lm="taxinomique"><i>taxinomique</i><par n="académique__adj"/></e>
+<e lm="tombant"><i>tombant</i><par n="pèlerin__adj"/></e>
+<e lm="truffier"><i>truffi</i><par n="ch/er__adj"/></e>
+<e lm="urinaire"><i>urinaire</i><par n="académique__adj"/></e>
+<e lm="voyant"><i>voyant</i><par n="pèlerin__adj"/></e>
+
+<e lm="avant Jésus-Christ"><i>avant<b/>Jésus-Christ</i><par n="arrière__adj"/></e>
+<e lm="avant J.-C."><i>avant<b/>J.-C.</i><par n="arrière__adj"/></e>
+<e lm="av. J.-C."><i>av.<b/>J.-C.</i><par n="arrière__adj"/></e>
+<e lm="après Jésus-Christ"><i>après<b/>Jésus-Christ</i><par n="arrière__adj"/></e>
+<e lm="après J.-C."><i>après<b/>J.-C.</i><par n="arrière__adj"/></e>
+<e lm="ap. J.-C."><i>ap.<b/>J.-C.</i><par n="arrière__adj"/></e>
+
+<e lm="culturellement"><i>culturellement</i><par n="hier__adv"/></e>
+<e lm="génétiquement"><i>génétiquement</i><par n="hier__adv"/></e>
+<e lm="irrévocablement"><i>irrévocablement</i><par n="hier__adv"/></e>
+
+
 </section>
 
 <section id="final" type="inconditional">
