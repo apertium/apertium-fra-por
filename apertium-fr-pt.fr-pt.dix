@@ -255,7 +255,7 @@
 <e>       <p><l>quand<s n="rel"/></l>                  <r>quando<s n="rel"/></r></p></e>
 <e>       <p><l>que<s n="rel"/></l>                    <r>que<s n="rel"/><s n="an"/></r></p></e>
 <e>       <p><l>qui<s n="rel"/></l>                    <r>quem<s n="rel"/><s n="nn"/></r></p></e>
-<e r="LR"><p><l>pas<s n="adv"/></l>                    <r/></p></e>
+<!--<e r="LR"><p><l>pas<s n="adv"/></l>                    <r/></p></e>-->
     <!-- ******************************
           group vbmod_symbol
       ****************************** -->
