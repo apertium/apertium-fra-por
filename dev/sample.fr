@@ -1,58 +1,3 @@
-[IMG]
-[IMG]
-Cet article ne cite pas suffisamment ses sources (août 2009).
-Si vous connaissez le thème traité, merci d'indiquer les passages à sourcer avec {{Référence souhaitée}} ou, mieux, incluez les références utiles en les liant aux notes de bas de page. (Modifier l'article)
-[IMG] Pour les articles homonymes, voir Chien (homonymie).
-[IMG]
-Chien
-[IMG]
-Pinscher allemand
-Classification
-Règne
-Animalia
-Embranchement
-Chordata
-Sous-embr.
-Vertebrata
-Classe
-Mammalia
-Sous-classe
-Theria
-Infra-classe
-Eutheria
-Ordre
-Carnivora
-Sous-ordre
-Caniformia
-Famille
-Canidae
-Genre
-Canis
-Espèce
-Canis lupus
-Sous-espèce
-Canis lupus familiaris
-(Linnaeus, 1758)
-Synonymes
-Canis lupus f. familiaris
-Canis familiaris Linnaeus, 1758
-Canis familiarus domesticus Linnaeus, 1758
-Canis canis
-[IMG]
-D'autres documents multimédia
-sont disponibles sur Commons
-Parcourez la biologie sur Wikipédia :
-[IMG]
-[IMG]
-[IMG]
-[IMG]
-[IMG]
-[IMG]
-[IMG]
-[IMG]
-Le chien (Canis lupus familiaris) est un mammifère domestique de la famille des canidés, proche du loup et du renard. Autrefois regroupé dans une espèce à part entière, connue sous le nom scientifique de Canis canis ou encore Canis familiaris, son origine est en fait probablement diverse[1],[2]. Par défaut, les scientifiques regroupent l'ensemble des races de chiens au sein d'un groupe nommé Canis lupus familiaris, une sous-espèce de Canis lupus, à laquelle appartiennent également d'autres sous-espèces comme le loup gris commun. Des chiens domestiqués redevenus sauvages (marronnage) ont créé leur propre groupe homogène qui sont considérés comme autant de sous-espèces de Canis lupus, par exemple les dingos et le chien chanteur.
-Il existe de nombreuses races de chiens. Environ les trois quarts de celles reconnues sont très anciennes et issues de la sélection naturelle sur la morphologie, combinée à une sélection artificielle sur le comportement (exemples : Husky sibérien, Berger de Brie). Le dernier quart est issu d'une sélection artificielle récente (exemples : Berger allemand, Golden Retriever) ; ces dernières sont souvent les plus populaires car modelées à la convenance de l'homme. Certaines races de chiens furent créées à partir de croisements dans le passé. De nos jours, afin qu'un chien puisse se mériter l'appellation de pure race selon la loi dans les pays régis par la Fédération cynologique internationale (dont ceux d'Amérique du Nord et d'Europe), il doit obligatoirement être enregistré dans les livres des origines de son pays de naissance. Sans ces enregistrements, un chien, bien qu'apparaissant appartenir à une race, pourrait posséder des croisements dans sa généalogie et devrait donc être considéré comme tel par la loi[3],[4].
-C'est aussi une appellation pour plusieurs autres espèces de canidés de type Atelocynus et Speothos, voire de rongeurs du genre Cynomys (chien de prairie).
 Sommaire
 1 Dénomination
 2 Histoire
@@ -89,46 +34,52 @@ Sommaire
 12.1 Articles connexes
 12.2 Liens externes taxinomiques
 12.3 Liens externes divers
-//
+
+Le chien (Canis lupus familiaris) est un mammifère domestique de la famille des canidés, proche du loup et du renard. Autrefois regroupé dans une espèce à part entière, connue sous le nom scientifique de Canis canis ou encore Canis familiaris, son origine est en fait probablement diverse[1],[2]. Par défaut, les scientifiques regroupent l'ensemble des races de chiens au sein d'un groupe nommé Canis lupus familiaris, une sous-espèce de Canis lupus, à laquelle appartiennent également d'autres sous-espèces comme le loup gris commun. Des chiens domestiqués redevenus sauvages (marronnage) ont créé leur propre groupe homogène qui sont considérés comme autant de sous-espèces de Canis lupus, par exemple les dingos et le chien chanteur.
+
+Il existe de nombreuses races de chiens. Environ les trois quarts de celles reconnues sont très anciennes et issues de la sélection naturelle sur la morphologie, combinée à une sélection artificielle sur le comportement (exemples : Husky sibérien, Berger de Brie). Le dernier quart est issu d'une sélection artificielle récente (exemples : Berger allemand, Golden Retriever) ; ces dernières sont souvent les plus populaires car modelées à la convenance de l'homme. Certaines races de chiens furent créées à partir de croisements dans le passé. De nos jours, afin qu'un chien puisse se mériter l'appellation de pure race selon la loi dans les pays régis par la Fédération cynologique internationale (dont ceux d'Amérique du Nord et d'Europe), il doit obligatoirement être enregistré dans les livres des origines de son pays de naissance. Sans ces enregistrements, un chien, bien qu'apparaissant appartenir à une race, pourrait posséder des croisements dans sa généalogie et devrait donc être considéré comme tel par la loi[3],[4].
+
+C'est aussi une appellation pour plusieurs autres espèces de canidés de type Atelocynus et Speothos, voire de rongeurs du genre Cynomys (chien de prairie).
+
 Dénomination
+
 Le terme chien dérive du terme latin canis dans le même sens[5]. La femelle du chien s'appelle la chienne et un jeune chien est appelé un chiot. Le chien glapit, jappe ou aboie.
+
 Histoire
+
 Article détaillé : Domestication du chien.
-[IMG]
-[IMG]
-[IMG]
-[IMG]
+
 Un chien au début du XVIe siècle.
+
 La domestication du chien débute probablement entre 16000 et 15000 avant J.-C. dans des groupes de chasseurs. En comparaison, le cheval sera domestiqué par des groupes nomades entre 4000 et 3000 avant J.-C.
+
 Le chien aurait été simplement apprivoisé parmi d'autres animaux, tels les chacals ou les rongeurs. Mais c'est le seul maintenu en dépendance, car il aurait montré le plus d'aptitudes à une socialisation primitive. Le chien a pour ancêtre le loup mais des expériences, en cours depuis une cinquantaine d’années avec des croisements sélectifs de renards semblent donner des résultats similaires à ceux observés chez le chien (comportement particulièrement social, pédomorphisme, tempérament enfantin…).
+
 Le chien primitif serait un chien de chasse qui aidait l'homme.
+
 Dans l'Antiquité, les chiens servaient aux combats (exemple : Irish Wolfhound), à la production de viande et étaient aussi supports de croyances et de rites de type religieux.
+
 Plus tard, sous l'Empire romain, ils étaient des animaux de compagnie, des gardiens de troupeaux et utilisés pour la chasse.
+
 Au Moyen Âge, dans les campagnes et les milieux populaires, les chiens suscitent des peurs collectives et faisaient l'objet d'exterminations quotidiennes. Pour la noblesse, par contre, ce fut l'âge d'or de la vénerie.
+
 À la Renaissance, la passion des hommes pour la chasse parvint à conserver une place aux chiens dans la société. La noblesse considérait le chien comme un signe de puissance et de grandeur. Ceci permit le développement de races de chiens de compagnie.
+
 Au XIXe siècle, la population de chiens connaît une expansion numérique. Il est devenu un animal commun.
 Vers 1855, les anciennes races de chiens sont reconnues officiellement et leur type est homogénéisé (fixé) tandis que de nouvelles races créées par l'homme apparaissent. C'est l'apparition de la cynophilie.
+
 À la Belle Époque, puis entre les deux guerres, les artistes, les écrivains, et les politiciens choisissent des animaux qui les différencient du commun tel que les teckels par leurs petites tailles ou encore les caniches pour leurs poils.
+
 Systématique
+
 On a donné aux chiens le nom scientifique de Canis familiarus au XVIIIe siècle, avant le développement de la biologie évolutive. Avec le développement de celle-ci, l'étroite relation entre races domestiques et sauvages a été reconnue. À ce titre, le statut scientifique des « espèces » domestiques a été remis en cause, et beaucoup de biologistes ne les considèrent plus désormais que comme des formes domestiquées des espèces sauvages originelles.
+
 Une espèce est en effet constituée de « groupes de populations naturelles, effectivement ou potentiellement interfécondes, qui sont génétiquement isolées d’autres groupes similaires[6] ». Or, les « espèces » domestiques se croisent avec leur espèce parente quand elles en ont l'occasion. « Vu que, du moins en ce qui concerne les races d'animaux domestiques primitives, celles-ci constitueraient, en règle générale, une entité de reproduction avec leur espèce ancestrale, si elles en avaient la possibilité, la classification d'animaux domestiques en tant qu'espèces propres n'est pas acceptable. C'est pourquoi on a essayé de les définir comme sous-espèces[7] ».
+
 On donne alors à la nouvelle sous-espèce le nom de l'espèce d'origine, complété par le nom de sous-espèce (qui reprend la seconde partie de l'ancien nom d'espèce.
-Nom commun
-Nom d'espèce traditionnel
-Nom d'espèce révisé
-Chien domestique
-Canis familiaris
-Canis lupus familiaris
-Bovin domestique
-Bos taurus
-Bos primigenius taurus
-Chèvre domestique
-Capra hircus
-Capra aegagrus hircus
+
 Certains biologistes sont même réticents à utiliser la notion de sous-espèces pour un groupe domestiqué. D'un point de vue évolutif, l'idée d'espèce ou de sous-espèce est en effet liée à l'idée de sélection naturelle, et non de sélection artificielle. Du fait de cette réticence, et « depuis 1960 environ, on utilise de plus en plus la désignation « forma », abrégée « f », qui exprime clairement qu'il s'agit d'une forme d'animal domestique qui peut éventuellement remonter jusqu'à diverses sous-espèces sauvages :
-Chien domestique - Canis lupus f. familiaris
-Bovin domestique - Bos primigenius f. taurus
-Chèvre domestique - Capra aegagrus f. hircus[7] »
+
 Races et morphologies
 Articles détaillés : Liste des races de chiens et Cynologie.
 L'étude des chiens et des races de chiens est appelée cynologie.
