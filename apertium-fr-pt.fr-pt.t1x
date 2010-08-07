@@ -507,7 +507,7 @@
     <def-var n="paraula1"/>
     <def-var n="SVnegatiu"/>
     <def-var n="auxiliar"/>
-    <def-var n="neadv" v="no"/>
+    <def-var n="neadv" v="não"/>
     <def-var n="tipusadv"/>
   </section-def-vars>
 
@@ -662,7 +662,7 @@
           <let>
                 <var n="tipusadv"/>
                 <concat>
-                  <lit v="no"/>
+                  <lit v="não"/>
                   <lit-tag v="adv"/>
                 </concat>
               </let>
@@ -6391,7 +6391,7 @@
 	    </tags>
 	    <lu>
 	      <get-case-from pos="1">
-		<lit v="ya"/>
+		<lit v="já"/>
 	      </get-case-from>
 	      <lit-tag v="adv"/>
 	    </lu>

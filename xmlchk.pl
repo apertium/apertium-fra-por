@@ -2,18 +2,22 @@
 use strict;
 
 #my $infile = 'apertium-fr-pt.fr.metadix';
-#my $infile = 'apertium-fr-pt.pt.dix';
-my $infile = 'apertium-fr-pt.fr-pt.dix';
+my $infile = 'apertium-fr-pt.pt.dix';
+#my $infile = 'apertium-fr-pt.fr-pt.dix';
 
 open IN, $infile or die "Unable to read file '$infile': $!";
 binmode(IN,':utf8');
 while(<IN>) {
 	next if /^<!/;	# ignore commented-out lines
 #	next if m:</e>\s*$:;
-	next unless m:</l>\s*\S+\s*<r>:;
+#	next unless m:</l>\s*\S+\s*<r>:;
 #	next unless (m:<pardef: or m:<e>:);
 #	next unless m:<e:;
 #	next if m:</e>:;
+#	next unless m:<i:;
+#	next if m:</i>:;
+	next unless m:<i: and m:<par:;
+	next if m:</i><par:;
 	print "$.\t$_";
 }
 close IN;

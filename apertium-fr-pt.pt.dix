@@ -109292,11 +109292,6 @@
         <par n="aceitaç/ão__n"/>
       </e>
       
-      <e lm="indivíduo">
-        <i>indivíduo</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="indício">
         <i>indício</i>
         <par n="Leste__n"/>
@@ -117721,7 +117716,6 @@
 <e lm="Rio Nilo"><i>Rio<b/>Nilo</i><par n="Lugar__np"/></e>
 <e lm="Rio Yangtzé"><i>Rio<b/>Yangtzé</i><par n="Lugar__np"/></e>
 <e lm="Rio Amarelo"><i>Rio<b/>Amarelo</i><par n="Lugar__np"/></e>
-<e lm="Rio Amarelo"><i>Rio<b/>Amarelo</i><par n="Lugar__np"/></e>
 <e lm="Rio Ob"><i>Rio<b/>Ob</i><par n="Lugar__np"/></e>
 <e lm="Rio Lena"><i>Rio<b/>Lena</i><par n="Lugar__np"/></e>
 <e lm="Mackenzie"><i>Mackenzie</i><par n="Lugar__np"/></e>
@@ -118341,7 +118335,6 @@
 <e lm="Caldeia"><i>Caldeia</i><par n="Lugar__np"/></e>
 <e lm="Caledônia"><i>Caledônia</i><par n="Lugar__np"/></e>
 <e lm="Cruzeiro"><i>Cruzeiro</i><par n="Lugar__np"/></e>
-<e lm="Calçada dos Gigantes"><i>Calçada<b/>dos<b/>Gigantes</i><par n="Lugar__np"/></e>
 <e lm="Camarões"><i>Camarões</i><par n="Lugar__np"/></e>
 <e lm="Campos Elísios"><i>Campos<b/>Elísios</i><par n="Lugar__np"/></e>
 <e lm="Campos Elísios"><i>Campos<b/>Elísios</i><par n="Lugar__np"/></e>
@@ -118496,7 +118489,6 @@
 <e lm="Hanói"><i>Hanói</i><par n="Lugar__np"/></e>
 <e lm="Hébridas"><i>Hébridas</i><par n="Lugar__np"/></e>
 <e lm="Hebron"><i>Hebron</i><par n="Lugar__np"/></e>
-<e lm="Dardanelos"><i>Dardanelos</i><par n="Lugar__np"/></e>
 <e lm="Hindu Kush"><i>Hindu<b/>Kush</i><par n="Lugar__np"/></e>
 <e lm="Hispânia"><i>Hispânia</i><par n="Lugar__np"/></e>
 <e lm="Hispânia Citerior"><i>Hispânia<b/>Citerior</i><par n="Lugar__np"/></e>
@@ -127688,7 +127680,7 @@
   <i>Isabel</i>
   <par n="Nome__np"/>
 </e>
-<e lm="Latim">
+<e lm="latim">
   <i>Latim</i>
   <par n="Nome__np"/>
 </e>
@@ -137297,7 +137289,6 @@
 <e lm="Fidel Castro"><i>Fidel<b/>Castro</i><par n="Nome__np"/></e>
 <e lm="Raúl Castro"><i>Raúl<b/>Castro</i><par n="Nome__np"/></e>
 <e lm="Nicholas Liverpool"><i>Nicholas<b/>Liverpool</i><par n="Nome__np"/></e>
-<e lm="Nicholas Liverpool"><i>Nicholas<b/>Liverpool</i><par n="Nome__np"/></e>
 <e lm="Rafael Correa"><i>Rafael<b/>Correa</i><par n="Nome__np"/></e>
 <e lm="George W. Bush"><i>George<b/>W.<b/>Bush</i><par n="Nome__np"/></e>
 <e lm="René Garcia Préval"><i>René<b/>Garcia<b/>Préval</i><par n="Nome__np"/></e>
@@ -140447,19 +140438,19 @@
       </e>
 
 
-      
-
 <!-- Treat these Latin terms as proper nouns -->
 <e lm="Animalia"><i>Animalia</i><par n="Outro__np"/></e>
 <e lm="Atelocynus"><i>Atelocynus</i><par n="Outro__np"/></e>
 <e lm="Bos primigenius taurus"><i>Bos<b/>primigenius<b/>taurus</i><par n="Outro__np"/></e>
 <e lm="Bos primigenius f. taurus"><i>Bos<b/>primigenius<b/>f.<b/>taurus</i><par n="Outro__np"/></e>
 <e lm="Bos taurus"><i>Bos<b/>taurus</i><par n="Outro__np"/></e>
+<e lm="canícula"><i>canícula</i><par n="Outro__np"/></e>
 <e lm="Canidae"><i>Canidae</i><par n="Outro__np"/></e>
 <e lm="Caniformia"><i>Caniformia</i><par n="Outro__np"/></e>
 <e lm="canis"><i>canis</i><par n="Outro__np"/></e>
 <e lm="Canis canis"><i>Canis<b/>canis</i><par n="Outro__np"/></e>
 <e lm="Canis familiaris"><i>Canis<b/>familiaris</i><par n="Outro__np"/></e>
+<e lm="C. familiaris"><i>C.<b/>familiaris</i><par n="Outro__np"/></e>
 <e lm="Canis familiarus"><i>Canis<b/>familiarus</i><par n="Outro__np"/></e>
 <e lm="Canis familiarus domesticus"><i>Canis<b/>familiarus<b/>domesticus</i><par n="Outro__np"/></e>
 <e lm="Canis lupus"><i>Canis<b/>lupus</i><par n="Outro__np"/></e>
@@ -140469,10 +140460,16 @@
 <e lm="Canis lupus f. familiaris"><i>Canis<b/>lupus<b/>f.<b/>familiaris</i><par n="Outro__np"/></e>
 <e lm="Canis lupus variabilis"><i>Canis<b/>lupus<b/>variabilis</i><par n="Outro__np"/></e>
 <e lm="Canis (lupus) variabilis"><i>Canis<b/>(lupus)<b/>variabilis</i><par n="Outro__np"/></e>
+<e lm="canus"><i>canus</i><par n="Outro__np"/></e>
 <e lm="Capra hircus"><i>Capra<b/>hircus</i><par n="Outro__np"/></e>
 <e lm="Capra aegagrus hircus"><i>Capra<b/>aegagrus<b/>hircus</i><par n="Outro__np"/></e>
 <e lm="Capra aegagrus f. hircus"><i>Capra<b/>aegagrus<b/>f.<b/>hircus</i><par n="Outro__np"/></e>
 <e lm="Carnivora"><i>Carnivora</i><par n="Outro__np"/></e>
+<e lm="catellus"><i>catellus</i><par n="Outro__np"/></e>
+<e lm="cattus"><i>cattus</i><par n="Outro__np"/></e>
+<e lm="catus"><i>catus</i><par n="Outro__np"/></e>
+<e lm="catula"><i>catula</i><par n="Outro__np"/></e>
+<e lm="catulus"><i>catulus</i><par n="Outro__np"/></e>
 <e lm="Homo sapiens"><i>Homo<b/>sapiens</i><par n="Outro__np"/></e>
 <e lm="Cynomys"><i>Cynomys</i><par n="Outro__np"/></e>
 <e lm="Chordata"><i>Chordata</i><par n="Outro__np"/></e>
@@ -140484,150 +140481,675 @@
 <e lm="Vertebrata"><i>Vertebrata</i><par n="Outro__np"/></e>
 <!-- end of Latin terms -->
 
+<!-- treat letters as proper nouns -->
+<!--<e lm="a"><i>a</i><par n="Outro__np"/></e>-->
+<e lm="b"><i>b</i><par n="Outro__np"/></e>
+<e lm="c"><i>c</i><par n="Outro__np"/></e>
+<!--<e lm="d"><i>d</i><par n="Outro__np"/></e>-->
+<!--<e lm="e"><i>e</i><par n="Outro__np"/></e>-->
+<!--<e lm="f"><i>f</i><par n="Outro__np"/></e>-->
+<e lm="g"><i>g</i><par n="Outro__np"/></e>
+<!--<e lm="h"><i>h</i><par n="Outro__np"/></e>-->
+<!--<e lm="i"><i>i</i><par n="Outro__np"/></e>-->
+<!--<e lm="j"><i>j</i><par n="Outro__np"/></e>-->
+<!--<e lm="k"><i>k</i><par n="Outro__np"/></e>-->
+<!--<e lm="l"><i>l</i><par n="Outro__np"/></e>-->
+<e lm="m"><i>m</i><par n="Outro__np"/></e>
+<!--<e lm="n"><i>n</i><par n="Outro__np"/></e>-->
+<!--<e lm="o"><i>o</i><par n="Outro__np"/></e>-->
+<!--<e lm="p"><i>p</i><par n="Outro__np"/></e>-->
+<!--<e lm="q"><i>q</i><par n="Outro__np"/></e>-->
+<!--<e lm="r"><i>r</i><par n="Outro__np"/></e>-->
+<!--<e lm="s"><i>s</i><par n="Outro__np"/></e>-->
+<e lm="t"><i>t</i><par n="Outro__np"/></e>
+<!--<e lm="u"><i>u</i><par n="Outro__np"/></e>-->
+<!--<e lm="v"><i>v</i><par n="Outro__np"/></e>-->
+<!--<e lm="w"><i>w</i><par n="Outro__np"/></e>-->
+<!--<e lm="x"><i>x</i><par n="Outro__np"/></e>-->
+<!--<e lm="y"><i>y</i><par n="Outro__np"/></e>-->
+<!--<e lm="z"><i>z</i><par n="Outro__np"/></e>-->
+<!-- end of letters  -->
+
 <e lm="Anúbis"><i>Anúbis</i><par n="Nome__np"/></e>
 <e lm="Balto"><i>Balto</i><par n="Nome__np"/></e>
+<e lm="Carolus Linnaeus"><i>Carolus<b/>Linnaeus</i><par n="Nome__np"/></e>
 <e lm="Cérbero"><i>Cérbero</i><par n="Nome__np"/></e>
+<e lm="Charles Hamilton Smith"><i>Charles<b/>Hamilton<b/>Smith</i><par n="Nome__np"/></e>
 <e lm="Coliseu"><i>Coliseu</i><par n="Lugar__np"/></e>
+<e lm="Darwin"><i>Darwin</i><par n="Nome__np"/></e>
+<e lm="Dicionário Aurélio"><i>Dicionário<b/>Aurélio</i><par n="Nome__np"/></e>
+<e lm="Eurásia"><i>Eurásia</i><par n="Lugar__np"/></e>
+<e lm="Guilherme de Orange"><i>Guilherme<b/>de<b/>Orange</i><par n="Nome__np"/></e>
+<e lm="Johann Friedrich Gmelin"><i>Johann<b/>Friedrich<b/>Gmelin</i><par n="Nome__np"/></e>
 <e lm="Laika"><i>Laika</i><par n="Nome__np"/></e>
 <e lm="Linnaeus"><i>Linnaeus</i><par n="Nome__np"/></e>
 <e lm="Marley"><i>Marley</i><par n="Nome__np"/></e>
+<e lm="Priberam"><i>Priberam</i><par n="Nome__np"/></e>
 <e lm="Scooby-Doo"><i>Scooby-Doo</i><par n="Nome__np"/></e>
 <e lm="Snoopy"><i>Snoopy</i><par n="Nome__np"/></e>
-<e lm="Guilherme de Orange"><i>Guilherme<b/>de<b/>Orange</i><par n="Nome__np"/></e>
+<e lm="Systema Naturae"><i>Systema<b/>Naturae</i><par n="Nome__np"/></e>
+<e lm="Van Valen"><i>Van<b/>Valen</i><par n="Nome__np"/></e>
+<e lm="Wayne"><i>Wayne</i><par n="Nome__np"/></e>
+<e lm="Wozencraft"><i>Wozencraft</i><par n="Nome__np"/></e>
 
 <e lm="Cavalier King Charles Spaniel"><i>Cavalier<b/>King<b/>Charles<b/>Spaniel</i><par n="Outro__np"/></e>
 
-<e lm="acasalar"><i>acasal</i><par n="par/ar__vblex"/></e>
-<e lm="adentrar"><i>adentr</i><par n="par/ar__vblex"/></e>
-<e lm="adestrar"><i>adestr</i><par n="par/ar__vblex"/></e>
-<e lm="aprendizar"><i>aprendiz</i><par n="par/ar__vblex"/></e>
-<e lm="auxiliar"><i>auxili</i><par n="par/ar__vblex"/></e>
+<e lm="aborrecidar"><i>aborrecid</i><par n="abal/ar__vblex"/></e>
+<e lm="acasalar"><i>acasal</i><par n="abal/ar__vblex"/></e>
+<e lm="achatar"><i>achat</i><par n="abal/ar__vblex"/></e>
+<e lm="adentrar"><i>adentr</i><par n="abal/ar__vblex"/></e>
+<e lm="adestrar"><i>adestr</i><par n="abal/ar__vblex"/></e>
+<e lm="advir"><i>adv</i><par n="dev/ir__vblex"/></e>
+<e lm="aguçar"><i>agu</i><par n="abra/çar__vblex"/></e>
+<e lm="amadurecer"><i>amadure</i><par n="abaste/cer__vblex"/></e>
+<e lm="amamentar"><i>amament</i><par n="abal/ar__vblex"/></e>
+<e lm="aprendizar"><i>aprendiz</i><par n="abal/ar__vblex"/></e>
+<e lm="atrapalhar"><i>atrapalh</i><par n="abal/ar__vblex"/></e>
+<e lm="auxiliar"><i>auxili</i><par n="abal/ar__vblex"/></e>
 <e lm="coexistir"><i>coexist</i><par n="admit/ir__vblex"/></e>
-<e lm="diferenciar"><i>diferenci</i><par n="par/ar__vblex"/></e>
-<e lm="exterminar"><i>extermin</i><par n="par/ar__vblex"/></e>
-<e lm="exumar"><i>exum</i><par n="par/ar__vblex"/></e>
-<e lm="migrar"><i>migr</i><par n="par/ar__vblex"/></e>
-<e lm="popularizar"><i>populariz</i><par n="par/ar__vblex"/></e>
-<e lm="postular"><i>postul</i><par n="par/ar__vblex"/></e>
+<e lm="demarcar"><i>demar</i><par n="abdi/car__vblex"/></e>
+<e lm="desconsiderar"><i>desconsider</i><par n="abal/ar__vblex"/></e>
+<e lm="diferenciar"><i>diferenci</i><par n="abal/ar__vblex"/></e>
+<e lm="discernir"><i>discern</i><par n="admit/ir__vblex"/></e>
+<e lm="encurralar"><i>encurral</i><par n="abal/ar__vblex"/></e>
+<e lm="engasgar"><i>engasg</i><par n="abrig/ar__vblex"/></e>
+<e lm="entediar"><i>entedi</i><par n="abal/ar__vblex"/></e>
+<e lm="enxergar"><i>enxerg</i><par n="abrig/ar__vblex"/></e>
+<e lm="esbranquiçar"><i>esbranqui</i><par n="abra/çar__vblex"/></e>
+<e lm="exterminar"><i>extermin</i><par n="abal/ar__vblex"/></e>
+<e lm="exumar"><i>exum</i><par n="abal/ar__vblex"/></e>
+<e lm="fitar"><i>fit</i><par n="abal/ar__vblex"/></e>
+<e lm="grunher"><i>grunh</i><par n="abat/er__vblex"/></e>
+<!--<e lm="grunhir"><i>grunh</i><par n="admit/ir__vblex"/></e>-->
+<e lm="latir"><i>lat</i><par n="admit/ir__vblex"/></e>
+<e lm="migrar"><i>migr</i><par n="abal/ar__vblex"/></e>
+<e lm="machucar"><i>machu</i><par n="abdi/car__vblex"/></e>
+<e lm="ninhar"><i>ninh</i><par n="abal/ar__vblex"/></e>
+<e lm="popularizar"><i>populariz</i><par n="abal/ar__vblex"/></e>
+<e lm="postular"><i>postul</i><par n="abal/ar__vblex"/></e>
+<e lm="recobrir"><i>rec</i><par n="c/obrir__vblex"/></e>
+<e lm="refrigerar"><i>refriger</i><par n="abal/ar__vblex"/></e>
+<e lm="repassar"><i>repass</i><par n="abal/ar__vblex"/></e>
+<e lm="requisitar"><i>requisit</i><par n="abal/ar__vblex"/></e>
+<e lm="suprir"><i>supr</i><par n="admit/ir__vblex"/></e>
+<e lm="uivar"><i>uiv</i><par n="abal/ar__vblex"/></e>
 
+<e lm="abdómen"><i>abdómen</i><par n="amor__n"/></e>
+<e lm="acampamento"><i>acampamento</i><par n="Leste__n"/></e>
 <e lm="acasalamento"><i>acasalamento</i><par n="Leste__n"/></e>
+<e lm="acompanhamento"><i>acompanhamento</i><par n="Leste__n"/></e>
+<e lm="adaptação"><i>adaptaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="adulto"><i>adult</i><par n="adept/o__n"/></e>
 <e lm="afeição"><i>afeiç</i><par n="aceitaç/ão__n"/></e>
+<e lm="agilidade"><i>agilidade</i><par n="abadia__n"/></e>
+<e lm="agressividade"><i>agressividade</i><par n="abadia__n"/></e>
 <e lm="akitas"><i>akitas</i><par n="Leste__n"/></e>
 <e lm="alcatéia"><i>alcatéia</i><par n="abadia__n"/></e>
+<e lm="alvéolo"><i>alvéolo</i><par n="Leste__n"/></e>
+<e lm="ambiente"><i>ambiente</i><par n="Leste__n"/></e>
+<e lm="amigo"><i>amig</i><par n="adept/o__n"/></e>
 <e lm="anatomia"><i>anatomia</i><par n="abadia__n"/></e>
 <e lm="ancestral"><i>ancestra</i><par n="catedra/l__n"/></e>
+<e lm="ancestralidade"><i>ancestralidade</i><par n="abadia__n"/></e>
 <e lm="angulação"><i>angulaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="ano"><i>ano</i><par n="Leste__n"/></e>
+<e lm="antepassado"><i>antepassad</i><par n="adept/o__n"/></e>
+<e lm="aparecimento"><i>aparecimento</i><par n="Leste__n"/></e>
+<e lm="aperfeiçoamento"><i>aperfeiçoamento</i><par n="Leste__n"/></e>
+<e lm="ápice"><i>ápice</i><par n="Leste__n"/></e>
 <e lm="apreço"><i>apreço</i><par n="Leste__n"/></e>
+<e lm="aprendizagem"><i>aprendizage</i><par n="aterrissage/m__n"/></e>
+<e lm="aprisionamento"><i>aprisionamento</i><par n="Leste__n"/></e>
+<e lm="aprumo"><i>aprumo</i><par n="Leste__n"/></e>
 <e lm="arcada"><i>arcada</i><par n="abadia__n"/></e>
 <e lm="artrite"><i>artrite</i><par n="abadia__n"/></e>
+<e lm="artrologia"><i>artrologia</i><par n="abadia__n"/></e>
 <e lm="atendado"><i>atendado</i><par n="Leste__n"/></e>
+<e lm="baço"><i>baço</i><par n="Leste__n"/></e>
+<e lm="basco"><i>basc</i><par n="adept/o__n"/></e>
+<e lm="basset hound"><i>basset<b/>hound</i><par n="Leste__n"/></e>
 <e lm="beagle"><i>beagle</i><par n="Leste__n"/></e>
+<e lm="bocejo"><i>bocejo</i><par n="Leste__n"/></e>
+<e lm="boleto"><i>boleto</i><par n="Leste__n"/></e>
+<e lm="border collie"><i>border<b/>collie</i><par n="Leste__n"/></e>
+<e lm="brincadeira"><i>brincadeira</i><par n="abadia__n"/></e>
+<e lm="brônquio"><i>brônquio</i><par n="Leste__n"/></e>
+<e lm="bronquíolo"><i>bronquíolo</i><par n="Leste__n"/></e>
 <e lm="bruxaria"><i>bruxaria</i><par n="abadia__n"/></e>
+<e lm="bruxo"><i>brux</i><par n="adept/o__n"/></e>
+<e lm="buldogue"><i>buldogue</i><par n="Leste__n"/></e>
 <e lm="bull terrier"><i>bull<b/>terrier</i><par n="Leste__n"/></e>
-<e lm="cachorro"><i>cachorro</i><par n="Leste__n"/></e>
+<e lm="cabeça"><i>cabeça</i><par n="cabeça__n"/></e>
+<e lm="cachorrinho"><i>cachorrinh</i><par n="adept/o__n"/></e>
+<e lm="cachorro"><i>cachorr</i><par n="adept/o__n"/></e>
+<e lm="caixa"><i>caixa</i><par n="Leste__n"/></e>
+<e lm="caixa"><i>caixa</i><par n="abadia__n"/></e>
+<e lm="calcificação"><i>calcificaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="cálcio"><i>cálcio</i><par n="Leste__n"/></e>
+<e lm="campo"><i>campo</i><par n="Leste__n"/></e>
+<e lm="canalha"><i>canalha</i><par n="abadia__n"/></e>
+<e lm="cansaço"><i>cansaço</i><par n="Leste__n"/></e>
+<e lm="característica"><i>característica</i><par n="abadia__n"/></e>
 <e lm="carcaça"><i>carcaça</i><par n="abadia__n"/></e>
 <e lm="carnívoro"><i>carnívoro</i><par n="Leste__n"/></e>
+<e lm="cartilagem"><i>cartilage</i><par n="aterrissage/m__n"/></e>
+<e lm="castração"><i>castraç</i><par n="aceitaç/ão__n"/></e>
+<e lm="catapulta"><i>catapulta</i><par n="abadia__n"/></e>
 <e lm="cauda"><i>cauda</i><par n="abadia__n"/></e>
+<e lm="cavidade"><i>cavidade</i><par n="abadia__n"/></e>
+<e lm="cego"><i>ceg</i><par n="adept/o__n"/></e>
 <e lm="chacal"><i>chaca</i><par n="catedra/l__n"/></e>
+<e lm="chefe"><i>chef</i><par n="chef/e__n"/></e>
+<e lm="chiuaua"><i>chiuaua</i><par n="Leste__n"/></e>
+<e lm="choramingo"><i>choramingo</i><par n="Leste__n"/></e>
+<e lm="cidade"><i>cidade</i><par n="abadia__n"/></e>
+<e lm="cio"><i>cio</i><par n="Leste__n"/></e>
+<e lm="citronela"><i>citronela</i><par n="abadia__n"/></e>
 <e lm="coabitação"><i>coabitaç</i><par n="aceitaç/ão__n"/></e>
 <e lm="coiote"><i>coiote</i><par n="Leste__n"/></e>
+<e lm="coleira"><i>coleira</i><par n="abadia__n"/></e>
 <e lm="coletor"><i>coletor</i><par n="admirador__n"/></e>
+<e lm="competição"><i>competiç</i><par n="aceitaç/ão__n"/></e>
 <e lm="compreensão"><i>compreens</i><par n="aceitaç/ão__n"/></e>
+<e lm="comprimento"><i>comprimento</i><par n="Leste__n"/></e>
+<e lm="comunicação"><i>comunicaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="concentração"><i>concentraç</i><par n="aceitaç/ão__n"/></e>
 <e lm="confecção"><i>confecç</i><par n="aceitaç/ão__n"/></e>
+<e lm="consistência"><i>consistência</i><par n="abadia__n"/></e>
+<e lm="cópula"><i>cópula</i><par n="abadia__n"/></e>
+<e lm="corda"><i>corda</i><par n="abadia__n"/></e>
+<e lm="corpo"><i>corpo</i><par n="Leste__n"/></e>
+<e lm="costela"><i>costela</i><par n="abadia__n"/></e>
+<e lm="cotovelo"><i>cotovelo</i><par n="Leste__n"/></e>
+<e lm="coxa"><i>coxa</i><par n="abadia__n"/></e>
+<e lm="crânio"><i>crânio</i><par n="Leste__n"/></e>
 <e lm="cria"><i>cria</i><par n="abadia__n"/></e>
 <e lm="cronologia"><i>cronologia</i><par n="abadia__n"/></e>
 <e lm="cruzamento"><i>cruzamento</i><par n="Leste__n"/></e>
 <e lm="datação"><i>dataç</i><par n="aceitaç/ão__n"/></e>
+<e lm="decreto"><i>decreto</i><par n="Leste__n"/></e>
+<e lm="demarcação"><i>demarcaç</i><par n="aceitaç/ão__n"/></e>
 <e lm="denominação"><i>denominaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="dentição"><i>dentiç</i><par n="aceitaç/ão__n"/></e>
 <e lm="depressão"><i>depress</i><par n="aceitaç/ão__n"/></e>
+<e lm="derme"><i>derme</i><par n="abadia__n"/></e>
 <e lm="desambiguação"><i>desambiguaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="desmame"><i>desmame</i><par n="Leste__n"/></e>
 <e lm="descendência"><i>descendência</i><par n="abadia__n"/></e>
+<e lm="discordância"><i>discordância</i><par n="abadia__n"/></e>
+<e lm="displasia coxofemoral"><i>displasia<b/>coxofemoral</i><par n="abadia__n"/></e>
 <e lm="distinção"><i>distinç</i><par n="aceitaç/ão__n"/></e>
 <e lm="diversão"><i>divers</i><par n="aceitaç/ão__n"/></e>
+<e lm="DNA"><i>DNA</i><par n="DNA__n"/></e>
 <e lm="dobermann"><i>dobermann</i><par n="Leste__n"/></e>
+<e lm="dobra"><i>dobra</i><par n="abadia__n"/></e>
 <e lm="domesticação"><i>domesticaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="dominação"><i>dominaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="dominância"><i>dominância</i><par n="abadia__n"/></e>
+<e lm="durabilidade"><i>durabilidade</i><par n="abadia__n"/></e>
+<e lm="ejaculação"><i>ejaculaç</i><par n="aceitaç/ão__n"/></e>
 <e lm="envelhecimento"><i>envelhecimento</i><par n="Leste__n"/></e>
+<e lm="equiparidade"><i>equiparidade</i><par n="abadia__n"/></e>
+<e lm="ereção"><i>ereç</i><par n="aceitaç/ão__n"/></e>
+<e lm="esbranquiçamento"><i>esbranquiçamento</i><par n="Leste__n"/></e>
+<e lm="escravo"><i>escrav</i><par n="adept/o__n"/></e>
+<e lm="espádua"><i>espádua</i><par n="abadia__n"/></e>
+<e lm="espécime"><i>espécime</i><par n="Leste__n"/></e>
+<e lm="espermatozóide"><i>espermatozóide</i><par n="Leste__n"/></e>
+<e lm="espessura"><i>espessura</i><par n="abadia__n"/></e>
+<e lm="esquema"><i>esquema</i><par n="abadia__n"/></e>
+<e lm="estágio"><i>estágio</i><par n="Leste__n"/></e>
+<e lm="esterno"><i>esterno</i><par n="Leste__n"/></e>
 <e lm="estimação"><i>estimaç</i><par n="aceitaç/ão__n"/></e>
 <e lm="etimologia"><i>etimologia</i><par n="abadia__n"/></e>
+<e lm="evaporação"><i>evaporaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="extinção"><i>extinç</i><par n="aceitaç/ão__n"/></e>
 <e lm="farejador"><i>farejador</i><par n="admirador__n"/></e>
+<e lm="farejamento"><i>farejamento</i><par n="Leste__n"/></e>
+<e lm="faringe"><i>faringe</i><par n="abadia__n"/></e>
+<e lm="fator" v="br"><i>fator</i><par n="amor__n"/></e>
+<e lm="factor" v="pt"><i>factor</i><par n="amor__n"/></e>
 <e lm="felino"><i>felino</i><par n="Leste__n"/></e>
+<e lm="fêmea"><i>fêmea</i><par n="abadia__n"/></e>
+<e lm="fenda"><i>fenda</i><par n="abadia__n"/></e>
+<e lm="fertilidade"><i>fertilidade</i><par n="abadia__n"/></e>
 <e lm="filo"><i>filo</i><par n="Leste__n"/></e>
 <e lm="filhote"><i>filhote</i><par n="Leste__n"/></e>
 <e lm="felino"><i>felino</i><par n="Leste__n"/></e>
+<e lm="fluxo"><i>fluxo</i><par n="Leste__n"/></e>
+<e lm="focinho"><i>focinho</i><par n="Leste__n"/></e>
+<e lm="garupa"><i>garupa</i><par n="abadia__n"/></e>
+<e lm="geração"><i>geraç</i><par n="aceitaç/ão__n"/></e>
+<e lm="gestação"><i>gestaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="gigante"><i>gigante</i><par n="Leste__n"/></e>
+<e lm="gíria"><i>gíria</i><par n="abadia__n"/></e>
+<e lm="glândula"><i>glândula</i><par n="abadia__n"/></e>
 <e lm="globo"><i>globo</i><par n="Leste__n"/></e>
+<e lm="glóbulo"><i>glóbulo</i><par n="Leste__n"/></e>
 <e lm="guardião"><i>guardi</i><par n="avi/ão__n"/></e> <!-- guardiãos OR guardiões? -->
 <e lm="híbrido"><i>híbrido</i><par n="Leste__n"/></e>
+<e lm="homozigose"><i>homozigose</i><par n="abadia__n"/></e>
+<e lm="hormônio" v="br"><i>hormônio</i><par n="Leste__n"/></e>
+<e lm="hormónio" v="br"><i>hormónio</i><par n="Leste__n"/></e>
+<e lm="husky"><i>husky</i><par n="Leste__n"/></e>
+<e lm="imprecisão"><i>imprecis</i><par n="aceitaç/ão__n"/></e>
+<e lm="incisivo"><i>incisivo</i><par n="Leste__n"/></e>
+<e lm="indivíduo"><i>indivíduo</i><par n="Leste__n"/></e>
+<e lm="indolor"><i>indolor</i><par n="amor__n"/></e>
 <e lm="infantaria"><i>infantaria</i><par n="abadia__n"/></e>
+<e lm="inseminação"><i>inseminaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="interferência"><i>interferência</i><par n="abadia__n"/></e>
+<e lm="internacional"><i>internaciona</i><par n="genera/l__n"/></e>
+<e lm="jarrete"><i>jarrete</i><par n="Leste__n"/></e>
+<e lm="jato"><i>jato</i><par n="Leste__n"/></e>
 <e lm="lata"><i>lata</i><par n="abadia__n"/></e>
+<e lm="latido"><i>latido</i><par n="Leste__n"/></e>
+<e lm="latim"><i>lati</i><par n="be/m__n"/></e>
+<e lm="legenda"><i>legenda</i><par n="abadia__n"/></e>
+<e lm="ligamento"><i>ligamento</i><par n="Leste__n"/></e>
+<e lm="linguagem"><i>linguage</i><par n="aterrissage/m__n"/></e>
 <e lm="lobisomem"><i>lobisome</i><par n="be/m__n"/></e>
+<e lm="local"><i>loca</i><par n="catedra/l__n"/></e>
 <e lm="locomoção"><i>locomoç</i><par n="aceitaç/ão__n"/></e>
+<e lm="longevidade"><i>longevidade</i><par n="abadia__n"/></e>
+<e lm="macho"><i>macho</i><par n="Leste__n"/></e>
+<e lm="maioria"><i>maioria</i><par n="abadia__n"/></e>
+<e lm="mama"><i>mama</i><par n="abadia__n"/></e>
 <e lm="mamífero"><i>mamífero</i><par n="Leste__n"/></e>
+<e lm="mastigação"><i>mastigaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="material"><i>materia</i><par n="catedra/l__n"/></e>
 <e lm="matilha"><i>matilha</i><par n="abadia__n"/></e>
+<e lm="membro"><i>membro</i><par n="Leste__n"/></e>
+<e lm="mensagem"><i>mensage</i><par n="aterrissage/m__n"/></e>
 <e lm="mercador"><i>mercador</i><par n="admirador__n"/></e>
+<e lm="mes"><i>mes</i><par n="amor__n"/></e>
 <e lm="mestiço"><i>mestiço</i><par n="Leste__n"/></e>
+<e lm="micose"><i>micose</i><par n="abadia__n"/></e>
+<e lm="mineral"><i>minera</i><par n="catedra/l__n"/></e>
+<e lm="miologia"><i>miologia</i><par n="abadia__n"/></e>
+<e lm="miopia"><i>miopia</i><par n="abadia__n"/></e>
 <e lm="mitologia"><i>mitologia</i><par n="abadia__n"/></e>
+<e lm="modelo"><i>modelo</i><par n="Leste__n"/></e>
+<e lm="molar"><i>molar</i><par n="amor__n"/></e>
 <e lm="morfologia"><i>morfologia</i><par n="abadia__n"/></e>
 <e lm="mosaico"><i>mosaico</i><par n="Leste__n"/></e>
+<e lm="movimentação"><i>movimentaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="munheca"><i>munheca</i><par n="abadia__n"/></e>
 <e lm="musculatura"><i>musculatura</i><par n="abadia__n"/></e>
-<e lm="nomeclatura"><i>nomeclatura</i><par n="abadia__n"/></e>
+<e lm="nariz"><i>nariz</i><par n="amor__n"/></e>
+<e lm="nicho"><i>nicho</i><par n="Leste__n"/></e>
+<e lm="nomenclatura"><i>nomenclatura</i><par n="abadia__n"/></e>
+<e lm="normal"><i>norma</i><par n="aceitáve/l__adj"/></e>
 <e lm="ocorrência"><i>ocorrência</i><par n="abadia__n"/></e>
+<e lm="odor"><i>odor</i><par n="amor__n"/></e>
+<e lm="origem"><i>orige</i><par n="aterrissage/m__n"/></e>
+<e lm="operação"><i>operaç</i><par n="aceitaç/ão__n"/></e>
 <e lm="ossada"><i>ossada</i><par n="abadia__n"/></e>
+<e lm="osso"><i>osso</i><par n="Leste__n"/></e>
+<e lm="osteologia"><i>osteologia</i><par n="abadia__n"/></e>
+<e lm="ovário"><i>ovário</i><par n="Leste__n"/></e>
+<e lm="óvulo"><i>óvulo</i><par n="Leste__n"/></e>
+<e lm="paladar"><i>paladar</i><par n="Leste__n"/></e>
+<e lm="papila"><i>papila</i><par n="abadia__n"/></e>
+<e lm="paralelo"><i>paralel</i><par n="Leste__n"/></e>
+<e lm="pastoreio"><i>pastoreio</i><par n="Leste__n"/></e>
+<e lm="pata"><i>pata</i><par n="abadia__n"/></e>
+<e lm="peculiaridade"><i>peculiaridade</i><par n="abadia__n"/></e>
+<e lm="pedigree"><i>pedigree</i><par n="Leste__n"/></e>
+<e lm="peitoral"><i>peitora</i><par n="catedra/l__n"/></e>
 <e lm="pelagem"><i>pelage</i><par n="aterrissage/m__n"/></e>
+<e lm="pêlo"><i>pêlo</i><par n="Leste__n"/></e>
+<e lm="peniano"><i>peniano</i><par n="Leste__n"/></e>
+<e lm="percepção"><i>percepç</i><par n="aceitaç/ão__n"/></e>
+<e lm="perigo"><i>perigo</i><par n="Leste__n"/></e>
+<e lm="perseguição"><i>perseguiç</i><par n="aceitaç/ão__n"/></e>
 <e lm="persistência"><i>persistência</i><par n="abadia__n"/></e>
 <e lm="peste"><i>peste</i><par n="abadia__n"/></e>
+<e lm="polêmico" v="br"><i>polêmic</i><par n="Leste__n"/></e>
+<e lm="polémico" v="pt"><i>polémic</i><par n="Leste__n"/></e>
+<e lm="português"><i>portugu</i><par n="alban/ês__n"/></e>
 <e lm="povoamento"><i>povoamento</i><par n="Leste__n"/></e>
 <e lm="predação"><i>predaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="predador"><i>predador</i><par n="admirador__n"/></e>
+<e lm="processo"><i>processo</i><par n="Leste__n"/></e>
+<e lm="progenitor"><i>progenitor</i><par n="admirador__n"/></e>
+<e lm="propensão"><i>propens</i><par n="aceitaç/ão__n"/></e>
+<e lm="puberdade"><i>puberdade</i><par n="abadia__n"/></e>
+<e lm="questionamento" v="pt"><i>questionamento</i><par n="Leste__n"/></e>
+<e lm="qüestionamento" v="br"><i>qüestionamento</i><par n="Leste__n"/></e>
+<e lm="quietude"><i>quietude</i><par n="abadia__n"/></e>
+<e lm="químico"><i>químic</i><par n="Leste__n"/></e>
+<e lm="ração"><i>raç</i><par n="aceitaç/ão__n"/></e>
 <e lm="rafeiro"><i>rafeiro</i><par n="Leste__n"/></e>
+<e lm="ramificação"><i>ramificaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="raposa"><i>raposa</i><par n="abadia__n"/></e>
+<e lm="raso"><i>raso</i><par n="Leste__n"/></e>
 <e lm="rastreador"><i>rastreador</i><par n="admirador__n"/></e>
 <e lm="rastreio"><i>rastreio</i><par n="Leste__n"/></e>
+<e lm="recolhimento"><i>recolhimento</i><par n="Leste__n"/></e>
+<e lm="rede"><i>rede</i><par n="abadia__n"/></e>
 <e lm="relacionamento"><i>relacionamento</i><par n="Leste__n"/></e>
+<e lm="remoção"><i>remoç</i><par n="aceitaç/ão__n"/></e>
 <e lm="renascimento"><i>renascimento</i><par n="Leste__n"/></e>
+<e lm="resíduo"><i>resíduo</i><par n="Leste__n"/></e>
+<e lm="resultante"><i>resultante</i><par n="Leste__n"/></e>
+<e lm="rigidez"><i>rigidez</i><par n="actriz__n"/></e>
+<e lm="rim"><i>ri</i><par n="be/m__n"/></e>
+<e lm="segurança"><i>segurança</i><par n="cabeça__n"/></e>
+<e lm="selecção" v="pt"><i>selecç</i><par n="aceitaç/ão__n"/></e>
+<e lm="seleção" v="br"><i>seleç</i><par n="aceitaç/ão__n"/></e>
+<e lm="sêmen"><i>sêmen</i><par n="amor__n"/></e>
+<e lm="shar pei"><i>shar<b/>pei</i><par n="Leste__n"/></e>
+<e lm="sensor"><i>sensor</i><par n="amor__n"/></e>
+<e lm="sinalização"><i>sinalizaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="sinônimo"><i>sinônimo</i><par n="Leste__n"/></e>
+<e lm="sintaxe"><i>sintaxe</i><par n="abadia__n"/></e>
+<e lm="sociedade"><i>sociedade</i><par n="abadia__n"/></e>
+<e lm="status"><i>status</i><par n="amor__n"/></e>
 <e lm="stop"><i>stop</i><par n="Leste__n"/></e>
+<e lm="subcategoria"><i>subcategoria</i><par n="abadia__n"/></e>
 <e lm="subespécie"><i>subespécie</i><par n="abadia__n"/></e>
 <e lm="submissão"><i>submiss</i><par n="aceitaç/ão__n"/></e>
 <e lm="subordem"><i>suborde</i><par n="be/m__n"/></e>
+<e lm="sucesso"><i>sucesso</i><par n="Leste__n"/></e>
+<e lm="supercílio"><i>supercílio</i><par n="Leste__n"/></e>
+<e lm="surdez"><i>surdez</i><par n="Leste__n"/></e>
 <e lm="surgimento"><i>surgimento</i><par n="Leste__n"/></e>
+<e lm="susto"><i>susto</i><par n="Leste__n"/></e>
+<e lm="tato"><i>tato</i><par n="Leste__n"/></e>
 <e lm="taxonomia"><i>taxonomia</i><par n="abadia__n"/></e>
+<e lm="técnica"><i>técnica</i><par n="abadia__n"/></e>
+<e lm="técnico"><i>técnico</i><par n="Leste__n"/></e> 
+<e lm="tendão"><i>tend</i><par n="aceitaç/ão__n"/></e>
+<e lm="terminação"><i>terminaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="tesouro"><i>tesouro</i><par n="Leste__n"/></e>
+<e lm="testículo"><i>testículo</i><par n="Leste__n"/></e>
+<e lm="topografia"><i>topografia</i><par n="abadia__n"/></e>
+<e lm="tórax"><i>tórax</i><par n="Leste__n"/></e>
+<e lm="traqueia"><i>traqueia</i><par n="abadia__n"/></e>
 <e lm="trenó"><i>trenó</i><par n="Leste__n"/></e>
+<e lm="trovão"><i>trov</i><par n="avi/ão__n"/></e>
+<e lm="túmulo"><i>túmulo</i><par n="Leste__n"/></e>
+<e lm="uivo"><i>uivo</i><par n="Leste__n"/></e>
+<e lm="uretra"><i>uretra</i><par n="abadia__n"/></e>
+<e lm="usabilidade"><i>usabilidade</i><par n="abadia__n"/></e>
+<e lm="útero"><i>útero</i><par n="Leste__n"/></e>
 <e lm="vampiro"><i>vampiro</i><par n="Leste__n"/></e>
 <e lm="variedade"><i>variedade</i><par n="abadia__n"/></e>
+<e lm="vascularização"><i>vascularizaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="vértebra"><i>vértebra</i><par n="abadia__n"/></e>
+<e lm="veterinário"><i>veterinári</i><par n="adept/o__n"/></e>
+<e lm="vez"><i>vez</i><par n="actriz__n"/></e>
+<e lm="vibrissa"><i>vibrissa</i><par n="abadia__n"/></e>
 <e lm="vila"><i>vila</i><par n="abadia__n"/></e>
+<e lm="vocábulo"><i>vocábulo</i><par n="Leste__n"/></e>
+<e lm="voz"><i>voz</i><par n="actriz__n"/></e>
 
+<e lm="cm²"><i>cm²</i><par n="caos__n"/></e>
+
+<e lm="abdominal"><i>abdomina</i><par n="aceitáve/l__adj"/></e>
+<e lm="abdutor"><i>abdutor</i><par n="conservador__adj"/></e>
+<e lm="adaptativo"><i>adaptativ</i><par n="abert/o__adj"/></e>
+<e lm="adulto"><i>adult</i><par n="abert/o__adj"/></e>
+<e lm="adutor"><i>adutor</i><par n="conservador__adj"/></e>
+<e lm="afetivo"><i>afetiv</i><par n="abert/o__adj"/></e>
+<e lm="amarelo"><i>amarel</i><par n="abert/o__adj"/></e>
+<e lm="anterior"><i>anterior</i><par n="anterior__adj"/></e>
+<e lm="antropogênico"><i>antropogênic</i><par n="abert/o__adj"/></e>
+<e lm="apto"><i>apt</i><par n="abert/o__adj"/></e>
+<e lm="artificial"><i>artificia</i><par n="aceitáve/l__adj"/></e>
+<e lm="artístico"><i>artístic</i><par n="abert/o__adj"/></e>
+<e lm="asiático"><i>asiátic</i><par n="abert/o__adj"/></e>
 <e lm="assírio"><i>assíri</i><par n="abert/o__adj"/></e>
 <e lm="assustador"><i>assustador</i><par n="conservador__adj"/></e>
+<e lm="azul"><i>azu</i><par n="aceitáve/l__adj"/></e>
+<e lm="basco"><i>basc</i><par n="abert/o__adj"/></e>
+<e lm="básico"><i>básic</i><par n="abert/o__adj"/></e>
+<e lm="brevilíneo"><i>brevilíne</i><par n="abert/o__adj"/></e>
 <e lm="canídeo"><i>caníde</i><par n="abert/o__adj"/></e>
 <e lm="canino"><i>canin</i><par n="abert/o__adj"/></e>
+<e lm="cardíaco"><i>cardíac</i><par n="abert/o__adj"/></e>
+<e lm="carente"><i>carente</i><par n="agrícola__adj"/></e>
+<e lm="cardiovascular"><i>cardiovascular</i><par n="anterior__adj"/></e>
+<e lm="cartilaginoso"><i>cartilaginos</i><par n="abert/o__adj"/></e>
+<e lm="católico"><i>católic</i><par n="abert/o__adj"/></e>
+<e lm="cego"><i>ceg</i><par n="abert/o__adj"/></e>
+<e lm="cerebral"><i>cerebra</i><par n="aceitáve/l__adj"/></e>
+<e lm="cervical"><i>cervica</i><par n="aceitáve/l__adj"/></e>
+<e lm="checo"><i>chec</i><par n="abert/o__adj"/></e>
+<e lm="científico"><i>científic</i><par n="abert/o__adj"/></e>
 <e lm="cinzento"><i>cinzent</i><par n="abert/o__adj"/></e>
+<e lm="cirúrgico"><i>cirúrgic</i><par n="abert/o__adj"/></e>
+<e lm="complexo"><i>complex</i><par n="abert/o__adj"/></e>
 <e lm="comportamental"><i>comportamenta</i><par n="aceitáve/l__adj"/></e>
 <e lm="comprido"><i>comprid</i><par n="abert/o__adj"/></e>
+<e lm="comum"><i>comu</i><par n="comu/m__adj"/></e>
+<e lm="conotativo"><i>conotativ</i><par n="abert/o__adj"/></e>
+<e lm="constante"><i>constante</i><par n="agrícola__adj"/></e>
+<e lm="contagiante"><i>contagiante</i><par n="agrícola__adj"/></e>
+<e lm="contrário"><i>contrári</i><par n="abert/o__adj"/></e>
+<e lm="convoluto"><i>convolut</i><par n="abert/o__adj"/></e>
+<e lm="corporal"><i>corpora</i><par n="aceitáve/l__adj"/></e>
+<e lm="craniano"><i>cranian</i><par n="abert/o__adj"/></e>
+<e lm="crescente"><i>crescente</i><par n="agrícola__adj"/></e>
+<e lm="cultural"><i>cultura</i><par n="aceitáve/l__adj"/></e>
+<e lm="decorrente"><i>decorrente</i><par n="agrícola__adj"/></e>
+<e lm="denotativo"><i>denotativ</i><par n="abert/o__adj"/></e>
+<e lm="denso"><i>dens</i><par n="abert/o__adj"/></e>
 <e lm="dentário"><i>dentári</i><par n="abert/o__adj"/></e>
+<e lm="dependente"><i>dependente</i><par n="agrícola__adj"/></e>
+<e lm="descendente"><i>descendente</i><par n="agrícola__adj"/></e>
+<e lm="diferente"><i>diferente</i><par n="agrícola__adj"/></e>
+<e lm="digestivo"><i>digestiv</i><par n="abert/o__adj"/></e>
+<e lm="digitígrado"><i>digitígrad</i><par n="abert/o__adj"/></e>
+<e lm="direccional" v="pt"><i>direcciona</i><par n="aceitáve/l__adj"/></e>
+<e lm="direcional" v="br"><i>direciona</i><par n="aceitáve/l__adj"/></e>
+<e lm="diverso"><i>divers</i><par n="abert/o__adj"/></e>
 <e lm="dócil"><i>dóc</i><par n="bursát/il__adj"/></e>
+<e lm="doméstico"><i>doméstic</i><par n="abert/o__adj"/></e>
+<e lm="dominante"><i>dominante</i><par n="agrícola__adj"/></e>
+<e lm="dono"><i>don</i><par n="adept/o__n"/></e>
+<e lm="duradouro"><i>duradour</i><par n="abert/o__adj"/></e>
+<e lm="ecológico"><i>ecológic</i><par n="abert/o__adj"/></e>
+<e lm="eficiente"><i>eficiente</i><par n="agrícola__adj"/></e>
+<e lm="elástico"><i>elástic</i><par n="abert/o__adj"/></e>
+<e lm="erétil"><i>erét</i><par n="bursát/il__adj"/></e>
+<e lm="esbelto"><i>esbelt</i><par n="abert/o__adj"/></e>
+<e lm="escravo"><i>escrav</i><par n="abert/o__adj"/></e>
+<e lm="escrotal"><i>escrota</i><par n="aceitáve/l__adj"/></e>
+<e lm="específico"><i>específic</i><par n="abert/o__adj"/></e>
+<e lm="espinhal"><i>espinha</i><par n="aceitáve/l__adj"/></e>
+<e lm="esquerdo"><i>esquerd</i><par n="abert/o__adj"/></e>
+<e lm="estatístico"><i>estatístic</i><par n="abert/o__adj"/></e>
+<e lm="estriado"><i>estriad</i><par n="abert/o__adj"/></e>
+<e lm="etimológico"><i>etimológic</i><par n="abert/o__adj"/></e>
+<e lm="excelente"><i>excelente</i><par n="agrícola__adj"/></e>
+<e lm="existente"><i>existente</i><par n="agrícola__adj"/></e>
+<e lm="extensor"><i>extensor</i><par n="conservador__adj"/></e>
+<e lm="externo"><i>extern</i><par n="abert/o__adj"/></e>
 <e lm="extinto"><i>extint</i><par n="abert/o__adj"/></e>
+<e lm="extrassensorial"><i>extrassensoria</i><par n="aceitáve/l__adj"/></e>
+<e lm="extremo"><i>extrem</i><par n="abert/o__adj"/></e>
+<e lm="familiar"><i>familiar</i><par n="anterior__adj"/></e>
 <e lm="fenício"><i>feníci</i><par n="abert/o__adj"/></e>
-<e lm="fisico"><i>fisic</i><par n="abert/o__adj"/></e>
-<e lm="híbrido"><i>híbrid</i><par n="abert/o__adj"/></e>
-<e lm="incompleto"><i>incomplet</i><par n="abert/o__adj"/></e>
+<e lm="fértel"><i>férte</i><par n="aceitáve/l__adj"/></e>
+<e lm="fibroso"><i>fibros</i><par n="abert/o__adj"/></e>
+<e lm="físico"><i>físic</i><par n="abert/o__adj"/></e>
+<e lm="fisiológico"><i>fisiológic</i><par n="abert/o__adj"/></e>
+<e lm="flexor"><i>flexor</i><par n="conservador__adj"/></e>
+<e lm="formador"><i>formador</i><par n="anterior__adj"/></e>
+<e lm="forte"><i>forte</i><par n="agrícola__adj"/></e>
+<e lm="fresco"><i>fresc</i><par n="abert/o__adj"/></e>
+<e lm="frontal"><i>fronta</i><par n="aceitáve/l__adj"/></e>
+<e lm="fundamental"><i>fundamenta</i><par n="aceitáve/l__adj"/></e>
 <e lm="gaulês"><i>gaul</i><par n="alban/ês__adj"/></e>
+<e lm="genético"><i>genétic</i><par n="abert/o__adj"/></e>
+<e lm="geral"><i>gera</i><par n="aceitáve/l__adj"/></e>
+<e lm="gigante"><i>gigante</i><par n="agrícola__adj"/></e>
+<e lm="gordo"><i>gord</i><par n="abert/o__adj"/></e>
 <e lm="gradual"><i>gradua</i><par n="aceitáve/l__adj"/></e>
+<e lm="grande"><i>grande</i><par n="agrícola__adj"/></e>
+<e lm="gregário"><i>gregári</i><par n="abert/o__adj"/></e>
+<e lm="gustativo"><i>gustativ</i><par n="abert/o__adj"/></e>
+<e lm="hereditário"><i>hereditári</i><par n="abert/o__adj"/></e>
+<e lm="heterogêneo"><i>heterogêne</i><par n="abert/o__adj"/></e>
+<e lm="híbrido"><i>híbrid</i><par n="abert/o__adj"/></e>
+<e lm="hiperativo" v="br"><i>hiperativ</i><par n="abert/o__adj"/></e>
+<e lm="hiperactivo" v="pt"><i>hiperactiv</i><par n="abert/o__adj"/></e>
+<e lm="histórico"><i>históric</i><par n="abert/o__adj"/></e>
+<e lm="horizontal"><i>horizonta</i><par n="aceitáve/l__adj"/></e>
+<e lm="idêntico"><i>idêntic</i><par n="abert/o__adj"/></e>
+<e lm="importante"><i>importante</i><par n="agrícola__adj"/></e>
+<e lm="imunológico"><i>imunológic</i><par n="abert/o__adj"/></e>
+<e lm="incômodo" v="br"><i>incômod</i><par n="abert/o__adj"/></e>
+<e lm="incómodo" v="pt"><i>incómod</i><par n="abert/o__adj"/></e>
+<e lm="incompleto"><i>incomplet</i><par n="abert/o__adj"/></e>
+<e lm="independente"><i>independente</i><par n="agrícola__adj"/></e>
+<e lm="individual"><i>individua</i><par n="aceitáve/l__adj"/></e>
+<e lm="infantil"><i>infanti</i><par n="civi/l__adj"/></e>
+<e lm="influente"><i>influente</i><par n="agrícola__adj"/></e>
+<e lm="inicial"><i>inicia</i><par n="aceitáve/l__adj"/></e>
+<e lm="inteligente"><i>inteligente</i><par n="agrícola__adj"/></e>
+<e lm="internacional"><i>internaciona</i><par n="aceitáve/l__adj"/></e>
+<e lm="interno"><i>intern</i><par n="abert/o__adj"/></e>
+<e lm="involuntário"><i>involuntári</i><par n="abert/o__adj"/></e>
+<e lm="lanoso"><i>lanos</i><par n="abert/o__adj"/></e>
+<e lm="leal"><i>lea</i><par n="aceitáve/l__adj"/></e>
+<e lm="linfático"><i>linfátic</i><par n="abert/o__adj"/></e>
+<e lm="lingüístico" v="br"><i>lingüístic</i><par n="abert/o__adj"/></e>
+<e lm="linguístico" v="pt"><i>linguístic</i><par n="abert/o__adj"/></e>
+<e lm="liso"><i>lis</i><par n="abert/o__adj"/></e>
+<e lm="local"><i>loca</i><par n="aceitáve/l__adj"/></e>
+<e lm="lógico"><i>lógic</i><par n="abert/o__adj"/></e>
+<e lm="lombar"><i>lombar</i><par n="anterior__adj"/></e>
+<e lm="longilíneo"><i>longilíne</i><par n="abert/o__adj"/></e>
+<e lm="lupino"><i>lupin</i><par n="abert/o__adj"/></e>
+<e lm="maior"><i>maior</i><par n="anterior__adj"/></e>
+<e lm="marcante"><i>marcante</i><par n="agrícola__adj"/></e>
+<e lm="material"><i>materia</i><par n="aceitáve/l__adj"/></e>
+<e lm="mau"><i>m</i><par n="m/au__adj"/></e>
+<e lm="mediolíneo"><i>mediolíne</i><par n="abert/o__adj"/></e>
 <e lm="mediterrâneo"><i>mediterrâne</i><par n="abert/o__adj"/></e>
+<e lm="mental"><i>menta</i><par n="aceitáve/l__adj"/></e>
+<e lm="mesmo"><i>mesm</i><par n="abert/o__adj"/></e>
 <e lm="milenar"><i>milenar</i><par n="anterior__adj"/></e>
+<e lm="mineral"><i>minera</i><par n="aceitáve/l__adj"/></e>
+<e lm="mínimo"><i>mínim</i><par n="abert/o__adj"/></e>
+<e lm="mitocondrial"><i>mitocondria</i><par n="aceitáve/l__adj"/></e>
+<e lm="morfológico"><i>morfológic</i><par n="abert/o__adj"/></e>
+<e lm="muito"><i>muit</i><par n="abert/o__adj"/></e>
+<e lm="mundial"><i>mundia</i><par n="aceitáve/l__adj"/></e>
+<e lm="muscular"><i>muscular</i><par n="anterior__adj"/></e>
+<e lm="nasal"><i>nasa</i><par n="aceitáve/l__adj"/></e>
+<e lm="natural"><i>natura</i><par n="aceitáve/l__adj"/></e>
+<e lm="necessário"><i>necessári</i><par n="abert/o__adj"/></e>
+<e lm="nervoso"><i>nervos</i><par n="abert/o__adj"/></e>
+<e lm="neurológico"><i>neurológic</i><par n="abert/o__adj"/></e>
 <e lm="nórdico"><i>nórdic</i><par n="abert/o__adj"/></e>
+<e lm="noturno"><i>noturn</i><par n="abert/o__adj"/></e>
+<e lm="novo"><i>nov</i><par n="abert/o__adj"/></e>
 <e lm="obediente"><i>obediente</i><par n="agrícola__adj"/></e>
+<e lm="ocidental"><i>ocidenta</i><par n="aceitáve/l__adj"/></e>
+<e lm="olfativo"><i>olfativ</i><par n="abert/o__adj"/></e>
+<e lm="online"><i>online</i><par n="anti__adj"/></e>
+<e lm="orgânico"><i>orgânic</i><par n="abert/o__adj"/></e>
+<e lm="original"><i>origina</i><par n="aceitáve/l__adj"/></e>
+<e lm="paralelo"><i>paralel</i><par n="abert/o__adj"/></e>
+<e lm="pejorativo"><i>pejorativ</i><par n="abert/o__adj"/></e>
+<e lm="permanente"><i>permanente</i><par n="agrícola__adj"/></e>
+<e lm="polêmico" v="br"><i>polêmic</i><par n="abert/o__adj"/></e>
+<e lm="polémico" v="pt"><i>polémic</i><par n="abert/o__adj"/></e>
+<e lm="português"><i>portugu</i><par n="alban/ês__adj"/></e>
+<e lm="posterior"><i>posterior</i><par n="anterior__adj"/></e>
+<e lm="predominante"><i>predominante</i><par n="agrícola__adj"/></e>
+<e lm="prévio"><i>prévi</i><par n="abert/o__adj"/></e>
+<e lm="primitivo"><i>primitiv</i><par n="abert/o__adj"/></e>
+<e lm="primordial"><i>primordia</i><par n="aceitáve/l__adj"/></e>
+<e lm="principal"><i>principa</i><par n="aceitáve/l__adj"/></e>
+<e lm="problemático"><i>problemátic</i><par n="abert/o__adj"/></e>
+<e lm="próprio"><i>própri</i><par n="abert/o__adj"/></e>
+<e lm="prostático"><i>prostátic</i><par n="abert/o__adj"/></e>
+<e lm="protetor"><i>protetor</i><par n="conservador__adj"/></e>
+<e lm="psíquico"><i>psíquic</i><par n="abert/o__adj"/></e>
+<e lm="psicológico"><i>psicológic</i><par n="abert/o__adj"/></e>
+<e lm="pulmonar"><i>pulmonar</i><par n="anterior__adj"/></e>
+<e lm="quadrúpede"><i>quadrúpede</i><par n="agrícola__adj"/></e>
+<e lm="químico"><i>químic</i><par n="abert/o__adj"/></e>
+<e lm="racial"><i>racia</i><par n="aceitáve/l__adj"/></e>
+<e lm="rápido"><i>rápid</i><par n="abert/o__adj"/></e>
+<e lm="real"><i>rea</i><par n="aceitáve/l__adj"/></e>
+<e lm="recente"><i>recente</i><par n="agrícola__adj"/></e>
+<e lm="reprodutor"><i>reprodutor</i><par n="conservador__adj"/></e>
+<e lm="respiratório"><i>respiratóri</i><par n="abert/o__adj"/></e>
+<e lm="resultante"><i>resultante</i><par n="agrícola__adj"/></e>
+<e lm="rígido"><i>rígid</i><par n="abert/o__adj"/></e>
+<e lm="robusto"><i>robust</i><par n="abert/o__adj"/></e>
+<e lm="romano"><i>roman</i><par n="abert/o__adj"/></e>
+<e lm="sacral"><i>sacra</i><par n="aceitáve/l__adj"/></e>
 <e lm="sedentário"><i>sedentári</i><par n="abert/o__adj"/></e>
+<e lm="sedoso"><i>sedos</i><par n="abert/o__adj"/></e>
+<e lm="seguinte"><i>seguinte</i><par n="agrícola__adj"/></e>
+<e lm="semântico"><i>semântic</i><par n="abert/o__adj"/></e>
+<e lm="sênior"><i>sênior</i><par n="anterior__adj"/></e>
+<e lm="sensorial"><i>sensoria</i><par n="aceitáve/l__adj"/></e>
 <e lm="siberiano"><i>siberian</i><par n="abert/o__adj"/></e>
+<e lm="simples"><i>simples</i><par n="anti__adj"/></e>
+<e lm="sinovial"><i>sinovia</i><par n="aceitáve/l__adj"/></e>
+<e lm="social"><i>socia</i><par n="aceitáve/l__adj"/></e>
+<e lm="superficial"><i>superficia</i><par n="aceitáve/l__adj"/></e>
+<e lm="superior"><i>superior</i><par n="anterior__adj"/></e>
 <e lm="supersticioso"><i>supersticios</i><par n="abert/o__adj"/></e>
+<e lm="sutil"><i>suti</i><par n="civi/l__adj"/></e>
+<e lm="tal"><i>ta</i><par n="aceitáve/l__adj"/></e>      
+<e lm="tanto"><i>tant</i><par n="abert/o__adj"/></e>
+<e lm="tátil"><i>tát</i><par n="bursát/il__adj"/></e>
+<e lm="taxonômico"><i>taxonômic</i><par n="abert/o__adj"/></e>
+<e lm="técnico"><i>técnic</i><par n="abert/o__adj"/></e>
+<e lm="térmico"><i>térmic</i><par n="abert/o__adj"/></e>
 <e lm="tolerante"><i>tolerante</i><par n="agrícola__adj"/></e>
+<e lm="torácico"><i>torácic</i><par n="abert/o__adj"/></e>
 <e lm="trinomial"><i>trinomia</i><par n="aceitáve/l__adj"/></e>
+<e lm="urinário"><i>urinári</i><par n="abert/o__adj"/></e>
+<e lm="vaginal"><i>vagina</i><par n="aceitáve/l__adj"/></e>
+<e lm="variável"><i>variáve</i><par n="aceitáve/l__adj"/></e>
+<e lm="vazio"><i>vazi</i><par n="abert/o__adj"/></e>
+<e lm="veloz"><i>veloz</i><par n="anterior__adj"/></e>
+<e lm="verde"><i>verde</i><par n="agrícola__adj"/></e>
+<e lm="vermelho"><i>vermelh</i><par n="abert/o__adj"/></e>
+<e lm="vertebral"><i>vertebra</i><par n="aceitáve/l__adj"/></e>
+<e lm="veterinário"><i>veterinári</i><par n="abert/o__adj"/></e>
+<e lm="vigoroso"><i>vigoros</i><par n="abert/o__adj"/></e>
+<e lm="violeta"><i>violeta</i><par n="agrícola__adj"/></e>
+<e lm="zoológico"><i>zoológic</i><par n="abert/o__adj"/></e>
+<e lm="vocal"><i>voca</i><par n="aceitáve/l__adj"/></e>
 
 <e lm="antes de Cristo"><i>antes<b/>de<b/>Cristo</i><par n="anti__adj"/></e>
 <e lm="a.C."><i>a.C.</i><par n="anti__adj"/></e>
 <e lm="depois de Cristo"><i>depois<b/>de<b/>Cristo</i><par n="anti__adj"/></e>
 <e lm="d.C."><i>d.C.</i><par n="anti__adj"/></e>
 
+<e lm="centésimo"><i>centésimo</i><par n="Leste__n"/></e>
+<e lm="oitavo"><i>oitav</i><par n="abert/o__adj"/></e>
+
 <e lm="comportamentalmente"><i>comportamentalmente</i><par n="Op.Cit.__adv"/></e>
+<e lm="comunicativamente"><i>comunicativamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="de repente"><i>de<b/>repente</i><par n="Op.Cit.__adv"/></e>
+<e lm="directamente" v="pt"><i>directamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="diretamente" v="br"><i>diretamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="disfarçadamente"><i>disfarçadamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="etimologicamente"><i>etimologicamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="frequentemente" v="pt"><i>frequentemente</i><par n="Op.Cit.__adv"/></e>
+<e lm="freqüentemente" v="br"><i>frequentemente</i><par n="Op.Cit.__adv"/></e>
+<e lm="imediatamente"><i>imediatamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="internamente"><i>internamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="juntamente"><i>juntamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="modernamente"><i>modernamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="restritivamente"><i>restritivamente</i><par n="Op.Cit.__adv"/></e>
+<e lm="semi"><i>semi</i><par n="Op.Cit.__adv"/></e>
+<e lm="tal"><i>tal</i><par n="Op.Cit.__adv"/></e>
+<e lm="tanto"><i>tanto</i><par n="Op.Cit.__adv"/></e>
 
-
-  </section>
+</section>
 
   <section id="final" type="inconditional">
       
@@ -140669,21 +141191,6 @@
       <e lm="subjacente">
         <i>subjacente</i>
         <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="amarelo">
-        <i>amarel</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="artístico">
-        <i>artístic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="asiático">
-        <i>asiátic</i>
-        <par n="abert/o__adj"/>
       </e>
       
       <e lm="atacante">
@@ -140731,11 +141238,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="basco">
-        <i>basc</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="biológico">
         <i>biológic</i>
         <par n="abert/o__adj"/>
@@ -140771,11 +141273,6 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="cardíaco">
-        <i>cardíac</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="catastrófico">
         <i>catastrófic</i>
         <par n="abert/o__adj"/>
@@ -140783,11 +141280,6 @@
       
       <e lm="categórico">
         <i>categóric</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="católico">
-        <i>católic</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -140803,16 +141295,6 @@
       
       <e lm="checheno">
         <i>chechen</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="checo">
-        <i>chec</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="científico">
-        <i>científic</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -140834,16 +141316,6 @@
       <e lm="combatente">
         <i>combatente</i>
         <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="complexo">
-        <i>complex</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="comum">
-        <i>comu</i>
-        <par n="comu/m__adj"/>
       </e>
       
       <e lm="comunitário">
@@ -140881,34 +141353,14 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="contrário">
-        <i>contrári</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="correspondente">
         <i>correspondente</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="crescente">
-        <i>crescente</i>
         <par n="agrícola__adj"/>
       </e>
       
       <e lm="crítico">
         <i>crític</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="direccional" v="pt">
-        <i>direcciona</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="direcional" v="br">
-        <i>direciona</i>
-        <par n="aceitáve/l__adj"/>
       </e>
       
       <e lm="curdo">
@@ -140952,11 +141404,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="doméstico">
-        <i>doméstic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="dramático">
         <i>dramátic</i>
         <par n="abert/o__adj"/>
@@ -140967,11 +141414,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="duradouro">
-        <i>duradour</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="décimo">
         <i>décim</i>
         <par n="abert/o__adj"/>
@@ -140979,11 +141421,6 @@
       
       <e lm="eclesiástico">
         <i>eclesiástic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="ecológico">
-        <i>ecológic</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -141061,16 +141498,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="específico">
-        <i>específic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="esquerdo">
-        <i>esquerd</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="essencial">
         <i>essencia</i>
         <par n="aceitáve/l__adj"/>
@@ -141091,11 +141518,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="externo">
-        <i>extern</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="extra">
         <i>extra</i>
         <par n="agrícola__adj"/>
@@ -141103,11 +141525,6 @@
       
       <e lm="extraordinário">
         <i>extraordinári</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="extremo">
-        <i>extrem</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -141166,11 +141583,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="forte">
-        <i>forte</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="frequente" v="pt">
         <i>frequente</i>
         <par n="agrícola__adj"/>
@@ -141186,24 +141598,9 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="físico">
-        <i>físic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="gay">
         <i>gay</i>
         <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="genético">
-        <i>genétic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="geral">
-        <i>gera</i>
-        <par n="aceitáve/l__adj"/>
       </e>
       
       <e lm="gigantesco">
@@ -141214,11 +141611,6 @@
       <e lm="governamental">
         <i>governamenta</i>
         <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="grande">
-        <i>grande</i>
-        <par n="agrícola__adj"/>
       </e>
       
       <e lm="grávido">
@@ -141233,11 +141625,6 @@
       
       <e lm="hispânico">
         <i>hispânic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="histórico">
-        <i>históric</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -141281,11 +141668,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="idêntico">
-        <i>idêntic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="ileso">
         <i>iles</i>
         <par n="abert/o__adj"/>
@@ -141317,11 +141699,6 @@
       
       <e lm="impressionante">
         <i>impressionante</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="independente">
-        <i>independente</i>
         <par n="agrícola__adj"/>
       </e>
       
@@ -141400,11 +141777,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="influente">
-        <i>influente</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="informatizado">
         <i>informatizad</i>
         <par n="abert/o__adj"/>
@@ -141452,11 +141824,6 @@
       
       <e lm="intermediário">
         <i>intermediári</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="interno">
-        <i>intern</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -141536,26 +141903,11 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="lingüístico" v="br">
-        <i>lingüístic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="linguístico" v="pt">
-        <i>linguístic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
 		
 		<e lm="lusófono">
 			<i>lusófon</i>
 			<par n="abert/o__adj"/>
 		</e>
-		
-      <e lm="lógico">
-        <i>lógic</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="macroeconômico" v="br">
         <i>macroeconômic</i>
@@ -141582,11 +141934,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="maior">
-        <i>maior</i>
-        <par n="anterior__adj"/>
-      </e>
-      
       <e lm="marítimo">
         <i>marítim</i>
         <par n="abert/o__adj"/>
@@ -141595,11 +141942,6 @@
       <e lm="mensal">
         <i>mensa</i>
         <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="mesmo">
-        <i>mesm</i>
-        <par n="abert/o__adj"/>
       </e>
       
       <e lm="meteorológico">
@@ -141642,11 +141984,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="muito">
-        <i>muit</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="multilateral">
         <i>multilatera</i>
         <par n="aceitáve/l__adj"/>
@@ -141657,29 +141994,14 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="mínimo">
-        <i>mínim</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="múltiplo">
         <i>múltipl</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="necessário">
-        <i>necessári</i>
         <par n="abert/o__adj"/>
       </e>
       
       <e lm="negociador">
         <i>negociador</i>
         <par n="conservador__adj"/>
-      </e>
-      
-      <e lm="nervoso">
-        <i>nervos</i>
-        <par n="abert/o__adj"/>
       </e>
       
       <e lm="neutro">
@@ -141706,11 +142028,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="novo">
-        <i>nov</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="multidirecional" v="br">
         <i>multidireciona</i>
         <par n="aceitáve/l__adj"/>
@@ -141723,16 +142040,6 @@
       
       <e lm="obrigatório">
         <i>obrigatóri</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="ocidental">
-        <i>ocidenta</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="oitavo">
-        <i>oitav</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -141763,11 +142070,6 @@
       
       <e lm="paraguaio">
         <i>paraguai</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="paralelo">
-        <i>paralel</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -141836,16 +142138,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="polêmico" v="br">
-        <i>polêmic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="polémico" v="pt">
-        <i>polémic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="político">
         <i>polític</i>
         <par n="abert/o__adj"/>
@@ -141864,11 +142156,6 @@
       <e lm="portuário">
         <i>portuári</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="posterior">
-        <i>posterior</i>
-        <par n="anterior__adj"/>
       </e>
       
       <e lm="potente">
@@ -141911,11 +142198,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="protetor" v="br">
-        <i>protetor</i>
-        <par n="conservador__adj"/>
-      </e>
-      
       <e lm="protector" v="pt">
         <i>protector</i>
         <par n="conservador__adj"/>
@@ -141937,21 +142219,6 @@
       
       <e lm="prático">
         <i>prátic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="prévio">
-        <i>prévi</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="próprio">
-        <i>própri</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="psicológico">
-        <i>psicológic</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -141995,19 +142262,9 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="químico">
-        <i>químic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="raro">
         <i>rar</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="recente">
-        <i>recente</i>
-        <par n="agrícola__adj"/>
       </e>
       
       <e lm="referente">
@@ -142023,11 +142280,6 @@
       <e lm="residente">
         <i>residente</i>
         <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="respiratório">
-        <i>respiratóri</i>
-        <par n="abert/o__adj"/>
       </e>
       
       <e lm="restrito" v="br">
@@ -142070,16 +142322,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="rápido">
-        <i>rápid</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="rígido">
-        <i>rígid</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="sanitário">
         <i>sanitári</i>
         <par n="abert/o__adj"/>
@@ -142088,12 +142330,7 @@
       <e lm="secundário">
         <i>secundári</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="seguinte">
-        <i>seguinte</i>
-        <par n="agrícola__adj"/>
-      </e>      
+      </e>     
       <e lm="severo">
         <i>sever</i>
         <par n="abert/o__adj"/>
@@ -142107,11 +142344,6 @@
       <e lm="simbólico">
         <i>simbólic</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="simples">
-        <i>simples</i>
-        <par n="anti__adj"/>
       </e>
       
       <e lm="sindicalista">
@@ -142219,11 +142451,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="tal">
-        <i>ta</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="tático">
         <i>tátic</i>
         <par n="abert/o__adj"/>
@@ -142279,11 +142506,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="técnico">
-        <i>técnic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="tóxico">
         <i>tóxic</i>
         <par n="abert/o__adj"/>
@@ -142316,16 +142538,6 @@
       
       <e lm="vasto">
         <i>vast</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="vazio">
-        <i>vazi</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="vermelho">
-        <i>vermelh</i>
         <par n="abert/o__adj"/>
       </e>
       
@@ -142387,11 +142599,6 @@
       <e lm="douto">
         <i>dout</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="decorrente">
-        <i>decorrente</i>
-        <par n="agrícola__adj"/>
       </e>
       
       <e lm="sociocultural">
@@ -142503,11 +142710,6 @@
 			<par n="aceitáve/l__adj"/>
 		</e>
 		
-		<e lm="estatístico">
-			<i>estatístic</i>
-			<par n="abert/o__adj"/>
-		</e>
-		
 		<e lm="escasso">
 			<i>escass</i>
 			<par n="abert/o__adj"/>
@@ -142558,11 +142760,6 @@
 			<par n="abert/o__adj"/>
 		</e>
 		
-		<e lm="orgânico">
-			<i>orgânic</i>
-			<par n="abert/o__adj"/>
-		</e>
-		
 		<e lm="ocasional">
 			<i>ocasiona</i>
 			<par n="civi/l__adj"/>
@@ -142610,11 +142807,6 @@
 		<e lm="francófono">
 			<i>francófon</i>
 			<par n="abert/o__adj"/>
-		</e>
-		
-		<e lm="leal">
-			<i>lea</i>
-			<par n="aceitáve/l__adj"/>
 		</e>
 		
 		<e lm="sonoro">
@@ -144742,11 +144934,6 @@
       
       <e lm="de pernas para o ar">
         <i>de<b/>pernas<b/>para<b/>o<b/>ar</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="de repente">
-        <i>de<b/>repente</i>
         <par n="Op.Cit.__adv"/>
       </e>
       
@@ -148055,11 +148242,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="internamente">
-        <i>internamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
       <e lm="interregionalmente">
         <i>interregionalmente</i>
         <par n="Op.Cit.__adv"/>
@@ -148322,11 +148504,6 @@
       
       <e lm="judiciosamente">
         <i>judiciosamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="juntamente">
-        <i>juntamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
       
@@ -148901,11 +149078,6 @@
       
       <e lm="moderadamente">
         <i>moderadamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="modernamente">
-        <i>modernamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
       
@@ -151424,16 +151596,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="tal">
-        <i>tal</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="tanto">
-        <i>tanto</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
       <e lm="tanto faz">
         <i>tanto<b/>faz</i>
         <par n="Op.Cit.__adv"/>
@@ -152124,11 +152286,6 @@
         <par n="AFP__n"/>
       </e>
       
-      <e lm="DNA">
-        <i>DNA</i>
-        <par n="DNA__n"/>
-      </e>
-      
       <e lm="FBI">
         <i>FBI</i>
         <par n="FBI__n"/>
@@ -152239,11 +152396,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="acampamento">
-        <i>acampamento</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="acrónimo" v="pt">
         <i>acrónimo</i>
         <par n="Leste__n"/>
@@ -152279,11 +152431,6 @@
         <par n="accionista__n"/>
       </e>
       
-      <e lm="adaptação">
-        <i>adaptaç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
       <e lm="adepto">
         <i>adept</i>
         <par n="adept/o__n"/>
@@ -152297,11 +152444,6 @@
       <e lm="adolescente">
         <i>adolescente</i>
         <par n="accionista__n"/>
-      </e>
-      
-      <e lm="adulto">
-        <i>adult</i>
-        <par n="adept/o__n"/>
       </e>
       
       <e lm="adversário">
@@ -152338,11 +152480,6 @@
 			<par n="accionista__n"/>
 		</e>
       
-      <e lm="ambiente">
-        <i>ambiente</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="biénio" v="pt">
         <i>biénio</i>
         <par n="Leste__n"/>
@@ -152362,11 +152499,6 @@
         <i>binómio</i>
         <par n="Leste__n"/>
       </e>
-		
-		<e lm="nariz">
-			<i>nariz</i>
-			<par n="amor__n"/>
-      </e>
       
       <e lm="ampliação">
         <i>ampliaç</i>
@@ -152376,11 +152508,6 @@
       <e lm="anfitrião">
         <i>anfitri</i>
         <par n="anfitri/ão__n"/>
-      </e>
-      
-      <e lm="ano">
-        <i>ano</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="arsénico" v="pt">
@@ -152401,11 +152528,6 @@
       <e lm="astrónomo" v="pt">
         <i>astrónom</i>
         <par n="adept/o__n"/>
-      </e>
-      
-      <e lm="aparecimento">
-        <i>aparecimento</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="aposentado">
@@ -152632,11 +152754,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="basco">
-        <i>basc</i>
-        <par n="adept/o__n"/>
-      </e>
-      
       <e lm="batalhão">
         <i>batalh</i>
         <par n="avi/ão__n"/>
@@ -152701,21 +152818,6 @@
         <par n="adept/o__n"/>
       </e>
       
-      <e lm="cabeça">
-        <i>cabeça</i>
-        <par n="cabeça__n"/>
-      </e>
-      
-      <e lm="caixa">
-        <i>caixa</i>
-        <par n="Leste__n"/>
-      </e>
-      
-      <e lm="caixa">
-        <i>caixa</i>
-        <par n="abadia__n"/>
-      </e>
-      
       <e lm="caixão">
         <i>caix</i>
         <par n="avi/ão__n"/>
@@ -152729,11 +152831,6 @@
       <e lm="camisola">
         <i>camisola</i>
         <par n="abadia__n"/>
-      </e>
-      
-      <e lm="campo">
-        <i>campo</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="canadense" v="br">
@@ -152780,11 +152877,6 @@
 			<par n="Leste__n"/>
 		</e>
       
-      <e lm="característica">
-        <i>característica</i>
-        <par n="abadia__n"/>
-      </e>
-      
       <e lm="cargueiro">
         <i>cargueiro</i>
         <par n="Leste__n"/>
@@ -152808,11 +152900,6 @@
       <e lm="caso">
         <i>caso</i>
         <par n="Leste__n"/>
-      </e>
-      
-      <e lm="cego">
-        <i>ceg</i>
-        <par n="adept/o__n"/>
       </e>
       
       <e lm="celebração">
@@ -152847,16 +152934,6 @@
       
       <e lm="chancelaria">
         <i>chancelaria</i>
-        <par n="abadia__n"/>
-      </e>
-      
-      <e lm="chefe">
-        <i>chef</i>
-        <par n="chef/e__n"/>
-      </e>
-      
-      <e lm="cidade">
-        <i>cidade</i>
         <par n="abadia__n"/>
       </e>
       
@@ -152944,11 +153021,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="competição">
-        <i>competiç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
       <e lm="composto">
         <i>composto</i>
         <par n="Leste__n"/>
@@ -152957,21 +153029,6 @@
       <e lm="compra e venda">
         <i>compra</i>
         <par n="compra/_e_venda__n"/>
-      </e>
-      
-      <e lm="comprimento">
-        <i>comprimento</i>
-        <par n="Leste__n"/>
-      </e>
-      
-      <e lm="comunicação">
-        <i>comunicaç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
-      <e lm="concentração">
-        <i>concentraç</i>
-        <par n="aceitaç/ão__n"/>
       </e>
       
       <e lm="concurso">
@@ -153059,11 +153116,6 @@
         <par n="coron/el__n"/>
       </e>
       
-      <e lm="corpo">
-        <i>corpo</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="costas">
         <i>costas</i>
         <par n="costas__n"/>
@@ -153147,11 +153199,6 @@
       <e lm="declaração">
         <i>declaraç</i>
         <par n="aceitaç/ão__n"/>
-      </e>
-      
-      <e lm="decreto">
-        <i>decreto</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="delegacia">
@@ -153287,11 +153334,6 @@
       <e lm="doente">
         <i>doente</i>
         <par n="accionista__n"/>
-      </e>
-      
-      <e lm="dono">
-        <i>don</i>
-        <par n="adept/o__n"/>
       </e>
       
       <e lm="décimo">
@@ -153437,11 +153479,6 @@
       <e lm="esquizofrênico" v="br">
         <i>esquizofrênic</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="esquema">
-        <i>esquema</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="estada">
@@ -153632,11 +153669,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="geração">
-        <i>geraç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
       <e lm="gerente">
         <i>gerente</i>
         <par n="accionista__n"/>
@@ -153695,11 +153727,6 @@
       <e lm="homônimo" v="br">
         <i>homônim</i>
         <par n="adept/o__n"/>
-      </e>
-      
-      <e lm="hormônio" v="br">
-        <i>hormônio</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="heroína">
@@ -153783,11 +153810,6 @@
       <e lm="inteiro">
         <i>inteiro</i>
         <par n="Leste__n"/>
-      </e>
-      
-      <e lm="internacional">
-        <i>internaciona</i>
-        <par n="genera/l__n"/>
       </e>
       
       <e lm="interrogado">
@@ -153900,11 +153922,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="linguagem">
-        <i>linguage</i>
-        <par n="aterrissage/m__n"/>
-      </e>
-      
       <e lm="lixo">
         <i>lixo</i>
         <par n="Leste__n"/>
@@ -153917,11 +153934,6 @@
       
       <e lm="madeira">
         <i>madeira</i>
-        <par n="abadia__n"/>
-      </e>
-      
-      <e lm="maioria">
-        <i>maioria</i>
         <par n="abadia__n"/>
       </e>
       
@@ -153990,19 +154002,9 @@
         <par n="atletismo__n"/>
       </e>
       
-      <e lm="membro">
-        <i>membro</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="menor">
         <i>menor</i>
         <par n="escolar__n"/>
-      </e>
-      
-      <e lm="mensagem">
-        <i>mensage</i>
-        <par n="aterrissage/m__n"/>
       </e>
       
       <e lm="mercenário">
@@ -154174,11 +154176,6 @@
         <par n="accionista__n"/>
       </e>
       
-      <e lm="operação">
-        <i>operaç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
       <e lm="oportunidade">
         <i>oportunidade</i>
         <par n="abadia__n"/>
@@ -154197,11 +154194,6 @@
       <e lm="onipresença" v="br">
         <i>onipresença</i>
         <par n="abadia__n"/>
-      </e>
-      
-      <e lm="origem">
-        <i>orige</i>
-        <par n="aterrissage/m__n"/>
       </e>
       
       <e lm="ouvido">
@@ -154289,18 +154281,8 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="perigo">
-        <i>perigo</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="permissão">
         <i>permiss</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
-      <e lm="perseguição">
-        <i>perseguiç</i>
         <par n="aceitaç/ão__n"/>
       </e>
       
@@ -154393,11 +154375,6 @@
         <i>porta-voz</i>
         <par n="escolar__n"/>
       </e>
-          
-      <e lm="português">
-        <i>portugu</i>
-        <par n="alban/ês__n"/>
-      </e>
       
       <e lm="potencial">
         <i>potencia</i>
@@ -154469,11 +154446,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="processo">
-        <i>processo</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="procurador">
         <i>procurador</i>
         <par n="admirador__n"/>
@@ -154539,24 +154511,9 @@
         <par n="quarta/-feira__n"/>
       </e>
       
-      <e lm="questionamento" v="pt">
-        <i>questionamento</i>
-        <par n="Leste__n"/>
-      </e>
-      
-      <e lm="qüestionamento" v="br">
-        <i>qüestionamento</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="quinta-feira">
         <i>quinta</i>
         <par n="quarta/-feira__n"/>
-      </e>
-      
-      <e lm="químico">
-        <i>químic</i>
-        <par n="adept/o__n"/>
       </e>
       
       <e lm="rabino">
@@ -154617,11 +154574,6 @@
       <e lm="redacção" v="pt">
         <i>redacç</i>
         <par n="aceitaç/ão__n"/>
-      </e>
-      
-      <e lm="rede">
-        <i>rede</i>
-        <par n="abadia__n"/>
       </e>
       
       <e lm="reduto">
@@ -154749,21 +154701,6 @@
         <par n="quarta/-feira__n"/>
       </e>
       
-      <e lm="segurança">
-        <i>segurança</i>
-        <par n="cabeça__n"/>
-      </e>
-      
-      <e lm="seleção" v="br">
-        <i>seleç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
-      <e lm="selecção" v="pt">
-        <i>selecç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
       <e lm="semanário">
         <i>semanário</i>
         <par n="Leste__n"/>
@@ -154827,11 +154764,6 @@
       <e lm="substituição">
         <i>substituiç</i>
         <par n="aceitaç/ão__n"/>
-      </e>
-      
-      <e lm="sucesso">
-        <i>sucesso</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="sudeste">
@@ -155019,16 +154951,6 @@
         <par n="adept/o__n"/>
       </e>
       
-      <e lm="técnica">
-        <i>técnica</i>
-        <par n="abadia__n"/>
-      </e>
-      
-      <e lm="túmulo">
-        <i>túmulo</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="ultimato">
         <i>ultimato</i>
         <par n="Leste__n"/>
@@ -155054,11 +154976,6 @@
         <par n="avi/ão__n"/>
       </e>
       
-      <e lm="vez">
-        <i>vez</i>
-        <par n="actriz__n"/>
-      </e>
-      
       <e lm="viagem">
         <i>viage</i>
         <par n="aterrissage/m__n"/>
@@ -155075,11 +154992,6 @@
       <e lm="visitante">
         <i>visitante</i>
         <par n="accionista__n"/>
-      </e>
-      
-      <e lm="voz">
-        <i>voz</i>
-        <par n="actriz__n"/>
       </e>
       
       <e lm="x">
@@ -155254,11 +155166,6 @@
 			<par n="anima/l__n"/>
 		</e>
 		
-		<e lm="aprendizagem">
-			<i>aprendizage</i>
-			<par n="aterrissage/m__n"/>
-		</e>
-		
 		
 		<e lm="ventura">
 			<i>ventura</i>
@@ -155299,10 +155206,6 @@
         <i>politécnic</i>
         <par n="abert/o__adj"/>
       </e>
-		<e lm="térmico">
-			<i>térmic</i>
-			<par n="abert/o__adj"/>
-		</e>
       
       <e lm="vara">
         <i>vara</i>
@@ -155378,10 +155281,6 @@
         <i>proselitismo</i>
         <par n="Leste__n"/>
       </e>
-		<e lm="imprecisão">
-			<i>imprecis</i>
-			<par n="aceitaç/ão__n"/>
-		</e>
       
       <e lm="fundamentalismo">
         <i>fundamentalismo</i>
@@ -155549,10 +155448,6 @@
 <e lm="zootécnico">
   <i>zootécnic</i>
   <par n="abert/o__adj"/>
-</e>
-<e lm="veterinário">
-  <i>veterinári</i>
-  <par n="adept/o__n"/>
 </e>
 <e lm="geológico">
   <i>geológic</i>
@@ -155914,10 +155809,6 @@
 	<i>expediç</i>
 	<par n="aceitaç/ão__n"/>
 </e>
-<e lm="extinção">
-	<i>extinç</i>
-	<par n="aceitaç/ão__n"/>
-</e>
 <e lm="fundamentalista">
 	<i>fundamentalista</i>
 	<par n="agrícola__adj"/>
@@ -156142,14 +156033,6 @@
 <e lm="casual">
 	<i>casua</i>
 	<par n="aceitáve/l__adj"/>
-</e>
-<e lm="cego">
-	<i>ceg</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="cego">
-	<i>ceg</i>
-	<par n="adept/o__n"/>
 </e>
 <e lm="cenho">
 	<i>cenho</i>
@@ -156551,10 +156434,6 @@
 	<i>analogia</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="antepassado">
-	<i>antepassad</i>
-	<par n="adept/o__n"/>
-</e>
 <e lm="antítese">
 	<i>antítese</i>
 	<par n="abadia__n"/>
@@ -156562,10 +156441,6 @@
 <e lm="anunciador">
 	<i>anunciador</i>
 	<par n="admirador__n"/>
-</e>
-<e lm="apto">
-	<i>apt</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="arado">
 	<i>arado</i>
@@ -156715,10 +156590,6 @@
 	<i>brocardo</i>
 	<par n="Leste__n"/>
 </e>
-<e lm="bruxo">
-	<i>brux</i>
-	<par n="adept/o__n"/>
-</e>
 <e lm="bufão">
 	<i>buf</i>
 	<par n="avi/ão__n"/>
@@ -156746,10 +156617,6 @@
 <e lm="cardo">
 	<i>cardo</i>
 	<par n="Leste__n"/>
-</e>
-<e lm="carente">
-	<i>carente</i>
-	<par n="agrícola__adj"/>
 </e>
 <e lm="castidade">
 	<i>castidade</i>
@@ -156928,17 +156795,9 @@
 	<i>demoníac</i>
 	<par n="abert/o__adj"/>
 </e>
-<e lm="denso">
-	<i>dens</i>
-	<par n="abert/o__adj"/>
-</e>
 <e lm="descampado">
 	<i>descampad</i>
 	<par n="abert/o__adj"/>
-</e>
-<e lm="descendente">
-	<i>descendente</i>
-	<par n="agrícola__adj"/>
 </e>
 <e lm="desígnio">
 	<i>desígnio</i>
@@ -156959,10 +156818,6 @@
 <e lm="discípulo">
 	<i>discípul</i>
 	<par n="adept/o__n"/>
-</e>
-<e lm="discordância">
-	<i>discordância</i>
-	<par n="abadia__n"/>
 </e>
 <e lm="discórdia">
 	<i>discórdia</i>
@@ -157039,14 +156894,6 @@
 <e lm="escravatura">
 	<i>escravatura</i>
 	<par n="abadia__n"/>
-</e>
-<e lm="escravo">
-	<i>escrav</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="escravo">
-	<i>escrav</i>
-	<par n="adept/o__n"/>
 </e>
 <e lm="espiga">
 	<i>espiga</i>
@@ -157148,10 +156995,6 @@
 	<i>floraç</i>
 	<par n="aceitaç/ão__n"/>
 </e>
-<e lm="focinho">
-	<i>focinho</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="foice" v="br">
 	<i>foice</i>
 	<par n="abadia__n"/>
@@ -157167,10 +157010,6 @@
 <e lm="franqueza">
 	<i>franqueza</i>
 	<par n="abadia__n"/>
-</e>
-<e lm="fresco">
-	<i>fresc</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="furtivo">
 	<i>furtiv</i>
@@ -157504,10 +157343,6 @@
 	<i>orvalho</i>
 	<par n="Leste__n"/>
 </e>
-<e lm="osso">
-	<i>osso</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="pálido">
 	<i>pálid</i>
 	<par n="abert/o__adj"/>
@@ -157677,10 +157512,6 @@
 	<i>qualificativ</i>
 	<par n="abert/o__adj"/>
 </e>
-<e lm="quietude">
-	<i>quietude</i>
-	<par n="abadia__n"/>
-</e>
 <e lm="racimo">
 	<i>racimo</i>
 	<par n="Leste__n"/>
@@ -157829,10 +157660,6 @@
 	<i>tênia</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="terminação">
-	<i>terminaç</i>
-	<par n="aceitaç/ão__n"/>
-</e>
 <e lm="tino">
 	<i>tino</i>
 	<par n="Leste__n"/>
@@ -157868,10 +157695,6 @@
 <e lm="trompa">
 	<i>trompa</i>
 	<par n="abadia__n"/>
-</e>
-<e lm="trovão">
-	<i>trov</i>
-	<par n="avi/ão__n"/>
 </e>
 <e lm="turvação">
 	<i>turvaç</i>
@@ -157909,10 +157732,6 @@
 	<i>vau</i>
 	<par n="Leste__n"/>
 </e>
-<e lm="veloz">
-	<i>veloz</i>
-	<par n="anterior__adj"/>
-</e>
 <e lm="venenoso">
 	<i>venenos</i>
 	<par n="abert/o__adj"/>
@@ -157948,10 +157767,6 @@
 <e lm="vigilante">
 	<i>vigilante</i>
 	<par n="accionista__n"/>
-</e>
-<e lm="vigoroso">
-	<i>vigoros</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="vingador">
 	<i>vingador</i>
@@ -158136,10 +157951,6 @@
 <e lm="docente" a="carmentano">
 	<i>docente</i>
 	<par n="accionista__n"/>
-</e>
-<e lm="dependente" a="carmentano">
-	<i>dependente</i>
-	<par n="agrícola__adj"/>
 </e>
 <e lm="populacional" a=" pereira_pl@sapo.pt">
   <i>populaciona</i>
@@ -158343,11 +158154,6 @@
       
       <e lm="despesa" a="imaxin|software">
         <i>despesa</i>
-        <par n="abadia__n"/>
-      </e>
-            
-      <e lm="consistência" a="imaxin|software">
-        <i>consistência</i>
         <par n="abadia__n"/>
       </e>
       
@@ -159020,11 +158826,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="anterior">
-        <i>anterior</i>
-        <par n="anterior__adj"/>
-      </e>
-      
       <e lm="anual">
         <i>anua</i>
         <par n="aceitáve/l__adj"/>
@@ -159038,11 +158839,6 @@
       <e lm="ausente">
         <i>ausente</i>
         <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="azul">
-        <i>azu</i>
-        <par n="aceitáve/l__adj"/>
       </e>
       
       <e lm="bilateral">
@@ -159075,11 +158871,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="cerebral">
-        <i>cerebra</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="chinês">
         <i>chin</i>
         <par n="alban/ês__adj"/>
@@ -159098,11 +158889,6 @@
       <e lm="confuso">
         <i>confus</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="constante">
-        <i>constante</i>
-        <par n="agrícola__adj"/>
       </e>
       
       <e lm="constitucional">
@@ -159125,16 +158911,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="cultural">
-        <i>cultura</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="diferente">
-        <i>diferente</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="dinamarquês">
         <i>dinamarqu</i>
         <par n="alban/ês__adj"/>
@@ -159150,19 +158926,9 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="diverso">
-        <i>divers</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
       <e lm="diário">
         <i>diári</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="eficiente">
-        <i>eficiente</i>
-        <par n="agrícola__adj"/>
       </e>
       
       <e lm="escocês">
@@ -159190,28 +158956,13 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="excelente">
-        <i>excelente</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="excepcional">
         <i>excepciona</i>
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="existente">
-        <i>existente</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="exterior">
         <i>exterior</i>
-        <par n="anterior__adj"/>
-      </e>
-      
-      <e lm="familiar">
-        <i>familiar</i>
         <par n="anterior__adj"/>
       </e>
       
@@ -159245,19 +158996,9 @@
         <par n="alban/ês__adj"/>
       </e>
       
-      <e lm="fundamental">
-        <i>fundamenta</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="fácil">
         <i>fác</i>
         <par n="bursát/il__adj"/>
-      </e>
-      
-      <e lm="gigante">
-        <i>gigante</i>
-        <par n="agrícola__adj"/>
       </e>
       
       <e lm="habitual">
@@ -159280,11 +159021,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="importante">
-        <i>importante</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="inaugural">
         <i>inaugura</i>
         <par n="aceitáve/l__adj"/>
@@ -159295,19 +159031,9 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="individual">
-        <i>individua</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="industrial">
         <i>industria</i>
         <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="infantil">
-        <i>infanti</i>
-        <par n="civi/l__adj"/>
       </e>
       
       <e lm="inferior">
@@ -159323,11 +159049,6 @@
       <e lm="inglês">
         <i>ingl</i>
         <par n="alban/ês__adj"/>
-      </e>
-      
-      <e lm="inicial">
-        <i>inicia</i>
-        <par n="aceitáve/l__adj"/>
       </e>
       
       <e lm="inocente">
@@ -159347,16 +159068,6 @@
       
       <e lm="intelectual">
         <i>intelectua</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="inteligente">
-        <i>inteligente</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="internacional">
-        <i>internaciona</i>
         <par n="aceitáve/l__adj"/>
       </e>
       
@@ -159390,26 +159101,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="local">
-        <i>loca</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="material">
-        <i>materia</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="mau">
-        <i>m</i>
-        <par n="m/au__adj"/>
-      </e>
-      
-      <e lm="mental">
-        <i>menta</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="ministerial">
         <i>ministeria</i>
         <par n="aceitáve/l__adj"/>
@@ -159422,11 +159113,6 @@
       
       <e lm="mortal">
         <i>morta</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="mundial">
-        <i>mundia</i>
         <par n="aceitáve/l__adj"/>
       </e>
       
@@ -159450,19 +159136,9 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="natural">
-        <i>natura</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="negro">
         <i>negr</i>
         <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="normal">
-        <i>norma</i>
-        <par n="aceitáve/l__adj"/>
       </e>
       
       <e lm="nova-iorquino">
@@ -159477,11 +159153,6 @@
       
       <e lm="oriental">
         <i>orienta</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="original">
-        <i>origina</i>
         <par n="aceitáve/l__adj"/>
       </e>
       
@@ -159547,11 +159218,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="permanente">
-        <i>permanente</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="policial">
         <i>policia</i>
         <par n="aceitáve/l__adj"/>
@@ -159559,11 +159225,6 @@
       
       <e lm="polonês" v="br">
         <i>polon</i>
-        <par n="alban/ês__adj"/>
-      </e>
-      
-      <e lm="português">
-        <i>portugu</i>
         <par n="alban/ês__adj"/>
       </e>
       
@@ -159592,11 +159253,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="principal">
-        <i>principa</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="provincial">
         <i>provincia</i>
         <par n="aceitáve/l__adj"/>
@@ -159607,18 +159263,8 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="racial">
-        <i>racia</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="radical">
         <i>radica</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="real">
-        <i>rea</i>
         <par n="aceitáve/l__adj"/>
       </e>
       
@@ -159640,11 +159286,6 @@
       <e lm="restante">
         <i>restante</i>
         <par n="agrícola__adj"/>
-      </e>
-      
-      <e lm="romano">
-        <i>roman</i>
-        <par n="abert/o__adj"/>
       </e>
       
       <e lm="rural">
@@ -159672,29 +159313,14 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="social">
-        <i>socia</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
-      
       <e lm="sueco">
         <i>suec</i>
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="superior">
-        <i>superior</i>
-        <par n="anterior__adj"/>
-      </e>
-      
       <e lm="tailandês">
         <i>tailandês</i>
         <par n="conservador__adj"/>
-      </e>
-      
-      <e lm="tanto">
-        <i>tant</i>
-        <par n="abert/o__adj"/>
       </e>
       
       <e lm="territorial">
@@ -159742,11 +159368,6 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="verde">
-        <i>verde</i>
-        <par n="agrícola__adj"/>
-      </e>
-      
       <e lm="virtual">
         <i>virtua</i>
         <par n="aceitáve/l__adj"/>
@@ -159770,11 +159391,6 @@
       <e lm="residencial">
         <i>residencia</i>
         <par n="aceitáve/l__adj"/>
-      </e>
-      
-      <e lm="resultante">
-        <i>resultante</i>
-        <par n="agrícola__adj"/>
       </e>
       
       <e lm="patrimonial">
@@ -159825,11 +159441,6 @@
 			<par n="aceitáve/l__adj"/>
 		</e>
 		
-		<e lm="primordial">
-			<i>primordia</i>
-			<par n="aceitáve/l__adj"/>
-		</e>
-		
 		
 		
 		<e lm="audiovisual">
@@ -159857,16 +159468,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="directamente" v="pt">
-        <i>directamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="diretamente" v="br">
-        <i>diretamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
       <e lm="em cima">
         <i>em<b/>cima</i>
         <par n="Op.Cit.__adv"/>
@@ -159874,21 +159475,6 @@
       
       <e lm="forçadamente">
         <i>forçadamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="frequentemente" v="pt">
-        <i>frequentemente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="freqüentemente" v="br">
-        <i>freqüentemente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="imediatamente">
-        <i>imediatamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
       
@@ -159925,11 +159511,6 @@
       <e lm="às vezes" r="RL">
         <i>às<b/>vezes</i>
         <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="amigo">
-        <i>amig</i>
-        <par n="adept/o__n"/>
       </e>
       
       <e lm="ator" v="br">
@@ -159998,11 +159579,6 @@
       <e lm="fábrica">
         <i>fábrica</i>
         <par n="abadia__n"/>
-      </e>
-      
-      <e lm="gigante">
-        <i>gigante</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="integrante">
@@ -160085,11 +159661,6 @@
         <par n="aceitaç/ão__n"/>
       </e>
       
-      <e lm="tesouro">
-        <i>tesouro</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="comboio">
         <i>comboio</i>
         <par n="Leste__n"/>
@@ -160099,11 +159670,6 @@
         <i>tráfico</i>
         <par n="Leste__n"/>
       </e>
-      
-      <e lm="técnico">
-        <i>técnico</i>
-        <par n="Leste__n"/>
-      </e> 
       
 		<e lm="praça">
 			<i>praça</i>
@@ -160184,16 +159750,8 @@
 	<i>beisebol</i>
 	<par n="Depto.__n"/>
 </e>
-<e lm="dominante">
-	<i>dominante</i>
-	<par n="agrícola__adj"/>
-</e>
 <e lm="facial">
 	<i>facia</i>
-	<par n="aceitáve/l__adj"/>
-</e>
-<e lm="frontal">
-	<i>fronta</i>
 	<par n="aceitáve/l__adj"/>
 </e>
 <e lm="idiota">
@@ -160228,17 +159786,9 @@
 	<i>abundante</i>
 	<par n="agrícola__adj"/>
 </e>
-<e lm="artificial">
-	<i>artificia</i>
-	<par n="aceitáve/l__adj"/>
-</e>
 <e lm="audaz">
 	<i>audaz</i>
 	<par n="anterior__adj"/>
-</e>
-<e lm="cansaço">
-	<i>cansaço</i>
-	<par n="Leste__n"/>
 </e>
 <e lm="cordial">
 	<i>cordia</i>
@@ -160304,24 +159854,12 @@
 	<i>pervers</i>
 	<par n="abert/o__adj"/>
 </e>
-<e lm="primitivo">
-	<i>primitiv</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="superficial">
-	<i>superficia</i>
-	<par n="aceitáve/l__adj"/>
-</e>
 <e lm="torpe">
 	<i>torpe</i>
 	<par n="agrícola__adj"/>
 </e>
 <e lm="verbal">
 	<i>verba</i>
-	<par n="aceitáve/l__adj"/>
-</e>
-<e lm="vocal">
-	<i>voca</i>
 	<par n="aceitáve/l__adj"/>
 </e>
 <e lm="vertical">
@@ -160418,16 +159956,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="fator" v="br">
-        <i>fator</i>
-        <par n="amor__n"/>
-      </e>
-      
-      <e lm="factor" v="pt">
-        <i>factor</i>
-        <par n="amor__n"/>
-      </e>
-      
       <e lm="investigação">
         <i>investigaç</i>
         <par n="aceitaç/ão__n"/>
@@ -160445,11 +159973,6 @@
       
       <e lm="república">
         <i>república</i>
-        <par n="abadia__n"/>
-      </e>
-      
-      <e lm="sociedade">
-        <i>sociedade</i>
         <par n="abadia__n"/>
       </e>
       

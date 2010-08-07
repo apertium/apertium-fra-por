@@ -53,23 +53,23 @@
 #echo "il s'agissait" | lt-proc fr-pt.automorf.bin
 #echo "";trata de todas as ciências
 
-echo "pode-se" | apertium -d . pt-fr-tagger
-echo "";
+#echo "pode-se" | apertium -d . pt-fr-tagger
+#echo "";
 
-echo "pode-se" | apertium pt-fr
-echo "";
+#echo "pode-se" | apertium pt-fr
+#echo "";
 
-echo "il se peut" | apertium -d . fr-pt-tagger
-echo "";
+#echo "il se peut" | apertium -d . fr-pt-tagger
+#echo "";
 
-echo "il se peut" | apertium fr-pt
-echo "";
+#echo "il se peut" | apertium fr-pt
+#echo "";
 
-echo "todas as ciências" | apertium -d . pt-fr-tagger
-echo "";
+#echo "todas as ciências" | apertium -d . pt-fr-tagger
+#echo "";
 
-echo "todas as ciências" | apertium pt-fr
-echo "";
+#echo "todas as ciências" | apertium pt-fr
+#echo "";
 
 #echo "na internet" | lt-proc pt-fr.automorf.bin
 #echo "";
@@ -88,3 +88,39 @@ echo "";
 
 #echo "trata de todas as ciências" | lt-proc pt-fr.automorf.bin
 #echo "";
+
+echo "comme la mienne" | apertium -d . fr-pt-tagger
+echo "";
+
+echo "comme la mienne" | apertium fr-pt
+echo "";
+
+echo "la mienne" | apertium -d . fr-pt-tagger
+echo "";
+
+echo "la mienne" | apertium fr-pt
+echo "";
+
+echo "a minha" | apertium -d . pt-fr-tagger
+echo "";
+
+echo "a minha" | apertium pt-fr
+echo "";
+
+echo "du vôtre" | apertium -d . fr-pt-tagger
+echo "";
+
+echo "du vôtre" | apertium fr-pt
+echo "";
+
+echo "le vôtre" | apertium -d . fr-pt-tagger
+echo "";
+
+echo "le vôtre" | apertium fr-pt
+echo "";
+
+echo "o vosso" | apertium -d . pt-fr-tagger
+echo "";
+
+echo "o vosso" | apertium pt-fr
+echo "";

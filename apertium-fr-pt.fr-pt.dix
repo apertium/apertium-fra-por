@@ -156,8 +156,8 @@
 <e r="LR"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
-<e>       <p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-<e>       <p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>leur<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>lhe<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -13473,7 +13473,7 @@
 <e>       <p><l>prise<s n="n"/></l>                    <r>tomada<s n="n"/></r></p></e>
 <e>       <p><l>prison<s n="n"/></l>                   <r>prisão<s n="n"/></r></p></e>
 <e>       <p><l>prisonnier<s n="n"/></l>               <r>prisioneiro<s n="n"/></r></p></e>
-<e>       <p><l>prisonnier<s n="n"/></l>               <r>preso<s n="n"/></r></p></e>
+<!--<e>       <p><l>prisonnier<s n="n"/></l>               <r>preso<s n="n"/></r></p></e>-->
 <e>       <p><l>privation<s n="n"/></l>                <r>privação<s n="n"/></r></p></e>
 <e>       <p><l>privatisation<s n="n"/></l>            <r>privatização<s n="n"/></r></p></e>
 <e>       <p><l>privilège<s n="n"/></l>                <r>privilégio<s n="n"/></r></p></e>
@@ -18987,7 +18987,7 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e r="LR"><p><l>parmi<s n="pr"/></l>                   <r>entre<s n="pr"/></r></p></e>
 <e>       <p><l>pendant<s n="pr"/></l>                 <r>durante<s n="pr"/></r></p></e>
 <e>       <p><l>pour<s n="pr"/></l>                    <r>para<s n="pr"/></r></p></e>
-<e>       <p><l>pour<s n="pr"/></l>                    <r>pra<s n="pr"/></r></p></e>
+<e r="RL"><p><l>pour<s n="pr"/></l>                    <r>pra<s n="pr"/></r></p></e>
 <e r="LR"><p><l>pour<b/>cause<b/>de<s n="pr"/></l>     <r>devido<b/>a<s n="pr"/></r></p></e>
 <e r="LR"><p><l>pour<b/>ce<b/>qui<b/>est<b/>de<s n="pr"/></l><r>com<b/>respeito<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>près<s n="pr"/></l>                    <r>cerca<b/>de<s n="pr"/></r></p></e>

@@ -172,7 +172,7 @@
 
    <pardef n="urls">
     <e>
-      <re>(((www.)|(http://))[a-z0-9\-]+([.][a-z]+)+(/[a-z0-9_]+)*([.][a-z]+)*)</re>
+      <re>(((www.)|(http://))[a-z0-9\-]+([.][a-z\-]+)+(/[a-z0-9_\-]+)*([.][a-z]+)*)</re>
       <p>
         <l></l> 
         <r><s n="num"/></r> 
@@ -46847,32 +46847,32 @@
 <!-- end of Latin terms -->
 
 <!-- treat letters as proper nouns -->
-<!--<e lm="a"><i>a</i><par n="Autre__np"/></e>
+<!--<e lm="a"><i>a</i><par n="Autre__np"/></e>-->
 <e lm="b"><i>b</i><par n="Autre__np"/></e>
-<e lm="c"><i>c</i><par n="Autre__np"/></e>
-<e lm="d"><i>d</i><par n="Autre__np"/></e>
-<e lm="e"><i>e</i><par n="Autre__np"/></e>
+<!--<e lm="c"><i>c</i><par n="Autre__np"/></e>-->
+<!--<e lm="d"><i>d</i><par n="Autre__np"/></e>-->
+<!--<e lm="e"><i>e</i><par n="Autre__np"/></e>-->
 <e lm="f"><i>f</i><par n="Autre__np"/></e>
 <e lm="g"><i>g</i><par n="Autre__np"/></e>
 <e lm="h"><i>h</i><par n="Autre__np"/></e>
-<e lm="i"><i>i</i><par n="Autre__np"/></e>
+<!--<e lm="i"><i>i</i><par n="Autre__np"/></e>-->
 <e lm="j"><i>j</i><par n="Autre__np"/></e>
 <e lm="k"><i>k</i><par n="Autre__np"/></e>
-<e lm="l"><i>l</i><par n="Autre__np"/></e>
-<e lm="m"><i>m</i><par n="Autre__np"/></e>
-<e lm="n"><i>n</i><par n="Autre__np"/></e>
-<e lm="o"><i>o</i><par n="Autre__np"/></e>
-<e lm="p"><i>p</i><par n="Autre__np"/></e>
+<!--<e lm="l"><i>l</i><par n="Autre__np"/></e>-->
+<!--<e lm="m"><i>m</i><par n="Autre__np"/></e>-->
+<!--<e lm="n"><i>n</i><par n="Autre__np"/></e>-->
+<!--<e lm="o"><i>o</i><par n="Autre__np"/></e>-->
+<!--<e lm="p"><i>p</i><par n="Autre__np"/></e>-->
 <e lm="q"><i>q</i><par n="Autre__np"/></e>
-<e lm="r"><i>r</i><par n="Autre__np"/></e>
-<e lm="s"><i>s</i><par n="Autre__np"/></e>
-<e lm="t"><i>t</i><par n="Autre__np"/></e>
+<!--<e lm="r"><i>r</i><par n="Autre__np"/></e>-->
+<!--<e lm="s"><i>s</i><par n="Autre__np"/></e>-->
+<!--<e lm="t"><i>t</i><par n="Autre__np"/></e>-->
 <e lm="u"><i>u</i><par n="Autre__np"/></e>
-<e lm="v"><i>v</i><par n="Autre__np"/></e>
+<!--<e lm="v"><i>v</i><par n="Autre__np"/></e>-->
 <e lm="w"><i>w</i><par n="Autre__np"/></e>
-<e lm="x"><i>x</i><par n="Autre__np"/></e>
-<e lm="y"><i>y</i><par n="Autre__np"/></e>
-<e lm="z"><i>z</i><par n="Autre__np"/></e>-->
+<!--<e lm="x"><i>x</i><par n="Autre__np"/></e>-->
+<!--<e lm="y"><i>y</i><par n="Autre__np"/></e>-->
+<e lm="z"><i>z</i><par n="Autre__np"/></e>
 <!-- end of letters  -->
 
 <e lm="Animal Diversity Web"><i>Animal<b/>Diversity<b/>Web</i><par n="Autre__np"/></e>
@@ -47063,6 +47063,7 @@
 <e lm="dipylidiose"><i>dipylidiose</i><par n="abeille__n"/></e>
 <e lm="dirofilariose"><i>dirofilariose</i><par n="abeille__n"/></e>
 <e lm="disette"><i>disette</i><par n="abeille__n"/></e>
+<e lm="distorsion"><i>distorsion</i><par n="abeille__n"/></e>
 <e lm="dog-sitting"><i>dog-sitting</i><par n="livre__n"/></e>
 <e lm="domestication"><i>domestication</i><par n="abeille__n"/></e>
 <e lm="dos"><i>dos</i><par n="mois__n"/></e>
@@ -47278,8 +47279,12 @@
 <e lm="zoologie"><i>zoologie</i><par n="abeille__n"/></e>
 <e lm="zoothérapie"><i>zoothérapie</i><par n="abeille__n"/></e>
 
-<e lm="cm2"><i>cm2</i><par n="mois__n"/></e>    <!-- do we need this? -->
-<e lm="no"><i>no</i><par n="mois__n"/></e>    <!-- do we need this? -->
+<e lm="cm2"><i>cm2</i><par n="mois__n"/></e>    <!-- centimètre -->
+<e lm="fig"><i>fig</i><par n="mois__n"/></e> <!-- figure -->
+<e lm="fr"><i>fr</i><par n="mois__n"/></e> <!-- français -->
+<e lm="no"><i>no</i><par n="mois__n"/></e>    <!-- numéro -->
+<e lm="n°"><i>n°</i><par n="mois__n"/></e> <!-- numéro -->
+<e lm="tab"><i>tab</i><par n="mois__n"/></e> <!-- table -->
 
 <e lm="adéquat"><i>adéquat</i><par n="pèlerin__adj"/></e>
 <e lm="adulte"><i>adulte</i><par n="académique__adj"/></e>
