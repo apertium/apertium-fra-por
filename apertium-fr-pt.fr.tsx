@@ -89,6 +89,9 @@
   <def-label name="PRNENC" closed="true">
     <tags-item tags="prn.enc.*"/>
   </def-label>
+  <def-label name="PRNPROADV" closed="true"> <!-- 'en ville' -->
+    <tags-item tags="prn.pro.adv"/>
+  </def-label>
   <def-label name="PRNPRO" closed="true">
     <tags-item tags="prn.pro.*"/>
   </def-label>
@@ -1685,6 +1688,17 @@
       <label-item label="VHABERPFCI"/>
       <label-item label="NUM"/>
     </label-sequence> 
+
+    <label-sequence>
+      <label-item label="PRNPROADV"/>
+      <label-item label="NOMM"/>
+    </label-sequence> 
+    <label-sequence>
+      <label-item label="PRNPROADV"/>
+      <label-item label="NOMF"/>
+    </label-sequence> 
+
+
 
   <!--  <label-sequence>
       <label-item label="VHABERPFCI"/>
