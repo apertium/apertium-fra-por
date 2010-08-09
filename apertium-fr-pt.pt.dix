@@ -100614,10 +100614,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="pré">
-        <i>pré</i>
-        <par n="anti__adj"/>
-      </e>
       
       <e lm="próximo">
         <i>próxim</i>
@@ -101248,11 +101244,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="a troco de quê">
-        <i>a<b/>troco<b/>de<b/>quê</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
       <e lm="a varejo">
         <i>a<b/>varejo</i>
         <par n="Op.Cit.__adv"/>
@@ -101489,10 +101480,7 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="ao deus dará">
-        <i>ao<b/>deus<b/>dará</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
+      
       
       <e lm="ao mesmo tempo">
         <i>ao<b/>mesmo<b/>tempo</i>
@@ -101573,7 +101561,7 @@
         <i>atualmente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
+       
       <e lm="até mesmo" r="LR">
         <i>até<b/>mesmo</i>
         <par n="Op.Cit.__adv"/>
@@ -101974,10 +101962,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="e daí">
-        <i>e<b/>daí</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="economicamente">
         <i>economicamente</i>
@@ -102599,10 +102583,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="isto é">
-        <i>isto<b/>é</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="jamais">
         <i>jamais</i>
@@ -102743,17 +102723,8 @@
         <i>mediamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="meia manhã">
-        <i>meia<b/>manhã</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="meia noite">
-        <i>meia<b/>noite</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+
+     
       <e lm="meigamente" r="LR">
         <i>meigamente</i>
         <par n="Op.Cit.__adv"/>
@@ -103214,25 +103185,12 @@
         <i>proximamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="pré-" r="LR">
-        <p>
-          <l>pré-</l>
-          <r>pré</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
+     
+      <e lm="pré">
+        <i>pré</i>
+        <par n="anti__adj"/>
       </e>
-		
-		<e lm="pré">
-			<i>pré</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="pró">
-        <i>pr</i>
-        <par n="pr/ó__adv"/>
-      </e>
-      
+     
       <e lm="pseudo-" r="LR">
         <p>
           <l>pseudo-</l>
@@ -103530,10 +103488,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="pré">
-        <i>pré</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="supostamente">
         <i>supostamente</i>
@@ -103770,42 +103724,7 @@
         <i>à<b/>força</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="à toa">
-        <i>à<b/>toa</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="às apalpadelas">
-        <i>às<b/>apalpadelas</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="às cegas">
-        <i>às<b/>cegas</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="às claras">
-        <i>às<b/>claras</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="às presas">
-        <i>às<b/>presas</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="às tontas">
-        <i>às<b/>tontas</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="águas passadas não movem moinho">
-        <i>águas<b/>passadas<b/>não<b/>movem<b/>moinho</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
 		<e lm="demasiado">
 			<i>demasiado</i>
 			<par n="Op.Cit.__adv"/>
@@ -126911,6 +126830,12 @@
         <i>eh</i>
         <par n="adeus__ij"/>
       </e>
+
+      <e lm="até depois">
+        <i>até<b/>depois</i>
+        <par n="adeus__ij"/>
+      </e>
+           
       
       <e lm="obrigado">
         <i>obrigad</i>
@@ -126921,17 +126846,7 @@
         <i>muito<b/>obrigad</i>
         <par n="muito_obrigad/o__ij"/>
       </e>
-      
-      <e lm="olé">
-        <i>olé</i>
-        <par n="adeus__ij"/>
-      </e>
-      
-      <e lm="já">
-        <i>já</i>
-        <par n="adeus__ij"/>
-      </e>
-      
+     
       <e lm="amém">
         <i>amém</i>
         <par n="adeus__ij"/>
@@ -126966,11 +126881,6 @@
         <par n="adeus__ij"/>
       </e>
      
-      <e lm="oxalá">
-        <i>oxalá</i>
-        <par n="adeus__ij"/>
-      </e>
-      
       <e lm="tudo bom">
         <i>tudo<b/>bom</i>
         <par n="adeus__ij"/>
@@ -141419,8 +141329,108 @@
   </section>
 
   <!--<section id="pending" type="standard">
-
-
+           
+      <e lm="olé">
+        <i>olé</i>
+        <par n="adeus__ij"/>
+      </e>
+      
+      <e lm="já">
+        <i>já</i>
+        <par n="adeus__ij"/>
+      </e>
+ 
+      <e lm="oxalá">
+        <i>oxalá</i>
+        <par n="adeus__ij"/>
+      </e>
+ 
+<e lm="comportamentalmente"><i>comportamentalmente</i><par n="Op.Cit.__adv"/></e>
+           
+      <e lm="à toa">
+        <i>à<b/>toa</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="às apalpadelas">
+        <i>às<b/>apalpadelas</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="às cegas">
+        <i>às<b/>cegas</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="às claras">
+        <i>às<b/>claras</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="às presas">
+        <i>às<b/>presas</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="às tontas">
+        <i>às<b/>tontas</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="águas passadas não movem moinho">
+        <i>águas<b/>passadas<b/>não<b/>movem<b/>moinho</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+  
+      <e lm="pré-" r="LR">
+        <p>
+          <l>pré-</l>
+          <r>pré</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		
+      <e lm="pré">
+        <i>pré</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+	<e lm="pré">
+		<i>pré</i>
+		<par n="Op.Cit.__adv"/>
+      </e>
+ 
+      <e lm="pró">
+        <i>pr</i>
+        <par n="pr/ó__adv"/>
+      </e>
+ 
+      
+      <e lm="a troco de quê">
+        <i>a<b/>troco<b/>de<b/>quê</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="ao deus dará">
+        <i>ao<b/>deus<b/>dará</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="e daí">
+        <i>e<b/>daí</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="isto é">
+        <i>isto<b/>é</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="meia manhã">
+        <i>meia<b/>manhã</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="meia noite">
+        <i>meia<b/>noite</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+ 
       
       <e lm="subjacente">
         <i>subjacente</i>

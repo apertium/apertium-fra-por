@@ -3000,6 +3000,7 @@
 <e>       <p><l>même<s n="adv"/></l>                   <r>até<b/>mesmo<s n="adv"/></r></p></e>
 <e>       <p><l>naguère<s n="adv"/></l>                <r>recentemente<s n="adv"/></r></p></e>
 <e>       <p><l>naturellement<s n="adv"/></l>          <r>naturalmente<s n="adv"/></r></p></e>
+<e r="LR"><p><l>pas<s n="adv"/></l><r/></p></e>
 <e>       <p><l>ne<s n="adv"/></l>                     <r>não<s n="adv"/></r></p></e>
 <e>       <p><l>nettement<s n="adv"/></l>              <r>claramente<s n="adv"/></r></p></e>
 <e>       <p><l>non<s n="adv"/></l>                    <r>não<s n="adv"/></r></p></e>
@@ -3016,7 +3017,7 @@
 <e>       <p><l>officiellement<s n="adv"/></l>         <r>oficialmente<s n="adv"/></r></p></e>
 <e>       <p><l>oui<s n="adv"/></l>                    <r>sim<s n="adv"/></r></p></e>
 <e>       <p><l>ouvertement<s n="adv"/></l>            <r>abertamente<s n="adv"/></r></p></e>
-<e>       <p><l>où<s n="adv"/></l>                     <r>aonde<s n="adv"/></r></p></e>
+<e r="RL"><p><l>où<s n="adv"/></l>                     <r>aonde<s n="adv"/></r></p></e>
 <e>       <p><l>où<s n="adv"/></l>                     <r>onde<s n="adv"/></r></p></e>
 <e>       <p><l>pacifiquement<s n="adv"/></l>          <r>pacificamente<s n="adv"/></r></p></e>
 <e>       <p><l>par<b/>cas<s n="adv"/></l>             <r>por<b/>acaso<s n="adv"/></r></p></e>
@@ -18694,7 +18695,9 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e>       <p><l>alors<s n="cnjadv"/></l>               <r>então<s n="cnjadv"/></r></p></e>
 <e>       <p><l>alors<b/>que<s n="cnjadv"/></l>        <r>enquanto<s n="cnjadv"/></r></p></e>
 <e r="RL"><p><l>alors<b/>que<s n="cnjadv"/></l>        <r>ao<b/>passo<b/>que<s n="cnjadv"/></r></p></e>
+
 <e r="RL"><p><l>à<b/>mesure<b/>que<s n="cnjadv"/></l>  <r>à<b/>proporção<b/>que<s n="cnjadv"/></r></p></e>
+<e r="LR"><p><l>au<b/>fur<b/>et<b/>à<b/>mesure<b/>que<s n="cnjadv"/></l><r>à<b/>medida<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>à<b/>mesure<b/>que<s n="cnjadv"/></l>  <r>à<b/>medida<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>à<b/>moins<b/>que<s n="cnjadv"/></l>   <r>a<b/>menos<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>apparemment<s n="cnjadv"/></l>         <r>ao<b/>que<b/>parece<s n="cnjadv"/></r></p></e>
@@ -18708,7 +18711,6 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e r="RL"><p><l>au<b/>contraire<s n="cnjadv"/></l>     <r>ao<b/>invés<s n="cnjadv"/></r></p></e>
 <e>       <p><l>au<b/>contraire<s n="cnjadv"/></l>     <r>pelo<b/>contrário<s n="cnjadv"/></r></p></e>
 <e>       <p><l>au<b/>demeurant<s n="cnjadv"/></l>     <r>mesmo<b/>assim<s n="cnjadv"/></r></p></e>
-<e>       <p><l>au<b/>fur<b/>et<b/>à<b/>mesure<b/>que<s n="cnjadv"/></l><r>à<b/>medida<b/>que<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>au<b/>lieu<b/>que<s n="cnjadv"/></l>   <r>enquanto<s n="cnjadv"/></r></p></e>
 <e>       <p><l>au<b/>maximum<s n="cnjadv"/></l>       <r>no<b/>máximo<s n="cnjadv"/></r></p></e>
 <e r="LR"><p><l>au<b/>même<b/>titre<b/>que<s n="cnjadv"/></l><r>como<s n="cnjadv"/></r></p></e>
@@ -18740,8 +18742,10 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e>       <p><l>chaque<b/>fois<b/>que<s n="cnjadv"/></l><r>cada<b/>vez<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>c'est-à-dire<s n="cnjadv"/></l>        <r>ou<b/>seja<s n="cnjadv"/></r></p></e>
 <e>       <p><l>c'est<b/>ainsi<b/>que<s n="cnjadv"/></l><r>é<b/>assim<b/>que<s n="cnjadv"/></r></p></e>
+
 <e>       <p><l>c'est<b/>pour cela que<s n="cnjadv"/></l><r>é<b/>por<b/>isso<b/>que<s n="cnjadv"/></r></p></e>
-<e>       <p><l>c'est<b/>pourquoi<s n="cnjadv"/></l>   <r>é<b/>por<b/>isso<b/>que<s n="cnjadv"/></r></p></e>
+<e r="LR"><p><l>c'est<b/>pourquoi<s n="cnjadv"/></l>   <r>é<b/>por<b/>isso<b/>que<s n="cnjadv"/></r></p></e>
+
 <e>       <p><l>comme<s n="cnjadv"/></l>               <r>visto<b/>que<s n="cnjadv"/></r></p></e>
 <e>       <p><l>comme<b/>si<s n="cnjadv"/></l>         <r>como<b/>se<s n="cnjadv"/></r></p></e>
 <e>       <p><l>dans<b/>le<b/>temps<b/>que<s n="cnjadv"/></l><r>no<b/>tempo<b/>que<s n="cnjadv"/></r></p></e>
@@ -19249,6 +19253,7 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
     <!-- ******************************
           group ij_symbol
       ****************************** -->
+<e>       <p><l>à<b/>bientôt<s n="ij"/></l>            <r>até<b/>depois<s n="ij"/></r></p></e>
 <e>       <p><l>adieu<s n="ij"/></l>                   <r>adeus<s n="ij"/></r></p></e>
 <e>       <p><l>ah<s n="ij"/></l>                      <r>ah<s n="ij"/></r></p></e>
 <e>       <p><l>aïe<s n="ij"/></l>                     <r>ai<s n="ij"/></r></p></e>

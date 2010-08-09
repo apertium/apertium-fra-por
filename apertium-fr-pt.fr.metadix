@@ -15179,7 +15179,8 @@
           <e lm="le" r="RL"><p><l><a/>l</l><r>le</r></p><par n="~l__prn"/></e>
           <e lm="le"><i>l</i><par n="l/e__prn"/></e>
 <!--          <e lm="le" r="LR"><i>le</i><par n="le__detnt"/></e> -->
-          <e lm="le mien"><p><l><a/>l</l><r>l</r></p><par n="l/e_mien__prn"/></e>
+          <e lm="le mien" r="LR"><p><l>l</l><r>l</r></p><par n="l/e_mien__prn"/></e>
+          <e lm="le mien" r="RL"><p><l><a/>l</l><r>l</r></p><par n="l/e_mien__prn"/></e>
           <e lm="le nôtre"><p><l><a/>l</l><r>l</r></p><par n="l/e_nôtre__prn"/></e>
           <e lm="le sien"><p><l><a/>l</l><r>l</r></p><par n="l/e_sien__prn"/></e>
           <e lm="le tien"><p><l><a/>l</l><r>l</r></p><par n="l/e_tien__prn"/></e>
@@ -19769,10 +19770,7 @@
 <e lm="support" a="webform" r="LR"><i>support</i><par n="livre__n"/></e>
 <e lm="échec" a="webform" r="LR"><p><l>Echec</l><r>échec</r></p><par n="livre__n"/></e>
 <e lm="échec" a="webform" r="LR"><i>échec</i><par n="livre__n"/></e>
-<e r="LR" lm="échec au roi" a="webform"><p><l>Echec<b/>au<b/>roi</l><r>échec<b/>au<b/>roi</r></p><par n="ah__ij"/></e>
-<e lm="échec au roi" a="webform"><i>échec<b/>au<b/>roi</i><par n="ah__ij"/></e>
-<e r="LR" lm="échec et mat" a="webform"><p><l>Echec<b/>et<b/>mat</l><r>échec<b/>et<b/>mat</r></p><par n="ah__ij"/></e>
-<e lm="échec et mat" a="webform"><i>échec<b/>et<b/>mat</i><par n="ah__ij"/></e>
+
 <e lm="refuser" a="webform" r="LR"><i>refus</i><par n="abaiss/er__vblex"/></e>
 
 <e lm="refuser de" a="webform" r="LR"><i>refus</i><par n="abaiss/er__vblex"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>   
@@ -46800,7 +46798,7 @@
 
 <e lm="il se peut"><i></i><par n="/il_se_peut__vblex"/></e>
 
-<e lm="pas"><i>pas</i><par n="hier__adv"/></e>
+          <e lm="pas"><i>pas</i><par n="hier__adv"/></e>
 <e lm="temps"><i>temps</i><par n="mois__n"/></e>
 
 
@@ -47503,6 +47501,11 @@
   </section>
 
   <!--<section id="pending" type="standard">
+<e r="LR" lm="échec au roi" a="webform"><p><l>Echec<b/>au<b/>roi</l><r>échec<b/>au<b/>roi</r></p><par n="ah__ij"/></e>
+<e lm="échec au roi" a="webform"><i>échec<b/>au<b/>roi</i><par n="ah__ij"/></e>
+<e r="LR" lm="échec et mat" a="webform"><p><l>Echec<b/>et<b/>mat</l><r>échec<b/>et<b/>mat</r></p><par n="ah__ij"/></e>
+<e lm="échec et mat" a="webform"><i>échec<b/>et<b/>mat</i><par n="ah__ij"/></e>
+
 
 
           <e lm="ONU"><i>ONU</i><par n="BBC__n"/></e>
