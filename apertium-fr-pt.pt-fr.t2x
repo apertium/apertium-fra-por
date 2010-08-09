@@ -205,7 +205,7 @@
 	  <test>
 	    <equal>
 	      <clip pos="1" part="lem"/>
-	      <lit v="no"/>
+	      <lit v="não"/>
 	    </equal>
 	  </test>
 	  <out>
