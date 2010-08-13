@@ -1,7 +1,7 @@
 use strict;
 
-my $dir = 'frpt';
-#my $dir = 'ptfr';
+#my $dir = 'frpt';
+my $dir = 'ptfr';
 
 my $want_multiples = 0;
 #my $want_multiples = 1;
@@ -15,7 +15,7 @@ my $want_multiwords = 1;
 #my $cat = 'cnjsub';	# clean in both directions
 #my $cat = 'det';	# clean in both directions
 #my $cat = 'num';	# clean in both directions
-my $cat = 'ij';	# clean in both directions
+#my $cat = 'ij';	# clean in both directions
 #my $cat = 'pr';	# clean in both directions
 #my $cat = 'preadv';	# clean in both directions
 #my $cat = 'prn';	# clean in both directions
@@ -25,18 +25,14 @@ my $cat = 'ij';	# clean in both directions
 
 # other categories
 #my $cat = 'adj';
-	# fr-pt lists 4379/821 errors, pt-fr 0/2392
 #my $cat = 'adv';
-	# fr-pt lists 244/12 errors, pt-fr 1901/10
 #my $cat = 'n';
-	# fr-pt lists 8844/163 errors, pt-fr 2588/224
-#my $cat = 'np';	# clean in both directions
+my $cat = 'np';	# clean in both directions
 #my $cat = 'vblex';
-	# fr-pt lists 0/51 errors, pt-fr 0/0
-	# this is mettre en place / actuar en lugar (not sure what is going on)
 #my $cat = 'vbmod';	# not listed with the errors
 
 my %diccat = (
+	'adj'    => 'adj',
 	'adv'    => 'adv',
 	'cnjadv' => 'conj',
 	'cnjcoo' => 'conj',
@@ -141,7 +137,7 @@ while (<IN>) {
 	unless ($want_multiwords) {
 		next if $w=~/#/;
 	}
-print;
+#print;
 	# entries missing from bidix
 	if (/@/ and not $seen_bi{$w}) {
 		$seen_bi{$w} = 1 unless $want_multiples;

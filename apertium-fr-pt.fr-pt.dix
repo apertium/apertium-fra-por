@@ -260,6 +260,7 @@
           group vbmod_symbol
       ****************************** -->
 <e>       <p><l>pouvoir<s n="vbmod"/></l>              <r>poder<s n="vbmod"/></r></p></e>
+<e r="LR"><p><l>vouloir<s n="vbmod"/></l>              <r>querer<s n="vblex"/></r></p></e>
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
@@ -2600,6 +2601,103 @@
 <e>       <p><l>vibrer<s n="vblex"/></l>               <r>vibrar<s n="vblex"/></r></p></e>
 <e>       <p><l>vicier<s n="vblex"/></l>               <r>viciar<s n="vblex"/></r></p></e>
 <e>       <p><l>viser<s n="vblex"/></l>                <r>visar<s n="vblex"/></r></p></e>
+
+<e>       <p><l>aboyer<s n="vblex"/></l>               <r>latir<s n="vblex"/></r></p></e>
+<e>       <p><l>accoupler<s n="vblex"/></l>            <r>acasalar<s n="vblex"/></r></p></e>
+<e>       <p><l>additionner<s n="vblex"/></l>          <r>adicionar<s n="vblex"/></r></p></e>
+<e>       <p><l>aiguiser<s n="vblex"/></l>             <r>aguçar<s n="vblex"/></r></p></e>
+<e>       <p><l>balancer<s n="vblex"/></l>             <r>balancear<s n="vblex"/></r></p></e>
+<e>       <p><l>borner<s n="vblex"/></l>               <r>demarcar<s n="vblex"/></r></p></e>
+<e>       <p><l>brosser<s n="vblex"/></l>              <r>escovar<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>châtrer<s n="vblex"/></l>              <r>castrar<s n="vblex"/></r></p></e>-->
+<!--<e>       <p><l>hongrer<s n="vblex"/></l>              <r>castrar<s n="vblex"/></r></p></e>-->
+<e>       <p><l>coexister<s n="vblex"/></l>            <r>coexistir<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>coincer<s n="vblex"/></l>              <r>coincer<s n="vblex"/></r></p></e>-->
+<e>       <p><l>courtiser<s n="vblex"/></l>            <r>cortejar<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>débrouiller<s n="vblex"/></l>          <r>débrouiller<s n="vblex"/></r></p></e>-->
+<e>       <p><l>déconsidérer<s n="vblex"/></l>         <r>desconsiderar<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>découler<s n="vblex"/></l>             <r>découler<s n="vblex"/></r></p></e>-->
+<e>       <p><l>dédier<s n="vblex"/></l>               <r>dedicar<s n="vblex"/></r></p></e>
+<e>       <p><l>désaltérer<s n="vblex"/></l>           <r>aplacar<s n="vblex"/></r></p></e>
+<e>       <p><l>diffamer<s n="vblex"/></l>             <r>difamar<s n="vblex"/></r></p></e>
+<e>       <p><l>différentier<s n="vblex"/></l>         <r>diferenciar<s n="vblex"/></r></p></e>
+<e>       <p><l>digérer<s n="vblex"/></l>              <r>digerir<s n="vblex"/></r></p></e>
+<e>       <p><l>discerner<s n="vblex"/></l>            <r>discernir<s n="vblex"/></r></p></e>
+<e>       <p><l>emmortaiser<s n="vblex"/></l>          <r>embutir<s n="vblex"/></r></p></e>
+<e>       <p><l>estamper<s n="vblex"/></l>             <r>estampar<s n="vblex"/></r></p></e>
+<e>       <p><l>exhumer<s n="vblex"/></l>              <r>exumar<s n="vblex"/></r></p></e>
+<e>       <p><l>flairer<s n="vblex"/></l>              <r>farejar<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>fuguer<s n="vblex"/></l>               <r>fuguer<s n="vblex"/></r></p></e>-->
+<e>       <p><l>humaniser<s n="vblex"/></l>            <r>humanizar<s n="vblex"/></r></p></e>
+<e>       <p><l>hurler<s n="vblex"/></l>               <r>uivar<s n="vblex"/></r></p></e>
+<e>       <p><l>inclure<s n="vblex"/></l>              <r>incluir<s n="vblex"/></r></p></e>
+<e>       <p><l>insurger<s n="vblex"/></l>             <r>insurgir<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>glapir<s n="vblex"/></l>               <r>glapir<s n="vblex"/></r></p></e>-->
+<!--<e>       <p><l>grillager<s n="vblex"/></l>            <r>grillager<s n="vblex"/></r></p></e>-->
+<e>       <p><l>homogénéiser<s n="vblex"/></l>         <r>homogeneizar<s n="vblex"/></r></p></e>
+<e>       <p><l>japper<s n="vblex"/></l>               <r>latir<s n="vblex"/></r></p></e>
+<e>       <p><l>lasser<s n="vblex"/></l>               <r>cansar<s n="vblex"/></r></p></e>
+<e>       <p><l>légiférer<s n="vblex"/></l>            <r>legislar<s n="vblex"/></r></p></e>
+<e>       <p><l>lubrifier<s n="vblex"/></l>            <r>lubrificar<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>mâchouiller<s n="vblex"/></l>          <r>mâchouiller<s n="vblex"/></r></p></e>-->
+<e>       <p><l>maîtriser<s n="vblex"/></l>            <r>dominar<s n="vblex"/></r></p></e>
+<e>       <p><l>modeler<s n="vblex"/></l>              <r>modelar<s n="vblex"/></r></p></e>
+<e>       <p><l>mûrir<s n="vblex"/></l>                <r>amadurecer<s n="vblex"/></r></p></e>
+<e>       <p><l>pénaliser<s n="vblex"/></l>            <r>penalizar<s n="vblex"/></r></p></e>
+<e>       <p><l>plier<s n="vblex"/></l>                <r>dobrar<s n="vblex"/></r></p></e>
+<e>       <p><l>populariser<s n="vblex"/></l>          <r>popularizar<s n="vblex"/></r></p></e>
+<e>       <p><l>postuler<s n="vblex"/></l>             <r>postular<s n="vblex"/></r></p></e>
+<e>       <p><l>recouvrir<s n="vblex"/></l>            <r>recobrir<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>redevenir<s n="vblex"/></l>            <r>redevenir<s n="vblex"/></r></p></e>-->
+<!--<e>       <p><l>référencer<s n="vblex"/></l>           <r>référencer<s n="vblex"/></r></p></e>-->
+<e>       <p><l>réfrigérér<s n="vblex"/></l>           <r>refrigerar<s n="vblex"/></r></p></e>
+<e>       <p><l>renseigner<s n="vblex"/></l>           <r>tornar<g><b/>a<b/>ensinar</g><s n="vblex"/></r></p></e>
+<e>       <p><l>réquisitionner<s n="vblex"/></l>       <r>requisitar<s n="vblex"/></r></p></e>
+<e>       <p><l>sculpter<s n="vblex"/></l>             <r>esculpir<s n="vblex"/></r></p></e>
+<e>       <p><l>socialiser<s n="vblex"/></l>           <r>socializar<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>sourcer<s n="vblex"/></l>              <r>sourcer<s n="vblex"/></r></p></e>-->
+<e>       <p><l>stériliser<s n="vblex"/></l>           <r>esterilizar<s n="vblex"/></r></p></e>
+<e>       <p><l>suppléer<s n="vblex"/></l>             <r>suprir<s n="vblex"/></r></p></e>
+<!--<e>       <p><l>tracter<s n="vblex"/></l>              <r>tracter<s n="vblex"/></r></p></e>-->
+<e>       <p><l>transporter<s n="vblex"/></l>          <r>transportar<s n="vblex"/></r></p></e>
+<e>       <p><l>vacciner<s n="vblex"/></l>             <r>vacinar<s n="vblex"/></r></p></e>
+<e>       <p><l>vermifuger<s n="vblex"/></l>           <r>vermifugar<s n="vblex"/></r></p></e>
+
+<e>       <p><l>aborrecidar<s n="vblex"/></l>          <r>aborrecidar<s n="vblex"/></r></p></e>
+<e>       <p><l>acessar<s n="vblex"/></l>              <r>acessar<s n="vblex"/></r></p></e>
+<e>       <p><l>achatar<s n="vblex"/></l>              <r>achatar<s n="vblex"/></r></p></e>
+<e>       <p><l>adentrar<s n="vblex"/></l>             <r>adentrar<s n="vblex"/></r></p></e>
+<e>       <p><l>adestrar<s n="vblex"/></l>             <r>adestrar<s n="vblex"/></r></p></e>
+<e>       <p><l>adoecer<s n="vblex"/></l>              <r>adoecer<s n="vblex"/></r></p></e>
+<e>       <p><l>advir<s n="vblex"/></l>                <r>advir<s n="vblex"/></r></p></e>
+<e>       <p><l>amamentar<s n="vblex"/></l>            <r>amamentar<s n="vblex"/></r></p></e>
+<e>       <p><l>amenizar<s n="vblex"/></l>             <r>amenizar<s n="vblex"/></r></p></e>
+<e>       <p><l>aprendizar<s n="vblex"/></l>           <r>aprendizar<s n="vblex"/></r></p></e>
+<e>       <p><l>aprimorar<s n="vblex"/></l>            <r>aprimorar<s n="vblex"/></r></p></e>
+<e>       <p><l>atrapalhar<s n="vblex"/></l>           <r>atrapalhar<s n="vblex"/></r></p></e>
+<e>       <p><l>auxiliar<s n="vblex"/></l>             <r>auxiliar<s n="vblex"/></r></p></e>
+<e>       <p><l>credenciar<s n="vblex"/></l>           <r>credenciar<s n="vblex"/></r></p></e>
+<e>       <p><l>discursar<s n="vblex"/></l>            <r>discursar<s n="vblex"/></r></p></e>
+<e>       <p><l>dublar<s n="vblex"/></l>               <r>dublar<s n="vblex"/></r></p></e>
+<e>       <p><l>encurralar<s n="vblex"/></l>           <r>encurralar<s n="vblex"/></r></p></e>
+<e>       <p><l>engasgar<s n="vblex"/></l>             <r>engasgar<s n="vblex"/></r></p></e>
+<e>       <p><l>entediar<s n="vblex"/></l>             <r>entediar<s n="vblex"/></r></p></e>
+<e>       <p><l>enxergar<s n="vblex"/></l>             <r>enxergar<s n="vblex"/></r></p></e>
+<e>       <p><l>esbranquiçar<s n="vblex"/></l>         <r>esbranquiçar<s n="vblex"/></r></p></e>
+<e>       <p><l>exercitar<s n="vblex"/></l>            <r>exercitar<s n="vblex"/></r></p></e>
+<e>       <p><l>exterminar<s n="vblex"/></l>           <r>exterminar<s n="vblex"/></r></p></e>
+<e>       <p><l>fitar<s n="vblex"/></l>                <r>fitar<s n="vblex"/></r></p></e>
+<e>       <p><l>grunher<s n="vblex"/></l>              <r>grunher<s n="vblex"/></r></p></e>
+<e>       <p><l>interagir<s n="vblex"/></l>            <r>interagir<s n="vblex"/></r></p></e>
+<e>       <p><l>migrar<s n="vblex"/></l>               <r>migrar<s n="vblex"/></r></p></e>
+<e>       <p><l>machucar<s n="vblex"/></l>             <r>machucar<s n="vblex"/></r></p></e>
+<e>       <p><l>nortear<s n="vblex"/></l>              <r>nortear<s n="vblex"/></r></p></e>
+<e>       <p><l>padronizar<s n="vblex"/></l>           <r>padronizar<s n="vblex"/></r></p></e>
+<e>       <p><l>rascunhar<s n="vblex"/></l>            <r>rascunhar<s n="vblex"/></r></p></e>
+<e>       <p><l>recarregar<s n="vblex"/></l>           <r>recarregar<s n="vblex"/></r></p></e>
+<e>       <p><l>referenciar<s n="vblex"/></l>          <r>referenciar<s n="vblex"/></r></p></e>
+<e>       <p><l>regredir<s n="vblex"/></l>             <r>regredir<s n="vblex"/></r></p></e>
+<e>       <p><l>repassar<s n="vblex"/></l>             <r>repassar<s n="vblex"/></r></p></e>
 <!-- ******************************
           group det_symbol
       ****************************** -->
@@ -2623,42 +2721,6 @@
 <e r="RL"><p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>o<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>o<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>les<b/>deux<s n="det"/></l>            <r>ambos<s n="det"/></r></p></e>
-<e r="LR"><p><l>leur<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-<e r="LR"><p><l>leur<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
-<e r="LR"><p><l>leur<s n="det"/><s n="pos"/><s n="mf"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
-<!--<e r="RL"><p><l>leur<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>-->
-<!--<e r="RL"><p><l>leur<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>-->
-
-<e>       <p><l>mon<s n="det"/></l>                    <r>meu<s n="det"/></r></p></e>
-<e><p><l>mon<s n="det"/><s n="pos"/><s n="m"/></l><r>meu<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-<e><p><l>mon<s n="det"/><s n="pos"/><s n="f"/></l><r>meu<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
-
-<e r="RL"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-<e r="LR"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="m"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-<e r="LR"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="f"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-<e r="LR"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nosso<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-<e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nosso<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>plusieurs<s n="det"/><s n="ind"/><s n="mf"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-<e r="LR"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-<e r="RL"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
-<e r="RL"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
-
-<e>       <p><l>son<s n="det"/></l>                    <r>seu<s n="det"/></r></p></e>
-<e><p><l>son<s n="det"/><s n="pos"/><s n="m"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-<e><p><l>son<s n="det"/><s n="pos"/><s n="f"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
-
-<e>       <p><l>ton<s n="det"/></l>                    <r>teu<s n="det"/></r></p></e>
-<e><p><l>ton<s n="det"/><s n="pos"/><s n="m"/></l><r>teu<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
-<e><p><l>ton<s n="det"/><s n="pos"/><s n="f"/></l><r>teu<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
-<e r="LR"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
-<e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
 
 <e>       <p><l>un<s n="det"/></l>                     <r>um<s n="det"/></r></p></e>
@@ -3240,7 +3302,30 @@
 <e>       <p><l>sur<b/>la<b/>défensive<s n="adv"/></l> <r>na<b/>defensiva<s n="adv"/></r></p></e>
 <e>       <p><l>urbanistiquement<s n="adv"/></l>       <r>urbanisticamente<s n="adv"/></r></p></e>
 
-
+<!--<e>       <p><l>a<b/>sós<s n="adv"/></l>               <r>a<b/>sós<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>comunicativamente<s n="adv"/></l>      <r>comunicativamente<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>comportamentalmente<s n="adv"/></l>    <r>comportamentalmente<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>culturellement<s n="adv"/></l>         <r>culturellement<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>de<b/>repente<s n="adv"/></l>          <r>de<b/>repente<s n="adv"/></r></p></e>-->
+<e>       <p><l>désormais<s n="adv"/></l>              <r>de<b/>ora<b/>em<b/>diante<s n="adv"/></r></p></e>
+<!--<e>       <p><l>disfarçadamente<s n="adv"/></l>        <r>disfarçadamente<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>etc<s n="adv"/></l>                    <r>etc<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>etimologicamente<s n="adv"/></l>       <r>etimologicamente<s n="adv"/></r></p></e>-->
+<e>       <p><l>génétiquement<s n="adv"/></l>          <r>génétiquement<s n="adv"/></r></p></e>
+<!--<e>       <p><l>inegavelmante<s n="adv"/></l>          <r>inegavelmante<s n="adv"/></r></p></e>-->
+<e>       <p><l>instinctivement<s n="adv"/></l>        <r>instintivamente<s n="adv"/></r></p></e>
+<!--<e>       <p><l>internamente<s n="adv"/></l>           <r>internamente<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>irrévocablement<s n="adv"/></l>        <r>irrévocablement, adv.<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>juntamente<s n="adv"/></l>             <r>juntamente<s n="adv"/></r></p></e>-->
+<e>       <p><l>longtemps<s n="adv"/></l>              <r>muito<b/>tempo<s n="adv"/></r></p></e>
+<!--<e>       <p><l>modernamente<s n="adv"/></l>           <r>modernamente<s n="adv"/></r></p></e>-->
+<e>       <p><l>obligatoirement<s n="adv"/></l>        <r>obrigatoriamente<s n="adv"/></r></p></e>
+<e>       <p><l>plutôt<s n="adv"/></l>                 <r>antes<s n="adv"/></r></p></e>
+<!--<e>       <p><l>restritivamente<s n="adv"/></l>        <r>restritivamente<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>ritualmente<s n="adv"/></l>            <r>ritualmente<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>sabidamente<s n="adv"/></l>            <r>sabidamente<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>semi<s n="adv"/></l>                   <r>semi<s n="adv"/></r></p></e>-->
+<!--<e>       <p><l>tal<s n="adv"/></l>                    <r>tal<s n="adv"/></r></p></e>-->
     <!-- ******************************
           group n_symbol
       ****************************** -->
@@ -10749,84 +10834,6 @@
 <e><p><l>Ourense<s n="np"/><s n="loc"/></l><r>Ourense<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Ourmia<s n="np"/><s n="loc"/></l><r>Urmia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Ouzbékistan<s n="np"/><s n="loc"/></l><r>Uzbequistão<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Oviedo<s n="np"/><s n="loc"/></l><r>Oviedo<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Padoue<s n="np"/><s n="loc"/></l><r>Pádua<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pakistan<s n="np"/><s n="loc"/></l><r>Paquistão<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>palais<b/>de<b/>la<b/>Moncloa<s n="np"/><s n="loc"/></l><r>Palácio<b/>da<b/>Moncloa<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palaos<s n="np"/><s n="loc"/></l><r>Palau<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palatinat<s n="np"/><s n="loc"/></l><r>Palatinado<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palencia<s n="np"/><s n="loc"/></l><r>Palência<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palerme<s n="np"/><s n="loc"/></l><r>Palermo<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palestine<s n="np"/><s n="loc"/></l><r>Palestina<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palikir<s n="np"/><s n="loc"/></l><r>Palikir<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palma<b/>de<b/>Majorque<s n="np"/><s n="loc"/></l><r>Palma<b/>de<b/>Maiorca<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palma<s n="np"/><s n="loc"/></l><r>Palma<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Palmyre<s n="np"/><s n="loc"/></l><r>Palmira<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pampelune<s n="np"/><s n="loc"/></l><r>Pamplona<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Panama<s n="np"/><s n="loc"/></l><r>Panamá<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Panamá<s n="np"/><s n="loc"/></l><r>Panamá<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Papeete<s n="np"/><s n="loc"/></l><r>Papeete<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Papouasie-Nouvelle-Guinée<s n="np"/><s n="loc"/></l><r>Papua-Nova<b/>Guiné<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Paraguay<s n="np"/><s n="loc"/></l><r>Paraguai<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Paramaribo<s n="np"/><s n="loc"/></l><r>Paramaribo<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Parc<b/>National<b/>du<b/>Grand<b/>Canyon<s n="np"/><s n="loc"/></l><r>Parque<b/>Nacional<b/>do<b/>Grand<b/>Canyon<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Paris<s n="np"/><s n="loc"/></l><r>Paris<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Parme<s n="np"/><s n="loc"/></l><r>Parma<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pas<b/>de<b/>Calais<s n="np"/><s n="loc"/></l><r>Estreito<b/>de<b/>Dover<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pas-de-Calais<s n="np"/><s n="loc"/></l><r>Pas-de-Calais<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Patagonie<s n="np"/><s n="loc"/></l><r>Patagónia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Paterna<s n="np"/><s n="loc"/></l><r>Paterna<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pau<s n="np"/><s n="loc"/></l><r>Pau<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pavie<s n="np"/><s n="loc"/></l><r>Pavia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pays<b/>Basque<s n="np"/><s n="loc"/></l><r>País<b/>Basco<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pays-Bas<s n="np"/><s n="loc"/></l><r>Países<b/>Baixos<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pays<b/>de<b/>Galles<s n="np"/><s n="loc"/></l><r>País<b/>de<b/>Gales<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pays-de-la-Loire<s n="np"/><s n="loc"/></l><r>País<b/>do<b/>Loira<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pays<b/>de<b/>Loire<s n="np"/><s n="loc"/></l><r>País<b/>do<b/>Loira<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pékin<s n="np"/><s n="loc"/></l><r>Pequim<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Péloponnèse<s n="np"/><s n="loc"/></l><r>Peloponeso<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Penang<s n="np"/><s n="loc"/></l><r>Penang<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Péninsule<b/>Antarctique<s n="np"/><s n="loc"/></l><r>Península<b/>Antártica<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Péninsule<b/>Arabique<s n="np"/><s n="loc"/></l><r>Arábia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>péninsule<b/>d'Alaska<s n="np"/><s n="loc"/></l><r>Península<b/>do<b/>Alasca<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>péninsule<b/>de<b/>Kamtchatka<s n="np"/><s n="loc"/></l><r>Península<b/>de<b/>Kamchatka<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>péninsule<b/>de<b/>Taïmyr<s n="np"/><s n="loc"/></l><r>Península<b/>de<b/>Taimir<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Péninsule<b/>ibérique<s n="np"/><s n="loc"/></l><r>Península<b/>Ibérica<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pennines<s n="np"/><s n="loc"/></l><r>Peninos<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pennsylvanie<s n="np"/><s n="loc"/></l><r>Pensilvânia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Peralta<s n="np"/><s n="loc"/></l><r>Peralta<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Périgueux<s n="np"/><s n="loc"/></l><r>Périgueux<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pérou<s n="np"/><s n="loc"/></l><r>Peru<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Perpignan<s n="np"/><s n="loc"/></l><r>Perpinhã<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Perse<s n="np"/><s n="loc"/></l><r>Pérsia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Petit<b/>Belt<s n="np"/><s n="loc"/></l><r>Pequeno<b/>Belt<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Petite<b/>Ourse<s n="np"/><s n="loc"/></l><r>Ursa<b/>Minor<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Petites<b/>Antilles<s n="np"/><s n="loc"/></l><r>Pequenas<b/>Antilhas<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pétrograd<s n="np"/><s n="loc"/></l><r>São<b/>Petersburgo<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Phébus<s n="np"/><s n="loc"/></l><r>Febo<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Phénicie<s n="np"/><s n="loc"/></l><r>Fenícia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Philadelphie<s n="np"/><s n="loc"/></l><r>Filadélfia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Philae<s n="np"/><s n="loc"/></l><r>Filas<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Philippes<s n="np"/><s n="loc"/></l><r>Filipos<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Philippines<s n="np"/><s n="loc"/></l><r>Filipinas<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Phnom<b/>Penh<s n="np"/><s n="loc"/></l><r>Phnom<b/>Penh<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Phrygie<s n="np"/><s n="loc"/></l><r>Frígia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Picaña<s n="np"/><s n="loc"/></l><r>Picanya<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Picardie<s n="np"/><s n="loc"/></l><r>Picardia<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pics<b/>d'Europe<s n="np"/><s n="loc"/></l><r>Picos<b/>de<b/>Europa<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Piémont<s n="np"/><s n="loc"/></l><r>Piemonte<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Piera<s n="np"/><s n="loc"/></l><r>Piera<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pineda<s n="np"/><s n="loc"/></l><r>Pineda<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pise<s n="np"/><s n="loc"/></l><r>Pisa<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Plateau<b/>des<b/>Guyanes<s n="np"/><s n="loc"/></l><r>Planalto<b/>das<b/>Guianas<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pluton<s n="np"/><s n="loc"/></l><r>Pluto<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Plymouth<s n="np"/><s n="loc"/></l><r>Plymouth<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Podgorica<s n="np"/><s n="loc"/></l><r>Podgorica<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pointe-à-Pitre<s n="np"/><s n="loc"/></l><r>Pointe-à-Pitre<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Poissons<s n="np"/><s n="loc"/></l><r>Pisces<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Poitiers<s n="np"/><s n="loc"/></l><r>Poitiers<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Poitou-Charentes<s n="np"/><s n="loc"/></l><r>Poitou-Charentes<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Pôle<b/>Nord<s n="np"/><s n="loc"/></l><r>Polo<b/>Norte<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Pôle<b/>Sud<s n="np"/><s n="loc"/></l><r>Polo<b/>Sul<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Pologne<s n="np"/><s n="loc"/></l><r>Polónia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Polynésie<b/>française<s n="np"/><s n="loc"/></l><r>Polinésia<b/>Francesa<s n="np"/><s n="loc"/></r></p></e>
@@ -11295,7 +11302,170 @@
 <e>       <p><l>Alpha<s n="np"/></l>                   <r>Alpha<s n="np"/></r></p></e>
 <e r="RL"><p><l>Toussaint<s n="np"/></l>               <r>Toussaint<s n="np"/></r></p></e>
 
+<!--<e lm="Belen Rosado"><i>Belen<b/>Rosado</i><par n="Nome__np"/></e>
+<e lm="Charles Burden"><i>Charles<b/>Burden</i><par n="Nome__np"/></e>
+<e lm="Charles Hamilton Smith"><i>Charles<b/>Hamilton<b/>Smith</i><par n="Nome__np"/></e>
+<e lm="Charles Schulz"><i>Charles<b/>Schulz</i><par n="Nome__np"/></e>
+<e lm="George Graham Vest"><i>George<b/>Graham<b/>Vest</i><par n="Nome__np"/></e>
+<e lm="Hidesaburo Ueno"><i>Hidesaburo<b/>Ueno</i><par n="Nome__np"/></e>
+<e lm="Iwao Takamoto"><i>Iwao<b/>Takamoto</i><par n="Nome__np"/></e>
+<e lm="Johann Friedrich Gmelin"><i>Johann<b/>Friedrich<b/>Gmelin</i><par n="Nome__np"/></e>
+<e lm="John Grogan"><i>John<b/>Grogan</i><par n="Nome__np"/></e>
+<e lm="Old Drum"><i>Old<b/>Drum</i><par n="Nome__np"/></e>
+<e lm="Théo Gygas"><i>Théo<b/>Gygas</i><par n="Nome__np"/></e>
+<e lm="Van Valen"><i>Van<b/>Valen</i><par n="Nome__np"/></e>
+<e lm="Wozencraft"><i>Wozencraft</i><par n="Nome__np"/></e>-->
 
+<e>       <p><l>Aibo<s n="np"/></l>                    <r>Aibo<s n="np"/></r></p></e>
+<e>       <p><l>Alexandre-François Desportes<s n="np"/></l><r>François Desportes<s n="np"/></r></p></e>
+<e>       <p><l>Anubis<s n="np"/></l>                  <r>Anúbis<s n="np"/></r></p></e>
+<e r="RL"><p><l>Anubis<s n="np"/></l>                  <r>Anubis<s n="np"/></r></p></e>
+<!--<e>       <p><l>Argyreos<s n="np"/></l>                <r>Argyreos<s n="np"/></r></p></e>-->
+<e>       <p><l>Barghest<s n="np"/></l>                <r>Barghest<s n="np"/></r></p></e>
+<e>       <p><l>Berger<b/>de<b/>Beauce<s n="np"/></l>  <r>Pastor-de-beauce<s n="np"/></r></p></e>
+<e>       <p><l>Brie<s n="np"/></l>                    <r>Brie<s n="np"/></r></p></e>
+<!--<e>       <p><l>Bidu<s n="np"/></l>                    <r>Bidu<s n="np"/></r></p></e>-->
+<e>       <p><l>Bo<s n="np"/></l>                      <r>Bo<s n="np"/></r></p></e>
+<!--<e>       <p><l>Bran<s n="np"/></l>                    <r>Bran<s n="np"/></r></p></e>-->
+<e>       <p><l>Brie<s n="np"/></l>                    <r>Brie<s n="np"/></r></p></e>
+<!--<e>       <p><l>Buhriz<s n="np"/></l>                  <r>Buhriz<s n="np"/></r></p></e>-->
+<e>       <p><l>Carolus<b/>Linnaeus<s n="np"/></l>     <r>Carolus<b/>Linnaeus<s n="np"/></r></p></e>
+<e>       <p><l>Central<b/>Park<s n="np"/></l>         <r>Central<b/>Park<s n="np"/></r></p></e>
+<e>       <p><l>Cerbère<s n="np"/></l>                 <r>Cérbero<s n="np"/></r></p></e>
+<e>       <p><l>Chimère<s n="np"/></l>                 <r>Quimera<s n="np"/></r></p></e>
+<!--<e>       <p><l>Chryseos<s n="np"/></l>                <r>Chryseos<s n="np"/></r></p></e>-->
+<!--<e>       <p><l>Coliseu<s n="np"/></l>                 <r>Coliseu<s n="np"/></r></p></e>-->
+<e>       <p><l>COM<s n="np"/></l>                     <r>COM<s n="np"/></r></p></e>
+<e>       <p><l>Commons<s n="np"/></l>                 <r>Commons<s n="np"/></r></p></e>
+<e>       <p><l>Curitiba<s n="np"/></l>                <r>Curitiba<s n="np"/></r></p></e>
+<e>       <p><l>Cynocéphale<s n="np"/></l>             <r>Cinocéfalo<s n="np"/></r></p></e>
+<e>       <p><l>Darwin<s n="np"/></l>                  <r>Darwin<s n="np"/></r></p></e>
+<e>       <p><l>Dicionário<b/>Aurélio<s n="np"/></l>   <r>Dicionário<b/>Aurélio<s n="np"/></r></p></e>
+<e>       <p><l>Échidna<s n="np"/></l>                 <r>Equidna<s n="np"/></r></p></e>
+<e>       <p><l>Eurasie<s n="np"/></l>                 <r>Eurásia<s n="np"/></r></p></e>
+<!--<e>       <p><l>Failinis<s n="np"/></l>                <r>Failinis<s n="np"/></r></p></e>-->
+<!--<e>       <p><l>FCI<s n="np"/></l>                     <r>FCI<s n="np"/></r></p></e>-->
+<e>       <p><l>Finn<s n="np"/></l>                    <r>Finn<s n="np"/></r></p></e>
+<e>       <p><l>First<b/>Dog<s n="np"/></l>            <r>First<b/>Dog<s n="np"/></r></p></e>
+<!--<e>       <p><l>Gérion<s n="np"/></l>                  <r>Gérion<s n="np"/></r></p></e>-->
+<!--<e>       <p><l>Giggio<s n="np"/></l>                  <r>Giggio<s n="np"/></r></p></e>-->
+<e>       <p><l>Guillaume d'Orange<s n="np"/></l>      <r>Guilherme de Orange<s n="np"/></r></p></e>
+<e>       <p><l>Gustave<b/>Flaubert<s n="np"/></l>     <r>Gustave<b/>Flaubert<s n="np"/></r></p></e>
+<e>       <p><l>Hadès<s n="np"/></l>                   <r>Hades<s n="np"/></r></p></e>
+<!--<e>       <p><l>Hefestos<s n="np"/></l>                <r>Hefestos<s n="np"/></r></p></e>-->
+<e>       <p><l>Hydre<s n="np"/></l>                   <r>Hidra<s n="np"/></r></p></e>
+<e>       <p><l>Idéfix<s n="np"/></l>                <r>Idéiafix<s n="np"/></r></p></e>
+<e>       <p><l>ISBN<s n="np"/></l>                    <r>ISBN<s n="np"/></r></p></e>
+<e>       <p><l>Job<s n="np"/></l>                     <r>Pateta<s n="np"/></r></p></e>
+<e>       <p><l>JORF<s n="np"/></l>                    <r>JORF<s n="np"/></r></p></e>
+<e>       <p><l>Kenning<s n="np"/></l>                 <r>Kenning<s n="np"/></r></p></e>
+<e>       <p><l>Kevin<b/>Bacon<s n="np"/></l>          <r>Kevin<b/>Bacon<s n="np"/></r></p></e>
+<e>       <p><l>Laïka<s n="np"/></l>                   <r>Laika<s n="np"/></r></p></e>
+<e>       <p><l>Lassie<s n="np"/></l>                  <r>Lassie<s n="np"/></r></p></e>
+<e>       <p><l>Linnaeus<s n="np"/></l>                <r>Linnaeus<s n="np"/></r></p></e>
+<e>       <p><l>LOF<s n="np"/></l>                     <r>LOF<s n="np"/></r></p></e>
+<e>       <p><l>MALDI<s n="np"/></l>                   <r>MALDI<s n="np"/></r></p></e>
+<e>       <p><l>Marley<s n="np"/></l>                  <r>Marley<s n="np"/></r></p></e>
+<e>       <p><l>Marley<b/>&amp;<b/>Moi<s n="np"/></l>  <r>Marley<b/>&amp;<b/>Eu<s n="np"/></r></p></e>
+<e>       <p><l>Wikispecies<s n="np"/></l>             <r>Wikispecies<s n="np"/></r></p></e>
+<e>       <p><l>Moyen<b/>Âge<s n="np"/></l>               <r>Idade<b/>Média<s n="np"/></r></p></e>
+<e>       <p><l>NCBI<s n="np"/></l>                    <r>NCBI<s n="np"/></r></p></e>
+<!--<e>       <p><l>Neméia<s n="np"/></l>                  <r>Neméia<s n="np"/></r></p></e>-->
+<e>       <p><l>Obélix<s n="np"/></l>                  <r>Obelix<s n="np"/></r></p></e>
+<!--<e>       <p><l>Ortro<s n="np"/></l>                   <r>Ortro<s n="np"/></r></p></e>-->
+<e>       <p><l>Padoue<s n="np"/></l>                  <r>Pádua<s n="np"/></r></p></e>
+<e>       <p><l>Pakistan<s n="np"/></l>                <r>Paquistão<s n="np"/></r></p></e>
+<e>       <p><l>palais<b/>de<b/>la<b/>Moncloa<s n="np"/></l><r>palácio<b/>da<b/>Moncloa<s n="np"/></r></p></e>
+<e>       <p><l>Palaos<s n="np"/></l>                  <r>Palau<s n="np"/></r></p></e>
+<e>       <p><l>Palatinat<s n="np"/></l>               <r>Palatinado<s n="np"/></r></p></e>
+<e>       <p><l>Palencia<s n="np"/></l>                <r>Palência<s n="np"/></r></p></e>
+<e>       <p><l>Palestine<s n="np"/></l>               <r>Palestina<s n="np"/></r></p></e>
+<e>       <p><l>Palikir<s n="np"/></l>                 <r>Palikir<s n="np"/></r></p></e>
+<e>       <p><l>Palma<s n="np"/></l>                   <r>Palma<s n="np"/></r></p></e>
+<e>       <p><l>Palma<b/>de<b/>Majorque<s n="np"/></l> <r>Palma<b/>de<b/>Maiorca<s n="np"/></r></p></e>
+<e>       <p><l>Palmyre<s n="np"/></l>                 <r>Palmira<s n="np"/></r></p></e>
+<e>       <p><l>Pampelune<s n="np"/></l>               <r>Pamplona<s n="np"/></r></p></e>
+<e>       <p><l>Papeete<s n="np"/></l>                 <r>Papeete<s n="np"/></r></p></e>
+<e>       <p><l>Papouasie-Nouvelle-Guinée<s n="np"/></l><r>Papua-Nova<b/>Guiné<s n="np"/></r></p></e>
+<e>       <p><l>Paramaribo<s n="np"/></l>              <r>Paramaribo<s n="np"/></r></p></e>
+<e>       <p><l>Parc<b/>National<b/>du<b/>Grand<b/>Canyon<s n="np"/></l><r>Parque<b/>Nacional<b/>do<b/>Grand<b/>Canyon<s n="np"/></r></p></e>
+<e>       <p><l>Pas-de-Calais<s n="np"/></l>           <r>Pas-de-Calais<s n="np"/></r></p></e>
+<e>       <p><l>Pas<b/>de<b/>Calais<s n="np"/></l>     <r>Estreito<b/>de<b/>Dover<s n="np"/></r></p></e>
+<e>       <p><l>Patagonie<s n="np"/></l>               <r>Patagónia<s n="np"/></r></p></e>
+<e>       <p><l>Paterna<s n="np"/></l>                 <r>Paterna<s n="np"/></r></p></e>
+<e>       <p><l>Pays-Bas<s n="np"/></l>                <r>Países<b/>Baixos<s n="np"/></r></p></e>
+<e>       <p><l>Pays<b/>de<b/>Galles<s n="np"/></l>    <r>País<b/>de<b/>Gales<s n="np"/></r></p></e>
+<e>       <p><l>Pays-de-la-Loire<s n="np"/></l>        <r>País<b/>do<b/>Loira<s n="np"/></r></p></e>
+<e>       <p><l>Pavie<s n="np"/></l>                   <r>Pavia<s n="np"/></r></p></e>
+<e>       <p><l>Peanuts<s n="np"/></l>                 <r>Peanuts<s n="np"/></r></p></e>
+<e>       <p><l>Péloponnèse<s n="np"/></l>             <r>Peloponeso<s n="np"/></r></p></e>
+<e>       <p><l>Penang<s n="np"/></l>                  <r>Penang<s n="np"/></r></p></e>
+<e>       <p><l>Péninsule<b/>Antarctique<s n="np"/></l><r>Península<b/>Antártica<s n="np"/></r></p></e>
+<e>       <p><l>péninsule<b/>d'Alaska<s n="np"/></l>   <r>Península<b/>do<b/>Alasca<s n="np"/></r></p></e>
+<e>       <p><l>péninsule<b/>de<b/>Taïmyr<s n="np"/></l><r>península<b/>de<b/>Taimir<s n="np"/></r></p></e>
+<e>       <p><l>Péninsule<b/>Ibérique<s n="np"/></l>      <r>Península<b/>Ibérica<s n="np"/></r></p></e>
+<e>       <p><l>Pennines<s n="np"/></l>                <r>Peninos<s n="np"/></r></p></e>
+<e>       <p><l>Pennsylvanie<s n="np"/></l>            <r>Pensilvânia<s n="np"/></r></p></e>
+<e>       <p><l>Peralta<s n="np"/></l>                 <r>Peralta<s n="np"/></r></p></e>
+<e>       <p><l>Périgueux<s n="np"/></l>               <r>Périgueux<s n="np"/></r></p></e>
+<e>       <p><l>Perpignan<s n="np"/></l>               <r>Perpinhã<s n="np"/></r></p></e>
+<e>       <p><l>Perse<s n="np"/></l>                   <r>Pérsia<s n="np"/></r></p></e>
+<e>       <p><l>PETA<s n="np"/></l>                    <r>PETA<s n="np"/></r></p></e>
+<e>       <p><l>Petit<b/>Belt<s n="np"/></l>           <r>Pequeno<b/>Belt<s n="np"/></r></p></e>
+<e>       <p><l>Petite<b/>Ourse<s n="np"/></l>         <r>Ursa<b/>Minor<s n="np"/></r></p></e>
+<e>       <p><l>Petites<b/>Antilles<s n="np"/></l>     <r>Pequenas<b/>Antilhas<s n="np"/></r></p></e>
+<e>       <p><l>Phébus<s n="np"/></l>                  <r>Febo<s n="np"/></r></p></e>
+<e>       <p><l>Phénicie<s n="np"/></l>                <r>Fenícia<s n="np"/></r></p></e>
+<e>       <p><l>Philadelphie<s n="np"/></l>            <r>Filadélfia<s n="np"/></r></p></e>
+<e>       <p><l>Philæ<s n="np"/></l>                   <r>Filas<s n="np"/></r></p></e>
+<e>       <p><l>Philippes<s n="np"/></l>               <r>Filipos<s n="np"/></r></p></e>
+<e>       <p><l>Philippines<s n="np"/></l>             <r>Filipinas<s n="np"/></r></p></e>
+<e>       <p><l>Phnom<b/>Penh<s n="np"/></l>           <r>Phnom<b/>Penh<s n="np"/></r></p></e>
+<e>       <p><l>Phrygie<s n="np"/></l>                 <r>Frígia<s n="np"/></r></p></e>
+<e>       <p><l>Picanya<s n="np"/></l>                 <r>Picanya<s n="np"/></r></p></e>
+<e>       <p><l>Picardie<s n="np"/></l>                <r>Picardia<s n="np"/></r></p></e>
+<e>       <p><l>Pics<b/>d'Europe<s n="np"/></l>        <r>Picos<b/>de<b/>Europa<s n="np"/></r></p></e>
+<e>       <p><l>Piémont<s n="np"/></l>                 <r>Piemonte<s n="np"/></r></p></e>
+<e>       <p><l>Piera<s n="np"/></l>                   <r>Piera<s n="np"/></r></p></e>
+<e>       <p><l>Pineda<s n="np"/></l>                  <r>Pineda<s n="np"/></r></p></e>
+<e>       <p><l>Pise<s n="np"/></l>                    <r>Pisa<s n="np"/></r></p></e>
+<e>       <p><l>Plateau<b/>des<b/>Guyanes<s n="np"/></l><r>Planalto<b/>das<b/>Guianas<s n="np"/></r></p></e>
+<e>       <p><l>Pluton<s n="np"/></l>                  <r>Pluto<s n="np"/></r></p></e>
+<e>       <p><l>Plymouth<s n="np"/></l>                <r>Plymouth<s n="np"/></r></p></e>
+<e>       <p><l>Podgorica<s n="np"/></l>               <r>Podgorica<s n="np"/></r></p></e>
+<e>       <p><l>Pointe-à-Pitre<s n="np"/></l>          <r>Pointe-à-Pitre<s n="np"/></r></p></e>
+<e>       <p><l>Poissons<s n="np"/></l>                <r>Pisces<s n="np"/></r></p></e>
+<e>       <p><l>Poitiers<s n="np"/></l>                <r>Poitiers<s n="np"/></r></p></e>
+<e>       <p><l>Poitou-Charentes<s n="np"/></l>        <r>Poitou-Charentes<s n="np"/></r></p></e>
+<e>       <p><l>Pôle<b/>Nord<s n="np"/></l>            <r>Polo<b/>Norte<s n="np"/></r></p></e>
+<e>       <p><l>Priberam<s n="np"/></l>                <r>Priberam<s n="np"/></r></p></e>
+<e>       <p><l>Rin-tin-tin<s n="np"/></l>             <r>Rin-tin-tin<s n="np"/></r></p></e>
+<e>       <p><l>Scooby<s n="np"/></l>                  <r>Scooby<s n="np"/></r></p></e>
+<e>       <p><l>Scooby-doo<s n="np"/></l>              <r>Scooby-doo<s n="np"/></r></p></e>
+<e>       <p><l>Shibuya<s n="np"/></l>                 <r>Shibuya<s n="np"/></r></p></e>
+<e>       <p><l>Snoopy<s n="np"/></l>                  <r>Snoopy<s n="np"/></r></p></e>
+<e r="RL"><p><l>Snoopy<s n="np"/></l>                  <r>Snuppy<s n="np"/></r></p></e>
+<e>       <p><l>Sphinx<s n="np"/></l>                  <r>Esfinge<s n="np"/></r></p></e>
+<!--<e>       <p><l>SRD<s n="np"/></l>                     <r>SRD<s n="np"/></r></p></e>-->
+<e>       <p><l>Systema<b/>Naturae<s n="np"/></l>      <r>Systema<b/>Naturae<s n="np"/></r></p></e>
+<!--<e>       <p><l>T'ien-K'uan<s n="np"/></l>             <r>T'ien-K'uan<s n="np"/></r></p></e>-->
+<e>       <p><l>Talmud<s n="np"/></l>                  <r>Talmude<s n="np"/></r></p></e>
+<!--<e>       <p><l>Tífon<s n="np"/></l>                   <r>Tífon<s n="np"/></r></p></e>-->
+<e>       <p><l>TOF<s n="np"/></l>                     <r>TOF<s n="np"/></r></p></e>
+<e>       <p><l>Ulysse<s n="np"/></l>                 <r>Odisseu<s n="np"/></r></p></e>
+<e>       <p><l>Vietnam<s n="np"/></l>                 <r>Vietnam<s n="np"/></r></p></e>
+<e>       <p><l>Wayne<s n="np"/></l>                   <r>Wayne<s n="np"/></r></p></e>
+<e>       <p><l>Zeus<s n="np"/></l>                    <r>Zeus<s n="np"/></r></p></e>
+<e>       <p><l>Zorro<s n="np"/></l>                   <r>Zorro<s n="np"/></r></p></e>
+
+<!--<e>       <p><l>Berger<b/>Belge<b/>Malinois<s n="np"/></l><r>Berger<b/>Belge<b/>Malinois<s n="np"/></r></p></e>-->
+<e>       <p><l>Berger<b/>de<b/>Beauce<s n="np"/></l>  <r>Pastor-de-beauce<s n="np"/></r></p></e>
+<e>       <p><l>Brie<s n="np"/></l>                    <r>Brie<s n="np"/></r></p></e>
+<e>       <p><l>Cavalier<b/>King<b/>Charles<b/>Spaniel<s n="np"/></l><r>Cavalier<b/>King<b/>Charles<b/>Spaniel<s n="np"/></r></p></e>
+<e>       <p><l>Golden<b/>Retriever<s n="np"/></l>     <r>Golden<b/>Retriever<s n="np"/></r></p></e>
+<!--<e>       <p><l>Gos<b/>d'Atura<s n="np"/></l>          <r>Gos<b/>d'Atura<s n="np"/></r></p></e>-->
+<!--<e>       <p><l>Irish<b/>Wolfhound<s n="np"/></l>      <r>Irish<b/>Wolfhound<s n="np"/></r></p></e>-->
+<!--<e>       <p><l>Parson<b/>russel<b/>terrier<s n="np"/></l><r>Parson<b/>russel<b/>terrier<s n="np"/></r></p></e>-->
 
 <!-- // TO BE CHECKED -->
 
@@ -11782,7 +11952,8 @@
 <e>       <p><l>cheval<s n="n"/></l>                   <r>cavalo<s n="n"/></r></p></e>
 <e>       <p><l>cheveu<s n="n"/></l>                   <r>cabelo<s n="n"/></r></p></e>
 <e>       <p><l>cheville<s n="n"/><s n="f"/></l>       <r>tornozelo<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>chien<s n="n"/></l>                    <r>cão<s n="n"/></r></p></e>
+<e v="pt"><p><l>chien<s n="n"/></l>                    <r>cão<s n="n"/></r></p></e>
+<e v="br"><p><l>chien<s n="n"/></l>                    <r>cachorro<s n="n"/></r></p></e>
 <e>       <p><l>chiffre<s n="n"/><s n="m"/></l>        <r>cifra<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>chignon<s n="n"/></l>                  <r>laço<s n="n"/></r></p></e>
 <e>       <p><l>chilien<s n="n"/></l>                  <r>chileno<s n="n"/></r></p></e>
@@ -15271,6 +15442,7 @@
 <e>       <p><l>irakien<s n="n"/><s n="m"/></l>        <r>iraquiano<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>islam<s n="n"/><s n="mf"/></l>         <r>islamita<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>israélien<s n="n"/><s n="mf"/></l>     <r>israelense<s n="n"/><s n="mf"/></r></p></e>
+<e>       <p><l>israélite<s n="n"/><s n="mf"/></l>     <r>israelita<s n="n"/><s n="mf"/></r></p></e>
 <e>       <p><l>dîner<s n="n"/><s n="m"/></l>          <r>jantar<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>genou<s n="n"/><s n="m"/></l>          <r>joelho<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>judicier<s n="n"/><s n="m"/></l>       <r>judiciário<s n="n"/><s n="m"/></r></p></e>
@@ -16069,8 +16241,666 @@
 <e>       <p><l>binôme<s n="n"/></l>                   <r>binômio<s n="n"/></r></p></e>
 <e>       <p><l>astronome<s n="n"/></l>                <r>astrônomo<s n="n"/></r></p></e>
 
+<e>       <p><l>abandon<s n="n"/></l>                  <r>abandono<s n="n"/></r></p></e>
+<e>       <p><l>abdomen<s n="n"/></l>                  <r>abdómen<s n="n"/></r></p></e>
+<e>       <p><l>aboiement<s n="n"/></l>                <r>latido<s n="n"/></r></p></e>
+<e>       <p><l>abus<s n="n"/></l>                     <r>abuso<s n="n"/></r></p></e>
+<e>       <p><l>accessoire<s n="n"/></l>               <r>acessório<s n="n"/></r></p></e>
+<!--<e>       <p><l>acompanhamento<s n="n"/></l>           <r>acompanhamento<s n="n"/></r></p></e>-->
+<e>       <p><l>accouplement<s n="n"/></l>             <r>acasalamento<s n="n"/></r></p></e>
+<e v="pt"><p><l>acte<s n="n"/></l>                     <r>acto<s n="n"/></r></p></e>
+<e v="br"><p><l>acte<s n="n"/></l>                     <r>ato<s n="n"/></r></p></e>
+<!--<e>       <p><l>adestramento<s n="n"/></l>             <r>adestramento<s n="n"/></r></p></e>-->
+<e>       <p><l>adhérence<s n="n"/></l>                <r>aderência<s n="n"/></r></p></e>
+<!--<e>       <p><l>adoeça<s n="n"/></l>                   <r>adoeça<s n="n"/></r></p></e>-->
+<e>       <p><l>adolescence<s n="n"/></l>              <r>adolescência<s n="n"/></r></p></e>
+<e>       <p><l>affection<s n="n"/></l>                <r>afeição<s n="n"/></r></p></e>
+<!--<e>       <p><l>afghan<b/>hound<s n="n"/></l>          <r>afghan<b/>hound<s n="n"/></r></p></e>-->
+<e>       <p><l>agilité<s n="n"/></l>                  <r>agilidade<s n="n"/></r></p></e>
+<!--<e>       <p><l>agility<s n="n"/></l>                  <r>agility<s n="n"/></r></p></e>-->
+<e>       <p><l>grief<s n="n"/></l>                    <r>agravo<s n="n"/></r></p></e>
+<e>       <p><l>agressivité<s n="n"/></l>              <r>agressividade<s n="n"/></r></p></e>
+<e>       <p><l>adjudant<s n="n"/></l>                 <r>ajudante<s n="n"/></r></p></e>
+<!--<e>       <p><l>akita<s n="n"/></l>                    <r>akita<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>alcatéia<s n="n"/></l>                 <r>alcatéia<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>aliment<s n="n"/></l>                 <r>aliment<s n="n"/></r></p></e>-->
+<e>       <p><l>alinéa<s n="n"/></l>                   <r>alínea<s n="n"/></r></p></e>
+<e>       <p><l>allergie<s n="n"/></l>                 <r>alergia<s n="n"/></r></p></e>
+<e>       <p><l>alphabet<s n="n"/></l>                 <r>alfabeto<s n="n"/></r></p></e>
+<e>       <p><l>alvéole<s n="n"/></l>                  <r>alvéolo<s n="n"/></r></p></e>
+<!--<e>       <p><l>american<b/>pit<b/>bull<b/>terrier<s n="n"/></l><r>american<b/>pit<b/>bull<b/>terrier<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>amigdala<s n="n"/></l>                 <r>amigdala<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>analytique<s n="n"/></l>               <r>analytique<s n="n"/></r></p></e>-->
+<e>       <p><l>anatomie<s n="n"/></l>                 <r>anatomia<s n="n"/></r></p></e>
+<e>       <p><l>ancêtre<s n="n"/></l>                  <r>ancestral<s n="n"/></r></p></e>
+<!--<e>       <p><l>ancestralidade<s n="n"/></l>           <r>ancestralidade<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>angulação<s n="n"/></l>                <r>angulação<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>animalerie<s n="n"/></l>               <r>animalerie<s n="n"/></r></p></e>-->
+<e>       <p><l>ankylostome<s n="n"/></l>              <r>ancilóstomo<s n="n"/></r></p></e>
+<!--<e>       <p><l>antepassado<s n="n"/></l>              <r>antepassado<s n="n"/></r></p></e>-->
+<e>       <p><l>antibiotique<s n="n"/></l>              <r>antibiótico<s n="n"/></r></p></e>
+<e v="br"><p><l>antiquité<s n="n"/></l>                <r>antigüidade<s n="n"/></r></p></e>
+<e v="pt"><p><l>antiquité<s n="n"/></l>                <r>antiguidade<s n="n"/></r></p></e>
+<!--<e>       <p><l>aparecimento<s n="n"/></l>             <r>aparecimento<s n="n"/></r></p></e>-->
+<e>       <p><l>apathie<s n="n"/></l>                  <r>apatia<s n="n"/></r></p></e>
+<!--<e>       <p><l>aperfeiçoamento<s n="n"/></l>          <r>aperfeiçoamento<s n="n"/></r></p></e>-->
+<e>       <p><l>aplomb<s n="n"/></l>                   <r>aprumo<s n="n"/></r></p></e>
+<e>       <p><l>apparition<s n="n"/></l>               <r>aparição<s n="n"/></r></p></e>
+<e>       <p><l>appétit<s n="n"/></l>                  <r>apetite<s n="n"/></r></p></e>
+<!--<e>       <p><l>applique<s n="n"/></l>                 <r>adorno<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>atour<s n="n"/></l>                    <r>adorno<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>parement<s n="n"/></l>                 <r>adorno<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>apreço<s n="n"/></l>                   <r>apreço<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>aprisionamento<s n="n"/></l>           <r>aprisionamento<s n="n"/></r></p></e>-->
+<e>       <p><l>arcade<s n="n"/></l>                   <r>arcada<s n="n"/></r></p></e>
+<!--<e>       <p><l>archéozoologue<s n="n"/></l>           <r>archéozoologue<s n="n"/></r></p></e>-->
+<e>       <p><l>argonaute<s n="n"/></l>                <r>argonauta<s n="n"/></r></p></e>
+<e>       <p><l>arthrite<s n="n"/></l>                 <r>artrite<s n="n"/></r></p></e>
+<!--<e>       <p><l>artrologia<s n="n"/></l>               <r>artrologia<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>ascari<s n="n"/></l>                   <r>ascari<s n="n"/></r></p></e>-->
+<e>       <p><l>assiette<s n="n"/></l>                 <r>prato<s n="n"/></r></p></e>
+<e>       <p><l>assurance<s n="n"/></l>                <r>seguro<s n="n"/></r></p></e>
+<!--<e>       <p><l>atendado<s n="n"/></l>                 <r>atendado<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>attelage<s n="n"/></l>                 <r>attelage<s n="n"/></r></p></e>-->
+<e>       <p><l>auteur<s n="n"/></l>                   <r>autor<s n="n"/></r></p></e>
+<!--<e>       <p><l>main-forte<s n="n"/></l>               <r>auxílio<s n="n"/></r></p></e>-->
+<e>       <p><l>avis<s n="n"/></l>                     <r>opinião<s n="n"/></r></p></e>
+<e>       <p><l>bâillement<s n="n"/></l>               <r>bocejo<s n="n"/></r></p></e>
+<!--<e>       <p><l>barro<s n="n"/></l>                    <r>barro<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>basset<b/>hound<s n="n"/></l>          <r>basset<b/>hound<s n="n"/></r></p></e>-->
+<e>       <p><l>batifolage<s n="n"/></l>               <r>brincadeira<s n="n"/></r></p></e>
+<e>       <p><l>beagle<s n="n"/></l>                   <r>beagle<s n="n"/></r></p></e>
+<e>       <p><l>bibliographie<s n="n"/></l>            <r>bibliografia<s n="n"/></r></p></e>
+<!--<e>       <p><l>bicho-de-pé, n. f. ent. chique<s n="n"/></l><r>bicho<s n="n"/></r></p></e>-->
+<e>       <p><l>bichon<s n="n"/></l>                   <r>bichon<s n="n"/></r></p></e>
+<e>       <p><l>biologiste<s n="n"/></l>               <r>biologista<s n="n"/></r></p></e>
+<!--<e>       <p><l>bloodhound<s n="n"/></l>               <r>bloodhound<s n="n"/></r></p></e>-->
+<e>       <p><l>boitement<s n="n"/></l>                <r>manqueira<s n="n"/></r></p></e>
+<e>       <p><l>bolet<s n="n"/></l>                    <r>boleto<s n="n"/></r></p></e>
+<!--<e>       <p><l>border<b/>collie<s n="n"/></l>         <r>border<b/>collie<s n="n"/></r></p></e>-->
+<e>       <p><l>bornage<s n="n"/></l>                  <r>demarcação<s n="n"/></r></p></e>
+<e>       <p><l>bout<s n="n"/></l>                     <r>ponta<s n="n"/></r></p></e>
+<e>       <p><l>bout<s n="n"/></l>                     <r>extremidade<s n="n"/></r></p></e>
+<e>       <p><l>bout<s n="n"/></l>                     <r>fim<s n="n"/></r></p></e>
+<e>       <p><l>bout<s n="n"/></l>                     <r>pedaço<s n="n"/></r></p></e>
+<!--<e>       <p><l>bovin<s n="n"/></l>                    <r>bovin<s n="n"/></r></p></e>-->
+<e>       <p><l>boxer<s n="n"/></l>                    <r>boxer<s n="n"/></r></p></e>
+<!--<e>       <p><l>braccoïde<s n="n"/></l>                <r>braccoïde<s n="n"/></r></p></e>-->
+<e>       <p><l>bronche<s n="n"/></l>                  <r>brônquio<s n="n"/></r></p></e>
+<e>       <p><l>bronchiole<s n="n"/></l>               <r>bronquíolo<s n="n"/></r></p></e>
+<e>       <p><l>brossage<s n="n"/></l>                 <r>escovadela<s n="n"/></r></p></e>
+<e>       <p><l>brutalité<s n="n"/></l>                <r>brutalidade<s n="n"/></r></p></e>
+<e>       <p><l>bouledogue<s n="n"/></l>               <r>buldogue<s n="n"/></r></p></e>
+<e r="RL"><p><l>bouledogue<s n="n"/></l>               <r>bulldog<s n="n"/></r></p></e>
+<e r="LR"><p><l>bulldog<s n="n"/></l>                  <r>buldogue<s n="n"/></r></p></e>
+<e>       <p><l>bull<b/>terrier<s n="n"/></l>          <r>bull<b/>terrier<s n="n"/></r></p></e>
+<e>       <p><l>cadence<s n="n"/></l>                  <r>cadência<s n="n"/></r></p></e>
+<e>       <p><l>cage<s n="n"/></l>                     <r>gaiola<s n="n"/></r></p></e>
+<e>       <p><l>caisse<s n="n"/></l>                   <r>caixa<s n="n"/></r></p></e>
+<e>       <p><l>calcaire<s n="n"/></l>                 <r>calcário<s n="n"/></r></p></e>
+<e>       <p><l>calcification<s n="n"/></l>            <r>calcificação<s n="n"/></r></p></e>
+<e>       <p><l>calcium<s n="n"/></l>                  <r>cálcio<s n="n"/></r></p></e>
+<!--<e>       <p><l>calda<s n="n"/></l>                    <r>calda<s n="n"/></r></p></e>-->
+<e>       <p><l>canette<s n="n"/></l>                  <r>lata<s n="n"/></r></p></e>
+<e>       <p><l>caniche<s n="n"/></l>                  <r>poodle<s n="n"/></r></p></e>
+<!--<e>       <p><l>canidé<s n="n"/></l>                   <r>canidé<s n="n"/></r></p></e>-->
+<e>       <p><l>carcesse<s n="n"/></l>                 <r>carcaça<s n="n"/></r></p></e>
+<!--<e>       <p><l>cardápio<s n="n"/></l>                 <r>cardápio<s n="n"/></r></p></e>-->
+<e>       <p><l>caresse<s n="n"/></l>                  <r>carinho<s n="n"/></r></p></e>
+<e>       <p><l>carnet<s n="n"/></l>                   <r>carnet<s n="n"/></r></p></e>
+<e>       <p><l>carnivore<s n="n"/></l>                <r>carnívoro<s n="n"/></r></p></e>
+<e>       <p><l>cartilage<s n="n"/></l>                <r>cartilagem<s n="n"/></r></p></e>
+<e>       <p><l>cas<s n="n"/></l>                      <r>caso<s n="n"/></r></p></e>
+<e>       <p><l>castration<s n="n"/></l>               <r>castração<s n="n"/></r></p></e>
+<e>       <p><l>catapulte<s n="n"/></l>                <r>catapulta<s n="n"/></r></p></e>
+<e>       <p><l>catholicisme<s n="n"/></l>             <r>catolicismo<s n="n"/></r></p></e>
+<!--<e>       <p><l>cavalheiro<s n="n"/></l>               <r>cavalheiro<s n="n"/></r></p></e>-->
+<e>       <p><l>cavité<s n="n"/></l>                   <r>cavidade<s n="n"/></r></p></e>
+<e>       <p><l>célébrité<s n="n"/></l>                <r>celebridade<s n="n"/></r></p></e>
+<e>       <p><l>cerbère<s n="n"/></l>                  <r>cérbero<s n="n"/></r></p></e>
+<!--<e>       <p><l>céréale<s n="n"/></l>                  <r>céréale<s n="n"/></r></p></e>-->
+<e>       <p><l>certificat<s n="n"/></l>               <r>certificado<s n="n"/></r></p></e>
+<e>       <p><l>chacal<s n="n"/></l>                   <r>chacal<s n="n"/></r></p></e>
+<e>       <p><l>char<s n="n"/></l>                     <r>carreta<s n="n"/></r></p></e>
+<!--<e>       <p><l>charognard<s n="n"/></l>               <r>charognard<s n="n"/></r></p></e>-->
+<e>       <p><l>chef<s n="n"/></l>                     <r>chefe<s n="n"/></r></p></e>
+<e>       <p><l>chenil<s n="n"/></l>                   <r>canil<s n="n"/></r></p></e>
+<e>       <p><l>chèvre<s n="n"/></l>                   <r>cabra<s n="n"/></r></p></e>
+<!--<e>       <p><l>cachorrinho<s n="n"/></l>              <r>cachorrinho<s n="n"/></r></p></e>-->
+<e>       <p><l>chinois<s n="n"/></l>                   <r>chinês<s n="n"/></r></p></e>
+<e>       <p><l>chihuahua<s n="n"/></l>                <r>chiuaua<s n="n"/></r></p></e>
+<!--<e>       <p><l>chiot<s n="n"/></l>                    <r>chiot<s n="n"/></r></p></e>-->
+<e>       <p><l>chocolat<s n="n"/></l>                 <r>chocolate<s n="n"/></r></p></e>
+<!--<e>       <p><l>choramingo<s n="n"/></l>               <r>choramingo<s n="n"/></r></p></e>-->
+<e>       <p><l>chow-chow<s n="n"/></l>                <r>chow-chow<s n="n"/></r></p></e>
+<e>       <p><l>chronologie<s n="n"/></l>              <r>cronologia<s n="n"/></r></p></e>
+<e>       <p><l>cinquantaine<s n="n"/></l>             <r>cinquantaine<s n="n"/></r></p></e>
+<!--<e>       <p><l>citronela<s n="n"/></l>                <r>citronela<s n="n"/></r></p></e>-->
+<e>       <p><l>clou<s n="n"/></l>                     <r>prego<s n="n"/></r></p></e>
+<e>       <p><l>cobaye<s n="n"/></l>                   <r>cobaia<s n="n"/></r></p></e>
+<!--<e>       <p><l>coccidie<s n="n"/></l>                 <r>coccidie<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>collerette<s n="n"/></l>               <r>collerette<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>comportementaliste<s n="n"/></l>       <r>comportementaliste<s n="n"/></r></p></e>-->
+<e>       <p><l>cohabitation<s n="n"/></l>             <r>coabitação<s n="n"/></r></p></e>
+<!--<e>       <p><l>coleira<s n="n"/></l>                  <r>coleira<s n="n"/></r></p></e>-->
+<e>       <p><l>collecteur<s n="n"/></l>               <r>coletor<s n="n"/></r></p></e>
+<!--<e>       <p><l>collie<s n="n"/></l>                   <r>collie<s n="n"/></r></p></e>-->
+<e>       <p><l>coma<s n="n"/></l>                     <r>coma<s n="n"/></r></p></e>
+<!--<e>       <p><l>companheirismo<s n="n"/></l>           <r>companheirismo<s n="n"/></r></p></e>-->
+<e>       <p><l>compréhension<s n="n"/></l>            <r>compreensão<s n="n"/></r></p></e>
+<e>       <p><l>confection<s n="n"/></l>               <r>confecção<s n="n"/></r></p></e>
+<e>       <p><l>consistence<s n="n"/></l>              <r>consistência<s n="n"/></r></p></e>
+<e>       <p><l>contrôleur<s n="n"/></l>               <r>controlador<s n="n"/></r></p></e>
+<e>       <p><l>convenance<s n="n"/></l>               <r>conveniência<s n="n"/></r></p></e>
+<e>       <p><l>coprophagie<s n="n"/></l>              <r>coprofagia<s n="n"/></r></p></e>
+<e>       <p><l>copule<s n="n"/></l>                   <r>cópula<s n="n"/></r></p></e>
+<e>       <p><l>corde<s n="n"/></l>                    <r>corda<s n="n"/></r></p></e>
+<e>       <p><l>cordon<s n="n"/></l>                   <r>cordão<s n="n"/></r></p></e>
+<e>       <p><l>coronavirus<s n="n"/></l>              <r>coronavírus<s n="n"/></r></p></e>
+<e>       <p><l>corps<s n="n"/></l>                    <r>corpo<s n="n"/></r></p></e>
+<e>       <p><l>cortisol<s n="n"/></l>                 <r>cortisol<s n="n"/></r></p></e>
+<e>       <p><l>cote<s n="n"/></l>                     <r>costela<s n="n"/></r></p></e>
+<e>       <p><l>coude<s n="n"/></l>                    <r>cotovelo<s n="n"/></r></p></e>
+<e>       <p><l>coussin<s n="n"/></l>                  <r>almofada<s n="n"/></r></p></e>
+<e>       <p><l>coussinet<s n="n"/></l>                <r>almofadinha<s n="n"/></r></p></e>
+<e>       <p><l>coxim<s n="n"/></l>                    <r>coxim<s n="n"/></r></p></e>
+<e>       <p><l>coyote<s n="n"/></l>                   <r>coiote<s n="n"/></r></p></e>
+<e>       <p><l>crâne<s n="n"/></l>                    <r>crânio<s n="n"/></r></p></e>
+<!--<e>       <p><l>craqure<s n="n"/></l>                  <r>fenda<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>fente<s n="n"/></l>                    <r>fenda<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>cria<s n="n"/></l>                     <r>cria<s n="n"/></r></p></e>-->
+<e>       <p><l>croisement<s n="n"/></l>               <r>cruzamento<s n="n"/></r></p></e>
+<e>       <p><l>crotte<s n="n"/></l>                   <r>lama<s n="n"/></r></p></e>
+<e>       <p><l>croupe<s n="n"/></l>                   <r>garupa<s n="n"/></r></p></e>
+<e>       <p><l>cuisse<s n="n"/></l>                   <r>coxa<s n="n"/></r></p></e>
+<e>       <p><l>cynologie<s n="n"/></l>                <r>cinologia<s n="n"/></r></p></e>
+<!--<e>       <p><l>cynophagie<s n="n"/></l>               <r>cynophagie<s n="n"/></r></p></e>-->
+<e>       <p><l>cynophile<s n="n"/></l>                <r>cinófilo<s n="n"/></r></p></e>
+<e>       <p><l>cynophilie<s n="n"/></l>               <r>cinofilia<s n="n"/></r></p></e>
+<!--<e>       <p><l>dálmata<s n="n"/></l>                  <r>dálmata<s n="n"/></r></p></e>-->
+<e>       <p><l>dame<s n="n"/></l>                     <r>dama<s n="n"/></r></p></e>
+<!--<e>       <p><l>datação<s n="n"/></l>                  <r>datação<s n="n"/></r></p></e>-->
+<e>       <p><l>déconfort<s n="n"/></l>                <r>desconforto<s n="n"/></r></p></e>
+<e>       <p><l>dédommagement<s n="n"/></l>            <r>indenização<s n="n"/></r></p></e>
+<!--<e>       <p><l>déjection<s n="n"/></l>                <r>déjection<s n="n"/></r></p></e>-->
+<e>       <p><l>démangeaison<s n="n"/></l>             <r>coceira<s n="n"/></r></p></e>
+<e>       <p><l>déménagement<s n="n"/></l>             <r>mudança<s n="n"/></r></p></e>
+<!--<e>       <p><l>démodécie<s n="n"/></l>                <r>démodécie<s n="n"/></r></p></e>-->
+<e>       <p><l>dénomination<s n="n"/></l>             <r>denominação<s n="n"/></r></p></e>
+<e>       <p><l>dentiste<s n="n"/></l>                 <r>dentista<s n="n"/></r></p></e>
+<e>       <p><l>dentition<s n="n"/></l>                <r>dentição<s n="n"/></r></p></e>
+<e>       <p><l>denture<s n="n"/></l>                  <r>dentadura<s n="n"/></r></p></e>
+<e>       <p><l>denture<s n="n"/></l>                  <r>dentuça<s n="n"/></r></p></e>
+<e>       <p><l>déprédation<s n="n"/></l>              <r>depredação<s n="n"/></r></p></e>
+<e>       <p><l>dépression<s n="n"/></l>               <r>depressão<s n="n"/></r></p></e>
+<e>       <p><l>dermatite<s n="n"/></l>                <r>dermatite<s n="n"/></r></p></e>
+<!--<e>       <p><l>dermatofitose<s n="n"/></l>            <r>dermatofitose<s n="n"/></r></p></e>-->
+<e>       <p><l>derme<s n="n"/></l>                    <r>derme<s n="n"/></r></p></e>
+<!--<e>       <p><l>desambiguação<s n="n"/></l>            <r>desambiguação<s n="n"/></r></p></e>-->
+<e>       <p><l>descendance<s n="n"/></l>              <r>descendência<s n="n"/></r></p></e>
+<!--<e>       <p><l>design<s n="n"/></l>                   <r>design<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>desestabilização<s n="n"/></l>         <r>desestabilização<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>desmame<s n="n"/></l>                  <r>desmame<s n="n"/></r></p></e>-->
+<e>       <p><l>désobéissance<s n="n"/></l>            <r>desobediência<s n="n"/></r></p></e>
+<e>       <p><l>détection<s n="n"/></l>                <r>detecção<s n="n"/></r></p></e>
+<!--<e>       <p><l>detentor<s n="n"/></l>                 <r>detentor<s n="n"/></r></p></e>-->
+<e>       <p><l>dévouement<s n="n"/></l>               <r>dedicação<s n="n"/></r></p></e>
+<!--<e>       <p><l>diabetes<s n="n"/></l>                 <r>diabetes<s n="n"/></r></p></e>-->
+<e>       <p><l>diarrhée<s n="n"/></l>                 <r>diarréia<s n="n"/></r></p></e>
+<e>       <p><l>diéte<s n="n"/></l>                    <r>dieta<s n="n"/></r></p></e>
+<e>       <p><l>digestif<s n="n"/></l>                 <r>digestivo<s n="n"/></r></p></e>
+<e>       <p><l>digestion<s n="n"/></l>                <r>digestão<s n="n"/></r></p></e>
+<e>       <p><l>digitigrade<s n="n"/></l>              <r>digitígrado<s n="n"/></r></p></e>
+<!--<e>       <p><l>dinamarquês<s n="n"/></l>              <r>dinamarquês<s n="n"/></r></p></e>-->
+<e>       <p><l>dingo<s n="n"/></l>                    <r>dingo<s n="n"/></r></p></e>
+<e>       <p><l>diphtérie<s n="n"/></l>                <r>difteria<s n="n"/></r></p></e>
+<!--<e>       <p><l>dipylidiose<s n="n"/></l>              <r>dipylidiose<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>dirofilariose<s n="n"/></l>            <r>dirofilariose<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>discordância<s n="n"/></l>             <r>discordância<s n="n"/></r></p></e>-->
+<e>       <p><l>disette<s n="n"/></l>                  <r>pobreza<s n="n"/></r></p></e>
+<e>       <p><l>distinction<s n="n"/></l>              <r>distinção<s n="n"/></r></p></e>
+<e>       <p><l>distorsion<s n="n"/></l>               <r>distorção<s n="n"/></r></p></e>
+<!--<e>       <p><l>diversão<s n="n"/></l>                 <r>diversão<s n="n"/></r></p></e>-->
+<e>       <p><l>divinité<s n="n"/></l>                 <r>divindade<s n="n"/></r></p></e>
+<e>       <p><l>dobermann<s n="n"/></l>                <r>dobermann<s n="n"/></r></p></e>
+<!--<e>       <p><l>dobra<s n="n"/></l>                    <r>dobra<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>dog-sitting<s n="n"/></l>              <r>dog-sitting<s n="n"/></r></p></e>-->
+<e>       <p><l>dogue<s n="n"/></l>                    <r>dogue<s n="n"/></r></p></e>
+<e>       <p><l>domestication<s n="n"/></l>            <r>domesticação<s n="n"/></r></p></e>
+<!--<e>       <p><l>dominância<s n="n"/></l>               <r>dominância<s n="n"/></r></p></e>-->
+<e>       <p><l>domination<s n="n"/></l>               <r>dominação<s n="n"/></r></p></e>
+<e>       <p><l>dosage<s n="n"/></l>                   <r>dosagem<s n="n"/></r></p></e>
+<!--<e>       <p><l>dressage<s n="n"/></l>                 <r>dressage<s n="n"/></r></p></e>-->
+<e>       <p><l>durabilité<s n="n"/></l>               <r>durabilidade<s n="n"/></r></p></e>
+<e>       <p><l>dysplasie<s n="n"/></l>                <r>displasia<b/>coxofemoral<s n="n"/></r></p></e>
+<e>       <p><l>écosystème<s n="n"/></l>               <r>ecossistema<s n="n"/></r></p></e>
+<e>       <p><l>eczéma<s n="n"/></l>                   <r>eczema<s n="n"/></r></p></e>
+<!--<e>       <p><l>efermidade<s n="n"/></l>               <r>efermidade<s n="n"/></r></p></e>-->
+<e>       <p><l>effarouchement<s n="n"/></l>           <r>susto<s n="n"/></r></p></e>
+<e>       <p><l>éjaculation<s n="n"/></l>              <r>ejaculação<s n="n"/></r></p></e>
+<!--<e>       <p><l>embonpoint<s n="n"/></l>               <r>embonpoint<s n="n"/></r></p></e>-->
+<e>       <p><l>embranchement<s n="n"/></l>            <r>filo<s n="n"/></r></p></e>
+<!--<e>       <p><l>empilhadora<s n="n"/></l>              <r>empilhadora<s n="n"/></r></p></e>-->
+<e>       <p><l>endurance<s n="n"/></l>                <r>estamina<s n="n"/></r></p></e>
+<e>       <p><l>entrepas<s n="n"/></l>                 <r>andadura<s n="n"/></r></p></e>
+<e>       <p><l>envahisseur<s n="n"/></l>              <r>invasor<s n="n"/></r></p></e>
+<e>       <p><l>épaisseur<s n="n"/></l>                <r>espessura<s n="n"/></r></p></e>
+<e>       <p><l>épilepsie<s n="n"/></l>                <r>epilepsia<s n="n"/></r></p></e>
+<!--<e>       <p><l>equiparidade<s n="n"/></l>             <r>equiparidade<s n="n"/></r></p></e>-->
+<e>       <p><l>érection<s n="n"/></l>                 <r>ereção<s n="n"/></r></p></e>
+<e>       <p><l>éradication<s n="n"/></l>              <r>erradicação<s n="n"/></r></p></e>
+<!--<e>       <p><l>esbranquiçamento<s n="n"/></l>         <r>esbranquiçamento<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>espádua<s n="n"/></l>                  <r>espádua<s n="n"/></r></p></e>-->
+<e>       <p><l>estimation<s n="n"/></l>               <r>estimação<s n="n"/></r></p></e>
+<e>       <p><l>étymologie<s n="n"/></l>               <r>etimologia<s n="n"/></r></p></e>
+<e>       <p><l>évaporation<s n="n"/></l>              <r>evaporação<s n="n"/></r></p></e>
+<e>       <p><l>excreção<s n="n"/></l>                 <r>excreção<s n="n"/></r></p></e>
+<e>       <p><l>exhibition<s n="n"/></l>               <r>exibição<s n="n"/></r></p></e>
+<e>       <p><l>expérimentation<s n="n"/></l>          <r>experimentação<s n="n"/></r></p></e>
+<!--<e>       <p><l>extermination<s n="n"/></l>            <r>extermination<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>extermínio<s n="n"/></l>               <r>extermínio<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>farejador<s n="n"/></l>                <r>farejador<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>farejamento<s n="n"/></l>              <r>farejamento<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>felino<s n="n"/></l>                   <r>felino<s n="n"/></r></p></e>-->
+<e>       <p><l>femelle<s n="n"/></l>                  <r>fêmea<s n="n"/></r></p></e>
+<e>       <p><l>fertilité<s n="n"/></l>                <r>fertilidade<s n="n"/></r></p></e>
+<e>       <p><l>fès<s n="n"/></l>                      <r>fez<s n="n"/></r></p></e>
+<!--<e>       <p><l>filhote<s n="n"/></l>                  <r>filhote<s n="n"/></r></p></e>-->
+<e>       <p><l>fissure<s n="n"/></l>                  <r>fissura<s n="n"/></r></p></e>
+<e>       <p><l>flux<s n="n"/></l>                     <r>fluxo<s n="n"/></r></p></e>
+<e>       <p><l>foie<s n="n"/></l>                     <r>fígado<s n="n"/></r></p></e>
+<e>       <p><l>fois<s n="n"/></l>                     <r>vez<s n="n"/></r></p></e>
+<e>       <p><l>formalité<s n="n"/></l>                <r>formalidade<s n="n"/></r></p></e>
+<e>       <p><l>friandise<s n="n"/></l>                <r>gulodice<s n="n"/></r></p></e>
+<e>       <p><l>frottement<s n="n"/></l>                   <r>atrito<s n="n"/></r></p></e>
+<e>       <p><l>gale<s n="n"/></l>                     <r>sarna<s n="n"/></r></p></e>
+<!--<e>       <p><l>galope<s n="n"/></l>                   <r>galope<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>gamelle<s n="n"/></l>                  <r>gamelle<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>garderie<s n="n"/></l>                 <r>garderie<s n="n"/></r></p></e>-->
+<e>       <p><l>gâteau<s n="n"/></l>                   <r>bolo<s n="n"/></r></p></e>
+<!--<e>       <p><l>gauche<s n="n"/></l>                   <r>gauche<s n="n"/></r></p></e>-->
+<e>       <p><l>gérance<s n="n"/></l>                  <r>gerência<s n="n"/></r></p></e>
+<e>       <p><l>gestation<s n="n"/></l>                <r>gestação<s n="n"/></r></p></e>
+<!--<e>       <p><l>giardose<s n="n"/></l>                 <r>giardose<s n="n"/></r></p></e>-->
+<e>       <p><l>glande<s n="n"/></l>                   <r>glândula<s n="n"/></r></p></e>
+<e>       <p><l>globe<s n="n"/></l>                    <r>globo<s n="n"/></r></p></e>
+<e>       <p><l>globule<s n="n"/></l>                  <r>glóbulo<s n="n"/></r></p></e>
+<e>       <p><l>glucide<s n="n"/></l>                  <r>carboidrato<s n="n"/></r></p></e>
+<!--<e>       <p><l>goblim<s n="n"/></l>                   <r>goblim<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>golden<b/>retriever<s n="n"/></l>      <r>golden<b/>retriever<s n="n"/></r></p></e>-->
+<e>       <p><l>gondole<s n="n"/></l>                  <r>gôndola<s n="n"/></r></p></e>
+<e>       <p><l>goût<s n="n"/></l>                     <r>paladar<s n="n"/></r></p></e>
+<!--<e>       <p><l>graïoïde<s n="n"/></l>                 <r>graïoïde<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>habitant<s n="n"/></l>                 <r>habitant, n. habitante<s n="n"/></r></p></e>-->
+<e>       <p><l>halte<s n="n"/></l>                    <r>paragem<s n="n"/></r></p></e>
+<!--<e>       <p><l>handicapé<s n="n"/></l>                <r>handicapé<s n="n"/></r></p></e>-->
+<e>       <p><l>hépatite<s n="n"/></l>                 <r>hepatite<s n="n"/></r></p></e>
+<!--<e>       <p><l>história<b/>em<b/>quadrinhos<s n="n"/></l><r>história<b/>em<b/>quadrinhos<s n="n"/></r></p></e>-->
+<e>       <p><l>hommage<s n="n"/></l>                  <r>homenagem<s n="n"/></r></p></e>
+<!--<e>       <p><l>homonyme<s n="n"/></l>                 <r>homonyme<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>homozigose<s n="n"/></l>               <r>homozigose<s n="n"/></r></p></e>-->
+<!--<e v="br"><p><l>hormônio<s n="n"/></l>                 <r>hormônio<s n="n"/></r></p></e>-->
+<!--<e v="pt"><p><l>hormónio<s n="n"/></l>                 <r>hormónio<s n="n"/></r></p></e>-->
+<e>       <p><l>houraillerie<s n="n"/></l>             <r>matilha<s n="n"/></r></p></e>
+<e>       <p><l>hurlement<s n="n"/></l>                <r>uivo<s n="n"/></r></p></e>
+<e>       <p><l>husky<s n="n"/></l>                    <r>husky<s n="n"/></r></p></e>
+<e>       <p><l>hybride<s n="n"/></l>                  <r>híbrido<s n="n"/></r></p></e>
+<e>       <p><l>hygiéne<s n="n"/></l>                  <r>higiene<s n="n"/></r></p></e>
+<e>       <p><l>hystérie<s n="n"/></l>                 <r>histeria<s n="n"/></r></p></e>
+<e>       <p><l>imagination<s n="n"/></l>              <r>imaginação<s n="n"/></r></p></e>
+<e>       <p><l>implication<s n="n"/></l>              <r>implicação<s n="n"/></r></p></e>
+<e>       <p><l>imprécision<s n="n"/></l>              <r>imprecisão<s n="n"/></r></p></e>
+<!--<e>       <p><l>inchaço<s n="n"/></l>                  <r>inchaço<s n="n"/></r></p></e>-->
+<e>       <p><l>incisive<s n="n"/></l>                 <r>incisivo<s n="n"/></r></p></e>
+<e>       <p><l>indemnité<s n="n"/></l>                <r>indemnidade<s n="n"/></r></p></e>
+<!--<e>       <p><l>indolor<s n="n"/></l>                  <r>indolor<s n="n"/></r></p></e>-->
+<e>       <p><l>infanterie<s n="n"/></l>               <r>infantaria<s n="n"/></r></p></e>
+<e>       <p><l>inflammation<s n="n"/></l>             <r>inflamação<s n="n"/></r></p></e>
+<!--<e>       <p><l>infra-classe<s n="n"/></l>             <r>infra-classe<s n="n"/></r></p></e>-->
+<e>       <p><l>infortune<s n="n"/></l>                <r>infortúnio<s n="n"/></r></p></e>
+<e>       <p><l>ingestion<s n="n"/></l>                <r>ingestão<s n="n"/></r></p></e>
+<e>       <p><l>ingratitude<s n="n"/></l>              <r>ingratidão<s n="n"/></r></p></e>
+<e>       <p><l>inimité<s n="n"/></l>                  <r>inimizade<s n="n"/></r></p></e>
+<e>       <p><l>insémination<s n="n"/></l>             <r>inseminação<s n="n"/></r></p></e>
+<e>       <p><l>interférence<s n="n"/></l>             <r>interferência<s n="n"/></r></p></e>
+<e>       <p><l>internation<s n="n"/></l>              <r>internação<s n="n"/></r></p></e>
+<e>       <p><l>intestin<s n="n"/></l>                 <r>intestino<s n="n"/></r></p></e>
+<e>       <p><l>intoxication<s n="n"/></l>             <r>intoxicação<s n="n"/></r></p></e>
+<e>       <p><l>intrigue<s n="n"/></l>                 <r>intriga<s n="n"/></r></p></e>
+<!--<e>       <p><l>intrus<s n="n"/></l>                   <r>intrus<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>invalidez<s n="n"/></l>                <r>invalidez<s n="n"/></r></p></e>-->
+<e>       <p><l>inventaire<s n="n"/></l>               <r>inventário<s n="n"/></r></p></e>
+<e>       <p><l>jalousie<s n="n"/></l>                 <r>ciúme<s n="n"/></r></p></e>
+<e>       <p><l>japonais<s n="n"/></l>                 <r>japonês<s n="n"/></r></p></e>
+<!--<e>       <p><l>argot<s n="n"/></l>                    <r>gíria<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>jar ou jars<s n="n"/></l>              <r>gíria<s n="n"/></r></p></e>-->
+<e>       <p><l>jarre<s n="n"/></l>                    <r>jarro<s n="n"/></r></p></e>
+<e>       <p><l>jarret<s n="n"/></l>                   <r>jarrete<s n="n"/></r></p></e>
+<!--<e>       <p><l>jato<s n="n"/></l>                     <r>jato<s n="n"/></r></p></e>-->
+<e>       <p><l>jeu<b/>vidéo<s n="n"/></l>             <r>videogame<s n="n"/></r></p></e>
+<e>       <p><l>labrador<s n="n"/></l>                 <r>labrador<s n="n"/></r></p></e>
+<!--<e>       <p><l>labrador<b/>retriever<s n="n"/></l>    <r>labrador<b/>retriever<s n="n"/></r></p></e>-->
+<e>       <p><l>lactation<s n="n"/></l>                <r>lacatação<s n="n"/></r></p></e>
+<e>       <p><l>latin<s n="n"/></l>                    <r>latim<s n="n"/></r></p></e>
+<e>       <p><l>lavage<s n="n"/></l>                   <r>lavagem<s n="n"/></r></p></e>
+<!--<e>       <p><l>lebrel<s n="n"/></l>                   <r>lebrel<s n="n"/></r></p></e>-->
+<e>       <p><l>légende<s n="n"/></l>                  <r>legenda<s n="n"/></r></p></e>
+<e>       <p><l>légume<s n="n"/></l>                   <r>legume<s n="n"/></r></p></e>
+<e>       <p><l>leptospirose<s n="n"/></l>             <r>leptospirose<s n="n"/></r></p></e>
+<e>       <p><l>léthargie<s n="n"/></l>                <r>letargia<s n="n"/></r></p></e>
+<!--<e>       <p><l>lettrage<s n="n"/></l>                 <r>lettrage<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>levantador<s n="n"/></l>               <r>levantador<s n="n"/></r></p></e>-->
+<e>       <p><l>lévrier<s n="n"/></l>                  <r>galgo<s n="n"/></r></p></e>
+<e>       <p><l>lice<s n="n"/></l>                     <r>liça<s n="n"/></r></p></e>
+<e>       <p><l>ligament<s n="n"/></l>                 <r>ligamento<s n="n"/></r></p></e>
+<e>       <p><l>limier<s n="n"/></l>                   <r>sabujo<s n="n"/></r></p></e>
+<!--<e>       <p><l>lipídio<s n="n"/></l>                  <r>lipídio<s n="n"/></r></p></e>-->
+<e>       <p><l>liseron<s n="n"/></l>                  <r>campainha<s n="n"/></r></p></e>
+<!--<e>       <p><l>livreur<s n="n"/></l>                  <r>livreur<s n="n"/></r></p></e>-->
+<e>       <p><l>local<s n="n"/></l>                    <r>local<s n="n"/></r></p></e>
+<e>       <p><l>locomotion<s n="n"/></l>               <r>locomoção<s n="n"/></r></p></e>
+<e>       <p><l>longévité<s n="n"/></l>                <r>longevidade<s n="n"/></r></p></e>
+<e>       <p><l>loup-garou<s n="n"/></l>               <r>lobisomem<s n="n"/></r></p></e>
+<e>       <p><l>louve<s n="n"/></l>                    <r>loba<s n="n"/></r></p></e>
+<!--<e>       <p><l>lupoïde<s n="n"/></l>                  <r>lupoïde<s n="n"/></r></p></e>-->
+<e>       <p><l>mâchoire<s n="n"/></l>                 <r>queixo<s n="n"/></r></p></e>
+<e>       <p><l>majorité<s n="n"/></l>                 <r>maioria<s n="n"/></r></p></e>
+<e>       <p><l>maladie<b/>de<b/>carré<s n="n"/></l>   <r>cinomose<s n="n"/></r></p></e>
+<e>       <p><l>mâle<s n="n"/></l>                     <r>macho<s n="n"/></r></p></e>
+<e>       <p><l>mamalle<s n="n"/></l>                  <r>mama<s n="n"/></r></p></e>
+<e>       <p><l>mammifère<s n="n"/></l>                <r>mamífero<s n="n"/></r></p></e>
+<e>       <p><l>manipulateur<s n="n"/></l>             <r>manipulador<s n="n"/></r></p></e>
+<!--<e>       <p><l>maraudaille<s n="n"/></l>              <r>canalha<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>fripouille<s n="n"/></l>               <r>canalha<s n="n"/></r></p></e>-->
+<e>       <p><l>marbre<s n="n"/></l>                   <r>mármore<s n="n"/></r></p></e>
+<e>       <p><l>marchand<s n="n"/></l>                 <r>mercador<s n="n"/></r></p></e>
+<!--<e>       <p><l>marquage<s n="n"/></l>                 <r>marquage<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>marronnage<s n="n"/></l>               <r>marronnage<s n="n"/></r></p></e>-->
+<e>       <p><l>mascotte<s n="n"/></l>                 <r>mascote<s n="n"/></r></p></e>
+<e>       <p><l>massage<s n="n"/></l>                  <r>massagem<s n="n"/></r></p></e>
+<e>       <p><l>mastication<s n="n"/></l>              <r>mastigação<s n="n"/></r></p></e>
+<e>       <p><l>mastiff<s n="n"/></l>                  <r>mastiff<s n="n"/></r></p></e>
+<!--<e>       <p><l>material<s n="n"/></l>                 <r>material<s n="n"/></r></p></e>-->
+<e>       <p><l>médication<s n="n"/></l>               <r>medicação<s n="n"/></r></p></e>
+<e>       <p><l>mégarde<s n="n"/></l>                  <r>descuido<s n="n"/></r></p></e>
+<!--<e>       <p><l>membrane<s n="n"/></l>                 <r>membrane<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>mescla<s n="n"/></l>                   <r>mescla<s n="n"/></r></p></e>-->
+<e>       <p><l>métaphysique<s n="n"/></l>             <r>metafísica<s n="n"/></r></p></e>
+<e>       <p><l>métier<s n="n"/></l>                   <r>mister<s n="n"/></r></p></e>
+<e>       <p><l>métis<s n="n"/></l>                    <r>mestiço<s n="n"/></r></p></e>
+<e>       <p><l>mets<s n="n"/></l>                     <r>iguaria<s n="n"/></r></p></e>
+<!--<e>       <p><l>mignon<s n="n"/></l>                   <r>mignon<s n="n"/></r></p></e>-->
+<e>       <p><l>minéral<s n="n"/></l>                  <r>mineral<s n="n"/></r></p></e>
+<e>       <p><l>molaire<s n="n"/></l>                  <r>molar<s n="n"/></r></p></e>
+<e>       <p><l>molosse<s n="n"/></l>                  <r>molosso<s n="n"/></r></p></e>
+<e>       <p><l>molossoïde<s n="n"/></l>               <r>molossóide<s n="n"/></r></p></e>
+<e>       <p><l>morphologie<s n="n"/></l>              <r>morfologia<s n="n"/></r></p></e>
+<!--<e>       <p><l>morsure<s n="n"/></l>                  <r>morsure<s n="n"/></r></p></e>-->
+<e>       <p><l>mosaïque<s n="n"/></l>                 <r>mosaico<s n="n"/></r></p></e>
+<!--<e>       <p><l>movimentação<s n="n"/></l>             <r>movimentação<s n="n"/></r></p></e>-->
+<e>       <p><l>multitude<s n="n"/></l>                <r>multidão<s n="n"/></r></p></e>
+<!--<e>       <p><l>munheca<s n="n"/></l>                  <r>munheca<s n="n"/></r></p></e>-->
+<e>       <p><l>musculature<s n="n"/></l>              <r>musculatura<s n="n"/></r></p></e>
+<e>       <p><l>museau<s n="n"/></l>                   <r>focinho<s n="n"/></r></p></e>
+<e>       <p><l>mutualité<s n="n"/></l>                <r>mutualidade<s n="n"/></r></p></e>
+<e>       <p><l>mycose<s n="n"/></l>                   <r>micose<s n="n"/></r></p></e>
+<e>       <p><l>myologie<s n="n"/></l>                 <r>miologia<s n="n"/></r></p></e>
+<e>       <p><l>myopie<s n="n"/></l>                   <r>miopia<s n="n"/></r></p></e>
+<e>       <p><l>mythologie<s n="n"/></l>               <r>mitologia<s n="n"/></r></p></e>
+<!--<e>       <p><l>nettoyage<s n="n"/></l>                <r>nettoyage<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>neuroanatomista<s n="n"/></l>          <r>neuroanatomista<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>nevasca<s n="n"/></l>                  <r>nevasca<s n="n"/></r></p></e>-->
+<e>       <p><l>niche<s n="n"/></l>                    <r>nicho<s n="n"/></r></p></e>
+<!--<e>       <p><l>chiennée<s n="n"/></l>                 <r>ninhada<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>nichée<s n="n"/></l>                   <r>ninhada<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>nomade<s n="n"/></l>                   <r>nomade<s n="n"/></r></p></e>-->
+<e>       <p><l>nomenclature<s n="n"/></l>             <r>nomenclatura<s n="n"/></r></p></e>
+<e>       <p><l>nutriment<s n="n"/></l>                <r>nutriente<s n="n"/></r></p></e>
+<e>       <p><l>obéissance<s n="n"/></l>               <r>obediência<s n="n"/></r></p></e>
+<e>       <p><l>obésité<s n="n"/></l>                  <r>obesidade<s n="n"/></r></p></e>
+<!--<e>       <p><l>ocidentalização<s n="n"/></l>          <r>ocidentalização<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>ocorrência<s n="n"/></l>               <r>ocorrência<s n="n"/></r></p></e>-->
+<e>       <p><l>odeur<s n="n"/></l>                    <r>odor<s n="n"/></r></p></e>
+<!--<e>       <p><l>odisséia<s n="n"/></l>                 <r>odisséia<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>officiel<s n="n"/></l>                 <r>officiel<s n="n"/></r></p></e>-->
+<e>       <p><l>omnivore<s n="n"/></l>                 <r>onívoro<s n="n"/></r></p></e>
+<e>       <p><l>opportuniste<s n="n"/></l>             <r>oportunista<s n="n"/></r></p></e>
+<e>       <p><l>ordre<s n="n"/></l>                    <r>ordem<s n="n"/></r></p></e>
+<e>       <p><l>orient<s n="n"/></l>                   <r>oriente<s n="n"/></r></p></e>
+<e>       <p><l>origine<s n="n"/></l>                  <r>origem<s n="n"/></r></p></e>
+<e r="RL"><p><l>ossements<s n="n"/><s n="m"/><s n="pl"/></l><r>ossada<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>ossements<s n="n"/><s n="m"/><s n="pl"/></l><r>ossada<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>ossements<s n="n"/><s n="m"/><s n="pl"/></l><r>ossada<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+<e>       <p><l>ostéologie<s n="n"/></l>               <r>osteologia<s n="n"/></r></p></e>
+<e>       <p><l>ovaire<s n="n"/></l>                   <r>ovário<s n="n"/></r></p></e>
+<!--<e>       <p><l>ovelheiro<s n="n"/></l>                <r>ovelheiro<s n="n"/></r></p></e>-->
+<e>       <p><l>ovulation<s n="n"/></l>                <r>ovulação<s n="n"/></r></p></e>
+<!--<e>       <p><l>padrão<s n="n"/></l>                   <r>padrão<s n="n"/></r></p></e>-->
+<e>       <p><l>palette<s n="n"/></l>                  <r>paleta<s n="n"/></r></p></e>
+<e>       <p><l>papille<s n="n"/></l>                  <r>papila<s n="n"/></r></p></e>
+<e>       <p><l>parachute<s n="n"/></l>                <r>pára-quedas<s n="n"/></r></p></e>
+<!--<e>       <p><l>paralel<s n="n"/></l>                  <r>paralel<s n="n"/></r></p></e>-->
+<e>       <p><l>parasite<s n="n"/></l>                 <r>parasita<s n="n"/></r></p></e>
+<e>       <p><l>parent<s n="n"/></l>                   <r>parente<s n="n"/></r></p></e>
+<e>       <p><l>paria<s n="n"/></l>                    <r>pária<s n="n"/></r></p></e>
+<!--<e>       <p><l>partenaire<s n="n"/></l>               <r>partenaire<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>particulier<s n="n"/></l>              <r>particulier<s n="n"/></r></p></e>-->
+<e>       <p><l>parvovirose<s n="n"/></l>              <r>parvovirose<s n="n"/></r></p></e>
+<e>       <p><l>passage<s n="n"/></l>                  <r>passagem<s n="n"/></r></p></e>
+<e>       <p><l>passe-temps<s n="n"/></l>              <r>passatempo<s n="n"/></r></p></e>
+<!--<e>       <p><l>pastoreio<s n="n"/></l>                <r>pastoreio<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>pâtée<s n="n"/></l>                    <r>pâtée<s n="n"/></r></p></e>-->
+<e>       <p><l>pathogénie<s n="n"/></l>               <r>patogenia<s n="n"/></r></p></e>
+<e>       <p><l>patte<s n="n"/></l>                    <r>pata<s n="n"/></r></p></e>
+<e>       <p><l>pays<s n="n"/></l>                     <r>país<s n="n"/></r></p></e>
+<!--<e>       <p><l>peculiaridade<s n="n"/></l>            <r>peculiaridade<s n="n"/></r></p></e>-->
+<e>       <p><l>pedigree<s n="n"/></l>                 <r>pedigree<s n="n"/></r></p></e>
+<!--<e>       <p><l>pédomorphisme<s n="n"/></l>            <r>pédomorphisme<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>pelagem<s n="n"/></l>                  <r>pelagem<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>pelleterie<s n="n"/></l>               <r>pelleterie, n. f. arte de peleiro<s n="n"/></r></p></e>-->
+<e>       <p><l>peluche<s n="n"/></l>                  <r>pelúcia<s n="n"/></r></p></e>
+<e>       <p><l>pénalité<s n="n"/></l>                 <r>penalidade<s n="n"/></r></p></e>
+<!--<e>       <p><l>peniano<s n="n"/></l>                  <r>peniano<s n="n"/></r></p></e>-->
+<e>       <p><l>perception<s n="n"/></l>               <r>percepção<s n="n"/></r></p></e>
+<e>       <p><l>perforation<s n="n"/></l>              <r>perfuração<s n="n"/></r></p></e>
+<e>       <p><l>persistance<s n="n"/></l>              <r>persistência<s n="n"/></r></p></e>
+<e>       <p><l>perspicacité<s n="n"/></l>             <r>perpicácia<s n="n"/></r></p></e>
+<e>       <p><l>peste<s n="n"/></l>                    <r>peste<s n="n"/></r></p></e>
+<e>       <p><l>peuplement<s n="n"/></l>               <r>povoamento<s n="n"/></r></p></e>
+<e>       <p><l>phalange<s n="n"/></l>                 <r>falange<s n="n"/></r></p></e>
+<e>       <p><l>pharynx<s n="n"/></l>                  <r>faringe<s n="n"/></r></p></e>
+<!--<e>       <p><l>pinces<s n="n"/></l>                   <r>pinces<s n="n"/></r></p></e>-->
+<e>       <p><l>pinscher<s n="n"/></l>                 <r>pinscher<s n="n"/></r></p></e>
+<!--<e>       <p><l>pioneirismo<s n="n"/></l>              <r>pioneirismo<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>pitbull<s n="n"/></l>                  <r>pitbull<s n="n"/></r></p></e>-->
+<e>       <p><l>placenta<s n="n"/></l>                 <r>placenta<s n="n"/></r></p></e>
+<e>       <p><l>plaie<s n="n"/></l>                    <r>chaga<s n="n"/></r></p></e>
+<e>       <p><l>planche<s n="n"/></l>                  <r>tábuas<s n="n"/></r></p></e>
+<e>       <p><l>poil<s n="n"/></l>                     <r>pêlo<s n="n"/></r></p></e>
+<e>       <p><l>poitrail<s n="n"/></l>                 <r>peitoral<s n="n"/></r></p></e>
+<e v="br"><p><l>polêmico<s n="n"/></l>                 <r>polêmico<s n="n"/></r></p></e>
+<e v="pt"><p><l>polémico<s n="n"/></l>                 <r>polémico<s n="n"/></r></p></e>
+<e>       <p><l>portugais<s n="n"/></l>                <r>português<s n="n"/></r></p></e>
+<e>       <p><l>possesseur<s n="n"/></l>               <r>possuidor<s n="n"/></r></p></e>
+<!--<e>       <p><l>pote<s n="n"/></l>                     <r>pote<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>potencial<s n="n"/></l>                <r>potencial<s n="n"/></r></p></e>-->
+<e>       <p><l>pouls<s n="n"/></l>                    <r>pulso<s n="n"/></r></p></e>
+<e>       <p><l>prairie<s n="n"/></l>                  <r>prado<s n="n"/></r></p></e>
+<e>       <p><l>prédation<s n="n"/></l>                <r>predação<s n="n"/></r></p></e>
+<e>       <p><l>prédateur<s n="n"/></l>                <r>predador<s n="n"/></r></p></e>
+<e>       <p><l>prémisse<s n="n"/></l>                 <r>premissa<s n="n"/></r></p></e>
+<!--<e>       <p><l>prenhez<s n="n"/></l>                  <r>prenhez<s n="n"/></r></p></e>-->
+<e>       <p><l>prévalence<s n="n"/></l>               <r>prevalência<s n="n"/></r></p></e>
+<e>       <p><l>proie<s n="n"/></l>                    <r>preso<s n="n"/></r></p></e>
+<e>       <p><l>professeur<s n="n"/></l>               <r>professor<s n="n"/></r></p></e>
+<!--<e>       <p><l>progenitor<s n="n"/></l>               <r>progenitor<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>promeneur<s n="n"/></l>                <r>promeneur<s n="n"/></r></p></e>-->
+<e>       <p><l>propagation<s n="n"/></l>              <r>propagação<s n="n"/></r></p></e>
+<!--<e>       <p><l>propensão<s n="n"/></l>                <r>propensão<s n="n"/></r></p></e>-->
+<e>       <p><l>puberté<s n="n"/></l>                  <r>puberdade<s n="n"/></r></p></e>
+<e>       <p><l>puce<s n="n"/></l>                     <r>pulga<s n="n"/></r></p></e>
+<e>       <p><l>pulsation<s n="n"/></l>                <r>pulsação<s n="n"/></r></p></e>
+<!--<e>       <p><l>quadrinho<s n="n"/></l>                <r>quadrinho<s n="n"/></r></p></e>-->
+<e>       <p><l>qualification<s n="n"/></l>            <r>qualificação<s n="n"/></r></p></e>
+<e>       <p><l>quart<s n="n"/></l>                    <r>quarto<s n="n"/></r></p></e>
+<!--<e v="pt"><p><l>questionamento<s n="n"/></l>           <r>questionamento<s n="n"/></r></p></e>-->
+<!--<e v="br"><p><l>qüestionamento<s n="n"/></l>           <r>qüestionamento<s n="n"/></r></p></e>-->
+<e>       <p><l>queue<s n="n"/></l>                    <r>cauda<s n="n"/></r></p></e>
+<e>       <p><l>quiétude<s n="n"/></l>                 <r>quietude<s n="n"/></r></p></e>
+<!--<e>       <p><l>químic<s n="n"/></l>                   <r>químic<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>raso<s n="n"/></l>                     <r>raso<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>rafeiro<s n="n"/></l>                  <r>rafeiro<s n="n"/></r></p></e>-->
+<e>       <p><l>rage<s n="n"/></l>                     <r>raiva<s n="n"/></r></p></e>
+<!--<e>       <p><l>ramassage<s n="n"/></l>                <r>ramassage<s n="n"/></r></p></e>-->
+<e>       <p><l>ramification<s n="n"/></l>             <r>ramificação<s n="n"/></r></p></e>
+<e>       <p><l>rappel<s n="n"/></l>                   <r>chamamento<s n="n"/></r></p></e>
+<!--<e>       <p><l>rastreador<s n="n"/></l>               <r>rastreador<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>rastreio<s n="n"/></l>                 <r>rastreio<s n="n"/></r></p></e>-->
+<e>       <p><l>rate<s n="n"/></l>                     <r>baço<s n="n"/></r></p></e>
+<e>       <p><l>ration<s n="n"/></l>                   <r>ração<s n="n"/></r></p></e>
+<e>       <p><l>recueillement<s n="n"/></l>            <r>recolhimento<s n="n"/></r></p></e>
+<e>       <p><l>reflet<s n="n"/></l>                   <r>reflexo<s n="n"/></r></p></e>
+<!--<e>       <p><l>règlementation<s n="n"/></l>           <r>règlementation<s n="n"/></r></p></e>-->
+<e>       <p><l>rein<s n="n"/></l>                     <r>rim<s n="n"/></r></p></e>
+<e>       <p><l>relation<b/>humaine<s n="n"/></l>      <r>relacionamento<s n="n"/></r></p></e>
+<!--<e>       <p><l>relaxamento<s n="n"/></l>              <r>relaxamento<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>remoção<s n="n"/></l>                  <r>remoção<s n="n"/></r></p></e>-->
+<e>       <p><l>renaissance<s n="n"/></l>              <r>renascimento<s n="n"/></r></p></e>
+<e>       <p><l>renard<s n="n"/></l>                   <r>raposa<s n="n"/></r></p></e>
+<e>       <p><l>repas<s n="n"/></l>                    <r>refeição<s n="n"/></r></p></e>
+<e>       <p><l>résidu<s n="n"/></l>                   <r>resíduo<s n="n"/></r></p></e>
+<e>       <p><l>résultant<s n="n"/></l>                <r>resultante<s n="n"/></r></p></e>
+<e>       <p><l>réticence<s n="n"/></l>                <r>reticência<s n="n"/></r></p></e>
+<e>       <p><l>rétine<s n="n"/></l>                   <r>retina<s n="n"/></r></p></e>
+<!--<e>       <p><l>retriever<s n="n"/></l>                <r>retriever<s n="n"/></r></p></e>-->
+<e>       <p><l>revanche<s n="n"/></l>                 <r>desforra<s n="n"/></r></p></e>
+<e>       <p><l>rigidité<s n="n"/></l>                 <r>rigidez<s n="n"/></r></p></e>
+<!--<e>       <p><l>rinha<s n="n"/></l>                    <r>rinha<s n="n"/></r></p></e>-->
+<e>       <p><l>rite<s n="n"/></l>                     <r>rito<s n="n"/></r></p></e>
+<!--<e>       <p><l>rôdeur<s n="n"/></l>                   <r>vagabundo<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>truand<s n="n"/></l>                   <r>vagabundo<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>Romênia<s n="n"/></l>                  <r>Romênia<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>rongeur<s n="n"/></l>                  <r>rongeur<s n="n"/></r></p></e>-->
+<e>       <p><l>rottweiler<s n="n"/></l>               <r>rottweiler<s n="n"/></r></p></e>
+<!--<e>       <p><l>ruim<s n="n"/></l>                     <r>ruim<s n="n"/></r></p></e>-->
+<e>       <p><l>rut<s n="n"/></l>                      <r>cio<s n="n"/></r></p></e>
+<e>       <p><l>salissure<s n="n"/></l>                <r>sujidade<s n="n"/></r></p></e>
+<e>       <p><l>salmonella<s n="n"/></l>               <r>salmonella<s n="n"/></r></p></e>
+<e>       <p><l>saint-bernard<s n="n"/></l>            <r>são-bernardo<s n="n"/></r></p></e>
+<e>       <p><l>sauteur<s n="n"/></l>                  <r>saltador<s n="n"/></r></p></e>
+<e>       <p><l>sauvetage<s n="n"/></l>                <r>salvamento<s n="n"/></r></p></e>
+<e>       <p><l>schnauzer<s n="n"/></l>                <r>schnauzer<s n="n"/></r></p></e>
+<e>       <p><l>scorpion<s n="n"/></l>                 <r>escorpião<s n="n"/></r></p></e>
+<e>       <p><l>sculpture<s n="n"/></l>                <r>escultura<s n="n"/></r></p></e>
+<e>       <p><l>sécurité<s n="n"/></l>                 <r>segurança<s n="n"/></r></p></e>
+<!--<e>       <p><l>selle<s n="n"/></l>                    <r>boute-selle, n. m. inv. bota-selas<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>sêmen<s n="n"/></l>                    <r>sêmen<s n="n"/></r></p></e>-->
+<e>       <p><l>sens<s n="n"/></l>                     <r>senso<s n="n"/></r></p></e>
+<!--<e>       <p><l>senior<s n="n"/></l>                   <r>senior<s n="n"/></r></p></e>-->
+<e>       <p><l>sensor<s n="n"/></l>                   <r>sensor<s n="n"/></r></p></e>
+<e>       <p><l>sérotonine<s n="n"/></l>               <r>serotonina<s n="n"/></r></p></e>
+<!--<e>       <p><l>shar<b/>pei<s n="n"/></l>              <r>shar<b/>pei<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>shih<b/>tzu<s n="n"/></l>              <r>shih<b/>tzu<s n="n"/></r></p></e>-->
+<e>       <p><l>signalisation<s n="n"/></l>            <r>sinalização<s n="n"/></r></p></e>
+<e>       <p><l>sirène<s n="n"/></l>                   <r>sirene<s n="n"/></r></p></e>
+<e>       <p><l>socialisation<s n="n"/></l>            <r>socialização<s n="n"/></r></p></e>
+<e>       <p><l>sodium<s n="n"/></l>                   <r>sódio<s n="n"/></r></p></e>
+<e>       <p><l>soie<s n="n"/></l>                     <r>seda<s n="n"/></r></p></e>
+<e>       <p><l>sorcière<s n="n"/></l>                 <r>bruxaria<s n="n"/></r></p></e>
+<e>       <p><l>soumission<s n="n"/></l>               <r>submissão<s n="n"/></r></p></e>
+<!--<e>       <p><l>sobrepeso<s n="n"/></l>                <r>sobrepeso<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>subcategoria<s n="n"/></l>             <r>subcategoria<s n="n"/></r></p></e>-->
+<e>       <p><l>sous-espèce<s n="n"/></l>              <r>subespécie<s n="n"/></r></p></e>
+<e>       <p><l>sous-embranchement<s n="n"/></l>       <r>subfilo<s n="n"/></r></p></e>
+<!--<e>       <p><l>subordem<s n="n"/></l>                 <r>subordem<s n="n"/></r></p></e>-->
+<e>       <p><l>spécimen<s n="n"/></l>                 <r>espécime<s n="n"/></r></p></e>
+<e>       <p><l>spectrométrie<s n="n"/></l>            <r>espectrometria<s n="n"/></r></p></e>
+<!--<e>       <p><l>espermatozóide<s n="n"/></l>           <r>espermatozóide<s n="n"/></r></p></e>-->
+<e>       <p><l>spitz<s n="n"/></l>                    <r>spitz<s n="n"/></r></p></e>
+<e>       <p><l>stage<s n="n"/></l>                    <r>estágio<s n="n"/></r></p></e>
+<e>       <p><l>stagnation<s n="n"/></l>               <r>estagnação<s n="n"/></r></p></e>
+<e>       <p><l>standard<s n="n"/></l>                 <r>padrão<s n="n"/></r></p></e>
+<e>       <p><l>statut<s n="n"/></l>                   <r>status<s n="n"/></r></p></e>
+<e>       <p><l>sternum<s n="n"/></l>                  <r>esterno<s n="n"/></r></p></e>
+<e>       <p><l>stop<s n="n"/></l>                     <r>stop<s n="n"/></r></p></e>
+<e>       <p><l>stratus<s n="n"/></l>                  <r>estrato<s n="n"/></r></p></e>
+<e>       <p><l>stupéfiant<s n="n"/></l>               <r>narcótico<s n="n"/></r></p></e>
+<!--<e>       <p><l>subsistência<s n="n"/></l>             <r>subsistência<s n="n"/></r></p></e>-->
+<e>       <p><l>succès<s n="n"/></l>                   <r>sucesso<s n="n"/></r></p></e>
+<!--<e>       <p><l>supercílio<s n="n"/></l>               <r>supercílio<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>surgimento<s n="n"/></l>               <r>surgimento<s n="n"/></r></p></e>-->
+<e>       <p><l>synonyme<s n="n"/></l>                 <r>sinônimo<s n="n"/></r></p></e>
+<e>       <p><l>syntaxe<s n="n"/></l>                  <r>sintaxe<s n="n"/></r></p></e>
+<!--<e>       <p><l>tæniasis<s n="n"/></l>                 <r>tæniasis<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>tártaro<s n="n"/></l>                  <r>tártaro<s n="n"/></r></p></e>-->
+<e>       <p><l>tactile<s n="n"/></l>                  <r>tato<s n="n"/></r></p></e>
+<e>       <p><l>taxonomie<s n="n"/></l>                <r>taxonomia<s n="n"/></r></p></e>
+<e>       <p><l>teckel<s n="n"/></l>                   <r>dachshund<s n="n"/></r></p></e>
+<e>       <p><l>tempérament<s n="n"/></l>              <r>temperamento<s n="n"/></r></p></e>
+<e>       <p><l>tendon<s n="n"/></l>                   <r>tendão<s n="n"/></r></p></e>
+<e>       <p><l>tentation<s n="n"/></l>                <r>tentação<s n="n"/></r></p></e>
+<e>       <p><l>terminaison<s n="n"/></l>              <r>terminação<s n="n"/></r></p></e>
+<!--<e>       <p><l>terrier<s n="n"/></l>                  <r>bull-terrier, n. m. cão rateiro<s n="n"/></r></p></e>-->
+<e>       <p><l>testicule<s n="n"/></l>                <r>testículo<s n="n"/></r></p></e>
+<e>       <p><l>théobromine<s n="n"/></l>              <r>teobromina<s n="n"/></r></p></e>
+<e>       <p><l>thermomètre<s n="n"/></l>              <r>termômetro<s n="n"/></r></p></e>
+<e>       <p><l>thorax<s n="n"/></l>                   <r>tórax<s n="n"/></r></p></e>
+<!--<e>       <p><l>tiers<s n="n"/></l>                    <r>tiers<s n="n"/></r></p></e>-->
+<e>       <p><l>tique<s n="n"/></l>                    <r>carrapato<s n="n"/></r></p></e>
+<!--<e>       <p><l>toilettage<s n="n"/></l>               <r>toilettage<s n="n"/></r></p></e>-->
+<e>       <p><l>topographie<s n="n"/></l>              <r>topografia<s n="n"/></r></p></e>
+<e>       <p><l>toxoplasmose<s n="n"/></l>             <r>toxoplasmose<s n="n"/></r></p></e>
+<e>       <p><l>trace<s n="n"/></l>                    <r>traço<s n="n"/></r></p></e>
+<e>       <p><l>traditeur<s n="n"/></l>                <r>traidor<s n="n"/></r></p></e>
+<e>       <p><l>trauma<s n="n"/></l>                   <r>trauma<s n="n"/></r></p></e>
+<e>       <p><l>traîneau<s n="n"/></l>                 <r>trenó<s n="n"/></r></p></e>
+<!--<e>       <p><l>trichuri<s n="n"/></l>                 <r>trichuri<s n="n"/></r></p></e>-->
+<e>       <p><l>trot<s n="n"/></l>                     <r>trote<s n="n"/></r></p></e>
+<e>       <p><l>truffe<s n="n"/></l>                   <r>túbera<s n="n"/></r></p></e>
+<!--<e>       <p><l>ucraniano<s n="n"/></l>                <r>ucraniano<s n="n"/></r></p></e>-->
+<e>       <p><l>ultrason<s n="n"/></l>                 <r>ultrassom<s n="n"/></r></p></e>
+<e>       <p><l>urètre<s n="n"/></l>                   <r>uretra<s n="n"/></r></p></e>
+<e>       <p><l>utilisabilité<s n="n"/></l>            <r>usabilidade<s n="n"/></r></p></e>
+<e>       <p><l>vaccination<s n="n"/></l>              <r>vacinação<s n="n"/></r></p></e>
+<e>       <p><l>valkyrie<s n="n"/></l>                 <r>valquíria<s n="n"/></r></p></e>
+<e>       <p><l>vampire<s n="n"/></l>                  <r>vampiro<s n="n"/></r></p></e>
+<e>       <p><l>variable<s n="n"/></l>                 <r>variável<s n="n"/></r></p></e>
+<e>       <p><l>variété<s n="n"/></l>                  <r>variedade<s n="n"/></r></p></e>
+<e>       <p><l>vascularisation<s n="n"/></l>          <r>vascularização<s n="n"/></r></p></e>
+<!--<e>       <p><l>vasilha<s n="n"/></l>                  <r>vasilha<s n="n"/></r></p></e>-->
+<e>       <p><l>vénerie<s n="n"/></l>                  <r>montaria<s n="n"/></r></p></e>
+<!--<e>       <p><l>vermifugation<s n="n"/></l>            <r>vermifugation<s n="n"/></r></p></e>-->
+<!--<e>       <p><l>vermifuge<s n="n"/></l>                <r>vermifuge<s n="n"/></r></p></e>-->
+<e>       <p><l>vertèbre<s n="n"/></l>                 <r>vértebra<s n="n"/></r></p></e>
+<e>       <p><l>vessie<s n="n"/></l>                   <r>bexiga<s n="n"/></r></p></e>
+<!--<e>       <p><l>vétérinaire<s n="n"/></l>              <r>vétérinaire<s n="n"/></r></p></e>-->
+<e>       <p><l>vibrisse<s n="n"/></l>                 <r>vibrissa<s n="n"/></r></p></e>
+<e>       <p><l>vieillissement<s n="n"/></l>           <r>envelhecimento<s n="n"/></r></p></e>
+<e>       <p><l>villa<s n="n"/></l>                    <r>vila<s n="n"/></r></p></e>
+<!--<e>       <p><l>visualização<s n="n"/></l>             <r>visualização<s n="n"/></r></p></e>-->
+<e>       <p><l>vitamine<s n="n"/></l>                 <r>vitamina<s n="n"/></r></p></e>
+<e>       <p><l>vivacité<s n="n"/></l>                 <r>vivacidade<s n="n"/></r></p></e>
+<e>       <p><l>vocable<s n="n"/></l>                  <r>vocábulo<s n="n"/></r></p></e>
+<e>       <p><l>voisinage<s n="n"/></l>                <r>vizinhança<s n="n"/></r></p></e>
+<e v="pt"><p><l>vomissement<s n="n"/></l>              <r>vómito<s n="n"/></r></p></e>
+<e v="br"><p><l>vomissement<s n="n"/></l>              <r>vômito<s n="n"/></r></p></e>
+<!--<e>       <p><l>yorkshire<b/>terrier<s n="n"/></l>     <r>yorkshire<b/>terrier<s n="n"/></r></p></e>-->
+<e>       <p><l>zèbre<s n="n"/></l>                    <r>zebra<s n="n"/></r></p></e>
+<e>       <p><l>zoologie<s n="n"/></l>                 <r>zoologia<s n="n"/></r></p></e>
+<e>       <p><l>zoonose<s n="n"/></l>                  <r>zoonose<s n="n"/></r></p></e>
+<!--<e>       <p><l>zoothérapie<s n="n"/></l>              <r>zoothérapie<s n="n"/></r></p></e>-->
 
-    <!-- ******************************
+<e>       <p><l>vingtaine<s n="n"/></l>                <r>vintena<s n="n"/></r></p></e>
+<e>       <p><l>centaine<s n="n"/></l>                 <r>centena<s n="n"/></r></p></e>
+<!--<e>       <p><l>centésimo<s n="n"/></l>                <r>centésimo<s n="n"/></r></p></e>-->
+
+<e>       <p><l>cm2<s n="n"/></l>                      <r>cm2<s n="n"/></r></p></e>
+<e>       <p><l>fig<s n="n"/></l>                      <r>fig<s n="n"/></r></p></e>
+<e>       <p><l>no<s n="n"/></l>                       <r>no<s n="n"/></r></p></e>
+<e>       <p><l>pg<s n="n"/></l>                       <r>pág<s n="n"/></r></p></e>
+<e>       <p><l>pgs<s n="n"/></l>                      <r>págs<s n="n"/></r></p></e>
+<e>       <p><l>tab<s n="n"/></l>                      <r>tab<s n="n"/></r></p></e>
+<!-- ******************************
           group adj_symbol
       ****************************** -->
 <e r="RL"><p><l>abondant<s n="adj"/><s n="GD"/></l>    <r>abundante<s n="adj"/><s n="mf"/></r></p></e>
@@ -17054,10 +17884,9 @@
 <e>       <p><l>globale<s n="adj"/></l>                <r>global<s n="adj"/></r></p></e>
 <e>       <p><l>gouvernemental<s n="adj"/></l>         <r>governamental<s n="adj"/></r></p></e>
 <e>       <p><l>gracieux<s n="adj"/></l>               <r>gracioso<s n="adj"/></r></p></e>
-<e>       <p><l>grand<s n="adj"/></l>                  <r>grande<s n="adj"/></r></p></e>
-<!--<e r="RL"><p><l>grand<s n="adj"/><s n="GD"/></l>       <r>grande<s n="adj"/><s n="mf"/></r></p></e>-->
-<!--<e r="RL"><p><l>grand<s n="adj"/><s n="m"/></l>       <r>grande<s n="adj"/><s n="mf"/></r></p></e>-->
-<!--<e r="RL"><p><l>grand<s n="adj"/><s n="f"/></l>       <r>grande<s n="adj"/><s n="mf"/></r></p></e>-->
+<e r="RL"><p><l>grand<s n="adj"/><s n="GD"/></l>       <r>grande<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>grand<s n="adj"/><s n="m"/></l>        <r>grande<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>grand<s n="adj"/><s n="f"/></l>        <r>grande<s n="adj"/><s n="mf"/></r></p></e>
 <e>       <p><l>graphique<s n="adj"/></l>              <r>gráfico<s n="adj"/></r></p></e>
 <!--<e r="LR" c="new-category"><p><l>graphique<s n="adj"/><s n="mf"/></l><r>gráfico<s n="adj"/><s n="GD"/></r></p></e>-->
 <!--<e r="LR" c="new-category"><p><l>graphique<s n="adj"/><s n="mf"/></l><r>gráfico<s n="adj"/><s n="m"/></r></p></e>-->
@@ -17707,7 +18536,7 @@
 <!--<e r="LR"><p><l>nègre<s n="adj"/><s n="mf"/></l>       <r>negro<s n="adj"/><s n="f"/></r></p></e>-->
 <e>       <p><l>net<s n="adj"/></l>                    <r>neto<s n="adj"/></r></p></e>
 <e>       <p><l>net<s n="adj"/></l>                    <r>limpo<s n="adj"/></r></p></e>
-<e>       <p><l>neuf<s n="adj"/></l>                   <r>novo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>neuf<s n="adj"/></l>                   <r>novo<s n="adj"/></r></p></e>
 <e>       <p><l>neurosensoriel<s n="adj"/></l>         <r>neurosensorial<s n="adj"/></r></p></e>
 <e>       <p><l>neutre<s n="adj"/></l>                 <r>neutro<s n="adj"/></r></p></e>
 <e r="RL"><p><l>neutre<s n="adj"/></l>                 <r>neutral<s n="adj"/></r></p></e>
@@ -18683,7 +19512,314 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e r="RL"><p><l>sauver<s n="adj"/></l>                 <r>salvar<s n="adj"/></r></p></e>
 <e r="RL"><p><l>submerger<s n="adj"/></l>              <r>submergir<s n="adj"/></r></p></e>
 <e r="RL"><p><l>suspendre<s n="adj"/></l>              <r>suspender<s n="adj"/></r></p></e>
-    <!-- ******************************
+
+<e>       <p><l>abdominal<s n="adj"/></l>              <r>abdominal<s n="adj"/></r></p></e>
+<e>       <p><l>abducteur<s n="adj"/></l>              <r>abdutor<s n="adj"/></r></p></e>
+<!--<e>       <p><l>abrangente<s n="adj"/></l>             <r>abrangente<s n="adj"/></r></p></e>-->
+<e>       <p><l>abusif<s n="adj"/></l>                 <r>abusivo<s n="adj"/></r></p></e>
+<!--<e>       <p><l>adaptativo<s n="adj"/></l>             <r>adaptativo<s n="adj"/></r></p></e>-->
+<e>       <p><l>adducteur<s n="adj"/></l>              <r>adutor<s n="adj"/></r></p></e>
+<e>       <p><l>adéquat<s n="adj"/></l>                <r>adequado<s n="adj"/></r></p></e>
+<e>       <p><l>adulte<s n="adj"/></l>                 <r>adulto<s n="adj"/></r></p></e>
+<e>       <p><l>affectif<s n="adj"/></l>               <r>afetivo<s n="adj"/></r></p></e>
+<e>       <p><l>affligé<s n="adj"/></l>                <r>aflito<s n="adj"/></r></p></e>
+<e>       <p><l>aiguisé<s n="adj"/></l>                <r>aguçado<s n="adj"/></r></p></e>
+<e>       <p><l>aiguisé<s n="adj"/></l>                <r>afiado<s n="adj"/></r></p></e>
+<e>       <p><l>alimentaire<s n="adj"/></l>            <r>alimentar<s n="adj"/></r></p></e>
+<e r="RL"><p><l>américain<s n="adj"/></l>              <r>estadunidense<s n="adj"/></r></p></e>
+<e>       <p><l>amical<s n="adj"/></l>                 <r>amigável<s n="adj"/></r></p></e>
+<e>       <p><l>ancestral<s n="adj"/></l>              <r>ancestral<s n="adj"/></r></p></e>
+<e>       <p><l>anecdotique<s n="adj"/></l>            <r>anedótico<s n="adj"/></r></p></e>
+<e>       <p><l>amphibie<s n="adj"/></l>               <r>anfíbio<s n="adj"/></r></p></e>
+<e>       <p><l>animal<s n="adj"/></l>                 <r>animal<s n="adj"/></r></p></e>
+<e>       <p><l>antérieur<s n="adj"/></l>              <r>anterior<s n="adj"/></r></p></e>
+<!--<e>       <p><l>antropogênico<s n="adj"/></l>          <r>antropogênico<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>antipersonnel<s n="adj"/></l>          <r>antipersonnel<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>anti-personnel<s n="adj"/></l>         <r>anti-personnel<s n="adj"/></r></p></e>-->
+<e>       <p><l>artificiel<s n="adj"/></l>             <r>artificial<s n="adj"/></r></p></e>
+<e>       <p><l>assyrien<s n="adj"/></l>               <r>assírio<s n="adj"/></r></p></e>
+<e>       <p><l>athlétique<s n="adj"/></l>             <r>atlético<s n="adj"/></r></p></e>
+<e>       <p><l>auditif<s n="adj"/></l>                <r>auditivo<s n="adj"/></r></p></e>
+<e>       <p><l>auriculaire<s n="adj"/></l>            <r>auricular<s n="adj"/></r></p></e>
+<e>       <p><l>badin<s n="adj"/></l>                  <r>brincalhão<s n="adj"/></r></p></e>
+<e>       <p><l>bleu<s n="adj"/></l>                   <r>azul<s n="adj"/></r></p></e>
+<!--<e>       <p><l>boieiro<s n="adj"/></l>                <r>boieiro<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>brevilíneo<s n="adj"/></l>             <r>brevilíneo<s n="adj"/></r></p></e>-->
+<e>       <p><l>brillant<s n="adj"/></l>               <r>brilhante<s n="adj"/></r></p></e>
+<!--<e>       <p><l>canídeo<s n="adj"/></l>                <r>canídeo<s n="adj"/></r></p></e>-->
+<e>       <p><l>canin<s n="adj"/></l>                  <r>canino<s n="adj"/></r></p></e>
+<!--<e>       <p><l>cardiovascular<s n="adj"/></l>         <r>cardiovascular<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>caroata<s n="adj"/></l>                <r>caroata<s n="adj"/></r></p></e>-->
+<e>       <p><l>cartilagineux<s n="adj"/></l>          <r>cartilaginoso<s n="adj"/></r></p></e>
+<!--<e>       <p><l>causador<s n="adj"/></l>               <r>causador<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>celestial<s n="adj"/></l>              <r>celestial<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>celto<s n="adj"/></l>                  <r>celto<s n="adj"/></r></p></e>-->
+<e>       <p><l>cervical<s n="adj"/></l>               <r>cervical<s n="adj"/></r></p></e>
+<e>       <p><l>chirurgique<s n="adj"/></l>            <r>cirúrgico<s n="adj"/></r></p></e>
+<!--<e>       <p><l>choquant<s n="adj"/></l>               <r>choquant<s n="adj"/></r></p></e>-->
+<e>       <p><l>chronologique<s n="adj"/></l>          <r>cronológico<s n="adj"/></r></p></e>
+<!--<e>       <p><l>cinzento<s n="adj"/></l>               <r>cinzento<s n="adj"/></r></p></e>-->
+<e>       <p><l>circonvoisin<s n="adj"/></l>           <r>circunvizinho<s n="adj"/></r></p></e>
+<e>       <p><l>communicatif<s n="adj"/></l>           <r>comunicativo<s n="adj"/></r></p></e>
+<e>       <p><l>comportemental<s n="adj"/></l>         <r>comportamental<s n="adj"/></r></p></e>
+<!--<e>       <p><l>comprido<s n="adj"/></l>               <r>comprido<s n="adj"/></r></p></e>-->
+<e>       <p><l>congénère<s n="adj"/></l>              <r>congênere<s n="adj"/></r></p></e>
+<e>       <p><l>connexe<s n="adj"/></l>                <r>conexo<s n="adj"/></r></p></e>
+<!--<e>       <p><l>conotativo<s n="adj"/></l>             <r>conotativo<s n="adj"/></r></p></e>-->
+<e>       <p><l>conscient<s n="adj"/></l>              <r>consciente<s n="adj"/></r></p></e>
+<e>       <p><l>consistant<s n="adj"/></l>             <r>consistente<s n="adj"/></r></p></e>
+<!--<e>       <p><l>contagiante<s n="adj"/></l>            <r>contagiante<s n="adj"/></r></p></e>-->
+<e>       <p><l>contagieux<s n="adj"/></l>             <r>contagioso<s n="adj"/></r></p></e>
+<!--<e>       <p><l>controverso<s n="adj"/></l>            <r>controverso<s n="adj"/></r></p></e>-->
+<e>       <p><l>convoluté<s n="adj"/></l>              <r>convoluto<s n="adj"/></r></p></e>
+<e>       <p><l>corporel<s n="adj"/></l>               <r>corporal<s n="adj"/></r></p></e>
+<e>       <p><l>crânien<s n="adj"/></l>                <r>craniano<s n="adj"/></r></p></e>
+<e>       <p><l>culinaire<s n="adj"/></l>              <r>culinário<s n="adj"/></r></p></e>
+<e>       <p><l>cynégétique<s n="adj"/></l>            <r>cinegético<s n="adj"/></r></p></e>
+<!--<e>       <p><l>cynologique<s n="adj"/></l>            <r>cynologique<s n="adj"/></r></p></e>-->
+<e>       <p><l>d'eau<s n="adj"/></l>                  <r>d'água<s n="adj"/></r></p></e>
+<e>       <p><l>dangereux<s n="adj"/></l>              <r>perigoso<s n="adj"/></r></p></e>
+<e>       <p><l>déficient<s n="adj"/></l>              <r>deficiente<s n="adj"/></r></p></e>
+<!--<e>       <p><l>denotativo<s n="adj"/></l>             <r>denotativo<s n="adj"/></r></p></e>-->
+<e>       <p><l>dentaire<s n="adj"/></l>               <r>dentário<s n="adj"/></r></p></e>
+<e>       <p><l>diagonal<s n="adj"/></l>               <r>diagonal<s n="adj"/></r></p></e>
+<!--<e>       <p><l>dianteiro<s n="adj"/></l>              <r>dianteiro<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>différent<s n="adj"/></l>              <r>différent<s n="adj"/></r></p></e>-->
+<e>       <p><l>digestif<s n="adj"/></l>               <r>digestivo<s n="adj"/></r></p></e>
+<e>       <p><l>digitigrade<s n="adj"/></l>            <r>digitígrado<s n="adj"/></r></p></e>
+<!--<e>       <p><l>disseminador<s n="adj"/></l>           <r>disseminador<s n="adj"/></r></p></e>-->
+<e>       <p><l>docile<s n="adj"/></l>                 <r>dócil<s n="adj"/></r></p></e>
+<e>       <p><l>dominant<s n="adj"/></l>               <r>dominante<s n="adj"/></r></p></e>
+<e>       <p><l>écoutant<s n="adj"/></l>               <r>ouvinte<s n="adj"/></r></p></e>
+<e>       <p><l>effrayant<s n="adj"/></l>              <r>assustador<s n="adj"/></r></p></e>
+<e>       <p><l>élastique<s n="adj"/></l>              <r>elástico<s n="adj"/></r></p></e>
+<!--<e>       <p><l>endurant<s n="adj"/></l>               <r>sofredor<s n="adj"/></r></p></e>-->
+<e>       <p><l>enfantin<s n="adj"/></l>               <r>infantil<s n="adj"/></r></p></e>
+<e>       <p><l>épars<s n="adj"/></l>                  <r>disperso<s n="adj"/></r></p></e>
+<e>       <p><l>érectile<s n="adj"/></l>               <r>erétil<s n="adj"/></r></p></e>
+<!--<e>       <p><l>esfomeado<s n="adj"/></l>              <r>esfomeado<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>déluré<s n="adj"/></l>                 <r>esperto<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>émerillonné<s n="adj"/></l>            <r>esperto<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>fringant<s n="adj"/></l>               <r>esperto<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>espinhal<s n="adj"/></l>               <r>espinhal<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>estressario<s n="adj"/></l>            <r>estressario<s n="adj"/></r></p></e>-->
+<e>       <p><l>étymologique<s n="adj"/></l>           <r>etimológico<s n="adj"/></r></p></e>
+<e>       <p><l>excitant<s n="adj"/></l>               <r>excitante<s n="adj"/></r></p></e>
+<e>       <p><l>existant<s n="adj"/></l>               <r>existante<s n="adj"/></r></p></e>
+<!--<e>       <p><l>exótico<s n="adj"/></l>                <r>exótico<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>extensor<s n="adj"/></l>               <r>extensor<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>extinto<s n="adj"/></l>                <r>extinto<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>extrassensorial<s n="adj"/></l>        <r>extrassensorial<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>fécal<s n="adj"/></l>                  <r>fécal<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>feral<s n="adj"/></l>                  <r>feral<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>fértel<s n="adj"/></l>                 <r>fértel<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>fibroso<s n="adj"/></l>                <r>fibroso<s n="adj"/></r></p></e>-->
+<e>       <p><l>fictif<s n="adj"/></l>                 <r>fictício<s n="adj"/></r></p></e>
+<e>       <p><l>final<s n="adj"/></l>                  <r>final<s n="adj"/></r></p></e>
+<e>       <p><l>fléchisseur<s n="adj"/></l>            <r>flexor<s n="adj"/></r></p></e>
+<!--<e>       <p><l>formador<s n="adj"/></l>               <r>formador<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>francophone<s n="adj"/></l>            <r>francophone<s n="adj"/></r></p></e>-->
+<e>       <p><l>friable<s n="adj"/></l>                <r>friável<s n="adj"/></r></p></e>
+<!--<e>       <p><l>gaélico<s n="adj"/></l>                <r>gaélico<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>gaúcho<s n="adj"/></l>                 <r>gaúcho<s n="adj"/></r></p></e>-->
+<e>       <p><l>gaulois<s n="adj"/></l>                <r>gaulês<s n="adj"/></r></p></e>
+<!--<e>       <p><l>gentil, adj. gentil<s n="adj"/></l>    <r>gentil<s n="adj"/></r></p></e>-->
+<e>       <p><l>germanique<s n="adj"/></l>             <r>germânico<s n="adj"/></r></p></e>
+<e>       <p><l>gourmand<s n="adj"/></l>               <r>glutão<s n="adj"/></r></p></e>
+<!--<e>       <p><l>gradual<s n="adj"/></l>                <r>gradual<s n="adj"/></r></p></e>-->
+<e>       <p><l>gras<s n="adj"/></l>                   <r>gordo<s n="adj"/></r></p></e>
+<e>       <p><l>gréco-romain<s n="adj"/></l>           <r>greco-romano<s n="adj"/></r></p></e>
+<e>       <p><l>gregaire<s n="adj"/></l>               <r>gregário<s n="adj"/></r></p></e>
+<e>       <p><l>gustatif<s n="adj"/></l>               <r>gustativo<s n="adj"/></r></p></e>
+<!--<e>       <p><l>gris<s n="adj"/></l>                   <r>gris<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>gros<s n="adj"/></l>                   <r>grosso<s n="adj"/></r></p></e>-->
+<e>       <p><l>habituel<s n="adj"/></l>               <r>habitual<s n="adj"/></r></p></e>
+<!--<e>       <p><l>handicapé<s n="adj"/></l>              <r>handicapé<s n="adj"/></r></p></e>-->
+<e>       <p><l>héréditaire<s n="adj"/></l>            <r>hereditário<s n="adj"/></r></p></e>
+<e>       <p><l>héroïque<s n="adj"/></l>               <r>heróico<s n="adj"/></r></p></e>
+<e>       <p><l>hétérogene<s n="adj"/></l>             <r>heterogêneo<s n="adj"/></r></p></e>
+<e>       <p><l>homogène<s n="adj"/></l>               <r>homogéneo<s n="adj"/></r></p></e>
+<e v="pt"><p><l>homonyme<s n="adj"/></l>               <r>homônimo<s n="adj"/></r></p></e>
+<e v="br"><p><l>homonyme<s n="adj"/></l>               <r>homónimo<s n="adj"/></r></p></e>
+<e>       <p><l>horizontal<s n="adj"/></l>             <r>horizontal<s n="adj"/></r></p></e>
+<e>       <p><l>hybride<s n="adj"/></l>                <r>híbrido<s n="adj"/></r></p></e>
+<!--<e v="br"><p><l>hiperativo<s n="adj"/></l>             <r>hiperativo<s n="adj"/></r></p></e>-->
+<!--<e v="pt"><p><l>hiperactivo<s n="adj"/></l>            <r>hiperactivo<s n="adj"/></r></p></e>-->
+<e>       <p><l>imaginaire<s n="adj"/></l>             <r>imaginário<s n="adj"/></r></p></e>
+<e>       <p><l>important<s n="adj"/></l>              <r>importante<s n="adj"/></r></p></e>
+<e>       <p><l>imprécis<s n="adj"/></l>               <r>impreciso<s n="adj"/></r></p></e>
+<e>       <p><l>immunologique<s n="adj"/></l>          <r>imunológico<s n="adj"/></r></p></e>
+<!--<e>       <p><l>inaudible<s n="adj"/></l>              <r>inaudible<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>incólume<s n="adj"/></l>               <r>incólume<s n="adj"/></r></p></e>-->
+<e v="pt"><p><l>incommode<s n="adj"/></l>              <r>incómodo<s n="adj"/></r></p></e>
+<e v="br"><p><l>incommode<s n="adj"/></l>              <r>incómodo<s n="adj"/></r></p></e>
+<e>       <p><l>incomplet<s n="adj"/></l>              <r>incompleto<s n="adj"/></r></p></e>
+<e>       <p><l>inconnu<s n="adj"/></l>                <r>desconhecido<s n="adj"/></r></p></e>
+<e>       <p><l>infectieux<s n="adj"/></l>             <r>infectuoso<s n="adj"/></r></p></e>
+<e>       <p><l>infectieux<s n="adj"/></l>             <r>infeccioso<s n="adj"/></r></p></e>
+<e>       <p><l>infime<s n="adj"/></l>                 <r>ínfimo<s n="adj"/></r></p></e>
+<e r="LR"><p><l>inhabituel<s n="adj"/></l>             <r>não<b/>habitual<s n="adj"/></r></p></e>
+<e>       <p><l>injustifié<s n="adj"/></l>             <r>injustificado<s n="adj"/></r></p></e>
+<!--<e>       <p><l>inquestionável<s n="adj"/></l>         <r>inquestionável<s n="adj"/></r></p></e>-->
+<e>       <p><l>intempestif<s n="adj"/></l>            <r>intempestivo<s n="adj"/></r></p></e>
+<!--<e>       <p><l>interfécond<s n="adj"/></l>            <r>interfécond<s n="adj"/></r></p></e>-->
+<e>       <p><l>international<s n="adj"/></l>          <r>internacional<s n="adj"/></r></p></e>
+<e>       <p><l>interplanétaire<s n="adj"/></l>        <r>interplanetário<s n="adj"/></r></p></e>
+<e>       <p><l>intestinal<s n="adj"/></l>             <r>intestinal<s n="adj"/></r></p></e>
+<e>       <p><l>intraveineux<s n="adj"/></l>           <r>intravenoso<s n="adj"/></r></p></e>
+<e>       <p><l>involontaire<s n="adj"/></l>           <r>involuntário<s n="adj"/></r></p></e>
+<!--<e>       <p><l>irrestrito<s n="adj"/></l>             <r>irrestrito<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>issu<s n="adj"/></l>                   <r>issu<s n="adj"/></r></p></e>-->
+<e>       <p><l>judicieux<s n="adj"/></l>              <r>judicioso<s n="adj"/></r></p></e>
+<!--<e>       <p><l>lanoso<s n="adj"/></l>                 <r>lanoso<s n="adj"/></r></p></e>-->
+<e>       <p><l>légal<s n="adj"/></l>                  <r>legal<s n="adj"/></r></p></e>
+<!--<e>       <p><l>lexicographique<s n="adj"/></l>        <r>lexicographique<s n="adj"/></r></p></e>-->
+<e>       <p><l>lisse<s n="adj"/></l>                  <r>liso<s n="adj"/></r></p></e>
+<e>       <p><l>local<s n="adj"/></l>                  <r>local<s n="adj"/></r></p></e>
+<e>       <p><l>lombaire<s n="adj"/></l>               <r>lombar<s n="adj"/></r></p></e>
+<!--<e>       <p><l>longilíneo<s n="adj"/></l>             <r>longilíneo<s n="adj"/></r></p></e>-->
+<e>       <p><l>lupin<s n="adj"/></l>                  <r>lupino<s n="adj"/></r></p></e>
+<e>       <p><l>lymphatique<s n="adj"/></l>            <r>linfático<s n="adj"/></r></p></e>
+<e>       <p><l>mâle<s n="adj"/></l>                   <r>macho<s n="adj"/></r></p></e>
+<!--<e>       <p><l>maltais<s n="adj"/></l>                <r>maltais<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>marcante<s n="adj"/></l>               <r>marcante<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>mediolíneo<s n="adj"/></l>             <r>mediolíneo<s n="adj"/></r></p></e>-->
+<e>       <p><l>méditerrané<s n="adj"/></l>            <r>mediterrâneo<s n="adj"/></r></p></e>
+<e>       <p><l>meilleur<s n="adj"/></l>               <r>melhor<s n="adj"/></r></p></e>
+<e>       <p><l>mensonger<s n="adj"/></l>              <r>mentiroso<s n="adj"/></r></p></e>
+<e>       <p><l>métabolique<s n="adj"/></l>            <r>metabólico<s n="adj"/></r></p></e>
+<!--<e>       <p><l>meute<s n="adj"/></l>                  <r>meute<s n="adj"/></r></p></e>-->
+<e>       <p><l>milenar<s n="adj"/></l>                <r>milenar<s n="adj"/></r></p></e>
+<e>       <p><l>minéral<s n="adj"/></l>                <r>mineral<s n="adj"/></r></p></e>
+<!--<e>       <p><l>miniatura<s n="adj"/></l>              <r>miniatura<s n="adj"/></r></p></e>-->
+<e>       <p><l>minuscule<s n="adj"/></l>              <r>minúsculo<s n="adj"/></r></p></e>
+<e>       <p><l>mitocondrial<s n="adj"/></l>           <r>mitocondrial<s n="adj"/></r></p></e>
+<!--<e>       <p><l>morfológico<s n="adj"/></l>            <r>morfológico<s n="adj"/></r></p></e>-->
+<e>       <p><l>mortel<s n="adj"/></l>                 <r>mortal<s n="adj"/></r></p></e>
+<e>       <p><l>musclé<s n="adj"/></l>                 <r>musculoso<s n="adj"/></r></p></e>
+<e>       <p><l>musculaire<s n="adj"/></l>             <r>muscular<s n="adj"/></r></p></e>
+<e>       <p><l>mystique<s n="adj"/></l>               <r>místico<s n="adj"/></r></p></e>
+<e>       <p><l>mythologique<s n="adj"/></l>           <r>mitológico<s n="adj"/></r></p></e>
+<e>       <p><l>nasal<s n="adj"/></l>                  <r>nasal<s n="adj"/></r></p></e>
+<e>       <p><l>national<s n="adj"/></l>               <r>nacional<s n="adj"/></r></p></e>
+<!--<e>       <p><l>naturel<s n="adj"/></l>                <r>naturel<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>nauséabonde<s n="adj"/></l>            <r>nauséabonde<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>négligeable<s n="adj"/></l>            <r>négligeable<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>neotênico<s n="adj"/></l>              <r>neotênico<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>neuro-muscular<s n="adj"/></l>         <r>neuro-muscular<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>neurológico<s n="adj"/></l>            <r>neurológico<s n="adj"/></r></p></e>-->
+<e>       <p><l>nordique<s n="adj"/></l>               <r>nórdico<s n="adj"/></r></p></e>
+<e>       <p><l>normal<s n="adj"/></l>                 <r>normal<s n="adj"/></r></p></e>
+<e>       <p><l>notoire<s n="adj"/></l>                <r>notório<s n="adj"/></r></p></e>
+<e>       <p><l>numérique<s n="adj"/></l>              <r>numérico<s n="adj"/></r></p></e>
+<e>       <p><l>obéissant<s n="adj"/></l>              <r>obediente<s n="adj"/></r></p></e>
+<!--<e>       <p><l>obèse<s n="adj"/></l>                  <r>obèse<s n="adj"/></r></p></e>-->
+<e>       <p><l>officiel<s n="adj"/></l>               <r>oficial<s n="adj"/></r></p></e>
+<e v="pt"><p><l>olfactif<s n="adj"/></l>               <r>olfactivo<s n="adj"/></r></p></e>
+<e v="pt"><p><l>olfactif<s n="adj"/></l>               <r>olfativo<s n="adj"/></r></p></e>
+<e>       <p><l>ombilical<s n="adj"/></l>              <r>umbilical<s n="adj"/></r></p></e>
+<e>       <p><l>omnivore<s n="adj"/></l>               <r>omnívoro<s n="adj"/></r></p></e>
+<!--<e>       <p><l>online<s n="adj"/></l>                 <r>online<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>opportuniste<s n="adj"/></l>           <r>opportuniste<s n="adj"/></r></p></e>-->
+<e>       <p><l>originel<s n="adj"/></l>               <r>original<s n="adj"/></r></p></e>
+<!--<e>       <p><l>parasite<s n="adj"/></l>               <r>parasite<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>parent<s n="adj"/></l>                 <r>parent<s n="adj"/></r></p></e>-->
+<e>       <p><l>parlant<s n="adj"/></l>                <r>falante<s n="adj"/></r></p></e>
+<e>       <p><l>particulier<s n="adj"/></l>            <r>particular<s n="adj"/></r></p></e>
+<!--<e>       <p><l>pejorativo<s n="adj"/></l>             <r>pejorativo<s n="adj"/></r></p></e>-->
+<e>       <p><l>pelvien<s n="adj"/></l>                <r>pélvico<s n="adj"/></r></p></e>
+<e>       <p><l>phénicien<s n="adj"/></l>              <r>fenício<s n="adj"/></r></p></e>
+<e>       <p><l>phonique<s n="adj"/></l>               <r>fônico<s n="adj"/></r></p></e>
+<e>       <p><l>physiologique<s n="adj"/></l>          <r>fisiológico<s n="adj"/></r></p></e>
+<!--<e>       <p><l>pictórico<s n="adj"/></l>              <r>pictórico<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>pisteur<s n="adj"/></l>                <r>pisteur<s n="adj"/></r></p></e>-->
+<e>       <p><l>plantaire<s n="adj"/></l>              <r>plantar<s n="adj"/></r></p></e>
+<e>       <p><l>pluvieux<s n="adj"/></l>               <r>chuvoso<s n="adj"/></r></p></e>
+<e>       <p><l>pointeur<s n="adj"/></l>               <r>apontador<s n="adj"/></r></p></e>
+<e>       <p><l>pointu<s n="adj"/></l>                 <r>pontudo<s n="adj"/></r></p></e>
+<e>       <p><l>postérieur<s n="adj"/></l>             <r>posterior<s n="adj"/></r></p></e>
+<!--<e>       <p><l>preconceituoso<s n="adj"/></l>         <r>preconceituoso<s n="adj"/></r></p></e>-->
+<e>       <p><l>prédateur<s n="adj"/></l>              <r>depredador<s n="adj"/></r></p></e>
+<e>       <p><l>prédominant<s n="adj"/></l>            <r>predominante<s n="adj"/></r></p></e>
+<e>       <p><l>primordial<s n="adj"/></l>             <r>primordial<s n="adj"/></r></p></e>
+<e>       <p><l>principal<s n="adj"/></l>              <r>principal<s n="adj"/></r></p></e>
+<e>       <p><l>problématique<s n="adj"/></l>          <r>problemático<s n="adj"/></r></p></e>
+<!--<e>       <p><l>propriétaire<s n="adj"/></l>           <r>propriétaire<s n="adj"/></r></p></e>-->
+<e>       <p><l>prostatique<s n="adj"/></l>            <r>prostático<s n="adj"/></r></p></e>
+<e>       <p><l>psychique<s n="adj"/></l>              <r>psíquico<s n="adj"/></r></p></e>
+<e>       <p><l>pulmanaire<s n="adj"/></l>             <r>pulmonar<s n="adj"/></r></p></e>
+<e>       <p><l>pyramidal<s n="adj"/></l>              <r>piramidal<s n="adj"/></r></p></e>
+<!--<e>       <p><l>quadrúpede<s n="adj"/></l>             <r>quadrúpede<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>quantitativo<s n="adj"/></l>           <r>quantitativo<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>réel<s n="adj"/></l>                   <r>réel<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>réfléchissant<s n="adj"/></l>          <r>réfléchissant<s n="adj"/></r></p></e>-->
+<e>       <p><l>rénal<s n="adj"/></l>                  <r>renal<s n="adj"/></r></p></e>
+<!--<e>       <p><l>renascentista<s n="adj"/></l>          <r>renascentista<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>répétitif<s n="adj"/></l>              <r>répétitif<s n="adj"/></r></p></e>-->
+<e>       <p><l>reproducteur<s n="adj"/></l>           <r>reprodutor<s n="adj"/></r></p></e>
+<e>       <p><l>reproductif<s n="adj"/></l>            <r>reprodutivo<s n="adj"/></r></p></e>
+<!--<e>       <p><l>réticent<s n="adj"/></l>               <r>réticent<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>robótico<s n="adj"/></l>               <r>robótico<s n="adj"/></r></p></e>-->
+<e>       <p><l>robuste<s n="adj"/></l>                <r>robusto<s n="adj"/></r></p></e>
+<e>       <p><l>royal<s n="adj"/></l>                  <r>real<s n="adj"/></r></p></e>
+<e>       <p><l>rupestre<s n="adj"/></l>               <r>rupestre<s n="adj"/></r></p></e>
+<e>       <p><l>rural<s n="adj"/></l>                  <r>rural<s n="adj"/></r></p></e>
+<e>       <p><l>rusé<s n="adj"/></l>                   <r>astuto<s n="adj"/></r></p></e>
+<!--<e>       <p><l>sacral<s n="adj"/></l>                 <r>sacral<s n="adj"/></r></p></e>-->
+<e>       <p><l>scandaleux<s n="adj"/></l>             <r>escandaloso<s n="adj"/></r></p></e>
+<e>       <p><l>scapulaire<s n="adj"/></l>             <r>escapular<s n="adj"/></r></p></e>
+<e>       <p><l>scrotal<s n="adj"/></l>                <r>escrotal<s n="adj"/></r></p></e>
+<e>       <p><l>sculptural<s n="adj"/></l>             <r>escultural<s n="adj"/></r></p></e>
+<e>       <p><l>sédentaire<s n="adj"/></l>             <r>sedentário<s n="adj"/></r></p></e>
+<e>       <p><l>sémantique<s n="adj"/></l>             <r>semântico<s n="adj"/></r></p></e>
+<!--<e>       <p><l>sênior<s n="adj"/></l>                 <r>sênior<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>senior<s n="adj"/></l>                 <r>senior<s n="adj"/></r></p></e>-->
+<e>       <p><l>sensorial<s n="adj"/></l>              <r>sensorial<s n="adj"/></r></p></e>
+<e>       <p><l>sibérien<s n="adj"/></l>               <r>siberiano<s n="adj"/></r></p></e>
+<!--<e>       <p><l>sinantrópico<s n="adj"/></l>           <r>sinantrópico<s n="adj"/></r></p></e>-->
+<e>       <p><l>sociable<s n="adj"/></l>               <r>sociável<s n="adj"/></r></p></e>
+<e>       <p><l>social<s n="adj"/></l>                 <r>social<s n="adj"/></r></p></e>
+<e>       <p><l>soyeux<s n="adj"/></l>                 <r>sedoso<s n="adj"/></r></p></e>
+<e>       <p><l>spécial<s n="adj"/></l>                <r>especial<s n="adj"/></r></p></e>
+<!--<e>       <p><l>standard<s n="adj"/></l>               <r>standard<s n="adj"/></r></p></e>-->
+<e>       <p><l>stomacal<s n="adj"/></l>               <r>estomacal<s n="adj"/></r></p></e>
+<e>       <p><l>strié<s n="adj"/></l>                  <r>estriado<s n="adj"/></r></p></e>
+<e>       <p><l>stupéfiant<s n="adj"/></l>             <r>estupefaciente<s n="adj"/></r></p></e>
+<!--<e>       <p><l>sudoríparo<s n="adj"/></l>             <r>sudoríparo<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>supersticioso<s n="adj"/></l>          <r>supersticioso<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>suscetível<s n="adj"/></l>             <r>suscetível<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>sutil<s n="adj"/></l>                  <r>sutil<s n="adj"/></r></p></e>-->
+<e>       <p><l>svelte<s n="adj"/></l>                 <r>esbelto<s n="adj"/></r></p></e>
+<e>       <p><l>sylvestre<s n="adj"/></l>              <r>silvestre<s n="adj"/></r></p></e>
+<e>       <p><l>sympathique<s n="adj"/></l>            <r>simpático<s n="adj"/></r></p></e>
+<e>       <p><l>synovial<s n="adj"/></l>               <r>sinovial<s n="adj"/></r></p></e>
+<e>       <p><l>synthétique<s n="adj"/></l>            <r>sintético<s n="adj"/></r></p></e>
+<!--<e>       <p><l>tátil<s n="adj"/></l>                  <r>tátil<s n="adj"/></r></p></e>-->
+<e>       <p><l>taxonomique<s n="adj"/></l>            <r>taxonômico<s n="adj"/></r></p></e>
+<e>       <p><l>tolérant<s n="adj"/></l>               <r>tolerante<s n="adj"/></r></p></e>
+<!--<e>       <p><l>tombant<s n="adj"/></l>                <r>tombant<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>torácico<s n="adj"/></l>               <r>torácico<s n="adj"/></r></p></e>-->
+<e>       <p><l>traditionnel<s n="adj"/></l>           <r>tradicional<s n="adj"/></r></p></e>
+<e>       <p><l>transmissible<s n="adj"/></l>          <r>transmissível<s n="adj"/></r></p></e>
+<!--<e>       <p><l>trapaceiro<s n="adj"/></l>             <r>trapaceiro<s n="adj"/></r></p></e>-->
+<e>       <p><l>traitable<s n="adj"/></l>              <r>tratável<s n="adj"/></r></p></e>
+<!--<e>       <p><l>trinomial<s n="adj"/></l>              <r>trinomial<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>truffier<s n="adj"/></l>               <r>truffier<s n="adj"/></r></p></e>-->
+<e>       <p><l>universel<s n="adj"/></l>              <r>universal<s n="adj"/></r></p></e>
+<e>       <p><l>urinaire<s n="adj"/></l>               <r>urinário<s n="adj"/></r></p></e>
+<e>       <p><l>vaginal<s n="adj"/></l>                <r>vaginal<s n="adj"/></r></p></e>
+<e>       <p><l>visuel<s n="adj"/></l>                 <r>visual<s n="adj"/></r></p></e>
+<e>       <p><l>variable<s n="adj"/></l>               <r>variável<s n="adj"/></r></p></e>
+<e>       <p><l>vertábral<s n="adj"/></l>              <r>vertebral<s n="adj"/></r></p></e>
+<e>       <p><l>vétérinaire<s n="adj"/></l>            <r>veterinário<s n="adj"/></r></p></e>
+<!--<e>       <p><l>violeta<s n="adj"/></l>                <r>violeta<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>viral<s n="adj"/></l>                  <r>viral<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>voyant<s n="adj"/></l>                 <r>voyant<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>zoológico<s n="adj"/></l>              <r>zoológico<s n="adj"/></r></p></e>-->
+
+<e>       <p><l>avant<b/>Jésus-Christ<s n="adj"/></l>  <r>antes<b/>de<b/>Cristo<s n="adj"/></r></p></e>
+<e>       <p><l>après<b/>Jésus-Christ<s n="adj"/></l>  <r>depois<b/>de<b/>Cristo<s n="adj"/></r></p></e>
+<!-- ******************************
           group cnjadv_symbol
       ****************************** -->
 <e r="LR"><p><l>à<b/>cause<b/>que<s n="cnjadv"/></l>   <r>porque<s n="cnjadv"/></r></p></e>
@@ -19232,6 +20368,33 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e>       <p><l>D<s n="num"/></l>                      <r>D<s n="num"/></r></p></e>
 <e>       <p><l>M<s n="num"/></l>                      <r>M<s n="num"/></r></p></e>
 
+<e r="LR"><p><l>Ième<s n="adj"/><s n="mf"/><s n="sp"/></l><r>I<s n="num"/></r></p></e>
+<e r="LR"><p><l>IIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>II<s n="num"/></r></p></e>
+<e r="LR"><p><l>IIIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>III<s n="num"/></r></p></e>
+<e r="LR"><p><l>IVème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>IV<s n="num"/></r></p></e>
+<e r="LR"><p><l>Vème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>V<s n="num"/></r></p></e>
+<e r="LR"><p><l>VIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>VI<s n="num"/></r></p></e>
+<e r="LR"><p><l>VIIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>VII<s n="num"/></r></p></e>
+<e r="LR"><p><l>VIIIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>VIII<s n="num"/></r></p></e>
+<e r="LR"><p><l>IXème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>IX<s n="num"/></r></p></e>
+<e r="LR"><p><l>Xème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>X<s n="num"/></r></p></e>
+<e r="LR"><p><l>XIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XI<s n="num"/></r></p></e>
+<e r="LR"><p><l>XIIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XII<s n="num"/></r></p></e>
+<e r="LR"><p><l>XIIIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XIII<s n="num"/></r></p></e>
+<e r="LR"><p><l>XIVème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XIV<s n="num"/></r></p></e>
+<e r="LR"><p><l>XVème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XV<s n="num"/></r></p></e>
+<e r="LR"><p><l>XVIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XVI<s n="num"/></r></p></e>
+<e r="LR"><p><l>XVIIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XVII<s n="num"/></r></p></e>
+<e r="LR"><p><l>XVIIIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XVIII<s n="num"/></r></p></e>
+<e r="LR"><p><l>XIXème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XIX<s n="num"/></r></p></e>
+<e r="LR"><p><l>XXème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XX<s n="num"/></r></p></e>
+<e r="LR"><p><l>XXIème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>XXI<s n="num"/></r></p></e>
+<e r="LR"><p><l>Lème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>L<s n="num"/></r></p></e>
+<e r="LR"><p><l>Cème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>C<s n="num"/></r></p></e>
+<e r="LR"><p><l>Dème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>D<s n="num"/></r></p></e>
+<e r="LR"><p><l>Mème<s n="adj"/><s n="mf"/><s n="sp"/></l><r>M<s n="num"/></r></p></e>
+
+
     <!-- ******************************
           group lquest_symbol
       ****************************** -->
@@ -19291,7 +20454,6 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e r="RL"><p><l>avoir<s n="vbhaver"/></l>              <r>haver<s n="vbhaver"/></r></p></e>
 <e>       <p><l>avoir<s n="vbhaver"/></l>              <r>ter<s n="vbhaver"/></r></p></e>
 <e>       <p><l>être<s n="vbser"/></l>                 <r>ser<s n="vbser"/></r></p></e>
-<e>       <p><l>pouvoir<s n="vbmod"/></l>              <r>poder<s n="vbmod"/></r></p></e>
 <e>       <re>,</re><p><l><s n="cm"/></l>              <r><s n="cm"/></r></p></e>
 <e>       <p><l>que<s n="cnjsub"/></l>                 <r>que<s n="cnjsub"/></r></p></e>
 

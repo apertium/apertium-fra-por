@@ -101,7 +101,7 @@
 	<def-attr n="tprep">
         <attr-item tags="a"/>
         <attr-item tags="de"/>
-        <attr-item tags="en"/>
+        <attr-item tags="em"/>
        <attr-item tags="para"/>
 	</def-attr>
 <def-attr n="pers">
@@ -387,7 +387,7 @@
 						</equal>
 						<equal>
 							<clip pos="2" part="tprep"/>
-							<lit-tag v="en"/>
+							<lit-tag v="em"/>
 						</equal>
 					</or>
 				</and>
@@ -408,7 +408,7 @@
 				<otherwise>
 					<let>
 						<clip pos="2" part="tprep"/>
-						<lit-tag v="en"/>
+						<lit-tag v="em"/>
 					</let>
 				</otherwise>
 			</choose>

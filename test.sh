@@ -1,111 +1,66 @@
-#! sh
+#!/bin/sh
 
-#echo "J'ai deux frères, j'ai deux soeurs" | apertium fr-pt
-#echo "";
-#
-#echo "Tenho dois irmãos, tenho duas irmãs" | apertium pt-fr
-#echo "";
-#
-#echo "J'ai deux frères, j'ai deux soeurs" | lt-proc fr-pt.automorf.bin
-#echo "";
-#
-#echo "Tenho dois irmãos, tenho duas irmãs" | lt-proc pt-fr.automorf.bin
-#echo "";
+echo "uma advertência > un avertissement"
+echo "uma advertência" | apertium pt-fr
+echo ""
 
-#echo "J'ai deux soeurs" | apertium -d . fr-pt-tagger
-#echo "";
+echo "esse gato > ce chat"
+echo "esse gato" | apertium pt-fr
+echo ""
 
-#echo "Não vi isto." | lt-proc pt-fr.automorf.bin
-#echo "";
+echo "este gato > ce chat-ci"
+echo "este gato" | apertium pt-fr
+echo ""
 
-#echo "Estou no concelho." | lt-proc pt-fr.automorf.bin
-#echo "Estou nos concelhos." | lt-proc pt-fr.automorf.bin
-#echo "";
+echo "aquele gato > ce chat-là"
+echo "aquele gato" | apertium pt-fr
+echo ""
 
-#lt-expand <dix> | grep '^ '
+echo "o gato branco > le chat blanc"
+echo "o gato branco" | apertium pt-fr
+echo ""
 
-#echo "do qual" | lt-proc pt-fr.automorf.bin
-#echo "";
+echo "uma advertência nova > un nouveau avertissement"
+echo "uma advertência nova" | apertium pt-fr
+echo ""
 
-#echo "le mien" | lt-proc fr-pt.automorf.bin
-#echo "";
+echo "uma advertência grande > un grand avertissement"
+echo "uma advertência grande" | apertium pt-fr
+echo ""
 
-#echo "Eu o amo" | apertium -d . pt-fr-tagger
-#echo "";
+echo "tanto cabelo quanto você > autant de cheveux que vous"
+echo "tanto cabelo quanto você" | apertium pt-fr
+echo ""
 
-#echo le mien |apertium -d . fr-pt-generador
-#echo je ne sais pas |apertium -d . fr-pt-generador
-#echo eu não sei |apertium -d . pt-fr-generador
-#echo não sei |apertium -d . pt-fr-generador
+echo "tão pequeno quanto ele > aussi petit que lui"
+echo "tão pequeno quanto ele" | apertium pt-fr
+echo ""
 
-#echo "celui dont" | lt-proc fr-pt.automorf.bin
-#echo "";
+echo "en ville > na cidade"
+echo "en ville" | apertium fr-pt
+echo ""
 
-#echo "celui dont" | apertium fr-pt
-#echo "";
+echo "en France > na França"
+echo "en France" | apertium fr-pt
+echo ""
 
-#echo "do qual" | lt-proc pt-fr.automorf.bin
-#echo "";
+echo "On ne parle pas > Não se fala"
+echo "On ne parle pas" | apertium fr-pt
+echo ""
 
-#echo "do qual" | apertium pt-fr
-#echo "";
+echo "Não se fala > On ne parle pas"
+echo "Não se fala" | apertium pt-fr
+echo ""
 
-#echo "il s'agissait" | lt-proc fr-pt.automorf.bin
-#echo "";trata de todas as ciências
+echo "É grande > C'est grand";
+echo "É grande" | apertium pt-fr
+echo ""
 
-#echo "pode-se" | apertium -d . pt-fr-tagger
-#echo "";
+echo "Se ele queria, o faria > S'il voulait, il le ferait";
+echo "Se ele queria, o faria" | apertium pt-fr
+echo ""
 
-#echo "pode-se" | apertium pt-fr
-#echo "";
-
-#echo "il se peut" | apertium -d . fr-pt-tagger
-#echo "";
-
-#echo "il se peut" | apertium fr-pt
-#echo "";
-
-#echo "todas as ciências" | apertium -d . pt-fr-tagger
-#echo "";
-
-#echo "todas as ciências" | apertium pt-fr
-#echo "";
-
-#echo "na internet" | lt-proc pt-fr.automorf.bin
-#echo "";
-
-#echo "larga" | apertium pt-fr
-#echo "";
-
-#echo "concepção atual" | lt-proc pt-fr.automorf.bin
-#echo "";
-
-#echo "concepção atual" | apertium pt-fr
-#echo "";
-
-#echo "trata de todas as ciências" | apertium pt-fr
-#echo "";
-
-#echo "trata de todas as ciências" | lt-proc pt-fr.automorf.bin
-#echo "";
-
-echo "comme la mienne" | apertium -d . fr-pt-tagger
-echo "";
-
-echo "comme la mienne" | apertium fr-pt
-echo "";
-
-echo "la mienne" | apertium -d . fr-pt-tagger
-echo "";
-
-echo "la mienne" | apertium fr-pt
-echo "";
-
-echo "a minha" | apertium -d . pt-fr-tagger
-echo "";
-
-echo "a minha" | apertium pt-fr
-echo "";
+exit
 
 echo "du vôtre" | apertium -d . fr-pt-tagger
 echo "";
@@ -123,4 +78,10 @@ echo "o vosso" | apertium -d . pt-fr-tagger
 echo "";
 
 echo "o vosso" | apertium pt-fr
+echo "";
+
+echo "ao vosso" | apertium -d . pt-fr-tagger
+echo "";
+
+echo "ao vosso" | apertium pt-fr
 echo "";

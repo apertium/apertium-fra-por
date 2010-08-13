@@ -124,6 +124,9 @@
   <def-label name="VLEXIMP">
     <tags-item tags="vblex.imp.*"/>
   </def-label>
+  <def-label name="VLEXPPRS">
+    <tags-item tags="vblex.pprs.*"/>
+  </def-label>
   <def-label name="VSERINF" closed="true">
     <tags-item tags="vbser.inf"/>
   </def-label>
@@ -153,6 +156,9 @@
   <def-label name="VSERIMP" closed="true">
     <tags-item tags="vbser.imp.*"/>
   </def-label>
+  <def-label name="VSERPPRS">
+    <tags-item tags="vbser.pprs.*"/>
+  </def-label>
   <def-label name="VHABERINF" closed="true">
     <tags-item tags="vbhaver.inf"/>
   </def-label>
@@ -178,6 +184,12 @@
     <tags-item tags="vbhaver.prs.*"/>
     <tags-item tags="vbhaver.pis.*"/>
     <tags-item tags="vbhaver.fts.*"/>
+  </def-label>
+  <def-label name="VHABERIMP" closed="true">
+    <tags-item tags="vbhaver.imp.*"/>
+  </def-label> 
+  <def-label name="VHABERPPRS">
+    <tags-item tags="vbhaver.pprs.*"/>
   </def-label>
   <def-label name="VMODALINF" closed="true">
     <tags-item tags="vbmod.inf"/>
@@ -208,6 +220,9 @@
   <def-label name="VMODALIMP" closed="true">
     <tags-item tags="vbmod.imp.*"/>
   </def-label> 
+  <def-label name="VMODALPPRS">
+    <tags-item tags="vbmod.pprs.*"/>
+  </def-label>
  <def-label name="ADJF">
    <tags-item tags="adj.f.*"/>
    <tags-item tags="adj.ind.f.*"/>
@@ -231,6 +246,9 @@
   </def-label>
   <def-label name="REL" closed="true">
     <tags-item tags="rel.*"/>
+  </def-label>
+  <def-label name="PRNPROADV" closed="true">
+    <tags-item tags="prn.pro.adv"/>
   </def-label>
   <def-mult name="PREPDET" closed="true">
     <sequence>
@@ -1719,6 +1737,26 @@
       <label-item label="VHABERSUBJ"/>
       <label-item label="ADV"/>
     </label-sequence>  -->
+      
+     <label-sequence>
+      <label-item label="PRNPROADV"/>
+      <label-item label="NOMM"/>
+    </label-sequence>
+      
+     <label-sequence>
+      <label-item label="PRNPROADV"/>
+      <label-item label="NOMF"/>
+    </label-sequence>
+      
+     <label-sequence>
+      <label-item label="PRNPROADV"/>
+      <label-item label="NOMMF"/>
+    </label-sequence>
+      
+     <label-sequence>
+      <label-item label="PRNPROADV"/>
+      <label-item label="TOPONIM"/>
+    </label-sequence>
    
   </forbid>
 

@@ -4684,12 +4684,54 @@
             <e r="LR"><p><l>aux</l><r>à<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
             <e r="LR"><p><l>à</l><r>à<s n="pr"/></r></p></e>
             <e r="RL"><p><l><a/>à</l><r>à<s n="pr"/></r></p></e>
+
+            <e r="LR"><p><l>au<b/>mien</l><r>à<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>à<b/>la<b/>mienne</l><r>à<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>miens</l><r>à<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>miennes</l><r>à<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>au<b/>nôtre</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>à<b/>la<b/>nôtre</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>nôtres</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>nôtres</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>au<b/>tien</l><r>à<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>à<b/>la<b/>tienne</l><r>à<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>tiens</l><r>à<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>tiennes</l><r>à<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>au<b/>sien</l><r>à<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>à<b/>la<b/>sienne</l><r>à<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>siens</l><r>à<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>siennes</l><r>à<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>au<b/>vôtre</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>à<b/>la<b/>vôtre</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>vôtres</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>vôtres</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="contde__pr">
             <e r="LR"><p><l>de</l><r>de<s n="pr"/></r></p></e>
             <e r="LR"><p><l>des</l><r>de<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
             <e r="LR"><p><l>du</l><r>de<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
             <e r="RL"><p><l><a/>de</l><r>de<s n="pr"/></r></p></e>
+
+            <e r="LR"><p><l>du<b/>mien</l><r>de<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>de<b/>la<b/>mienne</l><r>de<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>des<b/>miens</l><r>de<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>des<b/>miennes</l><r>de<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>du<b/>nôtre</l><r>de<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>de<b/>la<b/>nôtre</l><r>de<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>des<b/>nôtres</l><r>de<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>des<b/>nôtres</l><r>de<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>du<b/>tien</l><r>de<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>de<b/>la<b/>tienne</l><r>de<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>des<b/>tiens</l><r>de<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>des<b/>tiennes</l><r>de<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>du<b/>sien</l><r>de<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>de<b/>la<b/>sienne</l><r>de<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>des<b/>siens</l><r>de<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>des<b/>siennes</l><r>de<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>du<b/>vôtre</l><r>de<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>de<b/>la<b/>vôtre</l><r>de<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+            <e r="LR"><p><l>des<b/>vôtres</l><r>de<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>des<b/>vôtres</l><r>de<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
  
      <pardef n="postgen_que__cnjadv">
@@ -8415,8 +8457,9 @@
     </pardef>
     <pardef n="nouve/au__adj">
             
-<e><p><l>au</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-            <e r="LR"><p><l>l</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>au</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>l</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l><a/>au</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
             
 <e><p><l>aux</l><r>au<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
             
@@ -11085,7 +11128,7 @@
 	<e r="LR"><p><l>il<b/>y<b/>ayant</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pprs"/><s n="p3"/><s n="ND"/></r></p></e>
     <e r="LR"><p><l>il<b/>y<b/>aura</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
 
-    <e r="LR"><p><l>>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/></r></p></e>
+    <e r="LR"><p><l>eu</l><r>y<b/>avoir<s n="vblex"/><s n="pp"/></r></p></e>
 
 <!--<e r="LR"><p><l>il<b/>y<b/>eu</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
 	<e r="LR"><p><l>il<b/>y<b/>eue</l><r>il<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="sg"/><j/>y<b/>avoir<s n="vblex"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
@@ -15179,12 +15222,21 @@
           <e lm="le" r="RL"><p><l><a/>l</l><r>le</r></p><par n="~l__prn"/></e>
           <e lm="le"><i>l</i><par n="l/e__prn"/></e>
 <!--          <e lm="le" r="LR"><i>le</i><par n="le__detnt"/></e> -->
+          <!--<e lm="le mien"><p><l><a/>l</l><r>l</r></p><par n="l/e_mien__prn"/></e>-->
+          <!--<e lm="le nôtre"><p><l><a/>l</l><r>l</r></p><par n="l/e_nôtre__prn"/></e>-->
+          <!--<e lm="le sien"><p><l><a/>l</l><r>l</r></p><par n="l/e_sien__prn"/></e>-->
+          <!--<e lm="le tien"><p><l><a/>l</l><r>l</r></p><par n="l/e_tien__prn"/></e>-->
+          <!--<e lm="le vôtre"><p><l><a/>l</l><r>l</r></p><par n="l/e_vôtre__prn"/></e>-->
           <e lm="le mien" r="LR"><p><l>l</l><r>l</r></p><par n="l/e_mien__prn"/></e>
           <e lm="le mien" r="RL"><p><l><a/>l</l><r>l</r></p><par n="l/e_mien__prn"/></e>
-          <e lm="le nôtre"><p><l><a/>l</l><r>l</r></p><par n="l/e_nôtre__prn"/></e>
-          <e lm="le sien"><p><l><a/>l</l><r>l</r></p><par n="l/e_sien__prn"/></e>
-          <e lm="le tien"><p><l><a/>l</l><r>l</r></p><par n="l/e_tien__prn"/></e>
-          <e lm="le vôtre"><p><l><a/>l</l><r>l</r></p><par n="l/e_vôtre__prn"/></e>
+          <e lm="le nôtre" r="LR"><p><l>l</l><r>l</r></p><par n="l/e_nôtre__prn"/></e>
+          <e lm="le nôtre" r="RL"><p><l><a/>l</l><r>l</r></p><par n="l/e_nôtre__prn"/></e>
+          <e lm="le sien" r="LR"><p><l>l</l><r>l</r></p><par n="l/e_sien__prn"/></e>
+          <e lm="le sien" r="RL"><p><l><a/>l</l><r>l</r></p><par n="l/e_sien__prn"/></e>
+          <e lm="le tien" r="LR"><p><l>l</l><r>l</r></p><par n="l/e_tien__prn"/></e>
+          <e lm="le tien" r="RL"><p><l><a/>l</l><r>l</r></p><par n="l/e_tien__prn"/></e>
+          <e lm="le vôtre" r="LR"><p><l>l</l><r>l</r></p><par n="l/e_vôtre__prn"/></e>
+          <e lm="le vôtre" r="RL"><p><l><a/>l</l><r>l</r></p><par n="l/e_vôtre__prn"/></e>
           <e lm="le" r="RL"><p><l><a/>le</l><r>le</r></p><par n="le__detnt"/></e>
           <e lm="leader"><i>leader</i><par n="artiste__n"/></e>
           <e lm="lecteur"><i>lect</i><par n="administrat/eur__n"/></e>
@@ -46798,119 +46850,49 @@
 
 <e lm="il se peut"><i></i><par n="/il_se_peut__vblex"/></e>
 
-          <e lm="pas"><i>pas</i><par n="hier__adv"/></e>
+<e lm="pas"><i>pas</i><par n="hier__adv"/></e>
 <e lm="temps"><i>temps</i><par n="mois__n"/></e>
 
-
-
-<!-- Treat these Latin terms as proper nouns -->
-<e lm="Animalia"><i>Animalia</i><par n="Autre__np"/></e>
-<e lm="Arabidopsis thaliana"><i>Arabidopsis<b/>thaliana</i><par n="Autre__np"/></e>
-<e lm="Aspergillus nidulans"><i>Aspergillus<b/>nidulans</i><par n="Autre__np"/></e>
-<e lm="Atelocynus"><i>Atelocynus</i><par n="Autre__np"/></e>
-<e lm="Bos primigenius taurus"><i>Bos<b/>primigenius<b/>taurus</i><par n="Autre__np"/></e>
-<e lm="Bos primigenius f. taurus"><i>Bos<b/>primigenius<b/>f.<b/>taurus</i><par n="Autre__np"/></e>
-<e lm="Bos taurus"><i>Bos<b/>taurus</i><par n="Autre__np"/></e>
-<e lm="Caenorhabditis elegans"><i>Caenorhabditis<b/>elegans</i><par n="Autre__np"/></e>
-<e lm="Canidae"><i>Canidae</i><par n="Autre__np"/></e>
-<e lm="Caniformia"><i>Caniformia</i><par n="Autre__np"/></e>
-<e lm="canis"><i>canis</i><par n="Autre__np"/></e>
-<e lm="Canis canis"><i>Canis<b/>canis</i><par n="Autre__np"/></e>
-<e lm="Canis familiaris"><i>Canis<b/>familiaris</i><par n="Autre__np"/></e>
-<e lm="Canis familiarus"><i>Canis<b/>familiarus</i><par n="Autre__np"/></e>
-<e lm="Canis familiarus domesticus"><i>Canis<b/>familiarus<b/>domesticus</i><par n="Autre__np"/></e>
-<e lm="Canis lupus"><i>Canis<b/>lupus</i><par n="Autre__np"/></e>
-<e lm="Canis lupus familiaris"><i>Canis<b/>lupus<b/>familiaris</i><par n="Autre__np"/></e>
-<e lm="Canis lupus f. familiaris"><i>Canis<b/>lupus<b/>f.<b/>familiaris</i><par n="Autre__np"/></e>
-<e lm="Capra hircus"><i>Capra<b/>hircus</i><par n="Autre__np"/></e>
-<e lm="Capra aegagrus hircus"><i>Capra<b/>aegagrus<b/>hircus</i><par n="Autre__np"/></e>
-<e lm="Capra aegagrus f. hircus"><i>Capra<b/>aegagrus<b/>f.<b/>hircus</i><par n="Autre__np"/></e>
-<e lm="Carnivora"><i>Carnivora</i><par n="Autre__np"/></e>
-<e lm="Chordata"><i>Chordata</i><par n="Autre__np"/></e>
-<e lm="Dipylidium caninum"><i>Dipylidium<b/>caninum</i><par n="Autre__np"/></e>
-<e lm="Drosophila melanogaster"><i>Drosophila<b/>melanogaster</i><par n="Autre__np"/></e>
-<e lm="Escherichia coli"><i>Escherichia<b/>coli</i><par n="Autre__np"/></e>
-<e lm="Fauna Europaea"><i>Fauna<b/>Europaea</i><par n="Autre__np"/></e>
-<e lm="Cynomys"><i>Cynomys</i><par n="Autre__np"/></e>
-<e lm="Eutheria"><i>Eutheria</i><par n="Autre__np"/></e>
-<e lm="Mammalia"><i>Mammalia</i><par n="Autre__np"/></e>
-<e lm="Saccharomyces cerevisiae"><i>Saccharomyces<b/>cerevisiae</i><par n="Autre__np"/></e>
-<e lm="Schizosaccharomyces pombe"><i>Schizosaccharomyces<b/>pombe</i><par n="Autre__np"/></e>
-<e lm="Sorri domestica"><i>Sorri<b/>domestica</i><par n="Autre__np"/></e>
-<e lm="Speothos"><i>Speothos</i><par n="Autre__np"/></e>
-<e lm="tapetum lucidum"><i>tapetum<b/>lucidum</i><par n="Autre__np"/></e>
-<e lm="Theria"><i>Theria</i><par n="Autre__np"/></e>
-<e lm="Vertebrata"><i>Vertebrata</i><par n="Autre__np"/></e>
-<e lm="Xenopus laevis"><i>Xenopus<b/>laevis</i><par n="Autre__np"/></e>
-<!-- end of Latin terms -->
-
-<!-- treat letters as proper nouns -->
-<!--<e lm="a"><i>a</i><par n="Autre__np"/></e>-->
-<e lm="b"><i>b</i><par n="Autre__np"/></e>
-<!--<e lm="c"><i>c</i><par n="Autre__np"/></e>-->
-<!--<e lm="d"><i>d</i><par n="Autre__np"/></e>-->
-<!--<e lm="e"><i>e</i><par n="Autre__np"/></e>-->
-<e lm="f"><i>f</i><par n="Autre__np"/></e>
-<e lm="g"><i>g</i><par n="Autre__np"/></e>
-<e lm="h"><i>h</i><par n="Autre__np"/></e>
-<!--<e lm="i"><i>i</i><par n="Autre__np"/></e>-->
-<e lm="j"><i>j</i><par n="Autre__np"/></e>
-<e lm="k"><i>k</i><par n="Autre__np"/></e>
-<!--<e lm="l"><i>l</i><par n="Autre__np"/></e>-->
-<!--<e lm="m"><i>m</i><par n="Autre__np"/></e>-->
-<!--<e lm="n"><i>n</i><par n="Autre__np"/></e>-->
-<!--<e lm="o"><i>o</i><par n="Autre__np"/></e>-->
-<!--<e lm="p"><i>p</i><par n="Autre__np"/></e>-->
-<e lm="q"><i>q</i><par n="Autre__np"/></e>
-<!--<e lm="r"><i>r</i><par n="Autre__np"/></e>-->
-<!--<e lm="s"><i>s</i><par n="Autre__np"/></e>-->
-<!--<e lm="t"><i>t</i><par n="Autre__np"/></e>-->
-<e lm="u"><i>u</i><par n="Autre__np"/></e>
-<!--<e lm="v"><i>v</i><par n="Autre__np"/></e>-->
-<e lm="w"><i>w</i><par n="Autre__np"/></e>
-<!--<e lm="x"><i>x</i><par n="Autre__np"/></e>-->
-<!--<e lm="y"><i>y</i><par n="Autre__np"/></e>-->
-<e lm="z"><i>z</i><par n="Autre__np"/></e>
-<!-- end of letters  -->
-
-<e lm="Animal Diversity Web"><i>Animal<b/>Diversity<b/>Web</i><par n="Autre__np"/></e>
+<!-- are these names common/noteworthy enough to merit inclusion? -->
+<!--<e lm="Animal Diversity Web"><i>Animal<b/>Diversity<b/>Web</i><par n="Autre__np"/></e>
 <e lm="Anthropozoologica"><i>Anthropozoologica</i><par n="Autre__np"/></e>
 <e lm="Baltique"><i>Baltique</i><par n="Nom__np"/></e>
 <e lm="Balto"><i>Balto</i><par n="Nom__np"/></e>
 <e lm="Belka"><i>Belka</i><par n="Nom__np"/></e>
-<e lm="Bo"><i>Bo</i><par n="Nom__np"/></e>
 <e lm="Brainmuseum"><i>Brainmuseum</i><par n="Autre__np"/></e>
 <e lm="Catalogue of Life"><i>Catalogue<b/>of<b/>Life</i><par n="Autre__np"/></e>
-<e lm="CCPA"><i>CCPA</i><par n="Autre__np"/></e>
 <e lm="Charles-Bruneau"><i>Charles-Bruneau</i><par n="Nom__np"/></e>
+<e lm="Ernst Mayr"><i>Ernst<b/>Mayr</i><par n="Nom__np"/></e>
+<e lm="Greyfriars Bobby"><i>Greyfriars<b/>Bobby</i><par n="Nom__np"/></e>
+<e lm="Hachikō"><i>Hachikō</i><par n="Nom__np"/></e>
+<e lm="Jean-Hervé Yvinec"><i>Jean-Hervé<b/>Yvinec</i><par n="Nom__np"/></e>
+<e lm="Joël Dehasse"><i>Joël<b/>Dehasse</i><par n="Nom__np"/></e>
+<e lm="Mabrouk"><i>Mabrouk</i><par n="Nom__np"/></e>
+<e lm="Mabrouka"><i>Mabrouka</i><par n="Nom__np"/></e>
+<e lm="Markos Kyprianou"><i>Markos<b/>Kyprianou</i><par n="Nom__np"/></e>
+<e lm="Odile Jacob"><i>Odile<b/>Jacob</i><par n="Nom__np"/></e>
+<e lm="Rubarth"><i>Rubarth</i><par n="Nom__np"/></e>
+<e lm="Strelka"><i>Strelka</i><par n="Nom__np"/></e>
+<e lm="Toutounet"><i>Toutounet</i><par n="Lieu__np"/></e>
+<e lm="The Paleobiology database"><i>The<b/>Paleobiology<b/>database</i><par n="Autre__np"/></e>-->
+
+<e lm="Bo"><i>Bo</i><par n="Nom__np"/></e>
+<e lm="CCPA"><i>CCPA</i><par n="Autre__np"/></e>
 <e lm="CITES"><i>CITES</i><par n="Autre__np"/></e>
 <e lm="CNRTL"><i>CNRTL</i><par n="Autre__np"/></e>
 <e lm="COM"><i>COM</i><par n="Autre__np"/></e>
-<e lm="Ernst Mayr"><i>Ernst<b/>Mayr</i><par n="Nom__np"/></e>
 <e lm="First Dog"><i>First<b/>Dog</i><par n="Nom__np"/></e>
-<e lm="Greyfriars Bobby"><i>Greyfriars<b/>Bobby</i><par n="Nom__np"/></e>
 <e lm="Gustave FlaLOFbert"><i>Gustave<b/>Flaubert</i><par n="Nom__np"/></e>
-<e lm="Hachikō"><i>Hachikō</i><par n="Nom__np"/></e>
 <e lm="ITIS"><i>ITIS</i><par n="Autre__np"/></e>
 <e lm="IUCN"><i>IUCN</i><par n="Autre__np"/></e>
-<e lm="Jean-Hervé Yvinec"><i>Jean-Hervé<b/>Yvinec</i><par n="Nom__np"/></e>
-<e lm="Joël Dehasse"><i>Joël<b/>Dehasse</i><par n="Nom__np"/></e>
 <e lm="JORF"><i>JORF</i><par n="Autre__np"/></e>
 <e lm="Laïka"><i>Laïka</i><par n="Nom__np"/></e>
 <e lm="LOF"><i>LOF</i><par n="Autre__np"/></e>
-<e lm="Mabrouk"><i>Mabrouk</i><par n="Nom__np"/></e>
-<e lm="Mabrouka"><i>Mabrouka</i><par n="Nom__np"/></e>
 <e lm="MALDI"><i>MALDI</i><par n="Autre__np"/></e>
-<e lm="Markos Kyprianou"><i>Markos<b/>Kyprianou</i><par n="Nom__np"/></e>
 <e lm="Moyen Âge"><i>Moyen<b/>Âge</i><par n="Autre__np"/></e>
 <e lm="NCBI"><i>NCBI</i><par n="Autre__np"/></e>
-<e lm="Odile Jacob"><i>Odile<b/>Jacob</i><par n="Nom__np"/></e>
 <e lm="PETA"><i>PETA</i><par n="Autre__np"/></e>
-<e lm="Rubarth"><i>Rubarth</i><par n="Nom__np"/></e>
-<e lm="Strelka"><i>Strelka</i><par n="Nom__np"/></e>
-<e lm="The Paleobiology database"><i>The<b/>Paleobiology<b/>database</i><par n="Autre__np"/></e>
 <e lm="TOF"><i>TOF</i><par n="Autre__np"/></e>
-<e lm="Toutounet"><i>Toutounet</i><par n="Lieu__np"/></e>
 <e lm="U.S.Navy"><i>U.S.Navy</i><par n="Autre__np"/></e>
 <e lm="Vietnam"><i>Vietnam</i><par n="Lieu__np"/></e>
 <e lm="Zorro"><i>Zorro</i><par n="Nom__np"/></e>
@@ -46975,6 +46957,7 @@
 <e lm="allergie"><i>allergie</i><par n="abeille__n"/></e>
 <e lm="alphabet"><i>alphabet</i><par n="livre__n"/></e>
 <e lm="an"><i>an</i><par n="livre__n"/></e>
+<e lm="analytique"><i>analytique</i><par n="abeille__n"/></e>
 <e lm="anatomie"><i>anatomie</i><par n="abeille__n"/></e>
 <e lm="animalerie"><i>animalerie</i><par n="abeille__n"/></e>
 <e lm="ankylostome"><i>ankylostome</i><par n="abeille__n"/></e> <!-- always plural? -->
@@ -47009,7 +46992,7 @@
 <e lm="carnet"><i>carnet</i><par n="livre__n"/></e>
 <e lm="carnivore"><i>carnivore</i><par n="livre__n"/></e>
 <e lm="cas"><i>cas</i><par n="mois__n"/></e>
-<e lm="céréales"><i>céréales</i><par n="abeille__n"/></e>
+<e lm="céréale"><i>céréale</i><par n="abeille__n"/></e>
 <e lm="certificat"><i>certificat</i><par n="livre__n"/></e>
 <e lm="chacal"><i>chacal</i><par n="chat__n"/></e>
 <e lm="champ"><i>champ</i><par n="livre__n"/></e>
@@ -47287,7 +47270,7 @@
 <e lm="adéquat"><i>adéquat</i><par n="pèlerin__adj"/></e>
 <e lm="adulte"><i>adulte</i><par n="académique__adj"/></e>
 <e lm="aiguisé"><i>aiguisé</i><par n="abaissant__adj"/></e>
-<e lm="analytique" a="eleka"><i>analytique</i><par n="abeille__n"/></e>
+<e lm="analytique"><i>analytique</i><par n="académique__adj"/></e>
 <e lm="ancestral"><i>ancestra</i><par n="amica/l__adj"/></e>
 <e lm="anecdotique"><i>anecdotique</i><par n="académique__adj"/></e>
 <e lm="animal"><i>anima</i><par n="amica/l__adj"/></e>
@@ -47330,7 +47313,7 @@
 <e lm="final"><i>fina</i><par n="amica/l__adj"/></e>
 <e lm="frais"><i>fra</i><par n="fra/is__adj"/></e>
 <e lm="français"><i>français</i><par n="anglais__adj"/></e>
-<e lm="francophones"><i>francophones</i><par n="académique__adj"/></e>
+<e lm="francophone"><i>francophone</i><par n="académique__adj"/></e>
 <e lm="fréquent"><i>fréquent</i><par n="abaissant__adj"/></e>
 <e lm="friable"><i>friable</i><par n="académique__adj"/></e>
 <e lm="gauche"><i>gauche</i><par n="académique__adj"/></e>
@@ -47434,7 +47417,7 @@
 <e lm="symbolique"><i>symbolique</i><par n="académique__adj"/></e>
 <e lm="synthétique"><i>synthétique</i><par n="académique__adj"/></e>
 <e lm="systématique"><i>systématique</i><par n="académique__adj"/></e>
-<e lm="taxinomique"><i>taxinomique</i><par n="académique__adj"/></e>
+<e lm="taxonomique"><i>taxonomique</i><par n="académique__adj"/></e>
 <e lm="technique"><i>technique</i><par n="académique__adj"/></e>
 <e lm="tel"><i>tel</i><par n="tel__adj"/></e>
 <e lm="tombant"><i>tombant</i><par n="pèlerin__adj"/></e>

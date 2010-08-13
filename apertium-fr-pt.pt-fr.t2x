@@ -1278,6 +1278,20 @@
 	<call-macro n="assigna_nombre_subj">
 	  <with-param pos="1"/>
 	</call-macro>
+	<choose>
+	  <when>
+	    <test>
+	      <equal caseless="yes">
+	        <clip pos="1" part="lem"/>
+	        <lit v="prnperssubj"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="subj_vist"/>
+	      <lit v="yes"/>
+	    </let>
+	  </when>
+	</choose>
 	<out>
 	  <chunk>
 	    <clip pos="1" part="lem"/>
