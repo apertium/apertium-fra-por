@@ -3344,22 +3344,12 @@
     <pardef n="be/au__adj">
             
 <e><p><l>au</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-            
+<e r="LR"><p><l>l</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>            
 <e><p><l>aux</l><r>au<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
             
 <e><p><l>lle</l><r>au<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
             
 <e><p><l>lles</l><r>au<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
-    <pardef n="be/l__adj">
-            
-<e><p><l>aux</l><r>l<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-            
-<e><p><l>l</l><r>l<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-            
-<e><p><l>lle</l><r>l<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-            
-<e><p><l>lles</l><r>l<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="blanc__adj">
             
@@ -8457,9 +8447,8 @@
     </pardef>
     <pardef n="nouve/au__adj">
             
-<e r="LR"><p><l>au</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>au</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>l</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-<e r="RL"><p><l><a/>au</l><r>au<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
             
 <e><p><l>aux</l><r>au<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
             
@@ -10689,16 +10678,6 @@
             
 <e><p><l>uses</l><r>ur<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
-    <pardef n="vie/il__adj">
-            
-<e><p><l>il</l><r>il<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-            
-<e><p><l>ille</l><r>il<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-            
-<e><p><l>illes</l><r>il<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
-            
-<e><p><l>ux</l><r>il<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-    </pardef>
     <pardef n="vie/ux__adj">
             
 <e><p><l>ille</l><r>ux<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
@@ -10706,6 +10685,7 @@
 <e><p><l>illes</l><r>ux<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
             
 <e><p><l>ux</l><r>ux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>il</l><r>ux<s n="adj"/><s n="m"/><s n="sp"/></r></p></e>
     </pardef>
     <pardef n="vie/ux__n">
             
@@ -13717,7 +13697,8 @@
           <e lm="batailler"><i>bataill</i><par n="abaiss/er__vblex"/></e>
           <e lm="bateau"><i>bateau</i><par n="lieu__n"/></e>
           <e lm="battre"><i>bat</i><par n="abat/tre__vblex"/></e>
-          <e lm="beau"><i>be</i><par n="be/au__adj"/></e>
+          <e lm="beau" r="LR"><i>be</i><par n="be/au__adj"/></e>
+          <e lm="beau" r="RL"><p><l><a/></l><r></r></p><i>be</i><par n="be/au__adj"/></e>
           <e lm="beaucoup"><i>beaucoup</i><par n="hier__adv"/></e>
           <e lm="beauté"><i>beauté</i><par n="abeille__n"/></e>
           <e lm="berge" r="LR"><i>berge</i><par n="abeille__n"/></e>
@@ -16790,7 +16771,8 @@
           <e lm="vider"><i>vid</i><par n="abaiss/er__vblex"/></e>
           <e lm="vidéo"><i>vidéo</i><par n="livre__n"/></e>
           <e lm="vie"><i>vie</i><par n="abeille__n"/></e>
-          <e lm="vieil"><i>vie</i><par n="vie/il__adj"/></e>
+          <e lm="vieux" r="LR"><i>vie</i><par n="vie/ux__adj"/></e>
+          <e lm="vieux" r="RL"><p><l><a/></l><r></r></p><i>vie</i><par n="vie/ux__adj"/></e>
           <e lm="vieillir"><i>vieill</i><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="vigueur"><i>vigueur</i><par n="livre__n"/></e>
           <e lm="village"><i>village</i><par n="livre__n"/></e>
@@ -46956,6 +46938,7 @@
 <e lm="aliments"><i>aliments</i><par n="livre__n"/></e>
 <e lm="allergie"><i>allergie</i><par n="abeille__n"/></e>
 <e lm="alphabet"><i>alphabet</i><par n="livre__n"/></e>
+<e lm="ami"><i>ami</i><par n="affecté__n"/></e>
 <e lm="an"><i>an</i><par n="livre__n"/></e>
 <e lm="analytique"><i>analytique</i><par n="abeille__n"/></e>
 <e lm="anatomie"><i>anatomie</i><par n="abeille__n"/></e>
@@ -47270,6 +47253,7 @@
 <e lm="adéquat"><i>adéquat</i><par n="pèlerin__adj"/></e>
 <e lm="adulte"><i>adulte</i><par n="académique__adj"/></e>
 <e lm="aiguisé"><i>aiguisé</i><par n="abaissant__adj"/></e>
+<!--<e lm="ami"><i>ami</i><par n="abaissant__adj"/></e>-->
 <e lm="analytique"><i>analytique</i><par n="académique__adj"/></e>
 <e lm="ancestral"><i>ancestra</i><par n="amica/l__adj"/></e>
 <e lm="anecdotique"><i>anecdotique</i><par n="académique__adj"/></e>
@@ -47361,7 +47345,8 @@
 <e lm="nécessaire"><i>nécessaire</i><par n="académique__adj"/></e>
 <e lm="négligeable"><i>négligeable</i><par n="académique__adj"/></e>
 <e lm="normal"><i>norma</i><par n="amica/l__adj"/></e>
-<e lm="nouveau"><i>nouve</i><par n="nouve/au__adj"/></e>
+<e lm="nouveau" r="LR"><i>nouve</i><par n="nouve/au__adj"/></e>
+<e lm="nouveau" r="RL"><p><l><a/></l><r></r></p><i>nouve</i><par n="nouve/au__adj"/></e>
 <e lm="numérique"><i>numérique</i><par n="académique__adj"/></e>
 <e lm="obèse"><i>obèse</i><par n="académique__adj"/></e>
 <e lm="occidental"><i>occidenta</i><par n="amica/l__adj"/></e>
@@ -47539,8 +47524,6 @@
           <e lm="amas" r="LR"><i>amas</i><par n="mois__n"/></e>
           <e lm="ambulance"><i>ambulance</i><par n="abeille__n"/></e>
           <e lm="ambulant"><i>ambulant</i><par n="abaissant__adj"/></e>
-          <e lm="ami"><i>ami</i><par n="abaissant__adj"/></e>
-          <e lm="ami"><i>ami</i><par n="affecté__n"/></e>
           <e lm="ampoule"><i>ampoule</i><par n="abeille__n"/></e>
           <e lm="anglais"><i>anglais</i><par n="admis__n"/></e>
           <e lm="anglais"><i>anglais</i><par n="anglais__adj"/></e>
@@ -48589,8 +48572,6 @@
           <e lm="vieillard"><i>vieillard</i><par n="livre__n"/></e>
           <e lm="vierge"><i>vierge</i><par n="académique__adj"/></e>
           <e lm="vierge"><i>vierge</i><par n="abeille__n"/></e>
-          <e lm="vieux"><i>vie</i><par n="vie/ux__adj"/></e>
-          <e lm="vieux"><i>vie</i><par n="vie/ux__n"/></e>
           <e lm="violon"><i>violon</i><par n="livre__n"/></e>
           <e lm="visiteur"><i>visiteu</i><par n="causeu/r__adj"/></e>
           <e lm="visiteur"><i>visiteu</i><par n="causeu/r__n"/></e>

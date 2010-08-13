@@ -141466,6 +141466,9 @@
 <e lm="semi"><i>semi</i><par n="Op.Cit.__adv"/></e>
 <e lm="tal"><i>tal</i><par n="Op.Cit.__adv"/></e>
 <e lm="tanto"><i>tanto</i><par n="Op.Cit.__adv"/></e>
+      
+<e lm="tanto"><i>tanto</i><par n="muito__preadv"/></e>
+<e lm="quanto"><i>quanto</i><par n="aonde__adv"/></e>
 
 </section>
 
@@ -150865,11 +150868,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="quanto">
-        <i>quanto</i>
-        <par n="aonde__adv"/>
-      </e>
-      
       <e lm="quanto mais">
         <i>quanto<b/>mais</i>
         <par n="Op.Cit.__adv"/>
@@ -152174,11 +152172,6 @@
       
       <e lm="turvamente">
         <i>turvamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="tão">
-        <i>tão</i>
         <par n="Op.Cit.__adv"/>
       </e>
       

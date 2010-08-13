@@ -2808,6 +2808,7 @@
 <e>       <p><l>auparavant<s n="adv"/></l>             <r>dantes<s n="adv"/></r></p></e>
 <e>       <p><l>auprès<s n="adv"/></l>                 <r>perto<s n="adv"/></r></p></e>
 <e>       <p><l>aussi<s n="adv"/></l>                  <r>também<s n="adv"/></r></p></e>
+<e>       <p><l>aussi<s n="adv"/></l>               <r>tão<s n="preadv"/></r></p></e>
 <e>       <p><l>aussitôt<s n="adv"/></l>               <r>em<b/>seguida<s n="adv"/></r></p></e>
 <e>       <p><l>autant<s n="adv"/></l>                 <r>tanto<s n="adv"/></r></p></e>
 <e>       <p><l>authentiquement<s n="adv"/></l>        <r>autenticamente<s n="adv"/></r></p></e>
@@ -3194,7 +3195,7 @@
 <e>       <p><l>sévèrement<s n="adv"/></l>             <r>severamente<s n="adv"/></r></p></e>
 <e>       <p><l>sûr<s n="adv"/></l>                    <r>seguro<s n="adv"/></r></p></e>
 <e>       <p><l>sûrement<s n="adv"/></l>               <r>seguramente<s n="adv"/></r></p></e>
-<e>       <p><l>tant<s n="adv"/></l>                   <r>tanto<s n="adv"/></r></p></e>
+<e r="LR"><p><l>tant<s n="adv"/></l>                   <r>tanto<s n="adv"/></r></p></e>
 <e>       <p><l>tantôt<s n="adv"/></l>                 <r>depois<s n="adv"/></r></p></e>
 <e>       <p><l>tard<s n="adv"/></l>                   <r>tarde<s n="adv"/></r></p></e>
 <e>       <p><l>tardivement<s n="adv"/></l>            <r>tardiamente<s n="adv"/></r></p></e>
@@ -19453,7 +19454,18 @@
 <!--<e r="LR"><p><l>vide<s n="adj"/><s n="mf"/></l>        <r>vazio<s n="adj"/><s n="GD"/></r></p></e>-->
 <!--<e r="LR"><p><l>vide<s n="adj"/><s n="mf"/></l>        <r>vazio<s n="adj"/><s n="m"/></r></p></e>-->
 <!--<e r="LR"><p><l>vide<s n="adj"/><s n="mf"/></l>        <r>vazio<s n="adj"/><s n="f"/></r></p></e>-->
-<e>       <p><l>vieil<s n="adj"/></l>                  <r>velho<s n="adj"/></r></p></e>
+<e>       <p><l>vieux<s n="adj"/></l>                  <r>velho<s n="adj"/></r></p></e>
+<e r="LR"><p><l>vieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>velho<s n="adj"/><s n="m"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>vieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>velho<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>vieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>velho<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+<!--
+no <adj><f><sp> version exists, but without the next three entries, it fails if the
+noun being modified changes gender from f to m between source and target
+(there may be similar cases as yet unfound - need to check)
+-->
+<e r="LR"><p><l>vieux<s n="adj"/><s n="f"/><s n="sp"/></l><r>velho<s n="adj"/><s n="f"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>vieux<s n="adj"/><s n="f"/><s n="sp"/></l><r>velho<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>vieux<s n="adj"/><s n="f"/><s n="sp"/></l><r>velho<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
 <e>       <p><l>vietnamien<s n="adj"/></l>             <r>vietnamita<s n="adj"/></r></p></e>
 <e>       <p><l>vif<s n="adj"/></l>                    <r>vivo<s n="adj"/></r></p></e>
 <e>       <p><l>vigoureux<s n="adj"/></l>              <r>vigoroso<s n="adj"/></r></p></e>

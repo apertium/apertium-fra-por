@@ -859,8 +859,24 @@
       
        <e>
         <p>
+          <l><a/>beau<b/></l>
+          <r>bel<b/></r>
+        </p>
+        <par n="vocals"/>
+      </e> 
+      
+      <e>
+        <p>
           <l><a/>nouveau<b/></l>
           <r>nouvel<b/></r>
+        </p>
+        <par n="vocals"/>
+      </e> 
+      
+      <e>
+        <p>
+          <l><a/>vieux<b/></l>
+          <r>vieil<b/></r>
         </p>
         <par n="vocals"/>
       </e> 
