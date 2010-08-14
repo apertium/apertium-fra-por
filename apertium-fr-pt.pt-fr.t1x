@@ -70,8 +70,8 @@
     <def-cat n="prep">
       <cat-item tags="pr"/>
     </def-cat>
-    <def-cat n="en">
-      <cat-item lemma="en" tags="pr"/>
+    <def-cat n="em">
+      <cat-item lemma="em" tags="pr"/>
     </def-cat>
     <def-cat n="a">
       <cat-item lemma="a" tags="pr"/>
@@ -100,6 +100,7 @@
       <cat-item lemma="tu" tags="prn.*"/>
       <cat-item lemma="ele" tags="prn.*"/>
       <cat-item lemma="nós" tags="prn.*"/>
+	  <!-- vós? rare but possible -->
       <cat-item lemma="vocês" tags="prn.*"/>
     </def-cat>
     <def-cat n="prnsubj">
@@ -308,20 +309,29 @@
       <cat-item tags="lquest"/>
     </def-cat>
     <def-cat n="tanto">
+	  <!-- take this lemma no matter how the tagger tags it -->
       <cat-item lemma="tanto" tags="adj.*"/>
-	  <!--
-		sometimes the tagger interprets what should be
-		tanto<adj><m><sg> as tanto<adv>, so we kludge
-		a fix here by making it accept both
-	  -->
       <cat-item lemma="tanto" tags="adv"/>
     </def-cat>
     <def-cat n="tão">
       <cat-item lemma="tão" tags="preadv"/>
     </def-cat>
     <def-cat n="quanto">
-      <cat-item lemma="quanto" tags="adv.itg"/>
-      <cat-item lemma="como" tags="adv.itg"/>
+	  <!-- take these lemmas (lemmata?) no matter how the tagger tags them -->
+	  <!-- and pray it doesn't tag 'como' as comer<vblex>... -->
+      <cat-item lemma="quanto" tags="adv.*"/>
+      <cat-item lemma="quanto" tags="rel.*"/>
+      <cat-item lemma="quanto" tags="prn.*"/>
+      <cat-item lemma="como" tags="adv.*"/>
+      <cat-item lemma="como" tags="rel.*"/>
+      <cat-item lemma="como" tags="pr.*"/>
+      <cat-item lemma="como" tags="cnjadv.*"/>
+    </def-cat>
+    <def-cat n="este">
+      <cat-item lemma="este" tags="det.*"/>
+    </def-cat>
+    <def-cat n="aquele">
+      <cat-item lemma="aquele" tags="det.*"/>
     </def-cat>
   </section-def-cats>
   <section-def-attrs>
@@ -4290,6 +4300,42 @@
         </choose>
       </action>
     </rule>
+    <rule comment="REGLA: PREP DET LOCATIU">
+      <pattern>
+        <pattern-item n="prep"/>
+        <pattern-item n="det"/>
+        <pattern-item n="loc"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="2"/>
+        </call-macro>
+          <out>
+            <chunk name="nploc" case="caseFirstWord">
+              <tags>
+                <tag>
+                  <lit-tag v="SPREP"/>
+                </tag>
+              </tags>
+              <lu>
+                <clip pos="1" side="tl" part="whole"/>
+              </lu>
+              <b pos="1"/>
+              <lu>
+                <clip pos="2" side="tl" part="whole"/>
+              </lu>
+              <b pos="2"/>
+              <lu>
+                <clip pos="3" side="tl" part="whole"/>
+              </lu>
+            </chunk>
+          </out>
+        <let>
+          <var n="caseFirstWord"/>
+          <lit v="aa"/>
+        </let>
+      </action>
+    </rule>
     <rule comment="REGLA: PREP LOCATIU">
       <pattern>
         <pattern-item n="prep"/>
@@ -4539,6 +4585,75 @@
         </let>
       </action>
     </rule>
+	
+	<!--
+		the next two rules can probably be combined with DET NOM below
+		or even made into a macro and called from any DET NOM ... rule
+	-->
+    <rule comment="REGLA: este NOM">
+      <pattern>
+        <pattern-item n="este"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+	    <out>
+		  <chunk name="este_nom">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="1" side="sl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <lu>
+              <lit v="-ci"/>
+              <lit-tag v="adv"/>
+            </lu>
+		  </chunk>
+		</out>
+	  </action>
+	</rule>
+	
+    <rule comment="REGLA: aquele NOM">
+      <pattern>
+        <pattern-item n="aquele"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+	    <out>
+		  <chunk name="aquele_nom">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="1" side="sl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <lu>
+              <lit v="-là"/>
+              <lit-tag v="adv"/>
+            </lu>
+		  </chunk>
+		</out>
+	  </action>
+	</rule>
+	
     <rule comment="REGLA: DET NOM">
       <pattern>
         <pattern-item n="det"/>
@@ -23214,7 +23329,7 @@
 		    <test>
 		      <equal>
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="en"/>
+			<lit v="em"/>
 		      </equal>
 		    </test>
 		    <let>
@@ -23313,7 +23428,7 @@
 		    <test>
 		      <equal>
 			<clip pos="1" side="sl" part="lem"/>
-			<lit v="en"/>
+			<lit v="em"/>
 		      </equal>
 		    </test>
 		    <let>
@@ -23968,38 +24083,93 @@
       </action>
     </rule>
 	
-    <rule comment="REGLA: tanto NOM quanto">
+	<!--
+	separate rules for the personal pronoun case and the general case
+    because some personal pronouns require partioular forms
+	-->
+    <rule comment="REGLA: tanto NOM quanto PRNPERSSUBJ">
       <pattern>
         <pattern-item n="tanto"/>
         <pattern-item n="nom"/>
         <pattern-item n="quanto"/>
+        <pattern-item n="prnperssubj"/>
       </pattern>
       <action>
-        <let>
-          <clip pos="1" side="tl" part="lem"/>
-          <lit v="tanto"/>
-        </let>
-        <let>
-          <clip pos="1" side="tl" part="tags"/>
-          <lit-tag v="adv"/>
-        </let>
-        <let>
-          <clip pos="3" side="tl" part="lem"/>
-          <lit v="que"/>
-        </let>
-        <let>
-          <clip pos="3" side="tl" part="tags"/>
-          <lit-tag v="cnjsub"/>
-        </let>
+	    <choose>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="4" side="tl" part="lem"/>
+                <lit v="je"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="moi"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="4" side="tl" part="lem"/>
+                <lit v="tu"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="toi"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+              <and>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="lem"/>
+                  <lit v="il"/>
+			    </equal>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="nbr"/>
+                  <lit-tag v="sg"/>
+			    </equal>
+              </and>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="lui"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+              <and>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="lem"/>
+                  <lit v="il"/>
+			    </equal>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="nbr"/>
+                  <lit-tag v="pl"/>
+			    </equal>
+              </and>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="eux"/>
+            </let>
+		  </when>
+		</choose>
         <out>
-		  <chunk name="tanto_nom_quanto">
+		  <chunk name="tanto_nom_quanto_prnperssubj">
             <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
               <tag>
                 <clip pos="2" side="tl" part="tags"/>
               </tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <lit v="autant"/>
+              <lit-tag v="adv"/>
             </lu>
             <b/>
             <lu>
@@ -24012,7 +24182,152 @@
             </lu>
             <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>
+              <lit v="que"/>
+              <lit-tag v="cnjsub"/>
+            </lu>
+			<b/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+		  </chunk>
+        </out>
+      </action>
+	</rule>
+    <rule comment="REGLA: tão ADJ quanto PRNPERSSUBJ">
+      <pattern>
+        <pattern-item n="tão"/>
+        <pattern-item n="adjec"/>
+        <pattern-item n="quanto"/>
+        <pattern-item n="prnperssubj"/>
+      </pattern>
+      <action>
+	    <choose>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="4" side="tl" part="lem"/>
+                <lit v="je"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="moi"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="4" side="tl" part="lem"/>
+                <lit v="tu"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="toi"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+              <and>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="lem"/>
+                  <lit v="il"/>
+			    </equal>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="nbr"/>
+                  <lit-tag v="sg"/>
+			    </equal>
+              </and>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="lui"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+              <and>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="lem"/>
+                  <lit v="il"/>
+			    </equal>
+			    <equal caseless="yes">
+                  <clip pos="4" side="tl" part="nbr"/>
+                  <lit-tag v="pl"/>
+			    </equal>
+              </and>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="eux"/>
+            </let>
+		  </when>
+		</choose>
+        <out>
+		  <chunk name="tão_adj_quanto_prnperssubj">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="2" side="tl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <lit v="aussi"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="que"/>
+              <lit-tag v="cnjsub"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+		  </chunk>
+        </out>
+      </action>
+	</rule>
+    <rule comment="REGLA: tanto NOM quanto">
+      <pattern>
+        <pattern-item n="tanto"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="quanto"/>
+      </pattern>
+      <action>
+        <out>
+		  <chunk name="tanto_nom_quanto">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="2" side="tl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <lit v="autant"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="de"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="que"/>
+              <lit-tag v="cnjsub"/>
             </lu>
 		  </chunk>
         </out>
@@ -24025,23 +24340,19 @@
         <pattern-item n="quanto"/>
       </pattern>
       <action>
-        <let>
-          <clip pos="3" side="tl" part="lem"/>
-          <lit v="que"/>
-        </let>
-        <let>
-          <clip pos="3" side="tl" part="tags"/>
-          <lit-tag v="cnjsub"/>
-        </let>
         <out>
-		  <chunk name="tanto_nom_quanto">
+		  <chunk name="tão_adj_quanto">
             <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
               <tag>
                 <clip pos="2" side="tl" part="tags"/>
               </tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <lit v="aussi"/>
+              <lit-tag v="adv"/>
             </lu>
             <b/>
             <lu>
@@ -24049,7 +24360,8 @@
             </lu>
             <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>
+              <lit v="que"/>
+              <lit-tag v="cnjsub"/>
             </lu>
 		  </chunk>
         </out>

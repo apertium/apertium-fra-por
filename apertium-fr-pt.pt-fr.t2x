@@ -123,6 +123,9 @@
       <attr-item tags="pp"/>
       <attr-item tags="ger"/>
       <attr-item tags="imp"/>
+      <attr-item tags="fts"/>
+      <attr-item tags="infps"/>
+      <attr-item tags="pmp"/>
       
     </def-attr>
 
@@ -140,6 +143,17 @@
       <attr-item tags="UNDET"/>
       <attr-item tags="NUM"/>
       <attr-item tags="rel"/>
+    </def-attr>
+	
+    <def-attr n="eq_1ps_3ps">
+      <attr-item tags="cni"/>
+      <attr-item tags="fts"/>
+      <attr-item tags="ifi"/>
+      <attr-item tags="infps"/>
+      <attr-item tags="pii"/>
+      <attr-item tags="pis"/>
+      <attr-item tags="pmp"/>
+      <attr-item tags="prs"/>
     </def-attr>
 
   </section-def-attrs>
@@ -194,6 +208,7 @@
       <list-item v="moins"/>
       <list-item v="beaucoup"/>
     </def-list>
+	
   </section-def-lists>
 
 
@@ -780,6 +795,35 @@
 		  </choose>
 		</when>
 		<otherwise>
+			    <choose>
+				  <when>
+				    <test>
+					  <and>
+			            <equal>
+			              <clip pos="1" part="lem"/>
+			              <lit v="être"/>
+			            </equal>
+			            <equal>
+			              <clip pos="1" part="nbr"/>
+			              <lit-tag v="sg"/>
+			            </equal>
+					  </and>
+					</test>
+		            <out>
+			          <chunk>
+			            <get-case-from pos="1">
+			              <lit v="prnperssubj"/>
+			            </get-case-from>
+			            <lit-tag v="SN"/>
+			            <lit v="{^"/>
+			            <lit v="ce"/>
+			            <lit-tag v="prn.tn.nt.sg"/>
+			            <lit v="$}"/>
+			          </chunk>
+			          <b/>
+		            </out>
+				  </when>
+				  <otherwise>
 		  <out>
 		    
 		    <chunk>
@@ -796,6 +840,8 @@
 		    </chunk>
 		    <b/>
 		  </out>
+				  </otherwise>
+				</choose>
 		</otherwise>
 	      </choose>
 	    </otherwise>
@@ -1023,8 +1069,35 @@
 			  </not>
 			</or>
 		      </test>
-
-
+			  <choose>
+				<when>
+				  <test>
+				    <and>
+			          <equal caseless="yes">
+			            <clip pos="1" part="a_verb"/>
+			            <lit-tag v="vbser"/>
+			          </equal>
+			          <equal>
+			            <clip pos="1" part="nbr"/>
+			            <lit-tag v="sg"/>
+			          </equal>
+					</and>
+			      </test>
+		          <out>
+			        <chunk>
+			          <get-case-from pos="1">
+			            <lit v="prnperssubj"/>
+			          </get-case-from>
+			          <lit-tag v="SN"/>
+			          <lit v="{^"/>
+			          <lit v="ce"/>
+			          <lit-tag v="prn.tn.nt.sg"/>
+			          <lit v="$}"/>
+			        </chunk>
+			        <b/>
+		          </out>
+				</when>
+				<otherwise>
 		      <out>
 			<chunk>
 			  <get-case-from pos="1">
@@ -1039,6 +1112,8 @@
 			</chunk>
 			<b/>
 		      </out>
+				  </otherwise>
+				</choose>
 		    </when>
 		  </choose>
 		</otherwise>
@@ -2217,6 +2292,108 @@
 	</out>
       </action>
     </rule>
+
+<!--
+	This rule should disambiguate identical 1ps and 3ps verb forms. But
+	everything involving <clip pos="2" part="pers"/> seems to fail. Why?
+	In any case, I have verified that the chunks do indeed get here (by
+	duplicating one of the clips in the <out> section), and I have verified
+	that is indeed <clip pos="2" part="pers"/> that causes the problem (by
+	taking all mentions of it out and trying various combinations). Tests
+	involving it fail, and <let>s using it have no effect. (See the
+	outdented <let> below.)
+-->
+	<rule comment="REGLA: SN SV">
+		<pattern>
+			<pattern-item n="SN"/>
+			<pattern-item n="SV"/>
+		</pattern>
+		<action>
+			<let>
+				<var n="subj_vist"/>
+				<lit v="yes"/>
+			</let>
+<let>
+	<clip pos="2" part="pers"/>
+	<lit-tag v="p3"/>
+</let>
+			<call-macro n="assigna_gen_nbr">
+				<with-param pos="1"/>
+			</call-macro>
+			<call-macro n="assigna_nombre_subj">
+				<with-param pos="1"/>
+			</call-macro>
+					<let>
+						<clip pos="2" part="pers"/>
+						<var n="pers_subj"/>
+					</let>
+			<choose>
+				<when>
+					<test>
+						<and>
+							<!--
+								should have separate testing for pii, since 1ps and 3ps are
+								only the same for certain irregular verbs
+							-->
+							<not>
+								<equal>
+									<clip pos="2" part="eq_1ps_3ps"/>
+									<lit-tag v=""/>
+								</equal>
+							</not>
+							<equal>
+								<clip pos="1" part="nbr"/>
+								<lit-tag v="sg"/>
+							</equal>
+							<equal>
+								<clip pos="2" part="nbr"/>
+								<lit-tag v="sg"/>
+							</equal>
+							<or>
+								<and>
+									<equal>
+										<var n="pers_subj"/>
+										<lit v="p1"/>
+									</equal>
+									<equal>
+										<clip pos="2" part="pers"/>
+										<lit v="p3"/>
+									</equal>
+								</and>
+								<and>
+									<equal>
+										<var n="pers_subj"/>
+										<lit v="p3"/>
+									</equal>
+									<equal>
+										<clip pos="2" part="pers"/>
+										<lit v="p1"/>
+									</equal>
+								</and>
+							</or>
+						</and>
+					</test>
+					<let>
+						<clip pos="2" part="pers"/>
+						<var n="pers_subj"/>
+					</let>
+				</when>
+			</choose>
+			<out>
+				<chunk>
+					<clip pos="1" part="lem"/>
+					<clip pos="1" part="tags"/>
+					<clip pos="1" part="chcontent"/>
+				</chunk>
+				<b pos="1"/>
+				<chunk>
+					<clip pos="2" part="lem"/>
+					<clip pos="2" part="tags"/>
+					<clip pos="2" part="chcontent"/>
+				</chunk>
+			</out>
+		</action>
+	</rule>
     <!--
 	<rule comment="REGLA: SN SV">
 	<pattern>
@@ -3613,7 +3790,23 @@
 	</choose>
       </action>
     </rule>
+<!--
+    <rule comment="REGLA: SN SV">
+      <pattern>
+	    <pattern-item n="SN"/>
+	    <pattern-item n="SV"/>
+      </pattern>
+      <action>
+	  </action>
+	</rule>
 
+    <rule comment="REGLA: prnperssubj SV">
+      <pattern>
+	    <pattern-item n="SN"/>
+	    <pattern-item n="SV"/>
+      </pattern>
+	</rule>
+-->
     <rule comment="REGLA: SV"> 
       <pattern>
 	<pattern-item n="SV"/>

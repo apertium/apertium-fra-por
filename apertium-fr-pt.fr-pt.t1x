@@ -298,6 +298,37 @@
     <def-cat n="coma">
       <cat-item tags="cm"/>
     </def-cat>
+	
+    <def-cat n="autant">
+      <cat-item lemma="autant" tags="adv"/>
+    </def-cat>
+    <def-cat n="aussi">
+      <cat-item lemma="aussi" tags="adv"/>
+    </def-cat>
+    <def-cat n="que">
+	  <!-- take this lemma no matter how the tagger tags it -->
+      <cat-item lemma="que" tags="cnjsub"/>
+      <cat-item lemma="que" tags="rel.*"/>
+      <cat-item lemma="que" tags="prn.*"/>
+    </def-cat>
+    <def-cat n="prnpersobj">
+      <cat-item lemma="moi" tags="prn.*"/>
+      <cat-item lemma="nous" tags="prn.*"/>
+      <cat-item lemma="toi" tags="prn.*"/>
+      <cat-item lemma="vous" tags="prn.*"/>
+      <cat-item lemma="lui" tags="prn.*"/>
+      <cat-item lemma="eux" tags="prn.*"/>
+      <cat-item lemma="il" tags="prn.*"/> <!-- will get elle and elles -->
+    </def-cat>
+    <def-cat n="ce">
+      <cat-item lemma="ce" tags="det.*"/>
+    </def-cat>
+    <def-cat n="ci">
+      <cat-item lemma="ci" tags="adv"/>
+    </def-cat>
+    <def-cat n="là">
+      <cat-item lemma="là" tags="adv"/>
+    </def-cat>
 
   </section-def-cats>
   <section-def-attrs>
@@ -4056,6 +4087,76 @@
 	</let>
       </action>
     </rule>
+	
+	<!--
+		the next two rules can probably be combined with DET NOM below
+		or even made into a macro and called from any DET NOM ... rule
+	-->
+    <rule comment="REGLA: ce NOM-ci">
+      <pattern>
+        <pattern-item n="ce"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="ci"/>
+      </pattern>
+      <action>
+	    <let>
+          <clip pos="1" side="tl" part="lem"/>
+          <lit v="este"/>
+        </let>
+	    <out>
+		  <chunk name="ce_nom_ci">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="1" side="sl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+		  </chunk>
+		</out>
+	  </action>
+	</rule>
+	
+    <rule comment="REGLA: ce NOM-là">
+      <pattern>
+        <pattern-item n="ce"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="là"/>
+      </pattern>
+      <action>
+	    <let>
+          <clip pos="1" side="tl" part="lem"/>
+          <lit v="aquele"/>
+        </let>
+	    <out>
+		  <chunk name="ce_nom_ci">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="1" side="sl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="sl" part="whole"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="sl" part="whole"/>
+            </lu>
+		  </chunk>
+		</out>
+	  </action>
+	</rule>
 
     <rule comment="REGLA: DET NOM">
       <pattern>
@@ -17482,6 +17583,247 @@
 	</out>
       </action>
     </rule>
+	
+	<!--
+	separate rules for the personal pronoun case and the general case
+    because some personal pronouns require partioular forms
+	-->
+    <rule comment="REGLA: autant de NOM que PRNPERSOBJ">
+      <pattern>
+        <pattern-item n="autant"/>
+        <pattern-item n="de"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="que"/>
+        <pattern-item n="prnpersobj"/>
+      </pattern>
+      <action>
+	    <choose>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="5" side="tl" part="lem"/>
+                <lit v="mim"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="5" side="tl" part="lem"/>
+              <lit v="eu"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="5" side="tl" part="lem"/>
+                <lit v="ti"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="5" side="tl" part="lem"/>
+              <lit v="tu"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="5" side="sl" part="lem"/>
+                <lit v="lui"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="5" side="tl" part="lem"/>
+              <lit v="ele"/>
+            </let>
+            <let>
+              <clip pos="5" side="tl" part="lem"/>
+              <lit v="prn.tn.p3.m.sg"/>
+            </let>
+		  </when>
+		</choose>
+        <out>
+		  <chunk name="autant_de_nom_que_prnpersobj">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="3" side="tl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <lit v="tanto"/>
+              <lit-tag v="adj"/>
+	          <clip pos="3" side="tl" part="gen"/>
+	          <clip pos="3" side="tl" part="nbr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="quanto"/>
+              <lit-tag v="adv.itg"/>	<!-- as defined in monodix -->
+            </lu>
+			<b/>
+            <lu>
+              <clip pos="5" side="tl" part="whole"/>
+            </lu>
+		  </chunk>
+        </out>
+      </action>
+	</rule>
+    <rule comment="REGLA: aussi ADJ que PRNPERSOBJ">
+      <pattern>
+        <pattern-item n="aussi"/>
+        <pattern-item n="adjec"/>
+        <pattern-item n="que"/>
+        <pattern-item n="prnpersobj"/>
+      </pattern>
+      <action>
+	    <choose>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="4" side="tl" part="lem"/>
+                <lit v="mim"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="eu"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="4" side="tl" part="lem"/>
+                <lit v="ti"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="tu"/>
+            </let>
+		  </when>
+		  <when>
+		    <test>
+			  <equal caseless="yes">
+                <clip pos="4" side="sl" part="lem"/>
+                <lit v="lui"/>
+			  </equal>
+			</test>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="ele"/>
+            </let>
+            <let>
+              <clip pos="4" side="tl" part="lem"/>
+              <lit v="prn.tn.p3.m.sg"/>
+            </let>
+		  </when>
+		</choose>
+        <out>
+		  <chunk name="aussi_adj_que_prnpersobj">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="2" side="tl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <lit v="tão"/>
+              <lit-tag v="preadv"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="quanto"/>
+              <lit-tag v="adv.itg"/>	<!-- as defined in monodix -->
+            </lu>
+			<b/>
+            <lu>
+              <clip pos="4" side="tl" part="whole"/>
+            </lu>
+		  </chunk>
+        </out>
+      </action>
+	</rule>
+    <rule comment="REGLA: autant de NOM que">
+      <pattern>
+        <pattern-item n="autant"/>
+        <pattern-item n="de"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="que"/>
+      </pattern>
+      <action>
+        <out>
+		  <chunk name="autant_de_nom_que">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="3" side="tl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <lit v="tanto"/>
+              <lit-tag v="adj"/>
+	          <clip pos="3" side="tl" part="gen"/>
+	          <clip pos="3" side="tl" part="nbr"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="quanto"/>
+              <lit-tag v="adv.itg"/>	<!-- as defined in monodix -->
+            </lu>
+		  </chunk>
+        </out>
+      </action>
+	</rule>
+    <rule comment="REGLA: aussi ADJ que">
+      <pattern>
+        <pattern-item n="aussi"/>
+        <pattern-item n="adjec"/>
+        <pattern-item n="que"/>
+      </pattern>
+      <action>
+        <out>
+		  <chunk name="aussi_adj_que">
+            <tags>
+              <tag>
+                <lit-tag v="SN"/>
+              </tag>
+              <tag>
+                <clip pos="2" side="tl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <lit v="tão"/>
+              <lit-tag v="preadv"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="quanto"/>
+              <lit-tag v="adv.itg"/>	<!-- as defined in monodix -->
+            </lu>
+		  </chunk>
+        </out>
+      </action>
+	</rule>
 
   </section-rules>
 </transfer>

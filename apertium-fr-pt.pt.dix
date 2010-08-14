@@ -98284,6 +98284,41 @@
 				 <l>d</l>
 				 <r>de<s n="pr"/><j/></r>
 			 </p>
+			 <par n="/o_meu__prn"/>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>d</l>
+				 <r>de<s n="pr"/><j/></r>
+			 </p>
+			 <par n="/o_nosso__prn"/>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>d</l>
+				 <r>de<s n="pr"/><j/></r>
+			 </p>
+			 <par n="/o_seu__prn"/>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>d</l>
+				 <r>de<s n="pr"/><j/></r>
+			 </p>
+			 <par n="/o_teu__prn"/>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>d</l>
+				 <r>de<s n="pr"/><j/></r>
+			 </p>
+			 <par n="/o_vosso__prn"/>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>d</l>
+				 <r>de<s n="pr"/><j/></r>
+			 </p>
 			 <par n="/o_meu__det"/>
 		 </e>
 		 <e r="LR">
@@ -98770,6 +98805,126 @@
 			 <p>
 				 <l>àquilo</l>
 				 <r>a<s n="pr"/><j/>aquilo<s n="prn"/><s n="tn"/><s n="nt"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>às<b/>minhas</l>
+				 <r>a<s n="pr"/><j/>o<b/>meu<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>à<b/>minha</l>
+				 <r>a<s n="pr"/><j/>o<b/>meu<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>aos<b/>meus</l>
+				 <r>a<s n="pr"/><j/>o<b/>meu<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>ao<b/>meu</l>
+				 <r>a<s n="pr"/><j/>o<b/>meu<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>às<b/>nossas</l>
+				 <r>a<s n="pr"/><j/>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>à<b/>nossa</l>
+				 <r>a<s n="pr"/><j/>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>aos<b/>nossos</l>
+				 <r>a<s n="pr"/><j/>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>ao<b/>nosso</l>
+				 <r>a<s n="pr"/><j/>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>às<b/>suas</l>
+				 <r>a<s n="pr"/><j/>o<b/>seu<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>à<b/>sua</l>
+				 <r>a<s n="pr"/><j/>o<b/>seu<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>aos<b/>seus</l>
+				 <r>a<s n="pr"/><j/>o<b/>seu<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>ao<b/>seu</l>
+				 <r>a<s n="pr"/><j/>o<b/>seu<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>às<b/>tuas</l>
+				 <r>a<s n="pr"/><j/>o<b/>teu<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>à<b/>tua</l>
+				 <r>a<s n="pr"/><j/>o<b/>teu<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>aos<b/>teus</l>
+				 <r>a<s n="pr"/><j/>o<b/>teu<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>ao<b/>teu</l>
+				 <r>a<s n="pr"/><j/>o<b/>teu<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>às<b/>vossas</l>
+				 <r>a<s n="pr"/><j/>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>à<b/>vossa</l>
+				 <r>a<s n="pr"/><j/>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>aos<b/>vossos</l>
+				 <r>a<s n="pr"/><j/>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r>
+			 </p>
+		 </e>
+		 <e r="LR">
+			 <p>
+				 <l>ao<b/>vosso</l>
+				 <r>a<s n="pr"/><j/>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r>
 			 </p>
 		 </e>
 		 <e r="LR">
@@ -141467,7 +141622,6 @@
 <e lm="tal"><i>tal</i><par n="Op.Cit.__adv"/></e>
 <e lm="tanto"><i>tanto</i><par n="Op.Cit.__adv"/></e>
       
-<e lm="tanto"><i>tanto</i><par n="muito__preadv"/></e>
 <e lm="quanto"><i>quanto</i><par n="aonde__adv"/></e>
 
 </section>

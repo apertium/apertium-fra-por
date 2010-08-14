@@ -1,7 +1,7 @@
 use strict;
 
-#my $dir = 'frpt';
-my $dir = 'ptfr';
+my $dir = 'frpt';
+#my $dir = 'ptfr';
 
 my $want_multiples = 0;
 #my $want_multiples = 1;
@@ -18,7 +18,7 @@ my $want_multiwords = 1;
 #my $cat = 'ij';	# clean in both directions
 #my $cat = 'pr';	# clean in both directions
 #my $cat = 'preadv';	# clean in both directions
-#my $cat = 'prn';	# clean in both directions
+my $cat = 'prn';	# clean in both directions
 #my $cat = 'rel';	# clean in both directions
 #my $cat = 'vbhaver';	# clean in both directions
 #my $cat = 'vbser';	# clean in both directions
@@ -27,7 +27,7 @@ my $want_multiwords = 1;
 #my $cat = 'adj';
 #my $cat = 'adv';
 #my $cat = 'n';
-my $cat = 'np';	# clean in both directions
+#my $cat = 'np';	# clean in both directions
 #my $cat = 'vblex';
 #my $cat = 'vbmod';	# not listed with the errors
 
@@ -43,6 +43,7 @@ my %diccat = (
 	'rel'    => 'pron',
 	'np'     => 'n',
 	'n'      => 'n',
+	'prn'    => 'prn',
 	'vblex'  => '(v|vt|vi)',
 	'vbmod'  => '(v|vt|vi)',
 	'vbser'  => '(v|vt|vi)',

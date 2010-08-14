@@ -4670,9 +4670,9 @@
 <e><p><l>tîtes</l><r>tir<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="conta__pr">
+            <e r="LR"><p><l>à</l><r>à<s n="pr"/></r></p></e>
             <e r="LR"><p><l>au</l><r>à<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
             <e r="LR"><p><l>aux</l><r>à<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
-            <e r="LR"><p><l>à</l><r>à<s n="pr"/></r></p></e>
             <e r="RL"><p><l><a/>à</l><r>à<s n="pr"/></r></p></e>
 
             <e r="LR"><p><l>au<b/>mien</l><r>à<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
@@ -4681,8 +4681,7 @@
             <e r="LR"><p><l>aux<b/>miennes</l><r>à<s n="pr"/><j/>le<b/>mien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
             <e r="LR"><p><l>au<b/>nôtre</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             <e r="LR"><p><l>à<b/>la<b/>nôtre</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-            <e r="LR"><p><l>aux<b/>nôtres</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-            <e r="LR"><p><l>aux<b/>nôtres</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>nôtres</l><r>à<s n="pr"/><j/>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
             <e r="LR"><p><l>au<b/>tien</l><r>à<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             <e r="LR"><p><l>à<b/>la<b/>tienne</l><r>à<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
             <e r="LR"><p><l>aux<b/>tiens</l><r>à<s n="pr"/><j/>le<b/>tien<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
@@ -4693,8 +4692,7 @@
             <e r="LR"><p><l>aux<b/>siennes</l><r>à<s n="pr"/><j/>le<b/>sien<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
             <e r="LR"><p><l>au<b/>vôtre</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
             <e r="LR"><p><l>à<b/>la<b/>vôtre</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
-            <e r="LR"><p><l>aux<b/>vôtres</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
-            <e r="LR"><p><l>aux<b/>vôtres</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+            <e r="LR"><p><l>aux<b/>vôtres</l><r>à<s n="pr"/><j/>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
     </pardef>
     <pardef n="contde__pr">
             <e r="LR"><p><l>de</l><r>de<s n="pr"/></r></p></e>
@@ -16851,15 +16849,16 @@
           <e lm="Éthiopie"><i>Éthiopie</i><par n="Lieu__np"/></e>
           <e lm="Óscar"><i>Óscar</i><par n="Nom__np"/></e>
           <e lm="Úbeda"><i>Úbeda</i><par n="Lieu__np"/></e>
+          <e lm="à"><i></i><par n="conta__pr"/></e>
           <e lm="à il"><i>à<b/></i><par n="à_il__adj"/></e>
           <e lm="à moi"><i>à<b/>moi</i><par n="à_moi__adj"/></e>
           <e lm="à toi"><i>à<b/>toi</i><par n="à_moi__adj"/></e>
           <e lm="à nous"><i>à<b/>nous</i><par n="à_moi__adj"/></e>
                     <e lm="à vous"><i>à<b/>vous</i><par n="à_moi__adj"/></e>
-                    <e lm="à" r="LR"><i>à</i><par n="attendu__pr"/></e>
-                    <e lm="au" r="LR"><p><l>au</l><r>à<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
-                    <e lm="aux" r="LR"><p><l>aux</l><r>à<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>
-                    <e lm="à" r="RL"><p><l><a/>à</l><r>à</r></p><par n="attendu__pr"/></e>
+                    <!--<e lm="à" r="LR"><i>à</i><par n="attendu__pr"/></e>-->
+                    <!--<e lm="au" r="LR"><p><l>au</l><r>à<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>-->
+                    <!--<e lm="aux" r="LR"><p><l>aux</l><r>à<s n="pr"/><j/>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r></p></e>-->
+                    <!--<e lm="à" r="RL"><p><l><a/>à</l><r>à</r></p><par n="attendu__pr"/></e>-->
           <e lm="âge"><i>âge</i><par n="livre__n"/></e>
           <e lm="âgé" r="LR"><i>âgé</i><par n="abaissant__adj"/></e>
           <e lm="âme"><i>âme</i><par n="abeille__n"/></e>
@@ -47442,6 +47441,9 @@
 <e lm="obligatoirement"><i>obligatoirement</i><par n="hier__adv"/></e>
 <e lm="plutôt"><i>plutôt</i><par n="hier__adv"/></e>
 <e lm="surtout"><i>surtout</i><par n="hier__adv"/></e>
+
+<e lm="-ci" r="RL"><i>-ci</i><par n="hier__adv"/></e>
+<e lm="-là" r="RL"><i>-là</i><par n="hier__adv"/></e>
 
 
 </section>

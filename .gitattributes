@@ -51,6 +51,7 @@ dev/scan.pl -text
 dev/summary -text
 dev/test-samples.sh -text
 dev/test.sh -text
+dev/testpending.pl -text
 dev/testvoc-summary.fr-pt.txt -text
 dev/testvoc-summary.pt-fr.txt -text
 dev/testvoc.sh -text
