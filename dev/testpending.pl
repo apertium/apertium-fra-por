@@ -32,10 +32,6 @@ my @tests = (
 
 # on <> reflexive
 	'fr-pt',	'On ne parle pas',			'Não se fala',
-
-# clitic placement
-	'pt-fr',	'Eu o farei',				'Je le ferai',
-	'pt-fr',	'O farei',					'Je le ferai',
 	
 # identical first/third person forms (unfixed)
 	'pt-fr',	'João queria',				'João voulait',
@@ -48,7 +44,7 @@ my @tests = (
 	'fr-pt',	'en France',				'na França',
 
 # empty entry to stop processing
-	'',	'',	'',
+#	'',	'',	'',
 	
 # move completed items down here instead of deleting them
 # (we leave them for regression testing)
@@ -98,6 +94,10 @@ my @tests = (
 	'pt-fr',	'esse gato',				'ce chat',
 	'pt-fr',	'este gato',				'ce chat-ci',
 	'pt-fr',	'aquele gato',				'ce chat-là',
+
+# clitic placement/recognition
+	'pt-fr',	'O farei',					'Je le ferai',
+	'pt-fr',	'Eu o farei',				'Je le ferai',
 );
 
 open LOG, ">$log_folder/testpending.txt";

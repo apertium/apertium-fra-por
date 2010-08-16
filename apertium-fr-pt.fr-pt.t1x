@@ -330,6 +330,10 @@
       <cat-item lemma="là" tags="adv"/>
     </def-cat>
 
+    <def-cat n="on">
+      <cat-item lemma="on" tags="prn.*"/>
+    </def-cat>
+
   </section-def-cats>
   <section-def-attrs>
     <def-attr n="a_nom">
@@ -17819,6 +17823,43 @@
             <lu>
               <lit v="quanto"/>
               <lit-tag v="adv.itg"/>	<!-- as defined in monodix -->
+            </lu>
+		  </chunk>
+        </out>
+      </action>
+	</rule>
+
+    <rule comment="REGLA: on ne VERB">
+      <pattern>
+        <pattern-item n="on"/>
+        <pattern-item n="ne"/>
+        <pattern-item n="verbpers"/>
+      </pattern>
+      <action>
+	  <let>
+	    <var n="neadv"/>
+	    <lit v="yes"/>
+	  </let>
+        <out>
+		  <chunk name="ne" case="caseFirstWord">
+            <tags>
+              <tag>
+                <lit-tag v="SV"/>
+              </tag>
+              <tag>
+				<clip pos="3" side="tl" part="tags"/>
+              </tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+		    <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+		    <b/>
+            <lu>
+              <clip pos="3" side="tl" part="whole"/>
             </lu>
 		  </chunk>
         </out>

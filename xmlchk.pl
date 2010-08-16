@@ -12,12 +12,12 @@ while(<IN>) {
 #	next if m:</e>\s*$:;
 #	next unless m:</l>\s*\S+\s*<r>:;
 #	next unless (m:<pardef: or m:<e>:);
-#	next unless m:<e:;
-#	next if m:</e>:;
+	next unless m:<e:;
+	next if m:</e>:;
 #	next unless m:<i:;
 #	next if m:</i>:;
-	next unless m:<i: and m:<par:;
-	next if m:</i><par:;
+#	next unless m:<i: and m:<par:;
+#	next if m:</i><par:;
 	print "$.\t$_";
 }
 close IN;
