@@ -11651,7 +11651,6 @@
           <e lm="Adolf"><i>Adolf</i><par n="Nom__np"/></e>
           <e lm="Adolfo"><i>Adolfo</i><par n="Nom__np"/></e>
           <e lm="Adriana"><i>Adriana</i><par n="Nom__np"/></e>
-          <e lm="Adrià"><i>Adrià</i><par n="Nom__np"/></e>
           <e lm="Adrián"><i>Adrián</i><par n="Nom__np"/></e>
           <e lm="Adán"><i>Adán</i><par n="Nom__np"/></e>
           <e lm="Aena"><i>Aena</i><par n="Autre__np"/></e>
@@ -11660,7 +11659,6 @@
           <e lm="Almería"><i>Almería</i><par n="Lieu__np"/></e>
           <e lm="Aguilera"><i>Aguilera</i><par n="Nom__np"/></e>
           <e lm="Aguirre"><i>Aguirre</i><par n="Nom__np"/></e>
-          <e lm="Agulló"><i>Agulló</i><par n="Nom__np"/></e>
           <e lm="Agustín"><i>Agustín</i><par n="Nom__np"/></e>
           <e lm="Aitor"><i>Aitor</i><par n="Nom__np"/></e>
           <e lm="Alarcón"><i>Alarcón</i><par n="Nom__np"/></e>
@@ -11672,7 +11670,6 @@
           <e lm="Albert"><i>Albert</i><par n="Nom__np"/></e>
           <e lm="Alberto"><i>Alberto</i><par n="Nom__np"/></e>
           <e lm="Albiol"><i>Albiol</i><par n="Nom__np"/></e>
-          <e lm="Alcalá"><i>Alcalá</i><par n="Lieu__np"/></e>
           <e lm="Alcaraz"><i>Alcaraz</i><par n="Nom__np"/></e>
           <e lm="Alcañiz"><i>Alcañiz</i><par n="Lieu__np"/></e>
           <e lm="Alcira"><i>Alcira</i><par n="Lieu__np"/></e>
@@ -11707,7 +11704,6 @@
           <e lm="Alonso"><i>Alonso</i><par n="Nom__np"/></e>
           <e lm="Alperi"><i>Alperi</i><par n="Nom__np"/></e>
           <e lm="Altea"><i>Altea</i><par n="Lieu__np"/></e>
-          <e lm="Alá"><i>Alá</i><par n="Nom__np"/></e>
           <e lm="Amador"><i>Amador</i><par n="Nom__np"/></e>
           <e lm="Amaia"><i>Amaia</i><par n="Nom__np"/></e>
           <e lm="Amanda"><i>Amanda</i><par n="Nom__np"/></e>
@@ -11789,14 +11785,11 @@
           <e lm="Bancaja"><i>Bancaja</i><par n="Autre__np"/></e>
           <e lm="Bangkok"><i>Bangkok</i><par n="Lieu__np"/></e>
           <e lm="Barbera"><i>Barbera</i><par n="Autre__np"/></e>
-          <e lm="Barberá"><i>Barberá</i><par n="Nom__np"/></e>
           <e lm="Barcelone"><i>Barcelone</i><par n="Lieu__np"/></e>
           <e lm="Barcelonès"><i>Barcelonès</i><par n="Lieu__np"/></e>
-          <e lm="Barceló"><i>Barceló</i><par n="Nom__np"/></e>
           <e lm="Barcelos"><i>Barcelos</i><par n="Lieu__np"/></e>
           <e lm="Barea"><i>Barea</i><par n="Nom__np"/></e>
           <e lm="Barreto"><i>Barreto</i><par n="Nom__np"/></e>
-          <e lm="Bartolomé"><i>Bartolomé</i><par n="Nom__np"/></e>
           <e lm="Bartomeu"><i>Bartomeu</i><par n="Nom__np"/></e>
           <e lm="Basilio"><i>Basilio</i><par n="Nom__np"/></e>
           <e lm="Bassi"><i>Bassi</i><par n="Nom__np"/></e>
@@ -11833,7 +11826,6 @@
           <e lm="Berlin"><i>Berlin</i><par n="Lieu__np"/></e>
           <e lm="Bermejo"><i>Bermejo</i><par n="Nom__np"/></e>
           <e lm="Bermúdez"><i>Bermúdez</i><par n="Nom__np"/></e>
-          <e lm="Bernabé"><i>Bernabé</i><par n="Nom__np"/></e>
           <e lm="Bernal"><i>Bernal</i><par n="Nom__np"/></e>
           <e lm="Bernardo"><i>Bernardo</i><par n="Nom__np"/></e>
           <e lm="Bernat"><i>Bernat</i><par n="Nom__np"/></e>
@@ -11929,7 +11921,6 @@
           <e lm="Carolina"><i>Carolina</i><par n="Nom__np"/></e>
           <e lm="Cardoso"><i>Cardoso</i><par n="NomLieu__np"/></e>
           <e lm="Carrasco"><i>Carrasco</i><par n="Nom__np"/></e>
-          <e lm="Carratalá"><i>Carratalá</i><par n="Nom__np"/></e>
           <e lm="Carrefour"><i>Carrefour</i><par n="Autre__np"/></e>
           <e lm="Carrillo"><i>Carrillo</i><par n="Nom__np"/></e>
           <e lm="Carrión"><i>Carrión</i><par n="Nom__np"/></e>
@@ -11950,7 +11941,6 @@
           <e lm="Castro"><i>Castro</i><par n="Nom__np"/></e>
           <e lm="Estefanía"><i>Estefanía</i><par n="Nom__np"/></e>
           <e lm="Catalina"><i>Catalina</i><par n="Nom__np"/></e>
-          <e lm="Català"><i>Català</i><par n="Nom__np"/></e>
           <e lm="Catherine"><i>Catherine</i><par n="Nom__np"/></e>
           <e lm="Caucase"><i>Caucase</i><par n="Lieu__np"/></e>
           <e lm="Cava"><i>Cava</i><par n="Lieu__np"/></e>
@@ -12005,7 +11995,6 @@
           <e lm="Cordoue"><i>Cordoue</i><par n="Lieu__np"/></e>
           <e lm="Coria"><i>Coria</i><par n="Lieu__np"/></e>
           <e lm="Corleone"><i>Corleone</i><par n="NomLieu__np"/></e>
-          <e lm="Cornellà"><i>Cornellà</i><par n="Lieu__np"/></e>
           <e lm="Corominas"><i>Corominas</i><par n="Nom__np"/></e>
           <e lm="Corse"><i>Corse</i><par n="Lieu__np"/></e>
           <e lm="Costa"><i>Costa</i><par n="Nom__np"/></e>
@@ -12023,7 +12012,6 @@
           <e lm="Cárdenas"><i>Cárdenas</i><par n="NomLieu__np"/></e>
           <e lm="César"><i>César</i><par n="Nom__np"/></e>
           <e lm="Dakar"><i>Dakar</i><par n="Lieu__np"/></e>
-          <e lm="Dalí"><i>Dalí</i><par n="Nom__np"/></e>
           <e lm="Damas"><i>Damas</i><par n="Lieu__np"/></e>
           <e lm="Damián"><i>Damián</i><par n="Nom__np"/></e>
           <e lm="Daniel"><i>Daniel</i><par n="Nom__np"/></e>
@@ -12084,13 +12072,11 @@
           <e lm="Ernesto"><i>Ernesto</i><par n="Nom__np"/></e>
           <e lm="Eroski"><i>Eroski</i><par n="Autre__np"/></e>
           <e lm="Escribano"><i>Escribano</i><par n="Nom__np"/></e>
-          <e lm="Escrivá"><i>Escrivá</i><par n="Nom__np"/></e>
           <e lm="Escudero"><i>Escudero</i><par n="Autre__np"/></e>
           <e lm="Esmeralda"><i>Esmeralda</i><par n="Nom__np"/></e>
           <e lm="Espino"><i>Espino</i><par n="Lieu__np"/></e>
           <e lm="Espinosa"><i>Espinosa</i><par n="NomLieu__np"/></e>
           <e lm="Esplugues"><i>Esplugues</i><par n="Lieu__np"/></e>
-          <e lm="Esplá"><i>Esplá</i><par n="Autre__np"/></e>
           <e lm="Esquerdo"><i>Esquerdo</i><par n="Nom__np"/></e>
           <e lm="Estanislao"><i>Estanislao</i><par n="Nom__np"/></e>
           <e lm="Esteban"><i>Esteban</i><par n="Nom__np"/></e>
@@ -12110,7 +12096,6 @@
           <e lm="Fabio"><i>Fabio</i><par n="Nom__np"/></e>
           <e lm="Fabra"><i>Fabra</i><par n="Nom__np"/></e>
           <e lm="Fajardo"><i>Fajardo</i><par n="Lieu__np"/></e>
-          <e lm="Falcó"><i>Falcó</i><par n="Autre__np"/></e>
           <e lm="Faro"><i>Faro</i><par n="Lieu__np"/></e>
           <e lm="Fausto"><i>Fausto</i><par n="Nom__np"/></e>
           <e lm="Fea"><i>Fea</i><par n="Nom__np"/></e>
@@ -12192,8 +12177,6 @@
           <e lm="Gaspar"><i>Gaspar</i><par n="Nom__np"/></e>
           <e lm="Gasset"><i>Gasset</i><par n="Nom__np"/></e>
           <e lm="Gates"><i>Gates</i><par n="Nom__np"/></e>
-          <e lm="Gaudí"><i>Gaudí</i><par n="Nom__np"/></e>
-          <e lm="Gavà"><i>Gavà</i><par n="Lieu__np"/></e>
           <e lm="webform"><i>Gema</i><par n="Nom__np"/></e>
           <e lm="Gemma"><i>Gemma</i><par n="Nom__np"/></e>
           <e lm="Generalitat"><i>Generalitat</i><par n="Autre__np"/></e>
@@ -12360,7 +12343,6 @@
           <e lm="Josefina"><i>Josefina</i><par n="Nom__np"/></e>
           <e lm="Josep"><i>Josep</i><par n="Nom__np"/></e>
           <e lm="Josu"><i>Josu</i><par n="Nom__np"/></e>
-          <e lm="Josué"><i>Josué</i><par n="Nom__np"/></e>
           <e lm="José"><i>José</i><par n="Nom__np"/></e>
           <e lm="Jover"><i>Jover</i><par n="Autre__np"/></e>
           <e lm="Juan"><i>Juan</i><par n="Nom__np"/></e>
@@ -12369,8 +12351,6 @@
           <e lm="Juli"><i>Juli</i><par n="Nom__np"/></e>
           <e lm="Julia"><i>Julia</i><par n="Nom__np"/></e>
           <e lm="Julieta"><i>Julieta</i><par n="Nom__np"/></e>
-          <e lm="Julià"><i>Julià</i><par n="Nom__np"/></e>
-          <e lm="Juliá"><i>Juliá</i><par n="Nom__np"/></e>
           <e lm="Julián"><i>Julián</i><par n="Nom__np"/></e>
           <e lm="Julio"><i>Julio</i><par n="Nom__np"/></e>
           <e lm="Just"><i>Just</i><par n="Nom__np"/></e>
@@ -12456,7 +12436,6 @@
           <e lm="López"><i>López</i><par n="Nom__np"/></e>
           <e lm="MP3"><i>MP3</i><par n="Autre__np"/></e>
           <e lm="Mabel"><i>Mabel</i><par n="Nom__np"/></e>
-          <e lm="Macià"><i>Macià</i><par n="Nom__np"/></e>
           <e lm="Madagascar"><i>Madagascar</i><par n="Lieu__np"/></e>
           <e lm="Madrid"><i>Madrid</i><par n="Lieu__np"/></e>
           <e lm="Maestre"><i>Maestre</i><par n="Nom__np"/></e>
@@ -12510,7 +12489,6 @@
           <e lm="Martinez"><i>Martinez</i><par n="Nom__np"/></e>
           <e lm="Martins"><i>Martins</i><par n="Nom__np"/></e>
           <e lm="Martorell"><i>Martorell</i><par n="Lieu__np"/></e>
-          <e lm="Martí"><i>Martí</i><par n="Nom__np"/></e>
           <e lm="Martín"><i>Martín</i><par n="Nom__np"/></e>
           <e lm="Martínez"><i>Martínez</i><par n="Nom__np"/></e>
           <e lm="Marx"><i>Marx</i><par n="Nom__np"/></e>
@@ -12547,8 +12525,6 @@
           <e lm="Milena"><i>Milena</i><par n="Nom__np"/></e>
           <e lm="Millán"><i>Millán</i><par n="Lieu__np"/></e>
           <e lm="Milosevic"><i>Milosevic</i><par n="Nom__np"/></e>
-          <e lm="Milà"><i>Milà</i><par n="Autre__np"/></e>
-          <e lm="Milá"><i>Milá</i><par n="Nom__np"/></e>
           <e lm="Miami"><i>Miami</i><par n="Lieu__np"/></e>
           <e lm="Milton"><i>Milton</i><par n="Nom__np"/></e>
           <e lm="Minho"><i>Minho</i><par n="Lieu__np"/></e>
@@ -12579,7 +12555,7 @@
           <e lm="Montiel"><i>Montiel</i><par n="Autre__np"/></e>
           <e lm="Montilla"><i>Montilla</i><par n="Nom__np"/></e>
           <e lm="Montjuic"><i>Montjuic</i><par n="Lieu__np"/></e>
-          <e lm="Montmeló"><i>Montmeló</i><par n="Lieu__np"/></e>
+
           <e lm="Montoya"><i>Montoya</i><par n="Nom__np"/></e>
           <e lm="Montserrat"><i>Montserrat</i><par n="Lieu__np"/></e>
           <e lm="Morata"><i>Morata</i><par n="Lieu__np"/></e>
@@ -12593,7 +12569,6 @@
           <e lm="Mossul"><i>Mossul</i><par n="Lieu__np"/></e>
           <e lm="Mosul"><i>Mosul</i><par n="Lieu__np"/></e>
           <e lm="Moya"><i>Moya</i><par n="Nom__np"/></e>
-          <e lm="Moyá"><i>Moyá</i><par n="Nom__np"/></e>
           <e lm="Moyen-Orient"><i>Moyen-Orient</i><par n="Lieu__np"/></e>
           <e lm="Moura"><i>Moura</i><par n="Nom__np"/></e>
           <e lm="Muchamiel"><i>Muchamiel</i><par n="Lieu__np"/></e>
@@ -12640,7 +12615,6 @@
           <e lm="Nietzsche"><i>Nietzsche</i><par n="Nom__np"/></e>
           <e lm="Nike"><i>Nike</i><par n="Autre__np"/></e>
           <e lm="Noelia"><i>Noelia</i><par n="Nom__np"/></e>
-          <e lm="Noemí"><i>Noemí</i><par n="Nom__np"/></e>
           <e lm="Norberto"><i>Norberto</i><par n="Nom__np"/></e>
           <e lm="Noriega"><i>Noriega</i><par n="Nom__np"/></e>
           <e lm="Nuria"><i>Nuria</i><par n="Nom__np"/></e>
@@ -12843,13 +12817,11 @@
           <e lm="Rosendo"><i>Rosendo</i><par n="Nom__np"/></e>
           <e lm="Roser"><i>Roser</i><par n="Nom__np"/></e>
           <e lm="Rossell"><i>Rossell</i><par n="Lieu__np"/></e>
-          <e lm="Rosselló"><i>Rosselló</i><par n="Lieu__np"/></e>
           <e lm="Rovira"><i>Rovira</i><par n="Nom__np"/></e>
           <e lm="Royo"><i>Royo</i><par n="Autre__np"/></e>
           <e lm="RR"><i>RR</i><par n="Lieu__np"/></e>
           <e lm="RS"><i>RS</i><par n="Lieu__np"/></e>
           <e lm="Rubén"><i>Rubén</i><par n="Nom__np"/></e>
-          <e lm="Rubí"><i>Rubí</i><par n="Lieu__np"/></e>
           <e lm="Rufino"><i>Rufino</i><par n="Nom__np"/></e>
           <e lm="Rui"><i>Rui</i><par n="Nom__np"/></e>
           <e lm="Ruiz"><i>Ruiz</i><par n="Nom__np"/></e>
@@ -12924,7 +12896,6 @@
           <e lm="Silvestre"><i>Silvestre</i><par n="Nom__np"/></e>
           <e lm="Silvia"><i>Silvia</i><par n="Nom__np"/></e>
           <e lm="Silvio"><i>Silvio</i><par n="Nom__np"/></e>
-          <e lm="Simó"><i>Simó</i><par n="Nom__np"/></e>
           <e lm="Simón"><i>Simón</i><par n="Nom__np"/></e>
           <e lm="Singapour"><i>Singapour</i><par n="Lieu__np"/></e>
           <e lm="Sinisterra"><i>Sinisterra</i><par n="Nom__np"/></e>
@@ -12953,7 +12924,6 @@
           <e lm="Stones"><i>Stones</i><par n="Nom__np"/></e>
           <e lm="Strasbourg"><i>Strasbourg</i><par n="Lieu__np"/></e>
           <e lm="Subirats"><i>Subirats</i><par n="Lieu__np"/></e>
-          <e lm="Sultà"><i>Sultà</i><par n="Nom__np"/></e>
           <e lm="Superman"><i>Superman</i><par n="Nom__np"/></e>
           <e lm="Susana"><i>Susana</i><par n="Nom__np"/></e>
           <e lm="Suárez"><i>Suárez</i><par n="Nom__np"/></e>
@@ -13064,7 +13034,6 @@
           <e lm="Virginia"><i>Virginia</i><par n="Nom__np"/></e>
           <e lm="Viseu"><i>Viseu</i><par n="Lieu__np"/></e>
           <e lm="Vitoria"><i>Vitoria</i><par n="Lieu__np"/></e>
-          <e lm="Vivó"><i>Vivó</i><par n="Nom__np"/></e>
           <e lm="Vladimir"><i>Vladimir</i><par n="Nom__np"/></e>
           <e lm="Voltaire"><i>Voltaire</i><par n="Nom__np"/></e>
           <e lm="Von"><i>Von</i><par n="Nom__np"/></e>
@@ -47569,6 +47538,42 @@
   </section>
 
   <!--<section id="pending" type="standard">
+
+          <e lm="Adrià"><i>Adrià</i><par n="Nom__np"/></e>
+          <e lm="Agulló"><i>Agulló</i><par n="Nom__np"/></e>
+          <e lm="Alcalá"><i>Alcalá</i><par n="Lieu__np"/></e>
+          <e lm="Alá"><i>Alá</i><par n="Nom__np"/></e>
+          <e lm="Barberá"><i>Barberá</i><par n="Nom__np"/></e>
+          <e lm="Barceló"><i>Barceló</i><par n="Nom__np"/></e>
+          <e lm="Bartolomé"><i>Bartolomé</i><par n="Nom__np"/></e>
+          <e lm="Bernabé"><i>Bernabé</i><par n="Nom__np"/></e>
+          <e lm="Carratalá"><i>Carratalá</i><par n="Nom__np"/></e>
+          <e lm="Català"><i>Català</i><par n="Nom__np"/></e>
+          <e lm="Cornellà"><i>Cornellà</i><par n="Lieu__np"/></e>
+          <e lm="Dalí"><i>Dalí</i><par n="Nom__np"/></e>
+          <e lm="Escrivá"><i>Escrivá</i><par n="Nom__np"/></e>
+          <e lm="Esplá"><i>Esplá</i><par n="Autre__np"/></e>
+          <e lm="Falcó"><i>Falcó</i><par n="Autre__np"/></e>
+          <e lm="Gaudí"><i>Gaudí</i><par n="Nom__np"/></e>
+          <e lm="Gavà"><i>Gavà</i><par n="Lieu__np"/></e>
+          <e lm="Josué"><i>Josué</i><par n="Nom__np"/></e>
+
+          <e lm="Julià"><i>Julià</i><par n="Nom__np"/></e>
+          <e lm="Juliá"><i>Juliá</i><par n="Nom__np"/></e>
+          <e lm="Macià"><i>Macià</i><par n="Nom__np"/></e>
+          <e lm="Martí"><i>Martí</i><par n="Nom__np"/></e>
+          <e lm="Milà"><i>Milà</i><par n="Autre__np"/></e>
+          <e lm="Milá"><i>Milá</i><par n="Nom__np"/></e>
+          <e lm="Montmeló"><i>Montmeló</i><par n="Lieu__np"/></e>
+          <e lm="Moyá"><i>Moyá</i><par n="Nom__np"/></e>
+          <e lm="Noemí"><i>Noemí</i><par n="Nom__np"/></e>
+          <e lm="Rosselló"><i>Rosselló</i><par n="Lieu__np"/></e>
+          <e lm="Rubí"><i>Rubí</i><par n="Lieu__np"/></e>
+          <e lm="Simó"><i>Simó</i><par n="Nom__np"/></e>
+          <e lm="Sultà"><i>Sultà</i><par n="Nom__np"/></e>
+          <e lm="Vivó"><i>Vivó</i><par n="Nom__np"/></e>
+
+
 <e r="LR" lm="échec au roi" a="webform"><p><l>Echec<b/>au<b/>roi</l><r>échec<b/>au<b/>roi</r></p><par n="ah__ij"/></e>
 <e lm="échec au roi" a="webform"><i>échec<b/>au<b/>roi</i><par n="ah__ij"/></e>
 <e r="LR" lm="échec et mat" a="webform"><p><l>Echec<b/>et<b/>mat</l><r>échec<b/>et<b/>mat</r></p><par n="ah__ij"/></e>

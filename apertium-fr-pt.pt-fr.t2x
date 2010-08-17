@@ -1346,6 +1346,20 @@
 	<pattern-item n="SN"/>
       </pattern>
       <action>
+        <choose>
+          <when>
+            <test>
+              <equal caseless="yes">
+                <clip pos="1" part="lem"/>
+                <lit v="prnperssubj"/>
+              </equal>
+            </test>
+	    <let>
+              <var n="subj_vist"/>
+              <lit v="yes"/>
+            </let>
+          </when>
+        </choose>
 	<call-macro n="assigna_gen_nbr">
 	  <with-param pos="1"/>
 	</call-macro>
