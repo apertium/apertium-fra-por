@@ -99299,10 +99299,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
 		
-		<e lm="emocional">
-			<i>emociona</i>
-			<par n="aceitáve/l__adj"/>
-		</e>
       
       <e lm="adequado">
         <i>adequad</i>
@@ -99894,10 +99890,6 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="editorial">
-        <i>editoria</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
       
       <e lm="efetivo" v="br">
         <i>efetiv</i>
@@ -99934,10 +99926,6 @@
         <par n="anti__adj"/>
       </e>
       
-      <e lm="emergente">
-        <i>emergente</i>
-        <par n="agrícola__adj"/>
-      </e>
       
       <e lm="empresarial">
         <i>empresaria</i>
@@ -99959,10 +99947,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="equivalente">
-        <i>equivalente</i>
-        <par n="agrícola__adj"/>
-      </e>
       
       <e lm="escrito">
         <i>escrit</i>
@@ -100014,10 +99998,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-      <e lm="estrangeiro">
-        <i>estrangeir</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="estupefacto" v="pt">
         <i>estupefact</i>
@@ -100054,15 +100034,7 @@
         <par n="europ/eu__adj"/>
       </e>
       
-      <e lm="eventual">
-        <i>eventua</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
       
-      <e lm="evidente">
-        <i>evidente</i>
-        <par n="agrícola__adj"/>
-      </e>
       
       <e lm="exato" v="br">
         <i>exat</i>
@@ -100224,15 +100196,7 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="úmido" v="br">
-        <i>úmid</i>
-        <par n="abert/o__adj"/>
-      </e>
       
-      <e lm="igual">
-        <i>igua</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
       
       <e lm="imediato">
         <i>imediat</i>
@@ -101091,25 +101055,12 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="ético">
-        <i>étic</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="étnico">
-        <i>étnic</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="último">
         <i>últim</i>
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="único">
-        <i>únic</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="útil">
         <i>út</i>
@@ -101310,10 +101261,6 @@
 			<par n="civi/l__adj"/>
 		</e>
 		
-		<e lm="óbvio">
-			<i>óbvi</i>
-			<par n="abert/o__adj"/>
-		</e>
 		
 		<e lm="nobre">
 			<i>nobre</i>
@@ -103321,10 +103268,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
      
-      <e lm="pré">
-        <i>pré</i>
-        <par n="anti__adj"/>
-      </e>
      
       <e lm="pseudo-" r="LR">
         <p>
@@ -104682,20 +104625,7 @@
         <i>oitenta<b/>e<b/>um</i>
         <par n="cinquenta_e_um__det"/>
       </e>
-      
-      <e lm="outro" r="RL">
-        <p>
-          <l><a/>outr</l>
-          <r>outr</r>
-        </p>
-        <par n="cert/o__det"/>
-      </e>
-      
-      <e lm="outro" r="LR">
-        <i>outr</i>
-        <par n="cert/o__det"/>
-      </e>
-      
+     
       <e lm="qualquer">
         <i>qua</i>
         <par n="qua/lquer__det"/>
@@ -105240,17 +105170,7 @@
         <i>apartheid</i>
         <par n="Leste__n"/>
       </e>
-      
-      <e lm="ónus" v="pt">
-        <i>ónus</i>
-        <par n="caos__n"/>
-      </e>
-      
-      <e lm="ônus" v="br">
-        <i>ônus</i>
-        <par n="caos__n"/>
-      </e>
-      
+           
       <e lm="apelação">
         <i>apelaç</i>
         <par n="aceitaç/ão__n"/>
@@ -107854,10 +107774,6 @@
         <par n="aceitaç/ão__n"/>
       </e>
       
-      <e lm="eleitor">
-        <i>eleitor</i>
-        <par n="admirador__n"/>
-      </e>
       
       <e lm="eleição">
         <i>eleiç</i>
@@ -108094,15 +108010,7 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="equipe" v="br">
-        <i>equipe</i>
-        <par n="abadia__n"/>
-      </e>
       
-      <e lm="equipa" v="pt">
-        <i>equipa</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="erro">
         <i>erro</i>
@@ -110380,10 +110288,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="mostra">
-        <i>mostra</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="motivação">
         <i>motivaç</i>
@@ -112987,10 +112891,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="tela" v="br">
-        <i>tela</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="telecomunicação">
         <i>telecomunicaç</i>
@@ -113822,20 +113722,8 @@
         <par n="anima/l__n"/>
       </e>
       
-      <e lm="árbitro">
-        <i>árbitr</i>
-        <par n="adept/o__n"/>
-      </e>
       
-      <e lm="área">
-        <i>área</i>
-        <par n="abadia__n"/>
-      </e>
       
-      <e lm="árvore">
-        <i>árvore</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="âmbito">
         <i>âmbito</i>
@@ -113857,10 +113745,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="ídolo">
-        <i>ídolo</i>
-        <par n="accionista__n"/>
-      </e>
       
       <e lm="índice">
         <i>índice</i>
@@ -113891,17 +113775,7 @@
         <i>órgão</i>
         <par n="Leste__n"/>
       </e>
-      
-      <e lm="ônibus" v="br">
-        <i>ônibus</i>
-        <par n="caos__n"/>
-      </e>
-      
-      <e lm="ónibus" v="pt">
-        <i>ónibus</i>
-        <par n="caos__n"/>
-      </e>
-      
+     
       <e lm="inscrição">
         <i>inscriç</i>
         <par n="aceitaç/ão__n"/>
@@ -114793,10 +114667,6 @@
         <par n="Lugar__np"/>
       </e>
       
-      <e lm="Brasília">
-        <i>Brasília</i>
-        <par n="Lugar__np"/>
-      </e>
       
       <e lm="Brazzaville">
         <i>Brazzaville</i>
@@ -116349,10 +116219,6 @@
         <par n="Nome__np"/>
       </e>
       
-      <e lm="Pelé">
-        <i>Pelé</i>
-        <par n="Nome__np"/>
-      </e>
       
       <e lm="Pequim">
         <i>Pequim</i>
@@ -116429,10 +116295,6 @@
         <par n="Nome__np"/>
       </e>
       
-      <e lm="Ramadã">
-        <i>Ramadã</i>
-        <par n="Outro__np"/>
-      </e>
       
       <e lm="Ramos">
         <i>Ramos</i>
@@ -116707,11 +116569,6 @@
       <e lm="Sánchez">
         <i>Sánchez</i>
         <par n="Nome__np"/>
-      </e>
-      
-      <e lm="São Paulo">
-        <i>São<b/>Paulo</i>
-        <par n="Lugar__np"/>
       </e>
       
       <e lm="São Pedro">
@@ -117107,7 +116964,6 @@
 <e lm="Bailén"><i>Bailén</i><par n="Lugar__np"/></e>
 <e lm="Banguecoque"><i>Banguecoque</i><par n="Lugar__np"/></e>
 <e lm="Barcelonès"><i>Barcelonès</i><par n="Lugar__np"/></e>
-<e lm="Baçorá"><i>Baçorá</i><par n="Lugar__np"/></e>
 <e lm="Belmonte"><i>Belmonte</i><par n="Lugar__np"/></e>
 <e lm="Benidorm"><i>Benidorm</i><par n="Lugar__np"/></e>
 <e lm="Rio Besòs"><i>Rio<b/>Besòs</i><par n="Lugar__np"/></e>
@@ -117182,7 +117038,6 @@
 <e lm="Hiroshima"><i>Hiroshima</i><par n="Lugar__np"/></e>
 <e lm="Ibiza"><i>Ibiza</i><par n="Lugar__np"/></e>
 <e lm="Irun"><i>Irun</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Istambul"><i>Istambul</i><par n="Lugar__np"/></e>
 <e lm="Jaca"><i>Jaca</i><par n="Lugar__np"/></e>
 <e lm="Rio Jalón"><i>Rio<b/>Jalón</i><par n="Lugar__np"/></e>
@@ -117269,7 +117124,6 @@
 <e lm="Salém"><i>Salém</i><par n="Lugar__np"/></e>
 <e lm="Salinas"><i>Salinas</i><par n="Lugar__np"/></e>
 <e lm="Santander"><i>Santander</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Saragoça"><i>Saragoça</i><par n="Lugar__np"/></e>
 <e lm="Sardenha"><i>Sardenha</i><par n="Lugar__np"/></e>
 <e lm="Segarra"><i>Segarra</i><par n="Lugar__np"/></e>
@@ -117577,7 +117431,6 @@
 <e lm="Anglet"><i>Anglet</i><par n="Lugar__np"/></e>
 <e lm="Angers"><i>Angers</i><par n="Lugar__np"/></e>
 <e lm="Ansó"><i>Ansó</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Antequera"><i>Antequera</i><par n="Lugar__np"/></e>
 <e lm="Antioquia"><i>Antioquia</i><par n="Lugar__np"/></e>
 <e lm="Antzuola"><i>Antzuola</i><par n="Lugar__np"/></e>
@@ -118046,7 +117899,6 @@
 <e lm="Neuilly"><i>Neuilly</i><par n="Lugar__np"/></e>
 <e lm="Ásia"><i>Ásia</i><par n="Lugar__np"/></e>
 <e lm="Europa ocidental"><i>Europa<b/>ocidental</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Biscaia"><i>Biscaia</i><par n="Lugar__np"/></e>
 <e lm="San Mamés"><i>San<b/>Mamés</i><par n="Lugar__np"/></e>
 <e lm="Penang"><i>Penang</i><par n="Lugar__np"/></e>
@@ -118091,7 +117943,6 @@
 <e lm="Yangon"><i>Yangon</i><par n="Lugar__np"/></e>
 <e lm="Sérvia"><i>Sérvia</i><par n="Lugar__np"/></e>
 <e lm="Miramar"><i>Miramar</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Miraflores"><i>Miraflores</i><par n="Lugar__np"/></e>
 <e lm="Madrigal"><i>Madrigal</i><par n="Lugar__np"/></e>
 <e lm="Agüero"><i>Agüero</i><par n="Lugar__np"/></e>
@@ -118240,7 +118091,6 @@
 <e lm="Lilongwe"><i>Lilongwe</i><par n="Lugar__np"/></e>
 <e lm="Macedónia"><i>Macedónia</i><par n="Lugar__np"/></e>
 <e lm="Skopje"><i>Skopje</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Liechtenstein"><i>Liechtenstein</i><par n="Lugar__np"/></e>
 <e lm="Vaduz"><i>Vaduz</i><par n="Lugar__np"/></e>
 <e lm="Libéria"><i>Libéria</i><par n="Lugar__np"/></e>
@@ -118292,8 +118142,6 @@
 <e lm="Bandar Seri Begawan"><i>Bandar<b/>Seri<b/>Begawan</i><par n="Lugar__np"/></e>
 <e lm="Botswana"><i>Botswana</i><par n="Lugar__np"/></e>
 <e lm="Gaborone"><i>Gaborone</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Bósnia e Herzegovina"><i>Bósnia<b/>e<b/>Herzegovina</i><par n="Lugar__np"/></e>
 <e lm="Minsk"><i>Minsk</i><par n="Lugar__np"/></e>
 <e lm="Belmopan"><i>Belmopan</i><par n="Lugar__np"/></e>
@@ -118356,7 +118204,6 @@
 <e lm="Ataun"><i>Ataun</i><par n="Lugar__np"/></e>
 <e lm="Bascortostão"><i>Bascortostão</i><par n="Lugar__np"/></e>
 <e lm="Basileia"><i>Basileia</i><par n="Lugar__np"/></e>
-<e lm="Baçorá"><i>Baçorá</i><par n="Lugar__np"/></e>
 <e lm="Baviera"><i>Baviera</i><par n="Lugar__np"/></e>
 <e lm="Beirute"><i>Beirute</i><par n="Lugar__np"/></e>
 <e lm="Bélgica"><i>Bélgica</i><par n="Lugar__np"/></e>
@@ -118555,7 +118402,6 @@
 <e lm="Império Bizantino"><i>Império<b/>Bizantino</i><par n="Lugar__np"/></e>
 <e lm="Império Romano do Ocidente"><i>Império<b/>Romano<b/>do<b/>Ocidente</i><par n="Lugar__np"/></e>
 <e lm="Índia britânica"><i>Índia<b/>britânica</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Índia"><i>Índia</i><par n="Lugar__np"/></e>
 <e lm="Indochina"><i>Indochina</i><par n="Lugar__np"/></e>
 <e lm="Subcontinente indiano"><i>Subcontinente<b/>indiano</i><par n="Lugar__np"/></e>
@@ -118578,7 +118424,6 @@
 <e lm="Ilhas do Mar de Coral"><i>Ilhas<b/>do<b/>Mar<b/>de<b/>Coral</i><par n="Lugar__np"/></e>
 <e lm="Ilhas Jónicas"><i>Ilhas<b/>Jónicas</i><par n="Lugar__np"/></e>
 <e lm="Ilhas Virgens"><i>Ilhas<b/>Virgens</i><par n="Lugar__np"/></e>
-<e lm="display:none;"><i>display:none;</i><par n="Lugar__np"/></e>
 <e lm="Palestina"><i>Palestina</i><par n="Lugar__np"/></e>
 <e lm="Ístria"><i>Ístria</i><par n="Lugar__np"/></e>
 <e lm="Ítaca"><i>Ítaca</i><par n="Lugar__np"/></e>
@@ -118842,7 +118687,6 @@
 <e lm="Guijuelo"><i>Guijuelo</i><par n="Lugar__np"/></e>
 <e lm="Armagnac"><i>Armagnac</i><par n="Lugar__np"/></e>
 <e lm="Alta-Normandia"><i>Alta-Normandia</i><par n="Lugar__np"/></e>
-<e lm="Delfinado"><i>Delfinado</i><par n="Lugar__np"/></e>
 <e lm="Bielorrússia"><i>Bielorrússia</i><par n="Lugar__np"/></e>
 <e lm="Cazaquistão"><i>Cazaquistão</i><par n="Lugar__np"/></e>
 <e lm="Cazaquistão"><i>Cazaquistão</i><par n="Lugar__np"/></e>
@@ -120129,10 +119973,6 @@
 			<i>após</i>
 			<par n="a__pr"/>
 		</e>      
-		<e lm="até">
-			<i>até</i>
-			<par n="a__pr"/>
-		</e>      
         <e lm="através de"><i>através<b/></i><par n="/de__pr"/></e>
         <e lm="cargado de"><i>cargado<b/></i><par n="/de__pr"/></e>
 		<e lm="cerca de">
@@ -120398,10 +120238,6 @@
         <par n="muito__preadv"/>
       </e>
       
-      <e lm="todo">
-        <i>tod</i>
-        <par n="tod/o__predet"/>
-      </e>
       
 <!-- entrades "prn" -->
       <e lm="algo">
@@ -120624,7 +120460,33 @@
         <i>voss</i>
         <par n="noss/o__prn"/>
       </e>
+                  
+      <e lm="outro" r="RL">
+        <p>
+          <l><a/>outr</l>
+          <r>outr</r>
+        </p>
+        <par n="abert/o__adj"/>
+      </e>
       
+      <e lm="outro" r="LR">
+        <i>outr</i>
+        <par n="abert/o__adj"/>
+      </e>
+ 
+      <e lm="outro" r="RL">
+        <p>
+          <l><a/>outr</l>
+          <r>outr</r>
+        </p>
+        <par n="cert/o__det"/>
+      </e>
+      
+      <e lm="outro" r="LR">
+        <i>outr</i>
+        <par n="cert/o__det"/>
+      </e>
+ 
       <e lm="outro" r="RL">
         <p>
           <l><a/>outr</l>
@@ -127184,10 +127046,6 @@
         <par n="Lugar__np"/>
       </e>
       
-      <e lm="Sá">
-        <i>Sá</i>
-        <par n="Nome__np"/>
-      </e>
       
       <e lm="ramo">
         <i>ramo</i>
@@ -127244,20 +127102,12 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="ânus">
-        <i>ânus</i>
-        <par n="caos__n"/>
-      </e>
       
       <e lm="António">
         <i>António</i>
         <par n="Nome__np"/>
       </e>
       
-      <e lm="Évora">
-        <i>Évora</i>
-        <par n="Lugar__np"/>
-      </e>
       
       <e lm="localização">
         <i>localizaç</i>
@@ -128316,10 +128166,6 @@
 	<i>Almunia</i>
 	<par n="Nome__np"/>
 </e>
-<e lm="Bargalló">
-	<i>Bargalló</i>
-	<par n="Nome__np"/>
-</e>
 <e lm="Barroso">
 	<i>Barroso</i>
 	<par n="Nome__np"/>
@@ -128689,10 +128535,6 @@
 <e lm="Andaluzia">
 	<i>Andaluzia</i>
 	<par n="Lugar__np"/>
-</e>
-<e lm="Ángel">
-	<i>Ángel</i>
-	<par n="Nome__np"/>
 </e>
 <e lm="apartar">
 	<i>apart</i>
@@ -129166,10 +129008,6 @@
 </e>
 <e lm="orgulhoso">
 	<i>orgulhos</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="ósseo">
-	<i>ósse</i>
 	<par n="abert/o__adj"/>
 </e>
 <e lm="pacificação">
@@ -129668,10 +129506,6 @@
 	<i>desgraça</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="deslumbrante">
-	<i>deslumbrante</i>
-	<par n="agrícola__adj"/>
-</e>
 <e lm="desvanecer">
 	<i>desvane</i>
 	<par n="abaste/cer__vblex"/>
@@ -129695,10 +129529,6 @@
 <e lm="educar">
 	<i>edu</i>
 	<par n="abdi/car__vblex"/>
-</e>
-<e lm="elegante">
-	<i>elegante</i>
-	<par n="agrícola__adj"/>
 </e>
 <e lm="elementar">
 	<i>elementar</i>
@@ -129738,10 +129568,6 @@
 </e>
 <e lm="escrita" r="LR">
 	<i>escrita</i>
-	<par n="abadia__n"/>
-</e>
-<e lm="escritura">
-	<i>escritura</i>
 	<par n="abadia__n"/>
 </e>
 <e lm="escuridade" r="LR">
@@ -130572,10 +130398,6 @@
 	<i>agonia</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="águia">
-	<i>águia</i>
-	<par n="abadia__n"/>
-</e>
 <e lm="ajoelhar">
 	<i>ajoelh</i>
 	<par n="abal/ar__vblex"/>
@@ -130595,10 +130417,6 @@
 <e lm="alcantilado">
 	<i>alcantilado</i>
 	<par n="Leste__n"/>
-</e>
-<e lm="alheio">
-	<i>alhei</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="alicerce">
 	<i>alicerce</i>
@@ -130776,10 +130594,6 @@
 	<i>asno</i>
 	<par n="Leste__n"/>
 </e>
-<e lm="áspero">
-	<i>ásper</i>
-	<par n="abert/o__adj"/>
-</e>
 <e lm="assemelhar">
 	<i>assemelh</i>
 	<par n="abal/ar__vblex"/>
@@ -130819,10 +130633,6 @@
 <e lm="aversão">
 	<i>avers</i>
 	<par n="aceitaç/ão__n"/>
-</e>
-<e lm="ávido">
-	<i>ávid</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="balde">
 	<i>balde</i>
@@ -131404,14 +131214,6 @@
 	<i>drag</i>
 	<par n="avi/ão__n"/>
 </e>
-<e lm="ébrio">
-	<i>ébri</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="ébrio">
-	<i>ébri</i>
-	<par n="adept/o__n"/>
-</e>
 <e lm="edificar">
 	<i>edifi</i>
 	<par n="abdi/car__vblex"/>
@@ -131474,10 +131276,6 @@
 </e>
 <e lm="engano">
 	<i>engano</i>
-	<par n="Leste__n"/>
-</e>
-<e lm="êxtase">
-	<i>êxtase</i>
 	<par n="Leste__n"/>
 </e>
 <e lm="enganoso">
@@ -131583,10 +131381,6 @@
 <e lm="espessar">
 	<i>espess</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="espinha">
-	<i>espinha</i>
-	<par n="abadia__n"/>
 </e>
 <e lm="espreitar">
 	<i>espreit</i>
@@ -131955,10 +131749,6 @@
 <e lm="interminável">
 	<i>intermináve</i>
 	<par n="aceitáve/l__adj"/>
-</e>
-<e lm="íntimo">
-	<i>íntim</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="inumerável">
 	<i>inumeráve</i>
@@ -133108,14 +132898,6 @@
 	<i>inconfundíve</i>
 	<par n="aceitáve/l__adj"/>
 </e>
-<e lm="óptimo" a="mikel" v="pt">
-	<i>óptim</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="ótimo" a="mikel" v="br">
-	<i>ótim</i>
-	<par n="abert/o__adj"/>
-</e>
 <e lm="carbono" a="mikel">
 	<i>carbono</i>
 	<par n="Leste__n"/>
@@ -134127,19 +133909,6 @@
 		<par n="agrícola__adj"/>
 	</e>
 		 	
-	<e lm="água sanitária" a="imaxin|software">
-		<p>
-			<l>água<b/>sanitária</l>
-			<r>água<b/>sanitária<s n="n"/><s n="f"/><s n="sg"/></r>
-		</p>
-	</e>
-	 	
-	<e lm="água sanitária" a="imaxin|software">
-		<p>
-			<l>águas<b/>sanitárias</l>
-			<r>água<b/>sanitária<s n="n"/><s n="f"/><s n="pl"/></r>
-		</p>
-	</e>
 	      
 	<e lm="Oriente Médio" v="pt" a="imaxin|software">
 		<i>Oriente<b/>Médio</i>
@@ -136765,7 +136534,6 @@
 <e lm="Andreas"><i>Andreas</i><par n="Nome__np"/></e>
 <e lm="Andréas"><i>Andréas</i><par n="Nome__np"/></e>
 <e lm="Andreev"><i>Andreev</i><par n="Nome__np"/></e>
-<e lm="Andrei"><i>Andrei</i><par n="Nome__np"/></e>
 <e lm="Andrej"><i>Andrej</i><par n="Nome__np"/></e>
 <e lm="Andreo"><i>Andreo</i><par n="Nome__np"/></e>
 <e lm="Andresen"><i>Andresen</i><par n="Nome__np"/></e>
@@ -140477,7 +140245,6 @@
 <e lm="Anubis"><i>Anubis</i><par n="Nome__np"/></e>
 <!--<e lm="Argyreos"><i>Argyreos</i><par n="Nome__np"/></e>-->
 <!--<e lm="Balto"><i>Balto</i><par n="Nome__np"/></e>-->
-<e lm="Banzé"><i>Banzé</i><par n="Nome__np"/></e>
 <e lm="Barghest"><i>Barghest</i><par n="Nome__np"/></e>
 <!--<e lm="Bidu"><i>Bidu</i><par n="Nome__np"/></e>-->
 <e lm="Bo"><i>Bo</i><par n="Nome__np"/></e>
@@ -140517,7 +140284,6 @@
 <e lm="Laika"><i>Laika</i><par n="Nome__np"/></e>
 <e lm="Lassie"><i>Lassie</i><par n="Nome__np"/></e>
 <e lm="Linnaeus"><i>Linnaeus</i><par n="Nome__np"/></e>
-<e lm="Maomé"><i>Maomé</i><par n="Nome__np"/></e>
 <e lm="Marley"><i>Marley</i><par n="Nome__np"/></e>
 <!-- see note in fr.metadix about Marley & Me -->
 <!--<e lm="Marley &amp; Eu"><i>Marley<b/>&amp;<b/>Eu</i><par n="Outro__np"/></e>-->
@@ -140527,7 +140293,6 @@
 <!--<e lm="Odie"><i>Odie</i><par n="Nome__np"/></e>-->
 <e lm="Odisseu"><i>Odisseu</i><par n="Nome__np"/></e>
 <!--<e lm="Ortro"><i>Ortro</i><par n="Nome__np"/></e>-->
-<e lm="Óscar"><i>Óscar</i><par n="Nome__np"/></e>
 <e lm="palácio da Moncloa"><i>palácio<b/>da<b/>Moncloa</i><par n="Lugar__np"/></e>
 <e lm="Pateta"><i>Pateta</i><par n="Nome__np"/></e>
 <e lm="Peanuts"><i>Peanuts</i><par n="Outro__np"/></e>
@@ -140691,7 +140456,6 @@
 <!--<e lm="apatia"><i>apatia</i><par n="abadia__n"/></e>-->
 <!--<e lm="aperfeiçoamento"><i>aperfeiçoamento</i><par n="Leste__n"/></e>-->
 <e lm="apetite"><i>apetite</i><par n="Leste__n"/></e>
-<e lm="ápice"><i>ápice</i><par n="Leste__n"/></e>
 <!--<e lm="apreço"><i>apreço</i><par n="Leste__n"/></e>-->
 <!--<e lm="aprendizagem"><i>aprendizage</i><par n="aterrissage/m__n"/></e>-->
 <!--<e lm="aprisionamento"><i>aprisionamento</i><par n="Leste__n"/></e>-->
@@ -140721,7 +140485,6 @@
 <!--<e lm="bronquíolo"><i>bronquíolo</i><par n="Leste__n"/></e>-->
 <!--<e lm="brutalidade"><i>brutalidade</i><par n="abadia__n"/></e>-->
 <!--<e lm="bruxaria"><i>bruxaria</i><par n="abadia__n"/></e>-->
-<e lm="bruxa"><i>bruxa</i><par n="abadia__n"/></e>
 <!--<e lm="buldogue"><i>buldogue</i><par n="Leste__n"/></e>-->
 <e lm="bulldog"><i>bulldog</i><par n="Leste__n"/></e>
 <!--<e lm="bull terrier"><i>bull<b/>terrier</i><par n="Leste__n"/></e>-->
@@ -140745,7 +140508,6 @@
 <!--<e lm="carcaça"><i>carcaça</i><par n="abadia__n"/></e>-->
 <!--<e lm="cardápio"><i>cardápio</i><par n="Leste__n"/></e>-->
 <!--<e lm="carinho"><i>carinho</i><par n="Leste__n"/></e>-->
-<e lm="carne"><i>carne</i><par n="abadia__n"/></e>
 <e lm="carnívoro"><i>carnívoro</i><par n="Leste__n"/></e>
 <e lm="carrapato"><i>carrapato</i><par n="Leste__n"/></e>
 <!--<e lm="cartilagem"><i>cartilage</i><par n="aterrissage/m__n"/></e>-->
@@ -140835,7 +140597,6 @@
 <!--<e lm="difteria"><i>difteria</i><par n="abadia__n"/></e>-->
 <!--<e lm="dinamarquês"><i>dinamarqu</i><par n="alban/ês__n"/></e>-->
 <!--<e lm="discordância"><i>discordância</i><par n="abadia__n"/></e>-->
-<!--<e lm="displasia coxofemoral"><i>displasia<b/>coxofemoral</i><par n="abadia__n"/></e>-->
 <!--<e lm="distinção"><i>distinç</i><par n="aceitaç/ão__n"/></e>-->
 <!--<e lm="diversão"><i>divers</i><par n="aceitaç/ão__n"/></e>-->
 <!--<e lm="divindade"><i>divindade</i><par n="abadia__n"/></e>-->
@@ -140873,10 +140634,8 @@
 <!--<e lm="estimação"><i>estimaç</i><par n="aceitaç/ão__n"/></e>-->
 <!--<e lm="estrato"><i>estrato</i><par n="Leste__n"/></e>-->
 <!--<e lm="etimologia"><i>etimologia</i><par n="abadia__n"/></e>-->
-<e lm="evaporação"><i>evaporaç</i><par n="aceitaç/ão__n"/></e>
 <!--<e lm="excreção"><i>excreç</i><par n="aceitaç/ão__n"/></e>-->
 <!--<e lm="exibição"><i>exibiç</i><par n="aceitaç/ão__n"/></e>-->
-<e lm="êxodo"><i>êxodo</i><par n="Leste__n"/></e>
 <e lm="experimentação"><i>experimentaç</i><par n="aceitaç/ão__n"/></e>
 <!--<e lm="extermínio"><i>extermínio</i><par n="Leste__n"/></e>-->
 <!--<e lm="extinção"><i>extinç</i><par n="aceitaç/ão__n"/></e>-->
@@ -140899,7 +140658,6 @@
 <e lm="focinho"><i>focinho</i><par n="Leste__n"/></e>
 <!--<e lm="francês"><i>franc</i><par n="alban/ês__n"/></e>-->
 <e lm="gaiola"><i>gaiola</i><par n="abadia__n"/></e>
-<e lm="galgo"><i>galgo</i><par n="Leste__n"/></e>
 <!--<e lm="galope"><i>galope</i><par n="Leste__n"/></e>-->
 <!--<e lm="garupa"><i>garupa</i><par n="abadia__n"/></e>-->
 <!--<e lm="geração"><i>geraç</i><par n="aceitaç/ão__n"/></e>-->
@@ -140942,7 +140700,6 @@
 <!--<e lm="ingratidão"><i>ingratid</i><par n="aceitaç/ão__n"/></e>-->
 <!--<e lm="inimizade"><i>inimizade</i><par n="abadia__n"/></e>-->
 <!--<e lm="inseminação"><i>inseminaç</i><par n="aceitaç/ão__n"/></e>-->
-<e lm="integrante"><i>integrante</i><par n="accionista__n"/></e>
 <!--<e lm="interferência"><i>interferência</i><par n="abadia__n"/></e>-->
 <!--<e lm="internação"><i>internaç</i><par n="aceitaç/ão__n"/></e>-->
 <!--<e lm="internacional"><i>internaciona</i><par n="genera/l__n"/></e>-->
@@ -140987,7 +140744,6 @@
 <!--<e lm="material"><i>materia</i><par n="anima/l__n"/></e>-->
 <!--<e lm="matilha"><i>matilha</i><par n="abadia__n"/></e>-->
 <!--<e lm="medicação"><i>medicaç</i><par n="aceitaç/ão__n"/></e>-->
-<e lm="membro"><i>membro</i><par n="Leste__n"/></e>
 <!--<e lm="mensagem"><i>mensage</i><par n="aterrissage/m__n"/></e>-->
 <!--<e lm="mercador"><i>mercador</i><par n="admirador__n"/></e>-->
 <!--<e lm="mescla"><i>mescla</i><par n="abadia__n"/></e>-->
@@ -141015,7 +140771,6 @@
 <!--<e lm="nomenclatura"><i>nomenclatura</i><par n="abadia__n"/></e>-->
 <!--<e lm="nutriente"><i>nutriente</i><par n="Leste__n"/></e>-->
 <!--<e lm="obesidade"><i>obesidade</i><par n="abadia__n"/></e>-->
-<e lm="óbito"><i>óbito</i><par n="Leste__n"/></e>
 <!--<e lm="ocidentalização"><i>ocidentalizaç</i><par n="aceitaç/ão__n"/></e>-->
 <!--<e lm="ocorrência"><i>ocorrência</i><par n="abadia__n"/></e>-->
 <!--<e lm="odisséia"><i>odisséia</i><par n="abadia__n"/></e>-->
@@ -141028,12 +140783,10 @@
 <!--<e lm="osteologia"><i>osteologia</i><par n="abadia__n"/></e>-->
 <!--<e lm="ovário"><i>ovário</i><par n="Leste__n"/></e>-->
 <!--<e lm="ovelheiro"><i>ovelheiro</i><par n="Leste__n"/></e>-->
-<e lm="óvulo"><i>óvulo</i><par n="Leste__n"/></e>
 <e lm="padrão"><i>padr</i><par n="avi/ão__n"/></e>
 <e lm="país"><i>país</i><par n="amor__n"/></e>
 <e lm="paladar"><i>paladar</i><par n="Leste__n"/></e>
 <!--<e lm="papila"><i>papila</i><par n="abadia__n"/></e>-->
-<e lm="paralelo"><i>paralelo</i><par n="Leste__n"/></e>
 <e lm="parasita"><i>parasita</i><par n="Leste__n"/></e>
 <!--<e lm="pária"><i>pária</i><par n="Leste__n"/></e>-->
 <e lm="parente"><i>parent</i><par n="chef/e__n"/></e>
@@ -141062,7 +140815,6 @@
 <!--<e lm="polêmico" v="br"><i>polêmico</i><par n="Leste__n"/></e>-->
 <!--<e lm="polémico" v="pt"><i>polémico</i><par n="Leste__n"/></e>-->
 <e lm="poodle"><i>poodle</i><par n="Leste__n"/></e>
-<!--<e lm="português"><i>portugu</i><par n="alban/ês__n"/></e>-->
 <!--<e lm="pote"><i>pote</i><par n="Leste__n"/></e>-->
 <!--<e lm="potencial"><i>potencia</i><par n="anima/l__n"/></e>-->
 <!--<e lm="povoamento"><i>povoamento</i><par n="Leste__n"/></e>-->
@@ -141117,7 +140869,6 @@
 <!--<e lm="são-bernardo"><i>são-bernardo</i><par n="Leste__n"/></e>-->
 <!--<e lm="schnauzer"><i>schnauzer</i><par n="Leste__n"/></e>-->
 <!--<e lm="seda"><i>seda</i><par n="abadia__n"/></e>-->
-<e lm="segurança"><i>segurança</i><par n="cabeça__n"/></e>
 <e lm="selecção" v="pt"><i>selecç</i><par n="aceitaç/ão__n"/></e>
 <e lm="seleção" v="br"><i>seleç</i><par n="aceitaç/ão__n"/></e>
 <!--<e lm="sêmen"><i>sêmen</i><par n="amor__n"/></e>-->
@@ -141173,10 +140924,8 @@
 <!--<e lm="túmulo"><i>túmulo</i><par n="Leste__n"/></e>-->
 <!--<e lm="ucraniano"><i>ucranian</i><par n="adept/o__n"/></e>-->
 <!--<e lm="uivo"><i>uivo</i><par n="Leste__n"/></e>-->
-<e lm="úlcera"><i>úlcera</i><par n="abadia__n"/></e>
 <!--<e lm="uretra"><i>uretra</i><par n="abadia__n"/></e>-->
 <!--<e lm="usabilidade"><i>usabilidade</i><par n="abadia__n"/></e>-->
-<e lm="útero"><i>útero</i><par n="Leste__n"/></e>
 <e lm="vacinação"><i>vacinaç</i><par n="aceitaç/ão__n"/></e>
 <!--<e lm="vagabundo"><i>vagabundo</i><par n="Leste__n"/></e>-->
 <!--<e lm="valquíria"><i>valquíria</i><par n="abadia__n"/></e>-->
@@ -141202,7 +140951,6 @@
 <!--<e lm="zoonose"><i>zoonose</i><par n="abadia__n"/></e>-->
 
 <e lm="cm²"><i>cm²</i><par n="caos__n"/></e>
-<e lm="nº"><i>nº</i><par n="caos__n"/></e>
 <!--<e lm="pág"><i>pág</i><par n="caos__n"/></e>-->
 <!--<e lm="págs"><i>págs</i><par n="caos__n"/></e>-->
 
@@ -141304,8 +141052,6 @@
 <!--<e lm="diminuto"><i>diminut</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="dinamarquês"><i>dinamarqu</i><par n="alban/ês__adj"/></e>-->
 <!--<e lm="dinâmico"><i>dinâmic</i><par n="abert/o__adj"/></e>-->
-<e lm="direccional" v="pt"><i>direcciona</i><par n="aceitáve/l__adj"/></e>
-<e lm="direcional" v="br"><i>direciona</i><par n="aceitáve/l__adj"/></e>
 <!--<e lm="disperso"><i>dispers</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="disseminador"><i>disseminador</i><par n="conservador__adj"/></e>-->
 <e lm="diverso"><i>divers</i><par n="abert/o__adj"/></e>
@@ -141337,7 +141083,6 @@
 <!--<e lm="estriado"><i>estriad</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="etimológico"><i>etimológic</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="excelente"><i>excelente</i><par n="agrícola__adj"/></e>-->
-<e lm="existente"><i>existente</i><par n="agrícola__adj"/></e>
 <!--<e lm="exótico"><i>exótic</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="extensivo"><i>extensiv</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="extensor"><i>extensor</i><par n="conservador__adj"/></e>-->
@@ -141361,7 +141106,6 @@
 <!--<e lm="fônico"><i>fônic</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="formador"><i>formador</i><par n="anterior__adj"/></e>-->
 <!--<e lm="forte"><i>forte</i><par n="agrícola__adj"/></e>-->
-<e lm="francês"><i>franc</i><par n="alban/ês__adj"/></e>
 <!--<e lm="fresco"><i>fresc</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="frontal"><i>fronta</i><par n="aceitáve/l__adj"/></e>-->
 <!--<e lm="fundamental"><i>fundamenta</i><par n="aceitáve/l__adj"/></e>-->
@@ -141387,23 +141131,17 @@
 <!--<e lm="hiperativo" v="br"><i>hiperativ</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="hiperactivo" v="pt"><i>hiperactiv</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="histórico"><i>históric</i><par n="abert/o__adj"/></e>-->
-<e lm="homónimo" v="pt"><i>homónim</i><par n="abert/o__adj"/></e>
-<e lm="homônimo" v="br"><i>homônim</i><par n="abert/o__adj"/></e>
 <!--<e lm="horizontal"><i>horizonta</i><par n="aceitáve/l__adj"/></e>-->
 <!--<e lm="idêntico"><i>idêntic</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="imaginário"><i>imaginári</i><par n="abert/o__adj"/></e>-->
-<e lm="importante"><i>importante</i><par n="agrícola__adj"/></e>
 <!--<e lm="impreciso"><i>imprecis</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="impuro"><i>impur</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="imunológico"><i>imunológic</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="incólume"><i>incólume</i><par n="agrícola__adj"/></e>-->
-<e lm="incômodo" v="br"><i>incômod</i><par n="abert/o__adj"/></e>
-<e lm="incómodo" v="pt"><i>incómod</i><par n="abert/o__adj"/></e>
 <!--<e lm="incompleto"><i>incomplet</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="independente"><i>independente</i><par n="agrícola__adj"/></e>-->
 <!--<e lm="individual"><i>individua</i><par n="aceitáve/l__adj"/></e>-->
 <e lm="infantil"><i>infanti</i><par n="civi/l__adj"/></e>
-<e lm="infeccioso"><i>infeccios</i><par n="abert/o__adj"/></e>
 <!--<e lm="inferior"><i>inferior</i><par n="anterior__adj"/></e>-->
 <!--<e lm="influente"><i>influente</i><par n="agrícola__adj"/></e>-->
 <!--<e lm="inglês"><i>ingl</i><par n="alban/ês__adj"/></e>-->
@@ -141440,7 +141178,6 @@
 <!--<e lm="maior"><i>maior</i><par n="anterior__adj"/></e>-->
 <!--<e lm="marcante"><i>marcante</i><par n="agrícola__adj"/></e>-->
 <!--<e lm="material"><i>materia</i><par n="aceitáve/l__adj"/></e>-->
-<e lm="mau"><i>m</i><par n="m/au__adj"/></e>
 <!--<e lm="mediolíneo"><i>mediolíne</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="mediterrâneo"><i>mediterrâne</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="mental"><i>menta</i><par n="aceitáve/l__adj"/></e>-->
@@ -141487,13 +141224,11 @@
 <!--<e lm="parcial"><i>parcia</i><par n="aceitáve/l__adj"/></e>-->
 <!--<e lm="pejorativo"><i>pejorativ</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="pélvico"><i>pélvic</i><par n="abert/o__adj"/></e>-->
-<e lm="perigoso"><i>perigos</i><par n="abert/o__adj"/></e>
 <!--<e lm="permanente"><i>permanente</i><par n="agrícola__adj"/></e>-->
 <!--<e lm="pictórico"><i>pictóric</i><par n="abert/o__adj"/></e>-->
 <e lm="polêmico" v="br"><i>polêmic</i><par n="abert/o__adj"/></e>
 <e lm="polémico" v="pt"><i>polémic</i><par n="abert/o__adj"/></e>
 <!--<e lm="populacional"><i>populaciona</i><par n="aceitáve/l__adj"/></e>-->
-<e lm="português"><i>portugu</i><par n="alban/ês__adj"/></e>
 <!--<e lm="posterior"><i>posterior</i><par n="anterior__adj"/></e>-->
 <!--<e lm="prático"><i>prátic</i><par n="abert/o__adj"/></e>-->
 <!--<e lm="preconceituoso"><i>preconceituos</i><par n="abert/o__adj"/></e>-->
@@ -141679,7 +141414,291 @@
       </e>
   </section>
 
+<!-- @@@ -->
   <!--<section id="pending" type="standard">
+
+
+      <e lm="evidente">
+        <i>evidente</i>
+        <par n="agrícola__adj"/>
+      </e>
+      <e lm="equipa" v="pt">
+        <i>equipa</i>
+        <par n="abadia__n"/>
+      </e>
+
+      <e lm="Brasília">
+        <i>Brasília</i>
+        <par n="Lugar__np"/>
+      </e>
+
+
+      <e lm="São Paulo">
+        <i>São<b/>Paulo</i>
+        <par n="Lugar__np"/>
+      </e>
+      
+<e lm="Andrei"><i>Andrei</i><par n="Nome__np"/></e>
+<e lm="evaporação"><i>evaporaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="integrante"><i>integrante</i><par n="accionista__n"/></e>
+<e lm="direccional" v="pt"><i>direcciona</i><par n="aceitáve/l__adj"/></e>
+
+<e lm="direcional" v="br"><i>direciona</i><par n="aceitáve/l__adj"/></e>
+<e lm="existente"><i>existente</i><par n="agrícola__adj"/></e>
+<e lm="importante"><i>importante</i><par n="agrícola__adj"/></e>
+<e lm="mau"><i>m</i><par n="m/au__adj"/></e>
+<e lm="português"><i>portugu</i><par n="alban/ês__n"/></e>
+<e lm="português"><i>portugu</i><par n="alban/ês__adj"/></e>
+
+
+<e lm="espinha">
+	<i>espinha</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="alheio">
+	<i>alhei</i>
+	<par n="abert/o__adj"/>
+</e>
+
+<e lm="escritura">
+	<i>escritura</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="elegante">
+	<i>elegante</i>
+	<par n="agrícola__adj"/>
+</e>
+
+<e lm="deslumbrante">
+	<i>deslumbrante</i>
+	<par n="agrícola__adj"/>
+</e>
+      <e lm="todo">
+        <i>tod</i>
+        <par n="tod/o__predet"/>
+      </e>
+
+<e lm="Delfinado"><i>Delfinado</i><par n="Lugar__np"/></e>
+      <e lm="tela" v="br">
+        <i>tela</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="mostra">
+        <i>mostra</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="equipe" v="br">
+        <i>equipe</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="eleitor">
+        <i>eleitor</i>
+        <par n="admirador__n"/>
+      </e>
+
+      <e lm="igual">
+        <i>igua</i>
+        <par n="aceitáve/l__adj"/>
+      </e>
+      <e lm="eventual">
+        <i>eventua</i>
+        <par n="aceitáve/l__adj"/>
+      </e>
+
+      <e lm="estrangeiro">
+        <i>estrangeir</i>
+        <par n="abert/o__adj"/>
+      </e>
+      <e lm="equivalente">
+        <i>equivalente</i>
+        <par n="agrícola__adj"/>
+      </e>
+      <e lm="emergente">
+        <i>emergente</i>
+        <par n="agrícola__adj"/>
+      </e>
+
+      <e lm="editorial">
+        <i>editoria</i>
+        <par n="aceitáve/l__adj"/>
+      </e>
+
+		<e lm="emocional">
+			<i>emociona</i>
+			<par n="aceitáve/l__adj"/>
+		</e>
+<e lm="Baçorá"><i>Baçorá</i><par n="Lugar__np"/></e>
+      <e lm="árbitro">
+        <i>árbitr</i>
+        <par n="adept/o__n"/>
+      </e>
+      <e lm="área">
+        <i>área</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="árvore">
+        <i>árvore</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="ídolo">
+        <i>ídolo</i>
+        <par n="accionista__n"/>
+      </e>
+<e lm="Baçorá"><i>Baçorá</i><par n="Lugar__np"/></e>
+		<e lm="até">
+			<i>até</i>
+			<par n="a__pr"/>
+		</e>      
+<e lm="águia">
+	<i>águia</i>
+	<par n="abadia__n"/>
+</e>
+	<e lm="água sanitária" a="imaxin|software">
+		<p>
+			<l>água<b/>sanitária</l>
+			<r>água<b/>sanitária<s n="n"/><s n="f"/><s n="sg"/></r>
+		</p>
+	</e>
+	 	
+	<e lm="água sanitária" a="imaxin|software">
+		<p>
+			<l>águas<b/>sanitárias</l>
+			<r>água<b/>sanitária<s n="n"/><s n="f"/><s n="pl"/></r>
+		</p>
+	</e>
+<e lm="carne"><i>carne</i><par n="abadia__n"/></e>
+<e lm="galgo"><i>galgo</i><par n="Leste__n"/></e>
+<e lm="membro"><i>membro</i><par n="Leste__n"/></e>
+<e lm="segurança"><i>segurança</i><par n="cabeça__n"/></e>
+<e lm="francês"><i>franc</i><par n="alban/ês__adj"/></e>
+<e lm="homónimo" v="pt"><i>homónim</i><par n="abert/o__adj"/></e>
+<e lm="homônimo" v="br"><i>homônim</i><par n="abert/o__adj"/></e>
+<e lm="incômodo" v="br"><i>incômod</i><par n="abert/o__adj"/></e>
+<e lm="incómodo" v="pt"><i>incómod</i><par n="abert/o__adj"/></e>
+<e lm="infeccioso"><i>infeccios</i><par n="abert/o__adj"/></e>
+<e lm="perigoso"><i>perigos</i><par n="abert/o__adj"/></e>
+
+      <e lm="úmido" v="br">
+	<i>úmid</i>
+	<par n="abert/o__adj"/>
+      </e>
+      <e lm="ético">
+	<i>étic</i>
+	<par n="abert/o__adj"/>
+      </e>
+      <e lm="étnico">
+        <i>étnic</i>
+        <par n="abert/o__adj"/>
+      </e>
+      <e lm="único">
+        <i>únic</i>
+        <par n="abert/o__adj"/>
+      </e>
+		<e lm="óbvio">
+			<i>óbvi</i>
+			<par n="abert/o__adj"/>
+		</e>
+      <e lm="pré">
+        <i>pré</i>
+        <par n="anti__adj"/>
+      </e>
+<e lm="ósseo">
+	<i>ósse</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="áspero">
+	<i>ásper</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="ávido">
+	<i>ávid</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="ébrio">
+	<i>ébri</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="ébrio">
+	<i>ébri</i>
+	<par n="adept/o__n"/>
+</e>
+<e lm="íntimo">
+	<i>íntim</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="óptimo" a="mikel" v="pt">
+	<i>óptim</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="ótimo" a="mikel" v="br">
+	<i>ótim</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="nº"><i>nº</i><par n="caos__n"/></e>
+<e lm="óvulo"><i>óvulo</i><par n="Leste__n"/></e>
+<e lm="paralelo"><i>paralelo</i><par n="Leste__n"/></e>
+<e lm="úlcera"><i>úlcera</i><par n="abadia__n"/></e>
+<e lm="útero"><i>útero</i><par n="Leste__n"/></e>
+      
+      <e lm="ónus" v="pt">
+        <i>ónus</i>
+        <par n="caos__n"/>
+      </e>
+      
+      <e lm="ônus" v="br">
+        <i>ônus</i>
+        <par n="caos__n"/>
+      </e>
+ 
+      <e lm="ânus">
+        <i>ânus</i>
+        <par n="caos__n"/>
+      </e>
+<e lm="ápice"><i>ápice</i><par n="Leste__n"/></e>
+<e lm="bruxa"><i>bruxa</i><par n="abadia__n"/></e>
+<e lm="êxodo"><i>êxodo</i><par n="Leste__n"/></e>
+<e lm="êxtase">
+	<i>êxtase</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="óbito"><i>óbito</i><par n="Leste__n"/></e>
+      <e lm="ônibus" v="br">
+        <i>ônibus</i>
+        <par n="caos__n"/>
+      </e>
+      
+      <e lm="ónibus" v="pt">
+        <i>ónibus</i>
+        <par n="caos__n"/>
+      </e>
+ 
+<e lm="Ángel">
+	<i>Ángel</i>
+	<par n="Nome__np"/>
+</e>
+<e lm="Banzé"><i>Banzé</i><par n="Nome__np"/></e>
+<e lm="Bargalló">
+	<i>Bargalló</i>
+	<par n="Nome__np"/>
+</e>
+      <e lm="Évora">
+        <i>Évora</i>
+        <par n="Lugar__np"/>
+      </e>
+<e lm="Maomé"><i>Maomé</i><par n="Nome__np"/></e>
+<e lm="Óscar"><i>Óscar</i><par n="Nome__np"/></e>
+      <e lm="Pelé">
+        <i>Pelé</i>
+        <par n="Nome__np"/>
+      </e>
+      <e lm="Ramadã">
+        <i>Ramadã</i>
+        <par n="Outro__np"/>
+      </e>
+      <e lm="Sá">
+        <i>Sá</i>
+        <par n="Nome__np"/>
+      </e>
            
       <e lm="olé">
         <i>olé</i>
@@ -159275,20 +159294,7 @@
         <i>nova-iorquin</i>
         <par n="abert/o__adj"/>
       </e>
-      
-      <e lm="outro" r="RL">
-        <p>
-          <l><a/>outr</l>
-          <r>outr</r>
-        </p>
-        <par n="abert/o__adj"/>
-      </e>
-      
-      <e lm="outro" r="LR">
-        <i>outr</i>
-        <par n="abert/o__adj"/>
-      </e>
-      
+     
       <e lm="paciente">
         <i>paciente</i>
         <par n="agrícola__adj"/>
