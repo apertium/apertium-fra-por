@@ -16833,8 +16833,6 @@
           <e lm="âne"><i>âne</i><par n="buffle__n"/></e>
           <e lm="âpre"><i>âpre</i><par n="académique__adj"/></e>
           <e lm="ça"><i>ça</i><par n="ceci__prn"/></e>
-          <e r="LR" lm="éblouir"><p><l>Eblou</l><r>éblou</r></p><par n="about/[]ir__vblex" prm=""/></e>
-          <e lm="éblouir"><i>éblou</i><par n="about/[]ir__vblex" prm=""/></e>
           <e r="LR" lm="éblouissant"><p><l>Eblouissant</l><r>éblouissant</r></p><par n="abaissant__adj"/></e>
           <e lm="éblouissant"><i>éblouissant</i><par n="abaissant__adj"/></e>
           <e lm="ébranler" r="LR"><p><l>Ebranl</l><r>ébranl</r></p><par n="abaiss/er__vblex"/></e>
@@ -16851,8 +16849,6 @@
           <e lm="échanger"><i>échang</i><par n="allong/er__vblex"/></e>
           <e r="LR" lm="échantillon"><p><l>Echantillon</l><r>échantillon</r></p><par n="livre__n"/></e>
           <e lm="échantillon"><i>échantillon</i><par n="livre__n"/></e>
-          <e r="LR" lm="écharper"><p><l>Echarp</l><r>écharp</r></p><par n="abaiss/er__vblex"/></e>
-          <e lm="écharper"><i>écharp</i><par n="abaiss/er__vblex"/></e>
           <e r="LR" lm="échauffer"><p><l>Echauff</l><r>échauff</r></p><par n="abaiss/er__vblex"/></e>
           <e lm="échauffer"><i>échauff</i><par n="abaiss/er__vblex"/></e>
           <e r="LR" lm="échelle"><p><l>Echelle</l><r>échelle</r></p><par n="abeille__n"/></e>
@@ -16997,8 +16993,6 @@
           <e lm="épaule"><i>épaule</i><par n="abeille__n"/></e>
           <e r="LR" lm="épidémie"><p><l>Epidémie</l><r>épidémie</r></p><par n="abeille__n"/></e>
           <e lm="épidémie"><i>épidémie</i><par n="abeille__n"/></e>
-          <e r="LR" lm="épier"><p><l>Epi</l><r>épi</r></p><par n="abaiss/er__vblex"/></e>
-          <e lm="épier"><i>épi</i><par n="abaiss/er__vblex"/></e>
           <e r="LR" lm="épine"><p><l>Epine</l><r>épine</r></p><par n="abeille__n"/></e>
           <e lm="épine"><i>épine</i><par n="abeille__n"/></e>
           <e r="LR" lm="épisode"><p><l>Episode</l><r>épisode</r></p><par n="livre__n"/></e>
@@ -17031,8 +17025,6 @@
           <e lm="équivalent"><i>équivalent</i><par n="abaissant__adj"/></e>
           <e r="LR" lm="équivaloir"><p><l>Equiva</l><r>équiva</r></p><par n="va/loir__vblex"/></e>
           <e lm="équivaloir"><i>équiva</i><par n="va/loir__vblex"/></e>
-          <e r="LR" lm="ériger"><p><l>Erig</l><r>érig</r></p><par n="allong/er__vblex"/></e>
-          <e lm="ériger"><i>érig</i><par n="allong/er__vblex"/></e>
           <e r="LR" lm="établir"><p><l>Etabl</l><r>établ</r></p><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="établir"><i>établ</i><par n="about/[]ir__vblex" prm=""/></e>
           <e r="LR" lm="établissement"><p><l>Etablissement</l><r>établissement</r></p><par n="livre__n"/></e>
@@ -17075,8 +17067,6 @@
           <e lm="étonner"><i>étonn</i><par n="abaiss/er__vblex"/></e>
           <e r="LR" lm="étouffer"><p><l>Etouff</l><r>étouff</r></p><par n="abaiss/er__vblex"/></e>
           <e lm="étouffer"><i>étouff</i><par n="abaiss/er__vblex"/></e>
-          <e r="LR" lm="étourdir"><p><l>Etourd</l><r>étourd</r></p><par n="about/[]ir__vblex" prm=""/></e>
-          <e lm="étourdir"><i>étourd</i><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="étrange" r="LR"><p><l>Etrange</l><r>étrange</r></p><par n="académique__adj"/></e>
           <e lm="étrange" r="LR"><i>étrange</i><par n="académique__adj"/></e>
           <e r="LR" lm="étranger"><p><l>Etrang</l><r>étrang</r></p><par n="bouch/er__n"/></e>
@@ -17085,8 +17075,6 @@
           <e lm="étranger"><i>étrang</i><par n="ch/er__adj"/></e>
           <e r="LR" lm="étrave"><p><l>Etrave</l><r>étrave</r></p><par n="abeille__n"/></e>
           <e lm="étrave"><i>étrave</i><par n="abeille__n"/></e>
-          <e r="LR" lm="étreindre"><p><l>Etrei</l><r>étrei</r></p><par n="cei/ndre__vblex"/></e>
-          <e lm="étreindre"><i>étrei</i><par n="cei/ndre__vblex"/></e>
           <e r="LR" lm="étrenne"><p><l>Etrenne</l><r>étrenne</r></p><par n="abeille__n"/></e>
           <e lm="étrenne"><i>étrenne</i><par n="abeille__n"/></e>
           <e r="LR" lm="étroit"><p><l>Etroit</l><r>étroit</r></p><par n="abaissant__adj"/></e>
@@ -18060,7 +18048,6 @@
 <e lm="ail" a="webform"><i>ail</i><par n="livre__n"/></e>
 <e lm="ban" a="webform"><i>ban</i><par n="livre__n"/></e>
 <e lm="banquet" a="webform"><i>banquet</i><par n="livre__n"/></e>
-<e lm="être enlise" a="webform"><par n="/être__vblex"/><p><l><b/>enlise</l><r><g><b/>enlise</g></r></p></e>
 <e lm="scientifique" a="webform"><i>scientifique</i><par n="artiste__n"/></e>
 <e lm="clameur" a="webform"><i>clameur</i><par n="abeille__n"/></e>
 <e lm="compétiteur" a="webform" r="LR"><i>compétit</i><par n="administrat/eur__n"/></e>
@@ -18170,15 +18157,11 @@
 <!--<e lm="avoir la chair de poule" a="webform"><par n="/avoir__vblex"/><p><l><b/>la<b/>chair<b/>de<b/>poule</l><r><g><b/>la<b/>chair<b/>de<b/>poule</g></r></p></e>-->
 <!--<e lm="bâiller à s'en décrocher la mâchoire" a="webform"><i>bâill</i><par n="abaiss/er__vblex"/><p><l><b/>à<b/>s'en<b/>décrocher<b/>la<b/>mâchoire</l><r><g><b/>à<b/>s'en<b/>décrocher<b/>la<b/>mâchoire</g></r></p></e>-->
 <!--<e lm="battre de l'aile" a="webform"><i>bat</i><par n="abat/tre__vblex"/><p><l><b/>de<b/>l'aile</l><r><g><b/>de<b/>l'aile</g></r></p></e>-->
-<e lm="être bavard comme une pie" a="webform"><par n="/être__vblex"/><p><l><b/>bavard<b/>comme<b/>une<b/>pie</l><r><g><b/>bavard<b/>comme<b/>une<b/>pie</g></r></p></e>
 <!--<e lm="boire comme une éponge" a="webform"><i>b</i><par n="b/oire__vblex"/><p><l><b/>comme<b/>une<b/>éponge</l><r><g><b/>comme<b/>une<b/>éponge</g></r></p></e>-->
 <!--<e lm="branler dans le manche" a="webform"><i>branl</i><par n="abaiss/er__vblex"/><p><l><b/>dans<b/>le<b/>manche</l><r><g><b/>dans<b/>le<b/>manche</g></r></p></e>-->
 <!--<e lm="brouiller les cartes" a="webform"><i>brouill</i><par n="abaiss/er__vblex"/><p><l><b/>les<b/>cartes</l><r><g><b/>les<b/>cartes</g></r></p></e>-->
 <!--<e lm="broyer du noir" a="webform"><i>br</i><par n="env/oyer__vblex"/><p><l><b/>du<b/>noir</l><r><g><b/>du<b/>noir</g></r></p></e>-->
-<e lm="être de la petite bière" a="webform"> <par n="/être__vblex"/><p><l><b/>de<b/>la<b/>petite<b/>bière</l><r><g><b/>de<b/>la<b/>petite<b/>bière</g></r></p></e>
-<e lm="être du gâteau" a="webform"> <par n="/être__vblex"/><p><l><b/>du<b/>gâteau</l><r><g><b/>du<b/>gâteau</g></r></p></e>
-<e lm="être du vent" a="webform"><par n="/être__vblex"/><p><l><b/>du<b/>vent</l><r><g><b/>du<b/>vent</g></r></p></e>
-<e lm="être le bouquet" a="webform"><par n="/être__vblex"/><p><l><b/>le<b/>bouquet</l><r><g><b/>le<b/>bouquet</g></r></p></e>
+
 <!--<e lm="casser sa pipe" a="webform"><i>cass</i><par n="abaiss/er__vblex"/><p><l><b/>sa<b/>pipe</l><r><g><b/>sa<b/>pipe</g></r></p></e>-->
 <!--<e lm="connaître sur le bout des doigts" a="webform"><i>conn</i><par n="appar/aître__vblex"/><p><l><b/>sur<b/>le<b/>bout<b/>des<b/>doigts</l><r><g><b/>sur<b/>le<b/>bout<b/>des<b/>doigts</g></r></p></e>-->
 <!--<e lm="couper l'herbe sous le pied" a="webform"><i>coup</i><par n="abaiss/er__vblex"/><p><l><b/>l'herbe<b/>sous<b/>le<b/>pied</l><r><g><b/>l'herbe<b/>sous<b/>le<b/>pied</g></r></p></e>-->
@@ -18192,16 +18175,9 @@
 <!--<e lm="dormir comme un loir" a="webform"><i>dor</i><par n="dor/mir__vblex"/><p><l><b/>comme<b/>un<b/>loir</l><r><g><b/>comme<b/>un<b/>loir</g></r></p></e>-->
 <!--<e lm="avoir par-dessus la tête" a="webform"><par n="/avoir__vblex"/><p><l><b/>par-dessus<b/>la<b/>tête</l><r><g><b/>par-dessus<b/>la<b/>tête</g></r></p></e>-->
 <e lm="avoir plein le dos" r="LR" a="webform"><par n="/avoir__vblex"/><p><l><b/>plein<b/>le<b/>dos</l><r><g><b/>plein<b/>le<b/>dos</g></r></p></e>
-<e lm="être de mèche avec" a="webform"> <par n="/être__vblex"/><p><l><b/>de<b/>mèche<b/>avec</l><r><g><b/>de<b/>mèche<b/>avec</g></r></p></e>
+
 <e lm="agir de mèche avec" r="LR" a="webform"><p><l>ag</l><r>ag</r></p><par n="about/[]ir__vblex" prm=""/><p><l><b/>de<b/>mèche<b/>avec</l><r><g><b/>de<b/>mèche<b/>avec</g></r></p></e>
-<e lm="être à couteaux tirés" a="webform"><par n="/être__vblex"/><p><l><b/>à<b/>couteaux<b/>tirés</l><r><g><b/>à<b/>couteaux<b/>tirés</g></r></p></e>
-<e lm="être comme le jour et la nuit" a="webform"><par n="/être__vblex"/><p><l><b/>comme<b/>le<b/>jour<b/>et<b/>la<b/>nuit</l><r><g><b/>comme<b/>le<b/>jour<b/>et<b/>la<b/>nuit</g></r></p></e>
-<e lm="être dans la lune" a="webform"><par n="/être__vblex"/><p><l><b/>dans<b/>la<b/>lune</l><r><g><b/>dans<b/>la<b/>lune</g></r></p></e>
-<e lm="être enragé noir" a="webform"> <par n="/être__vblex"/><p><l><b/>enragé<b/>noir</l><r><g><b/>enragé<b/>noir</g></r></p></e>
-<e lm="être sur des charbons ardents" a="webform"><par n="/être__vblex"/><p><l><b/>sur<b/>des<b/>charbons<b/>ardents</l><r><g><b/>sur<b/>des<b/>charbons<b/>ardents</g></r></p></e>
-<e lm="être sur les genoux" a="webform"> <par n="/être__vblex"/><p><l><b/>sur<b/>les<b/>genoux</l><r><g><b/>sur<b/>les<b/>genoux</g></r></p></e>
-<e lm="être tout miel" a="webform"> <par n="/être__vblex"/><p><l><b/>tout<b/>miel</l><r><g><b/>tout<b/>miel</g></r></p></e>
-<e lm="être une bonne fourchette" a="webform"><par n="/être__vblex"/><p><l><b/>une<b/>bonne<b/>fourchette</l><r><g><b/>une<b/>bonne<b/>fourchette</g></r></p></e>
+
 <!--<e lm="faire d'une pierre deux coups" a="webform"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>d'une<b/>pierre<b/>deux<b/>coups</l><r><g><b/>d'une<b/>pierre<b/>deux<b/>coups</g></r></p></e>-->
 <!--<e lm="faire la fine bouche" a="webform"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>la<b/>fine<b/>bouche</l><r><g><b/>la<b/>fine<b/>bouche</g></r></p></e>-->
 <!--<e lm="faire connaître" a="webform"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>connaître</l><r><g><b/>connaître</g></r></p></e>-->
@@ -18211,7 +18187,6 @@
 <!--<e lm="faire mouche" a="webform"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>mouche</l><r><g><b/>mouche</g></r></p></e>-->
 <!--<e lm="faire peau neuve" a="webform"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>peau<b/>neuve</l><r><g><b/>peau<b/>neuve</g></r></p></e>-->
 <!--<e lm="filer à l'anglaise" a="webform"><i>fil</i><par n="abaiss/er__vblex"/><p><l><b/>à<b/>l'anglaise</l><r><g><b/>à<b/>l'anglaise</g></r></p></e>-->
-<e lm="être fort comme un boeuf" a="webform"> <par n="/être__vblex"/><p><l><b/>fort<b/>comme<b/>un<b/>boeuf</l><r><g><b/>fort<b/>comme<b/>un<b/>boeuf</g></r></p></e>
 <!--<e lm="frapper à la mauvaise porte" a="webform"><i>frapp</i><par n="abaiss/er__vblex"/><p><l><b/>à<b/>la<b/>mauvaise<b/>porte</l><r><g><b/>à<b/>la<b/>mauvaise<b/>porte</g></r></p></e>-->
 <!--<e lm="gagner sa croûte" a="webform"><i>gagn</i><par n="abaiss/er__vblex"/><p><l><b/>sa<b/>croûte</l><r><g><b/>sa<b/>croûte</g></r></p></e>-->
 <!--<e lm="gratter les fonds de tiroir" a="webform"><i>gratt</i><par n="abaiss/er__vblex"/><p><l><b/>les<b/>fonds<b/>de<b/>tiroir</l><r><g><b/>les<b/>fonds<b/>de<b/>tiroir</g></r></p></e>-->
@@ -19920,8 +19895,6 @@
 <e lm="assumer" a="webform"><i>assum</i><par n="abaiss/er__vblex"/></e>
 <e lm="divulgation" a="webform"><i>divulgation</i><par n="abeille__n"/></e>
 <e lm="ranimer" a="webform"><i>ranim</i><par n="abaiss/er__vblex"/></e>
-<e r="LR" lm="éclabousser" a="webform"><p><l>Eclabouss</l><r>éclabouss</r></p><par n="abaiss/er__vblex"/></e>
-<e lm="éclabousser" a="webform"><i>éclabouss</i><par n="abaiss/er__vblex"/></e>
 <e r="LR" lm="élaborer" a="webform"><p><l>Elabor</l><r>élabor</r></p><par n="abaiss/er__vblex"/></e>
 <e lm="élaborer" a="webform"><i>élabor</i><par n="abaiss/er__vblex"/></e>
 <e lm="convulsion" a="webform"><i>convulsion</i><par n="abeille__n"/></e>
@@ -20748,14 +20721,6 @@
   <par n="abeille__n"/>
 </e>
 
-<e lm="rendre violacé" a="eleka">
-  <i>rend</i>
-  <par n="attend/re__vblex"/>
-  <p>
-    <l><b/>violacé</l>
-    <r><g><b/>violacé</g></r>
-  </p>
-</e>
 <e lm="Amore" a="eleka">
   <i>Amore</i>
   <par n="Nom__np"/>
@@ -21479,15 +21444,6 @@
     <r><g><b/>la<b/>préférence</g></r>
   </p>
 </e>-->
-<e lm="donner la priorité à" a="eleka">
-  <i>donn</i>
-  <par n="abaiss/er__vblex"/>
-  <p>
-    <l><b/>la<b/>priorité<b/>à</l>
-    <r><g><b/>la<b/>priorité<b/>à</g></r>
-  </p>
-</e>
-
 <e lm="avant-projet" a="eleka">
   <i>avant-projet</i>
   <par n="livre__n"/>
@@ -22086,10 +22042,6 @@
     <l><b/><a/>de</l>
     <r><g><b/>de</g></r>
   </p>
-</e>
-<e lm="étayer" a="eleka">
-  <i>éta</i>
-  <par n="bala/yer__vblex"/>
 </e>
 <e lm="poignarder" a="eleka" r="RL">
   <i>poignard</i>
@@ -23293,14 +23245,6 @@
 <e lm="El Mundo del País Vasco" a="eleka">
   <i>El<b/>Mundo<b/>del<b/>País<b/>Vasco</i>
   <par n="Autre__np"/>
-</e>
-
-<e lm="être le dos au mur" a="eleka">
-<par n="/être__vblex"/>
-<p>
-<l><b/>le<b/>dos<b/>au<b/>mur</l>
-<r><g><b/>le<b/>dos<b/>au<b/>mur</g></r>
-</p>
 </e>
 
 <e lm="El Mundo" a="eleka">
@@ -31010,10 +30954,7 @@
   <i>accumulable</i>
   <par n="académique__adj"/>
 </e>
-<e lm="élucider" a="eleka">
-  <i>élucid</i>
-  <par n="abaiss/er__vblex"/>
-</e>
+
 <e lm="dénier" a="eleka">
   <i>déni</i>
   <par n="abaiss/er__vblex"/>
@@ -33071,10 +33012,6 @@
   <i>évolu</i>
   <par n="abaiss/er__vblex"/>
 </e>
-<e lm="épurer" a="eleka">
-  <i>épur</i>
-  <par n="abaiss/er__vblex"/>
-</e>
 <e lm="discréditer" a="eleka">
   <i>discrédit</i>
   <par n="abaiss/er__vblex"/>
@@ -33401,14 +33338,6 @@
   <p>
     <l><b/>à<b/>vue</l>
     <r><g><b/>à<b/>vue</g></r>
-  </p>
-</e>
-<e lm="épuiser le délai" a="eleka">
-  <i>épuis</i>
-  <par n="abaiss/er__vblex"/>
-  <p>
-    <l><b/>le<b/>délai</l>
-    <r><g><b/>le<b/>délai</g></r>
   </p>
 </e>
 <e lm="mettre à jour" a="eleka">
@@ -33918,14 +33847,7 @@
     <r><g><b/>sur</g></r>
   </p>
 </e>
-<e lm="faire de la publicité" a="eleka">
-  <i>f</i>
-  <par n="déf/aire__vblex"/>
-  <p>
-    <l><b/>de<b/>la<b/>publicité</l>
-    <r><g><b/>de<b/>la<b/>publicité</g></r>
-  </p>
-</e>
+
 <e lm="examiner à part" a="eleka">
   <i>examin</i>
   <par n="abaiss/er__vblex"/>
@@ -34470,14 +34392,7 @@
   <i>tentative</i>
   <par n="abeille__n"/>
 </e>
-<e lm="être myope comme une taupe" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-<p>
-    <l><b/>myope<b/>comme<b/>une<b/>taupe</l>
-    <r><g><b/>myope<b/>comme<b/>une<b/>taupe</g></r>
-  </p>
-</e>
+
 <e lm="tomber sur" a="eleka">
   <i>tomb</i>
   <par n="abaiss/er__vblex"/>
@@ -35431,14 +35346,6 @@
     <r><g><b/>à<b/>terme<b/>fixe</g></r>
   </p>
 </e>
-<e lm="approuver à l'unanimité" a="eleka">
-  <i>approuv</i>
-  <par n="abaiss/er__vblex"/>
-<p>
-    <l><b/>à<b/>l'unanimité</l>
-    <r><g><b/>à<b/>l'unanimité</g></r>
-  </p>
-</e>
 <!--<e lm="effacer ce qui ne convient pas" a="eleka">
   <i>effa</i>
   <par n="annon/cer__vblex"/>
@@ -35703,14 +35610,7 @@
     <r><g><b/>soi-même</g></r>
   </p>
 </e>-->
-<e lm="être du même poids" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-<p>
-    <l><b/>du<b/>même<b/>poids</l>
-    <r><g><b/>du<b/>même<b/>poids</g></r>
-  </p>
-</e>
+
 <!--<e lm="faire un tour" a="eleka">
   <i>f</i>
   <par n="déf/aire__vblex"/>
@@ -35743,14 +35643,6 @@
     <r><g><b/>des<b/>pronostics</g></r>
   </p>
 </e>-->
-<e lm="être le cournonement" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-<p>
-    <l><b/>le<b/>couronement</l>
-    <r><g><b/>le<b/>couronement</g></r>
-  </p>
-</e>
 <!--<e lm="retirer de l'argent" a="eleka">
   <i>retir</i>
   <par n="abaiss/er__vblex"/>
@@ -35800,14 +35692,7 @@
     <r><g><b/>de<b/>durabilité</g></r>
   </p>
 </e>
-<e lm="être valide" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-<p>
-    <l><b/>valide</l>
-    <r><g><b/>valide</g></r>
-  </p>
-</e>
+
 <!--<e lm="avoir à sa charge" a="eleka">
   <i></i>
   <par n="/avoir__vblex"/>
@@ -35840,14 +35725,6 @@
     <r><g><b/>un<b/>compte</g></r>
   </p>
 </e>-->
-<e lm="dire au revoir à" a="eleka">
-  <i>d</i>
-  <par n="d/i[]re__vblex" prm=""/>
-<p>
-    <l><b/>au<b/>revoir<b/>à</l>
-    <r><g><b/>au<b/>revoir<b/>à</g></r>
-  </p>
-</e>
 <e lm="dire au revoir" a="eleka">
   <i>d</i>
   <par n="d/i[]re__vblex" prm=""/>
@@ -37856,14 +37733,7 @@
   <i>incarcération</i>
   <par n="abeille__n"/>
 </e>
-<e lm="être soumis" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-  <p>
-    <l><b/>soumis</l>
-    <r><g><b/>soumis</g></r>
-  </p>
-</e>
+
 <!--<e lm="aller en prison" a="eleka">
   <i></i>
   <par n="/aller__vblex"/>
@@ -38132,22 +38002,6 @@
     <r><g><b/>de<b/>vente<b/>agréé</g></r>
   </p>
 </e>
-<e lm="être sans validité" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-<p>
-    <l><b/>sans<b/>validité</l>
-    <r><g><b/>sans<b/>validité</g></r>
-  </p>
-</e>
-<e lm="demeurer enregistré" a="eleka">
-  <i>demeur</i>
-  <par n="abaiss/er__vblex"/>
-<p>
-    <l><b/>enregistré</l>
-    <r><g><b/>enregistré</g></r>
-  </p>
-</e>
 <e lm="faire faillite" a="eleka">
   <i>f</i>
   <par n="déf/aire__vblex"/>
@@ -38172,14 +38026,7 @@
     <r><g><b/>la<b/>carte</g></r>
   </p>
 </e>-->
-<e lm="être conforme" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-<p>
-    <l><b/>conforme</l>
-    <r><g><b/>conforme</g></r>
-  </p>
-</e>
+
 <!--<e lm="souscrire à des actions" a="eleka">
   <i>souscri</i>
   <par n="décri/re__vblex"/>
@@ -38226,22 +38073,6 @@
 <p>
     <l><b/>de<b/>vente<b/>agréé</l>
     <r><g><b/>de<b/>vente<b/>agréé</g></r>
-  </p>
-</e>
-<e lm="être sans validité" a="eleka">
-  <i></i>
-  <par n="/être__vblex"/>
-<p>
-    <l><b/>sans<b/>validité</l>
-    <r><g><b/>sans<b/>validité</g></r>
-  </p>
-</e>
-<e lm="demeurer enregistré" a="eleka">
-  <i>demeur</i>
-  <par n="abaiss/er__vblex"/>
-<p>
-    <l><b/>enregistré</l>
-    <r><g><b/>enregistré</g></r>
   </p>
 </e>
 <e lm="faire faillite" a="eleka">
@@ -38307,10 +38138,6 @@
 <e lm="gaulois" a="eleka" r="LR">
   <i>gaulois</i>
   <par n="admis__n"/>
-</e>
-<e lm="énumérer" a="eleka">
-  <i>énum</i>
-  <par n="accél/é[R]er__vblex" prm="r"/>
 </e>
 <e lm="Batura Mobile Solutions" a="eleka">
   <i>Batura<b/>Mobile<b/>Solutions</i>
@@ -44225,7 +44052,6 @@
 <e lm="concourir" a="eleka"><i>concour</i><par n="accour/ir__vblex"/></e>
 <e lm="configurer" a="eleka"><i>configur</i><par n="abaiss/er__vblex"/></e>
 <e lm="désavouer" a="eleka"><i>désavou</i><par n="abaiss/er__vblex"/></e>
-<e lm="écrouler" a="eleka"><i>écroul</i><par n="abaiss/er__vblex"/></e>
 <e lm="dialoguer" a="eleka"><i>dialogu</i><par n="abaiss/er__vblex"/></e>
 <e lm="divulguer" a="eleka"><i>divulgu</i><par n="abaiss/er__vblex"/></e>
 <e lm="repérer" a="eleka"><i>rep</i><par n="accél/é[R]er__vblex" prm="r"/></e>
@@ -44348,7 +44174,6 @@
 <e lm="percer" a="eleka"><i>per</i><par n="annon/cer__vblex"/></e>
 <e lm="fumer" a="eleka"><i>fum</i><par n="abaiss/er__vblex"/></e>
 <e lm="chasser" a="eleka"><i>chass</i><par n="abaiss/er__vblex"/></e>
-<e lm="éreinter" a="eleka"><i>éreint</i><par n="abaiss/er__vblex"/></e>
 <e lm="ajuster" a="eleka"><i>ajust</i><par n="abaiss/er__vblex"/></e>
 <e lm="exécuter" a="eleka"><i>exécut</i><par n="abaiss/er__vblex"/></e>
 <e lm="vanter" a="eleka"><i>vant</i><par n="abaiss/er__vblex"/></e>
@@ -46900,9 +46725,7 @@
 <e lm="différentier"><i>différenti</i><par n="abaiss/er__vblex"/></e>
 <e lm="digérer"><i>dig</i><par n="accél/é[R]er__vblex" prm="r"/></e>
 <e lm="discerner"><i>discern</i><par n="abaiss/er__vblex"/></e>
-<e lm="ébattre"><i>ébat</i><par n="abat/tre__vblex"/></e>
 <e lm="emmortaiser"><i>emmortais</i><par n="abaiss/er__vblex"/></e>
-<e lm="épiler"><i>épil</i><par n="abaiss/er__vblex"/></e>
 <e lm="estamper"><i>estamp</i><par n="abaiss/er__vblex"/></e>
 <e lm="exhumer"><i>exhum</i><par n="abaiss/er__vblex"/></e>
 <e lm="flairer"><i>flair</i><par n="abaiss/er__vblex"/></e>
@@ -47517,7 +47340,219 @@
 
   </section>
 
+<!--@@@-->
   <!--<section id="pending" type="standard">
+
+<e lm="énumérer" a="eleka">
+  <i>énum</i>
+  <par n="accél/é[R]er__vblex" prm="r"/>
+</e>
+<e lm="écrouler" a="eleka"><i>écroul</i><par n="abaiss/er__vblex"/></e>
+<e lm="éreinter" a="eleka"><i>éreint</i><par n="abaiss/er__vblex"/></e>
+<e lm="ébattre"><i>ébat</i><par n="abat/tre__vblex"/></e>
+<e lm="épiler"><i>épil</i><par n="abaiss/er__vblex"/></e>
+<e lm="faire de la publicité" a="eleka">
+  <i>f</i>
+  <par n="déf/aire__vblex"/>
+  <p>
+    <l><b/>de<b/>la<b/>publicité</l>
+    <r><g><b/>de<b/>la<b/>publicité</g></r>
+  </p>
+</e>
+
+<e lm="approuver à l'unanimité" a="eleka">
+  <i>approuv</i>
+  <par n="abaiss/er__vblex"/>
+<p>
+    <l><b/>à<b/>l'unanimité</l>
+    <r><g><b/>à<b/>l'unanimité</g></r>
+  </p>
+</e>
+
+<e lm="être le cournonement" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+<p>
+    <l><b/>le<b/>couronement</l>
+    <r><g><b/>le<b/>couronement</g></r>
+  </p>
+</e>
+
+<e lm="dire au revoir à" a="eleka">
+  <i>d</i>
+  <par n="d/i[]re__vblex" prm=""/>
+<p>
+    <l><b/>au<b/>revoir<b/>à</l>
+    <r><g><b/>au<b/>revoir<b/>à</g></r>
+  </p>
+</e>
+
+<e lm="demeurer enregistré" a="eleka">
+  <i>demeur</i>
+  <par n="abaiss/er__vblex"/>
+<p>
+    <l><b/>enregistré</l>
+    <r><g><b/>enregistré</g></r>
+  </p>
+</e>
+
+<e lm="demeurer enregistré" a="eleka">
+  <i>demeur</i>
+  <par n="abaiss/er__vblex"/>
+<p>
+    <l><b/>enregistré</l>
+    <r><g><b/>enregistré</g></r>
+  </p>
+</e>
+
+<e r="LR" lm="éclabousser" a="webform"><p><l>Eclabouss</l><r>éclabouss</r></p><par n="abaiss/er__vblex"/></e>
+<e lm="éclabousser" a="webform"><i>éclabouss</i><par n="abaiss/er__vblex"/></e>
+<e lm="rendre violacé" a="eleka">
+  <i>rend</i>
+  <par n="attend/re__vblex"/>
+  <p>
+    <l><b/>violacé</l>
+    <r><g><b/>violacé</g></r>
+  </p>
+</e>
+
+<e lm="donner la priorité à" a="eleka">
+  <i>donn</i>
+  <par n="abaiss/er__vblex"/>
+  <p>
+    <l><b/>la<b/>priorité<b/>à</l>
+    <r><g><b/>la<b/>priorité<b/>à</g></r>
+  </p>
+</e>
+
+
+<e lm="étayer" a="eleka">
+  <i>éta</i>
+  <par n="bala/yer__vblex"/>
+</e>
+
+<e lm="élucider" a="eleka">
+  <i>élucid</i>
+  <par n="abaiss/er__vblex"/>
+</e>
+
+<e lm="épurer" a="eleka">
+  <i>épur</i>
+  <par n="abaiss/er__vblex"/>
+</e>
+
+<e lm="épuiser le délai" a="eleka">
+  <i>épuis</i>
+  <par n="abaiss/er__vblex"/>
+  <p>
+    <l><b/>le<b/>délai</l>
+    <r><g><b/>le<b/>délai</g></r>
+  </p>
+</e>
+
+<e lm="être myope comme une taupe" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+<p>
+    <l><b/>myope<b/>comme<b/>une<b/>taupe</l>
+    <r><g><b/>myope<b/>comme<b/>une<b/>taupe</g></r>
+  </p>
+</e>
+<e lm="être du même poids" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+<p>
+    <l><b/>du<b/>même<b/>poids</l>
+    <r><g><b/>du<b/>même<b/>poids</g></r>
+  </p>
+</e>
+
+
+<e lm="être valide" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+<p>
+    <l><b/>valide</l>
+    <r><g><b/>valide</g></r>
+  </p>
+</e>
+
+<e lm="être soumis" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+  <p>
+    <l><b/>soumis</l>
+    <r><g><b/>soumis</g></r>
+  </p>
+</e>
+
+<e lm="être sans validité" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+<p>
+    <l><b/>sans<b/>validité</l>
+    <r><g><b/>sans<b/>validité</g></r>
+  </p>
+</e>
+
+<e lm="être conforme" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+<p>
+    <l><b/>conforme</l>
+    <r><g><b/>conforme</g></r>
+  </p>
+</e>
+
+<e lm="être sans validité" a="eleka">
+  <i></i>
+  <par n="/être__vblex"/>
+<p>
+    <l><b/>sans<b/>validité</l>
+    <r><g><b/>sans<b/>validité</g></r>
+  </p>
+</e>
+
+<e lm="être fort comme un boeuf" a="webform"> <par n="/être__vblex"/><p><l><b/>fort<b/>comme<b/>un<b/>boeuf</l><r><g><b/>fort<b/>comme<b/>un<b/>boeuf</g></r></p></e>
+<e lm="être le dos au mur" a="eleka">
+<par n="/être__vblex"/>
+<p>
+<l><b/>le<b/>dos<b/>au<b/>mur</l>
+<r><g><b/>le<b/>dos<b/>au<b/>mur</g></r>
+</p>
+</e>
+
+
+<e lm="être bavard comme une pie" a="webform"><par n="/être__vblex"/><p><l><b/>bavard<b/>comme<b/>une<b/>pie</l><r><g><b/>bavard<b/>comme<b/>une<b/>pie</g></r></p></e>
+<e lm="être de la petite bière" a="webform"> <par n="/être__vblex"/><p><l><b/>de<b/>la<b/>petite<b/>bière</l><r><g><b/>de<b/>la<b/>petite<b/>bière</g></r></p></e>
+<e lm="être du gâteau" a="webform"> <par n="/être__vblex"/><p><l><b/>du<b/>gâteau</l><r><g><b/>du<b/>gâteau</g></r></p></e>
+<e lm="être du vent" a="webform"><par n="/être__vblex"/><p><l><b/>du<b/>vent</l><r><g><b/>du<b/>vent</g></r></p></e>
+<e lm="être le bouquet" a="webform"><par n="/être__vblex"/><p><l><b/>le<b/>bouquet</l><r><g><b/>le<b/>bouquet</g></r></p></e>
+<e lm="être de mèche avec" a="webform"> <par n="/être__vblex"/><p><l><b/>de<b/>mèche<b/>avec</l><r><g><b/>de<b/>mèche<b/>avec</g></r></p></e>
+<e lm="être à couteaux tirés" a="webform"><par n="/être__vblex"/><p><l><b/>à<b/>couteaux<b/>tirés</l><r><g><b/>à<b/>couteaux<b/>tirés</g></r></p></e>
+<e lm="être comme le jour et la nuit" a="webform"><par n="/être__vblex"/><p><l><b/>comme<b/>le<b/>jour<b/>et<b/>la<b/>nuit</l><r><g><b/>comme<b/>le<b/>jour<b/>et<b/>la<b/>nuit</g></r></p></e>
+
+
+<e lm="être dans la lune" a="webform"><par n="/être__vblex"/><p><l><b/>dans<b/>la<b/>lune</l><r><g><b/>dans<b/>la<b/>lune</g></r></p></e>
+<e lm="être enlise" a="webform"><par n="/être__vblex"/><p><l><b/>enlise</l><r><g><b/>enlise</g></r></p></e>
+<e lm="être enragé noir" a="webform"> <par n="/être__vblex"/><p><l><b/>enragé<b/>noir</l><r><g><b/>enragé<b/>noir</g></r></p></e>
+<e lm="être sur des charbons ardents" a="webform"><par n="/être__vblex"/><p><l><b/>sur<b/>des<b/>charbons<b/>ardents</l><r><g><b/>sur<b/>des<b/>charbons<b/>ardents</g></r></p></e>
+<e lm="être sur les genoux" a="webform"> <par n="/être__vblex"/><p><l><b/>sur<b/>les<b/>genoux</l><r><g><b/>sur<b/>les<b/>genoux</g></r></p></e>
+<e lm="être tout miel" a="webform"> <par n="/être__vblex"/><p><l><b/>tout<b/>miel</l><r><g><b/>tout<b/>miel</g></r></p></e>
+<e lm="être une bonne fourchette" a="webform"><par n="/être__vblex"/><p><l><b/>une<b/>bonne<b/>fourchette</l><r><g><b/>une<b/>bonne<b/>fourchette</g></r></p></e>
+
+          <e r="LR" lm="étreindre"><p><l>Etrei</l><r>étrei</r></p><par n="cei/ndre__vblex"/></e>
+          <e lm="étreindre"><i>étrei</i><par n="cei/ndre__vblex"/></e>
+          <e r="LR" lm="éblouir"><p><l>Eblou</l><r>éblou</r></p><par n="about/[]ir__vblex" prm=""/></e>
+          <e lm="éblouir"><i>éblou</i><par n="about/[]ir__vblex" prm=""/></e>
+          <e r="LR" lm="écharper"><p><l>Echarp</l><r>écharp</r></p><par n="abaiss/er__vblex"/></e>
+          <e lm="écharper"><i>écharp</i><par n="abaiss/er__vblex"/></e>
+          <e r="LR" lm="épier"><p><l>Epi</l><r>épi</r></p><par n="abaiss/er__vblex"/></e>
+          <e lm="épier"><i>épi</i><par n="abaiss/er__vblex"/></e>
+          <e r="LR" lm="ériger"><p><l>Erig</l><r>érig</r></p><par n="allong/er__vblex"/></e>
+          <e lm="ériger"><i>érig</i><par n="allong/er__vblex"/></e>
+          <e r="LR" lm="étourdir"><p><l>Etourd</l><r>étourd</r></p><par n="about/[]ir__vblex" prm=""/></e>
+          <e lm="étourdir"><i>étourd</i><par n="about/[]ir__vblex" prm=""/></e>
 
                         <e lm="à partir du moment où"><i>à<b/>partir<b/>du<b/>moment<b/>où</i><par n="afin_que__cnjadv"/></e>
 <e lm="comme au temps où" a="webform"><i>comme<b/>au<b/>temps<b/>où</i><par n="afin_que__cnjadv"/></e>
