@@ -45972,7 +45972,6 @@
 <!--<e lm="fig"><i>fig</i><par n="mois__n"/></e>--> <!-- figure -->
 <!--<e lm="fr"><i>fr</i><par n="mois__n"/></e>--> <!-- français -->
 <!--<e lm="no"><i>no</i><par n="mois__n"/></e>-->    <!-- numéro -->
-<e lm="n°"><i>n°</i><par n="mois__n"/></e> <!-- numéro -->
 <!--<e lm="tab"><i>tab</i><par n="mois__n"/></e--> <!-- table -->
 
 <e lm="adéquat"><i>adéquat</i><par n="pèlerin__adj"/></e>
@@ -46213,6 +46212,7 @@
 <!--@@@-->
   <!--<section id="pending" type="standard">
 
+<e lm="n°"><i>n°</i><par n="mois__n"/></e> <!-- numéro -->
 <e lm="Israël" a="eleka">
   <i>Israël</i>
   <par n="Lieu__np"/>
