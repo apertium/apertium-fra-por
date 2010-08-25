@@ -19832,7 +19832,6 @@
 <e lm="biodiversité" a="webform"><i>biodiversité</i><par n="abeille__n"/></e>
 <e lm="assigner" a="webform"><i>assign</i><par n="abaiss/er__vblex"/></e>
 <e lm="en raison de" a="webform"><i>en<b/>raison<b/></i><par n="contde__pr"/></e>
-<e lm="comme au temps où" a="webform"><i>comme<b/>au<b/>temps<b/>où</i><par n="afin_que__cnjadv"/></e>
 <e lm="bien au-delà" a="webform"><i>bien<b/>au-delà</i><par n="hier__adv"/></e>
 <e lm="au dire de" a="webform" r="LR"><i>au<b/>dire<b/></i><par n="contde__pr"/></e>
 <e lm="à succès" a="webform"><i>à<b/>succès</i><par n="arrière__adj"/></e>
@@ -19999,7 +19998,6 @@
 <e lm="retrait" a="webform"><i>retrait</i><par n="livre__n"/></e>
 <!--<e lm="montrer du doigt" a="webform"><i>montr</i><par n="abaiss/er__vblex"/><p><l><b/>du<b/>doigt</l><r><g><b/>du<b/>doigt</g></r></p></e>-->
 <e lm="coordination" a="webform"><i>coordination</i><par n="abeille__n"/></e>
-<e lm="d'un côté" a="webform"><i>d'un<b/>côté</i><par n="afin_que__cnjadv"/></e>
 <e lm="sur la rêquete de" a="webform"><i>sur<b/>la<b/>rêquete<b/></i><par n="contde__pr"/></e>
 <e lm="au milieu de" a="webform"><i>au<b/>milieu<b/></i><par n="contde__pr"/></e>
 <!--<e lm="tourner une page" a="webform"><i>tourn</i><par n="abaiss/er__vblex"/><p><l><b/>une<b/>page</l><r><g><b/>une<b/>page</g></r></p></e>-->
@@ -31064,10 +31062,6 @@
   <i>et<b/>cetera</i>
   <par n="afin_que__cnjadv"/>
 </e>
-<e lm="à part cela" a="eleka">
-  <i>à<b/>part<b/>cela</i>
-  <par n="afin_que__cnjadv"/>
-</e>
 <e lm="et caetera" a="eleka">
   <i>et<b/>caetera</i>
   <par n="afin_que__cnjadv"/>
@@ -41155,10 +41149,7 @@
   <i>chaque<b/>fois</i>
   <par n="afin_que__cnjadv"/>
 </e>
-<e lm="à ras" a="eleka">
-  <i>à<b/>ras</i>
-  <par n="afin_que__cnjadv"/>
-</e>
+
 <e lm="de pire en pire" a="eleka">
   <i>de<b/>pire<b/>en<b/>pire</i>
   <par n="afin_que__cnjadv"/>
@@ -41183,10 +41174,7 @@
   <i>de<b/>moins<b/>en<b/>moins</i>
   <par n="afin_que__cnjadv"/>
 </e>
-<e lm="à présenter où il faut" a="eleka">
-  <i>à<b/>présenter<b/>où<b/>il<b/>faut</i>
-  <par n="afin_que__cnjadv"/>
-</e>
+
 <e lm="pour plus d'informations" a="eleka">
   <i>pour<b/>plus<b/>d'informations</i>
   <par n="afin_que__cnjadv"/>
@@ -45834,13 +45822,11 @@
                         <e lm="à l'avance"><i>à<b/>l'avance</i><par n="hier__adv"/></e>
                         <e lm="à l'époque de"><i>à<b/>l'époque<b/></i><par n="contde__pr"/></e>
                         <e lm="à l'époque"><i>à<b/>l'époque</i><par n="hier__adv"/></e>
-                        <e lm="à l'époque où"><i>à<b/>l'époque<b/>où</i><par n="afin_que__cnjadv"/></e>
             <e lm="à moins de"><i>à<b/>moins<b/></i><par n="contde__pr"/></e>
                         <e lm="à moins"><i>à<b/>moins</i><par n="hier__adv"/></e>
                         <e lm="à mon époque"><i>à<b/>mon<b/>époque</i><par n="hier__adv"/></e>
                         <e lm="à n'importe quel endroit"><i>à<b/>n'importe<b/>quel<b/>endroit</i><par n="hier__adv"/></e>
                         <e lm="à n'importe quel"><i>à<b/>n'importe<b/>quel</i><par n="hier__adv"/></e>
-                        <e lm="à partir du moment où"><i>à<b/>partir<b/>du<b/>moment<b/>où</i><par n="afin_que__cnjadv"/></e>
                         <e lm="à plein temps"><i>à<b/>plein<b/>temps</i><par n="hier__adv"/></e>
                         <e lm="à point nommé"><i>à<b/>point<b/>nommé</i><par n="hier__adv"/></e>
                         <e lm="à présent"><i>à<b/>présent</i><par n="hier__adv"/></e>
@@ -45863,11 +45849,9 @@
                         <e lm="au moins"><i>au<b/>moins</i><par n="afin_que__cnjadv"/></e>
                         <e lm="au moment approprié"><i>au<b/>moment<b/>approprié</i><par n="hier__adv"/></e>
                         <e lm="au moment de"><i>au<b/>moment<b/></i><par n="contde__pr"/></e>
-                        <e lm="au moment où"><i>au<b/>moment<b/>où</i><par n="afin_que__cnjadv"/></e>
                         <e lm="à une époque lontaine"><i>à<b/>une<b/>époque<b/>lontaine</i><par n="hier__adv"/></e>
                         <e lm="à une moindre échelle"><i>à<b/>une<b/>moindre<b/>échelle</i><par n="hier__adv"/></e>
                         <e lm="au temps de"><i>au<b/>temps<b/></i><par n="contde__pr"/></e>
-                        <e lm="au temps où"><i>au<b/>temps<b/>où</i><par n="afin_que__cnjadv"/></e>
                         <e lm="bientôt après"><i>bientôt<b/>après</i><par n="hier__adv"/></e>
                         <e lm="bon gré mal gré"><i>bon<b/>gré<b/>mal<b/>gré</i><par n="hier__adv"/></e>
             <e lm="comme si"><i>comme<b/>si</i><par n="afin_que__cnjadv"/></e>
@@ -45880,14 +45864,11 @@
                         <e lm="d'avance"><i>d'avance</i><par n="hier__adv"/></e>
                         <e lm="de force"><i>de<b/>force</i><par n="hier__adv"/></e>
                         <e lm="de gré à gré"><i>de<b/>gré<b/>à<b/>gré</i><par n="hier__adv"/></e>
-                        <e lm="de là"><i>de<b/>là</i><par n="afin_que__cnjadv"/></e>
-                        <e lm="dès l'instant où"><i>dès<b/>l'instant<b/>où</i><par n="afin_que__cnjadv"/></e>
                         <e lm="de son plein gré"><i>de<b/>son<b/>plein<b/>gré</i><par n="hier__adv"/></e>
                         <e lm="de temps en temps"><i>de<b/>temps<b/>en<b/>temps</i><par n="afin_que__cnjadv"/></e>
                         <e lm="de toute façon"><i>de<b/>toute<b/>façon</i><par n="afin_que__cnjadv"/></e>
                         <e lm="du coup"><i>du<b/>coup</i><par n="afin_que__cnjadv"/></e>
                         <e lm="du fait de"><i>du<b/>fait<b/></i><par n="contde__pr"/></e>
-                        <e lm="du moment où"><i>du<b/>moment<b/>où</i><par n="afin_que__cnjadv"/></e>
                         <e lm="du point de vue de"><i>du<b/>point<b/>de<b/>vue<b/></i><par n="contde__pr"/></e>
                         <e lm="en ce temps-là"><i>en<b/>ce<b/>temps-là</i><par n="hier__adv"/></e>
                         <e lm="en cours de"><i>en<b/>cours<b/></i><par n="contde__pr"/></e>
@@ -45902,7 +45883,6 @@
                         <!--<e lm="long à"><i>long<b/></i><par n="conta__pr"/></e>
                         <e lm="long de"><i>long<b/></i><par n="contde__pr"/></e>-->
                         <e lm="par cas"><i>par<b/>cas</i><par n="hier__adv"/></e>
-                        <e lm="par le cas où"><i>par<b/>le<b/>cas<b/>où</i><par n="afin_que__cnjadv"/></e>
                         <e lm="par suite de"><i>par<b/>suite<b/></i><par n="contde__pr"/></e>
                         <e lm="pour cause de"><i>pour<b/>cause<b/></i><par n="contde__pr"/></e>
                         <e lm="pour le moment"><i>pour<b/>le<b/>moment</i><par n="hier__adv"/></e>
@@ -47538,6 +47518,20 @@
   </section>
 
   <!--<section id="pending" type="standard">
+
+                        <e lm="à partir du moment où"><i>à<b/>partir<b/>du<b/>moment<b/>où</i><par n="afin_que__cnjadv"/></e>
+<e lm="comme au temps où" a="webform"><i>comme<b/>au<b/>temps<b/>où</i><par n="afin_que__cnjadv"/></e>
+<e lm="d'un côté" a="webform"><i>d'un<b/>côté</i><par n="afin_que__cnjadv"/></e>
+<e lm="à part cela" a="eleka"><i>à<b/>part<b/>cela</i><par n="afin_que__cnjadv"/></e>
+<e lm="à ras" a="eleka"><i>à<b/>ras</i><par n="afin_que__cnjadv"/></e>
+<e lm="à présenter où il faut" a="eleka"><i>à<b/>présenter<b/>où<b/>il<b/>faut</i><par n="afin_que__cnjadv"/></e>
+                        <e lm="à l'époque où"><i>à<b/>l'époque<b/>où</i><par n="afin_que__cnjadv"/></e>
+                        <e lm="au moment où"><i>au<b/>moment<b/>où</i><par n="afin_que__cnjadv"/></e>
+                        <e lm="au temps où"><i>au<b/>temps<b/>où</i><par n="afin_que__cnjadv"/></e>
+                        <e lm="de là"><i>de<b/>là</i><par n="afin_que__cnjadv"/></e>
+                        <e lm="dès l'instant où"><i>dès<b/>l'instant<b/>où</i><par n="afin_que__cnjadv"/></e>
+                        <e lm="du moment où"><i>du<b/>moment<b/>où</i><par n="afin_que__cnjadv"/></e>
+                        <e lm="par le cas où"><i>par<b/>le<b/>cas<b/>où</i><par n="afin_que__cnjadv"/></e>
 
           <e lm="Adrià"><i>Adrià</i><par n="Nom__np"/></e>
           <e lm="Agulló"><i>Agulló</i><par n="Nom__np"/></e>
