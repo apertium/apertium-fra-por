@@ -3895,6 +3895,36 @@
           </let>
         </otherwise>
       </choose>
+            <choose>
+              <when>
+                <test>
+                  <equal caseless="yes">
+                    <clip pos="1" side="tl" part="lem"/>
+                    <lit v="être"/>
+                  </equal>
+                </test>
+                <let>
+                  <var n="gen_pp"/>
+                  <lit-tag v="mf"/>
+                </let>
+                <let>
+                  <var n="nbr_pp"/>
+                  <lit-tag v="sp"/>
+                </let>
+              </when>
+              <otherwise>
+                <let>
+                  <var n="gen_pp"/>
+                  <lit-tag v="m"/>
+                </let>
+                <let>
+                  <var n="nbr_pp"/>
+                  <lit-tag v="sg"/>
+                </let>
+              </otherwise>
+            </choose>
+
+
     </def-macro>
     <def-macro n="vauxiliar_pro" npar="3">
       <choose>
