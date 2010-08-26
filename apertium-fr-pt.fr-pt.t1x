@@ -1128,6 +1128,31 @@
 	  </let>
 	</otherwise>
       </choose>
+      <choose>
+	<when>
+	  <test>
+            <and>
+    	    <equal caseless="yes">
+    	      <clip pos="2" side="tl" part="lem"/>
+    	      <lit v="ser"/>
+    	    </equal>
+    	    <equal>
+    	      <clip pos="2" side="tl" part="temps"/>
+    	      <lit-tag v="pp"/>
+    	    </equal>
+            </and>
+	  </test>
+	  <let>
+	    <clip pos="2" side="tl" part="gen"/>
+	    <lit-tag v="mf"/>
+	  </let>
+	  <let>
+	    <clip pos="2" side="tl" part="nbr"/>
+	    <lit-tag v="sp"/>
+	  </let>
+        </when>
+      </choose>
+
     </def-macro>
 
     <def-macro n="comprova_auxiliar_ref" npar="3"> <!--aquesta macro troba l'aux correcte en cast tenint en compte que si el verb és ref i porta l'aux "être" en cast ha de ser "ter". de passada, mira també si cal canviar el lema del verb (com la macro "verb_ref")-->
