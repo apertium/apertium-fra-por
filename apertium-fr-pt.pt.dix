@@ -101684,10 +101684,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="avulsamente" r="LR">
-        <i>avulsamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="azaradamente">
         <i>azaradamente</i>
@@ -101724,10 +101720,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="brandamente" r="LR">
-        <i>brandamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="brilhantemente">
         <i>brilhantemente</i>
@@ -101869,15 +101861,7 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="corriqueiramente" r="LR">
-        <i>corriqueiramente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
-      <e lm="criminalmente" r="LR">
-        <i>criminalmente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="cuidadosamente">
         <i>cuidadosamente</i>
@@ -102034,15 +102018,7 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="doentemente" r="LR">
-        <i>doentemente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
-      <e lm="doidamente" r="LR">
-        <i>doidamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="doravante">
         <i>doravante</i>
@@ -102060,10 +102036,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="educacionalmente" r="LR">
-        <i>educacionalmente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="efectivamente" v="pt">
         <i>efectivamente</i>
@@ -102084,52 +102056,12 @@
         <i>em<b/>curto<b/>prazo</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="em forte descida" r="LR">
-        <i>em<b/>forte<b/>descida</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="em forte elevação" r="LR">
-        <i>em<b/>forte<b/>elevação</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="em forte queda" r="LR">
-        <i>em<b/>forte<b/>queda</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="em forte subida" r="LR">
-        <i>em<b/>forte<b/>subida</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="em frente">
         <i>em<b/>frente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="em ligeira descida" r="LR">
-        <i>em<b/>ligeira<b/>descida</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="em ligeira elevação" r="LR">
-        <i>em<b/>ligeira<b/>elevação</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="em ligeira queda" r="LR">
-        <i>em<b/>ligeira<b/>queda</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
-      <e lm="em ligeira subida" r="LR">
-        <i>em<b/>ligeira<b/>subida</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="em longo prazo">
         <i>em<b/>longo<b/>prazo</i>
         <par n="Op.Cit.__adv"/>
@@ -102195,10 +102127,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="esportivamente" r="LR">
-        <i>esportivamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="essencialmente">
         <i>essencialmente</i>
@@ -102376,10 +102304,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="fracamente" r="LR">
-        <i>fracamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="francamente">
         <i>francamente</i>
@@ -102421,10 +102345,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="gradativamente" r="LR">
-        <i>gradativamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="gratamente">
         <i>gratamente</i>
@@ -102486,10 +102406,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="idosamente" r="LR">
-        <i>idosamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="igual">
         <i>igual</i>
@@ -102614,10 +102530,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="integramente" r="LR">
-        <i>integramente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="inteiramente">
         <i>inteiramente</i>
@@ -102807,10 +102719,6 @@
       </e>
 
      
-      <e lm="meigamente" r="LR">
-        <i>meigamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="melhor">
         <i>melhor</i>
@@ -102852,10 +102760,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="multiplicemente" r="LR">
-        <i>multiplicemente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="musicalmente">
         <i>musicalmente</i>
@@ -102867,10 +102771,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="na bucha" r="LR">
-        <i>na<b/>bucha</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="naturalmente">
         <i>naturalmente</i>
@@ -102887,10 +102787,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="neuralgicamente" r="LR">
-        <i>neuralgicamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="no máximo">
         <i>no<b/>máximo</i>
@@ -102907,10 +102803,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="norteamericanamente" r="LR">
-        <i>norteamericanamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="notadamente">
         <i>notadamente</i>
@@ -103175,10 +103067,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="pretamente" r="LR">
-        <i>pretamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="pretensamente" r="LR">
         <i>pretensamente</i>
@@ -103205,10 +103093,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="privativamente" r="LR">
-        <i>privativamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="profissionalmente">
         <i>profissionalmente</i>
@@ -103253,10 +103137,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="provincialmente" r="LR">
-        <i>provincialmente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="provisionalmente">
         <i>provisionalmente</i>
@@ -103320,10 +103200,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="químicamente" r="LR">
-        <i>químicamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="radicalmente">
         <i>radicalmente</i>
@@ -103577,20 +103453,12 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="listamente" r="LR">
-        <i>listamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="sustentadamente" r="LR">
         <i>sustentadamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="sutilmente" r="LR">
-        <i>sutilmente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="só">
         <i>só</i>
@@ -103637,10 +103505,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="tenramente" r="LR">
-        <i>tenramente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="teoricamente">
         <i>teoricamente</i>
@@ -103725,10 +103589,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="vadiamente" r="LR">
-        <i>vadiamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="validamente">
         <i>validamente</i>
@@ -103840,15 +103700,6 @@
         <par n="a_fim_de_que__cnjadv"/>
       </e>
       
-      <e lm="a pesar" r="LR">
-        <i>a<b/>pesar</i>
-        <par n="a_fim_de_que__cnjadv"/>
-      </e>
-      
-      <e lm="a pesar do que" r="LR">
-        <i>a<b/>pesar<b/>do<b/>que</i>
-        <par n="a_fim_de_que__cnjadv"/>
-      </e>
       
       <e lm="agora que">
         <i>agora<b/>que</i>
@@ -104138,10 +103989,6 @@
         <par n="a_fim_de_que__cnjadv"/>
       </e>
       
-      <e lm="do contrário" r="LR">
-        <i>do<b/>contrário</i>
-        <par n="a_fim_de_que__cnjadv"/>
-      </e>
       
       <e lm="é assim que">
           <i>é<b/>assim<b/>que</i>
@@ -104198,10 +104045,6 @@
         <par n="a_fim_de_que__cnjadv"/>
       </e>
       
-      <e lm="ex." r="LR">
-        <i>ex.</i>
-        <par n="a_fim_de_que__cnjadv"/>
-      </e>
       
       <e lm="fora do prazo">
         <i>fora<b/>do<b/>prazo</i>
@@ -104233,10 +104076,6 @@
         <par n="a_fim_de_que__cnjadv"/>
       </e>
       
-      <e lm="muito pelo contrário" r="LR">
-        <i>muito<b/>pelo<b/>contrário</i>
-        <par n="a_fim_de_que__cnjadv"/>
-      </e>
       
       <e lm="na medida que">
         <i>na<b/>medida<b/>que</i>
@@ -126847,10 +126686,6 @@
         <par n="adeus__ij"/>
       </e>
       
-      <e lm="por favor" r="LR">
-        <i>por<b/>favor</i>
-        <par n="adeus__ij"/>
-      </e>
       <e lm="faz favor">
         <i>faz<b/>favor</i>
         <par n="adeus__ij"/>
@@ -141413,7 +141248,233 @@
 <!-- @@@ -->
   <!--<section id="pending" type="standard">
 
+		<e lm="ex">
+			<i>ex</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="extra">
+			<i>extra</i>
+			<par n="Op.Cit.__adv"/>
+		</e>
+      <e lm="fracamente" r="LR">
+        <i>fracamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="gradativamente" r="LR">
+        <i>gradativamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="idosamente" r="LR">
+        <i>idosamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="infra">
+			<i>infra</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="integramente" r="LR">
+        <i>integramente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="inter">
+			<i>inter</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="intra">
+			<i>intra</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="meigamente" r="LR">
+        <i>meigamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="multiplicemente" r="LR">
+        <i>multiplicemente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="na bucha" r="LR">
+        <i>na<b/>bucha</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="neuralgicamente" r="LR">
+        <i>neuralgicamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="norteamericanamente" r="LR">
+        <i>norteamericanamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="pan">
+			<i>pan</i>
+			<par n="Op.Cit.__adv"/>
+		</e>
+      <e lm="pretamente" r="LR">
+        <i>pretamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="privativamente" r="LR">
+        <i>privativamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="proto">
+			<i>proto</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="provincialmente" r="LR">
+        <i>provincialmente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="pseudo">
+			<i>pseudo</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="pós">
+			<i>pós</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="químicamente" r="LR">
+        <i>químicamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="semi">
+			<i>semi</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="sub">
+			<i>sub</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="listamente" r="LR">
+        <i>listamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="sutilmente" r="LR">
+        <i>sutilmente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="tenramente" r="LR">
+        <i>tenramente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="ultra">
+			<i>ultra</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="vadiamente" r="LR">
+        <i>vadiamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="vice">
+			<i>vice</i>
+			<par n="Op.Cit.__adv"/>
+		</e>
+      <e lm="esportivamente" r="LR">
+        <i>esportivamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+           
+      <e lm="em ligeira descida" r="LR">
+        <i>em<b/>ligeira<b/>descida</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="em ligeira elevação" r="LR">
+        <i>em<b/>ligeira<b/>elevação</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="em ligeira queda" r="LR">
+        <i>em<b/>ligeira<b/>queda</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="em ligeira subida" r="LR">
+        <i>em<b/>ligeira<b/>subida</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+  
+		<e lm="ante">
+			<i>ante</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+		<e lm="anti">
+			<i>anti</i>
+			<par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="avulsamente" r="LR">
+        <i>avulsamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="brandamente" r="LR">
+        <i>brandamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="corriqueiramente" r="LR">
+        <i>corriqueiramente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="criminalmente" r="LR">
+        <i>criminalmente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="doentemente" r="LR">
+        <i>doentemente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="doidamente" r="LR">
+        <i>doidamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="educacionalmente" r="LR">
+        <i>educacionalmente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="em forte descida" r="LR">
+        <i>em<b/>forte<b/>descida</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="em forte elevação" r="LR">
+        <i>em<b/>forte<b/>elevação</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="em forte queda" r="LR">
+        <i>em<b/>forte<b/>queda</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="em forte subida" r="LR">
+        <i>em<b/>forte<b/>subida</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+ 
+      <e lm="a pesar" r="LR">
+        <i>a<b/>pesar</i>
+        <par n="a_fim_de_que__cnjadv"/>
+      </e>
+      
+      <e lm="a pesar do que" r="LR">
+        <i>a<b/>pesar<b/>do<b/>que</i>
+        <par n="a_fim_de_que__cnjadv"/>
+      </e>
+      <e lm="do contrário" r="LR">
+        <i>do<b/>contrário</i>
+        <par n="a_fim_de_que__cnjadv"/>
+      </e>
+      <e lm="ex." r="LR">
+        <i>ex.</i>
+        <par n="a_fim_de_que__cnjadv"/>
+      </e>
+      <e lm="muito pelo contrário" r="LR">
+        <i>muito<b/>pelo<b/>contrário</i>
+        <par n="a_fim_de_que__cnjadv"/>
+      </e>
 
+      <e lm="por favor" r="LR">
+        <i>por<b/>favor</i>
+        <par n="adeus__ij"/>
+      </e>
       <e lm="agir">
         <i>a</i>
         <par n="atin/gir__vblex"/>
@@ -143771,10 +143832,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="ante">
-			<i>ante</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="antecedentemente">
         <i>antecedentemente</i>
@@ -143786,10 +143843,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="anti">
-			<i>anti</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="anticlericalmente">
         <i>anticlericalmente</i>
@@ -146659,10 +146712,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="ex">
-			<i>ex</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="exageradamente">
         <i>exageradamente</i>
@@ -146809,10 +146858,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-		<e lm="extra">
-			<i>extra</i>
-			<par n="Op.Cit.__adv"/>
-		</e>
       
       <e lm="extrajudicialmente">
         <i>extrajudicialmente</i>
@@ -148389,10 +148434,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="infra">
-			<i>infra</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="infravermelhamente">
         <i>infravermelhamente</i>
@@ -148629,10 +148670,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="inter">
-			<i>inter</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="interactivamente" v="pt">
         <i>interactivamente</i>
@@ -148749,10 +148786,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="intra">
-			<i>intra</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="intrigantemente">
         <i>intrigantemente</i>
@@ -150331,10 +150364,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-		<e lm="pan">
-			<i>pan</i>
-			<par n="Op.Cit.__adv"/>
-		</e>
       
       <e lm="papalmente">
         <i>papalmente</i>
@@ -150966,10 +150995,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="proto">
-			<i>proto</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="providencialmente">
         <i>providencialmente</i>
@@ -150986,10 +151011,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="pseudo">
-			<i>pseudo</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="publicitariamente">
         <i>publicitariamente</i>
@@ -151006,10 +151027,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="pós">
-			<i>pós</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="quadragesimamente">
         <i>quadragesimamente</i>
@@ -151536,10 +151553,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-		<e lm="semi">
-			<i>semi</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
 		
       <e lm="semifinalmente">
         <i>semifinalmente</i>
@@ -151811,10 +151824,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="sub">
-			<i>sub</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="subalternamente">
         <i>subalternamente</i>
@@ -152353,10 +152362,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
 		
-		<e lm="ultra">
-			<i>ultra</i>
-			<par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="ultraliberalmente">
         <i>ultraliberalmente</i>
@@ -152548,10 +152553,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-		<e lm="vice">
-			<i>vice</i>
-			<par n="Op.Cit.__adv"/>
-		</e>
       
       <e lm="viciosamente">
         <i>viciosamente</i>
