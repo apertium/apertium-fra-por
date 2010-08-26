@@ -107,15 +107,17 @@
 </p>
 </e>
 </pardef>
-<pardef n="urls">
-<e>
-<re>((www.)[a-z\-]+[.][a-z]+)</re>
-<p>
-<l/>
-<r><s n="num"/></r>
-</p>
-</e>
-</pardef>
+
+   <pardef n="urls">
+    <e>
+      <re>(((www.)|(http://))[a-z0-9\-]+([.][a-z\-]+)+(/[a-z0-9_\-]+)*([.][a-z]+)*)</re>
+      <p>
+        <l></l>
+        <r><s n="num"/></r>
+      </p>
+    </e>
+   </pardef>
+
     <pardef n="separa">
     
       <e>

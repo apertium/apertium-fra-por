@@ -14652,7 +14652,6 @@
           <e lm="extradition"><i>extradition</i><par n="abeille__n"/></e>
           <e lm="extraire"><i>extra</i><par n="distra/ire__vblex"/></e>
           <e lm="extrémiste"><i>extrémiste</i><par n="académique__adj"/></e>
-          <e lm="extrême" r="LR"><i>extrême</i><par n="livre__n"/></e>
           <e lm="extrêmement"><i>extrêmement</i><par n="hier__adv"/></e>
           <e lm="extérieur"><i>extérieur</i><par n="livre__n"/></e>
           <e lm="exécuter"><i>exécut</i><par n="abaiss/er__vblex"/></e>
@@ -15757,7 +15756,6 @@
           <e lm="pointe"><i>pointe</i><par n="abeille__n"/></e>
           <e lm="poisson"><i>poisson</i><par n="livre__n"/></e>
           <e lm="poitrine"><i>poitrine</i><par n="abeille__n"/></e>
-          <e lm="policier" r="LR"><i>polici</i><par n="bouch/er__n"/></e>
           <e lm="pollution"><i>pollution</i><par n="abeille__n"/></e>
           <e lm="polémique"><i>polémique</i><par n="abeille__n"/></e>
           <e lm="pomme"><i>pomme</i><par n="abeille__n"/></e>
@@ -18208,7 +18206,6 @@
 <e r="LR" lm="étatique" a="webform"><p><l>Etatique</l><r>étatique</r></p><par n="académique__adj"/></e>
 <e r="LR" lm="étatique" a="webform"><i>étatique</i><par n="académique__adj"/></e>
 <e lm="exclusif" a="webform"><i>exclusi</i><par n="affirmati/f__adj"/></e>
-<e lm="familial" a="webform" r="LR"><i>familia</i><par n="amica/l__adj"/></e>
 <e lm="faux" a="webform"><i>fau</i><par n="affectueu/x__adj"/></e>
 <e lm="ferme" a="webform"><i>ferme</i><par n="académique__adj"/></e>
 <e lm="féroce" a="webform"><i>féroce</i><par n="académique__adj"/></e>
@@ -39840,10 +39837,6 @@
   <i>d'un<b/>commun<b/>accord</i>
   <par n="hier__adv"/>
 </e>
-<e lm="merci de" a="eleka">
-  <i>merci<b/></i>
-  <par n="contde__pr"/>
-</e>
 <e lm="conformément à" a="eleka">
   <i>conformément<b/></i>
   <par n="conta__pr"/>
@@ -45087,7 +45080,6 @@
     <e r="LR" lm="tourner en faveur d'"><p><l>tourner<b/>en<b/>faveur<b/>d'</l><r>tourner<b/>en<b/>faveur<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="compte tenu d'"><p><l>compte<b/>tenu<b/>d'</l><r>compte<b/>tenu<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="par ordre d'"><p><l>par<b/>ordre<b/>d'</l><r>par<b/>ordre<b/>de<s n="pr"/></r></p></e>
-    <e r="LR" lm="merci d'"><p><l>merci<b/>d'</l><r>merci<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="autour d'"><p><l>autour<b/>d'</l><r>autour<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="à cause d'"><p><l>à<b/>cause<b/>d'</l><r>à<b/>cause<b/>de<s n="pr"/></r></p></e>
     <e r="LR" lm="à coups d'"><p><l>à<b/>coups<b/>d'</l><r>à<b/>coups<b/>de<s n="pr"/></r></p></e>
@@ -45612,7 +45604,6 @@
 <!--<e lm="socialisation"><i>socialisation</i><par n="abeille__n"/></e>-->
 <e lm="société"><i>société</i><par n="abeille__n"/></e>
 <!--<e lm="sous-embranchement"><i>sous-embranchement</i><par n="livre__n"/></e>-->
-<e lm="sous-embr."><i>sous-embr.</i><par n="personnel__n"/></e>
 <!--<e lm="spectrométrie"><i>spectrométrie</i><par n="abeille__n"/></e>-->
 <!--<e lm="spitz"><i>spitz</i><par n="mois__n"/></e>-->
 <!--<e lm="sport"><i>sport</i><par n="livre__n"/></e>-->
@@ -45835,7 +45826,6 @@
 <!--<e lm="voyant"><i>voyant</i><par n="pèlerin__adj"/></e>-->
 
 <e lm="avant Jésus-Christ"><i>avant<b/>Jésus-Christ</i><par n="arrière__adj"/></e>
-<e lm="avant J.-C."><i>avant<b/>J.-C.</i><par n="arrière__adj"/></e>
 <e lm="av. J.-C."><i>av.<b/>J.-C.</i><par n="arrière__adj"/></e>
 <e lm="après Jésus-Christ"><i>après<b/>Jésus-Christ</i><par n="arrière__adj"/></e>
 <e lm="après J.-C."><i>après<b/>J.-C.</i><par n="arrière__adj"/></e>
@@ -45900,6 +45890,16 @@
 <!--@@@-->
   <!--<section id="pending" type="standard">
 
+    <e r="LR" lm="merci d'"><p><l>merci<b/>d'</l><r>merci<b/>de<s n="pr"/></r></p></e>
+<e lm="merci de" a="eleka">
+  <i>merci<b/></i>
+  <par n="contde__pr"/>
+</e>
+<e lm="sous-embr."><i>sous-embr.</i><par n="personnel__n"/></e>
+<e lm="avant J.-C."><i>avant<b/>J.-C.</i><par n="arrière__adj"/></e>
+          <e lm="extrême" r="LR"><i>extrême</i><par n="livre__n"/></e>
+          <e lm="policier" r="LR"><i>polici</i><par n="bouch/er__n"/></e>
+<e lm="familial" a="webform" r="LR"><i>familia</i><par n="amica/l__adj"/></e>
 
 <e r="LR" lm="Bassora" a="webform"><i>Bassora</i><par n="Lieu__np"/></e>
 <e lm="Katmandou" a="eleka" r="LR">
