@@ -8495,6 +8495,8 @@
         </let>
       </action>
     </rule>
+
+
     <rule comment="REGLA: VERB">
       <pattern>
         <pattern-item n="verbpers"/>
@@ -8552,24 +8554,42 @@
                 </let>
               </otherwise>
             </choose>
+            <choose>
+              <when>
+                <test>
+                  <equal caseless="yes">
+                    <clip pos="1" side="tl" part="lem"/>
+                    <lit v="être"/>
+                  </equal>
+                </test>
+                <let>
+                  <var n="gen_pp"/>
+                  <lit-tag v="mf"/>
+                </let>
+                <let>
+                  <var n="nbr_pp"/>
+                  <lit-tag v="sp"/>
+                </let>
+              </when>
+              <otherwise>
+                <let>
+                  <var n="gen_pp"/>
+                  <lit-tag v="m"/>
+                </let>
+                <let>
+                  <var n="nbr_pp"/>
+                  <lit-tag v="sg"/>
+                </let>
+              </otherwise>
+            </choose>
             <out>
               <chunk namefrom="lema" case="caseFirstWord">
                 <tags>
-                  <tag>
-                    <lit-tag v="SV"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="a_verb"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="sl" part="temps"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="pers"/>
-                  </tag>
-                  <tag>
-                    <clip pos="1" side="tl" part="nbr"/>
-                  </tag>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="1" side="tl" part="a_verb"/></tag>
+                  <tag><clip pos="1" side="sl" part="temps"/></tag>
+                  <tag><clip pos="1" side="tl" part="pers"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
                 </tags>
                 <lu>
                   <var n="auxiliar"/>
@@ -8582,7 +8602,10 @@
                 <lu>
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
-                  <lit-tag v="pp.m.sg"/>
+                  <lit-tag v="pp"/>
+                  <var n="gen_pp"/>
+                  <var n="nbr_pp"/>
+                  <!--<lit-tag v="pp.m.sg"/>-->
                   <clip pos="1" side="tl" part="lemq"/>
                 </lu>
               </chunk>
@@ -12557,6 +12580,25 @@
                 </let>
               </otherwise>
             </choose>
+            <choose>
+              <when>
+                <test>
+                  <equal caseless="yes">
+                    <clip pos="2" side="tl" part="lem"/>
+                    <lit v="être"/>
+                  </equal>
+                </test>
+                <let>
+                  <var n="gen_pp"/>
+                  <lit-tag v="mf"/>
+                </let>
+                <let>
+                  <var n="nbr_pp"/>
+                  <lit-tag v="sp"/>
+                </let>
+              </when>
+            </choose>
+
             <choose>
               <when>
                 <test>
