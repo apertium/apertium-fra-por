@@ -45324,7 +45324,7 @@
 <!--<e lm="toilettage"><i>toilettage</i><par n="abeille__n"/></e>-->
 <!--<e lm="toxoplasmose"><i>toxoplasmose</i><par n="abeille__n"/></e>-->
 <!--<e lm="trafic"><i>trafic</i><par n="livre__n"/></e>-->
-<!--<e lm="train"><i>train</i><par n="livre__n"/></e>-->
+<e lm="train"><i>train</i><par n="livre__n"/></e>
 <!--<e lm="trichuri"><i>trichuri</i><par n="livre__n"/></e>-->
 <!--<e lm="truffe"><i>truffe</i><par n="abeille__n"/></e>-->
 <!--<e lm="ultrason"><i>ultrason</i><par n="livre__n"/></e>-->
@@ -45458,6 +45458,7 @@
 <!--<e lm="omnivore"><i>omnivore</i><par n="académique__adj"/></e>-->
 <!--<e lm="opportuniste"><i>opportuniste</i><par n="académique__adj"/></e>-->
 <!--<e lm="originel"><i>originel</i><par n="annuel__adj"/></e>-->
+          <e lm="jusqu'à"><i>jusqu'</i><par n="conta__pr"/></e>
 <e lm="parallèle"><i>parallèle</i><par n="académique__adj"/></e>
 <!--<e lm="parasite"><i>parasite</i><par n="académique__adj"/></e>-->
 <!--<e lm="parent"><i>parent</i><par n="abaissant__adj"/></e>-->
@@ -46358,7 +46359,6 @@
           <e lm="âpre"><i>âpre</i><par n="académique__adj"/></e>
           <e lm="unique"><i>unique</i><par n="académique__adj"/></e>
           <e lm="tout"><i>tou</i><par n="tou/t__predet"/></e>
-          <e lm="jusqu'à"><i>jusqu'</i><par n="conta__pr"/></e>
           <e lm="ethnique"><i>ethnique</i><par n="académique__adj"/></e>
           <e lm="jusque"><i>jusque</i><par n="attendu__pr"/></e>
 <e lm="carte d'identité" a="eleka">

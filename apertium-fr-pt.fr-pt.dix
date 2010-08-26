@@ -14370,7 +14370,7 @@
 <e>       <p><l>tragédie<s n="n"/></l>                 <r>tragédia<s n="n"/></r></p></e>
 <e>       <p><l>trahison<s n="n"/></l>                 <r>traição<s n="n"/></r></p></e>
 <e>       <p><l>train<s n="n"/></l>                    <r>trem<s n="n"/></r></p></e>
-<e>       <p><l>train<s n="n"/></l>                    <r>comboio<s n="n"/></r></p></e>
+<e r="RL">       <p><l>train<s n="n"/></l>                    <r>comboio<s n="n"/></r></p></e>
 <e>       <p><l>trait<s n="n"/></l>                    <r>rasgo<s n="n"/></r></p></e>
 <e>       <p><l>traitement<s n="n"/></l>               <r>tratamento<s n="n"/></r></p></e>
 <e>       <p><l>traitement<s n="n"/></l>               <r>trato<s n="n"/></r></p></e>
@@ -20259,7 +20259,7 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e>       <p><l>grâce<b/>à<s n="pr"/></l>              <r>graças<b/>a<s n="pr"/></r></p></e>
 <e r="LR"><p><l>hors<s n="pr"/></l>                    <r>excepto<s n="pr"/></r></p></e>
 <e>       <p><l>jusqu'à<s n="pr"/></l>                 <r>até<s n="pr"/></r></p></e>
-<e>       <p><l>jusque<s n="pr"/></l>                  <r>até<s n="pr"/></r></p></e>
+<e r="LR"><p><l>jusque<s n="pr"/></l>                  <r>até<s n="pr"/></r></p></e>
 <e>       <p><l>le<b/>long<b/>de<s n="pr"/></l>        <r>no<b/>comprimento<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>lors<b/>de<s n="pr"/></l>              <r>durante<s n="pr"/></r></p></e>
 <e>       <p><l>moyennant<s n="pr"/></l>               <r>mediante<s n="pr"/></r></p></e>
