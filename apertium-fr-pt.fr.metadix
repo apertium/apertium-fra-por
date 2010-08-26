@@ -13296,7 +13296,6 @@
           <e lm="accorder"><i>accord</i><par n="abaiss/er__vblex"/></e>
           <e lm="accoster"><i>accost</i><par n="abaiss/er__vblex"/></e>
           <e lm="accourir"><i>accour</i><par n="accour/ir__vblex"/></e>
-          <e lm="accoutrement" r="LR"><i>accoutrement</i><par n="livre__n"/></e>
           <e lm="accoutumer"><i>accoutum</i><par n="abaiss/er__vblex"/></e>
           <e lm="accrocher"><i>accroch</i><par n="abaiss/er__vblex"/></e>
           <e lm="accueillir"><i>accueill</i><par n="accueill/ir__vblex"/></e>
@@ -13370,7 +13369,6 @@
           <e lm="agricole"><i>agricole</i><par n="académique__adj"/></e>
           <e lm="agriculteur"><i>agricult</i><par n="administrat/eur__n"/></e>
           <e lm="agriculture"><i>agriculture</i><par n="abeille__n"/></e>
-          <e lm="agrès" r="LR"><i>agrès</i><par n="mois__n"/></e>
           <e lm="agréer"><i>agré</i><par n="abaiss/er__vblex"/></e>
           <e lm="agrémenter" r="LR"><i>agrément</i><par n="abaiss/er__vblex"/></e>
           <e lm="ah"><i>ah</i><par n="ah__ij"/></e>
@@ -13427,7 +13425,6 @@
           <e lm="amitié"><i>amitié</i><par n="abeille__n"/></e>
           <e lm="amour"><i>amour</i><par n="livre__n"/></e>
           <e lm="ample"><i>ample</i><par n="académique__adj"/></e>
-          <e lm="amusement" r="LR"><i>amusement</i><par n="livre__n"/></e>
           <e lm="amuser"><i>amus</i><par n="abaiss/er__vblex"/></e>
           <e lm="améliorer"><i>amélior</i><par n="abaiss/er__vblex"/></e>
           <e lm="aménagement"><i>aménagement</i><par n="livre__n"/></e>
@@ -13661,11 +13658,9 @@
           <e lm="beau" r="RL"><p><l><a/></l><r></r></p><i>be</i><par n="be/au__adj"/></e>
           <e lm="beaucoup"><i>beaucoup</i><par n="hier__adv"/></e>
           <e lm="beauté"><i>beauté</i><par n="abeille__n"/></e>
-          <e lm="berge" r="LR"><i>berge</i><par n="abeille__n"/></e>
           <e lm="besogner"><i>besogn</i><par n="abaiss/er__vblex"/></e>
           <e lm="besoin"><i>besoin</i><par n="livre__n"/></e>
           <e lm="bibliothèque"><i>bibliothèque</i><par n="abeille__n"/></e>
-          <e lm="bicyclette" r="LR"><i>bicyclette</i><par n="abeille__n"/></e>
           <e lm="bien"><i>bien</i><par n="hier__adv"/></e>
           <e lm="bien"><i>bien</i><par n="livre__n"/></e>
           <e lm="bien"><i>bien</i><par n="très__preadv"/></e>
@@ -13723,7 +13718,6 @@
           <e lm="brancher"><i>branch</i><par n="abaiss/er__vblex"/></e>
           <e lm="brasser"><i>brass</i><par n="abaiss/er__vblex"/></e>
           <e lm="bravo"><i>bravo</i><par n="ah__ij"/></e>
-          <e lm="brigand" r="LR"><i>brigand</i><par n="livre__n"/></e>
           <e lm="briller"><i>brill</i><par n="abaiss/er__vblex"/></e>
           <e lm="briser"><i>bris</i><par n="abaiss/er__vblex"/></e>
           <e lm="broder"><i>brod</i><par n="abaiss/er__vblex"/></e>
@@ -13773,7 +13767,6 @@
           <e lm="candidat"><i>candidat</i><par n="affecté__n"/></e>
           <e lm="candidature"><i>candidature</i><par n="abeille__n"/></e>
           <e lm="canon"><i>canon</i><par n="livre__n"/></e>
-          <e lm="canton" r="LR"><i>canton</i><par n="livre__n"/></e>
           <e lm="capable"><i>capable</i><par n="académique__adj"/></e>
           <e lm="capaciter"><i>capacit</i><par n="abaiss/er__vblex"/></e>
           <e lm="capacité"><i>capacité</i><par n="abeille__n"/></e>
@@ -13783,7 +13776,6 @@
           <e lm="caractère"><i>caractère</i><par n="livre__n"/></e>
           <e lm="caractériser"><i>caractéris</i><par n="abaiss/er__vblex"/></e>
           <e lm="caresser"><i>caress</i><par n="abaiss/er__vblex"/></e>
-          <e lm="carrefour" r="LR"><i>carrefour</i><par n="livre__n"/></e>
           <e lm="carrière" r="LR"><i>carrière</i><par n="abeille__n"/></e>
           <e lm="carrément" r="LR"><i>carrément</i><par n="hier__adv"/></e>
           <e lm="carte"><i>carte</i><par n="abeille__n"/></e>
@@ -13827,7 +13819,6 @@
           <e lm="cesser"><i>cess</i><par n="abaiss/er__vblex"/></e>
           <!--<e lm="chacun" r="RL"><i>chacun</i><par n="personne__prn"/></e>-->
           <e lm="chacun"><i>chacun</i><par n="un__prn"/></e>
-          <e lm="chair" r="LR"><i>chair</i><par n="abeille__n"/></e>
           <e lm="chaise"><i>chaise</i><par n="abeille__n"/></e>
                     <e lm="sauf que" r="LR"><p><l>sauf<b/>que</l><r>sauf<b/>que<s n="cnjadv"/></r></p></e>
          <e lm="parce que" r="LR"><p><l>parce<b/>que</l><r>parce<b/>que<s n="cnjadv"/></r></p></e>
@@ -13943,7 +13934,6 @@
           <e lm="circulation"><i>circulation</i><par n="abeille__n"/></e>
           <e lm="circuler"><i>circul</i><par n="abaiss/er__vblex"/></e>
           <e lm="cirque"><i>cirque</i><par n="livre__n"/></e>
-          <e lm="citation" r="LR"><i>citation</i><par n="abeille__n"/></e>
           <e lm="citer"><i>cit</i><par n="abaiss/er__vblex"/></e>
           <e lm="citoyen"><i>citoyen</i><par n="ancien__n"/></e>
           <e lm="cité" r="LR"><i>cité</i><par n="abeille__n"/></e>
@@ -14169,7 +14159,6 @@
           <e lm="courser" r="LR"><i>cours</i><par n="abaiss/er__vblex"/></e>
           <e lm="court"><i>court</i><par n="abaissant__adj"/></e>
           <e lm="courtier"><i>courti</i><par n="bouch/er__n"/></e>
-          <e lm="courtine" r="LR"><i>courtine</i><par n="abeille__n"/></e>
           <e lm="coutume" r="LR"><i>coutume</i><par n="abeille__n"/></e>
           <e lm="couture"><i>couture</i><par n="abeille__n"/></e>
           <e lm="couver"><i>couv</i><par n="abaiss/er__vblex"/></e>
@@ -14382,7 +14371,6 @@
           <e lm="déclarer"><i>déclar</i><par n="abaiss/er__vblex"/></e>
           <e lm="déconcerter"><i>déconcert</i><par n="abaiss/er__vblex"/></e>
           <e lm="décontenancer"><i>décontenan</i><par n="annon/cer__vblex"/></e>
-          <e lm="décoration" r="LR"><i>décoration</i><par n="abeille__n"/></e>
           <e lm="décorer"><i>décor</i><par n="abaiss/er__vblex"/></e>
           <e lm="découper"><i>découp</i><par n="abaiss/er__vblex"/></e>
           <e lm="découvrir"><i>découv</i><par n="couv/rir__vblex"/></e>
@@ -14463,12 +14451,10 @@
           <e lm="détail"><i>détail</i><par n="livre__n"/></e>
           <e lm="détective"><i>détective</i><par n="artiste__n"/></e>
           <e lm="détenir" r="LR"><i>dét</i><par n="appart/enir__vblex"/></e>
-          <e lm="détente" r="LR"><i>détente</i><par n="abeille__n"/></e>
           <e lm="détermination"><i>détermination</i><par n="abeille__n"/></e>
           <e lm="déterminer"><i>détermin</i><par n="abaiss/er__vblex"/></e>
           <e lm="détraquer"><i>détraqu</i><par n="abaiss/er__vblex"/></e>
           <e lm="détresse" r="LR"><i>détresse</i><par n="abeille__n"/></e>
-          <e lm="détriment" r="LR"><i>détriment</i><par n="livre__n"/></e>
           <e lm="détruire"><i>détru</i><par n="lu/i[]re__vblex" prm=""/></e>
           <e lm="développement"><i>développement</i><par n="livre__n"/></e>
           <e lm="développer"><i>développ</i><par n="abaiss/er__vblex"/></e>
@@ -14499,7 +14485,6 @@
           <e lm="embouchure"><i>embouchure</i><par n="abeille__n"/></e>
           <e lm="embrassade"><i>embrassade</i><par n="abeille__n"/></e>
           <e lm="embrasser"><i>embrass</i><par n="abaiss/er__vblex"/></e>
-          <e lm="embrun" r="LR"><i>embrun</i><par n="livre__n"/></e>
           <e lm="emmener" r="LR"><i>emm</i><par n="ach/e[T]er__vblex" prm="n"/></e>
           <e lm="empereur"><par n="/empereur__n"/></e>
           <e lm="empire"><i>empire</i><par n="livre__n"/></e>
@@ -14569,7 +14554,6 @@
           <e lm="entrevoir"><i>entrev</i><par n="entrev/oir__vblex"/></e>
           <e lm="entrée"><i>entrée</i><par n="abeille__n"/></e>
           <e lm="envahir"><i>envah</i><par n="about/[]ir__vblex" prm=""/></e>
-          <e lm="enveloppe" r="LR"><i>enveloppe</i><par n="abeille__n"/></e>
           <e lm="envelopper"><i>envelopp</i><par n="abaiss/er__vblex"/></e>
           <e lm="envers"><i>envers</i><par n="attendu__pr"/></e>
           <e lm="envier"><i>envi</i><par n="abaiss/er__vblex"/></e>
@@ -15374,7 +15358,6 @@
           <e lm="montant"><i>montant</i><par n="livre__n"/></e>
           <e lm="monter"><i>mont</i><par n="abaiss/er__vblex"/></e>
           <e lm="montrer"><i>montr</i><par n="abaiss/er__vblex"/></e>
-          <e lm="montreur" r="LR"><i>montreu</i><par n="causeu/r__n"/></e>
           <e lm="montée"><i>montée</i><par n="abeille__n"/></e>
           <e lm="monument"><i>monument</i><par n="livre__n"/></e>
           <e lm="morceau"><i>morceau</i><par n="lieu__n"/></e>
@@ -15453,7 +15436,6 @@
           <e lm="navire"><i>navire</i><par n="livre__n"/></e>
           <e lm="nazisme"><i>nazisme</i><par n="livre__n"/></e>
           <e lm="naître"><i>n</i><par n="n/aître__vblex"/></e>
-          <e lm="naïveté" r="LR"><i>naïveté</i><par n="abeille__n"/></e>
           <e lm="ne" r="LR"><i>ne</i><par n="hier__adv"/></e>
           <e lm="ne" r="RL"><p><l><a/>ne</l><r>ne</r></p><par n="hier__adv"/></e>
           <e lm="neige"><i>neige</i><par n="abeille__n"/></e>
@@ -15539,8 +15521,6 @@
           <e lm="oeuvre"><i>oeuvre</i><par n="abeille__n"/></e>
           <e lm="oeuvrer"><i>oeuvr</i><par n="abaiss/er__vblex"/></e>
           <e lm="offensif"><i>offensi</i><par n="affirmati/f__adj"/></e>
-          <e lm="office" r="LR"><i>office</i><par n="abeille__n"/></e>
-          <e lm="office" r="LR"><i>office</i><par n="livre__n"/></e>
           <e lm="officiellement"><i>officiellement</i><par n="hier__adv"/></e>
           <e lm="offre"><i>offre</i><par n="abeille__n"/></e>
           <e lm="offrir"><i>off</i><par n="couv/rir__vblex"/></e>
@@ -15573,7 +15553,6 @@
           <e lm="orchestre"><i>orchestre</i><par n="livre__n"/></e>
           <e lm="orchestrer"><i>orchestr</i><par n="abaiss/er__vblex"/></e>
           <e lm="oreille"><i>oreille</i><par n="abeille__n"/></e>
-          <e lm="oreiller" r="LR"><i>oreiller</i><par n="livre__n"/></e>
           <e lm="organe"><i>organe</i><par n="livre__n"/></e>
           <e lm="organisation"><i>organisation</i><par n="abeille__n"/></e>
           <e lm="organiser"><i>organis</i><par n="abaiss/er__vblex"/></e>
@@ -15737,7 +15716,6 @@
           <e lm="planter"><i>plant</i><par n="abaiss/er__vblex"/></e>
           <e lm="planète"><i>planète</i><par n="abeille__n"/></e>
           <e lm="plastique"><i>plastique</i><par n="livre__n"/></e>
-          <e lm="platane" r="LR"><i>platane</i><par n="livre__n"/></e>
           <e lm="plate-forme"><i>plate-forme</i><par n="abeille__n"/></e>
           <e lm="plateau"><i>plateau</i><par n="livre__n"/></e>
           <e lm="plein"><i>plein</i><par n="abaissant__adj"/></e>
@@ -16030,7 +16008,6 @@
           <e lm="ravir" r="LR"><i>rav</i><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="rayer"><i>ra</i><par n="bala/yer__vblex"/></e>
           <e lm="rayon"><i>rayon</i><par n="livre__n"/></e>
-          <e lm="rayonnage" r="LR"><i>rayonnage</i><par n="livre__n"/></e>
           <e lm="rebelle"><i>rebelle</i><par n="académique__adj"/></e>
           <e lm="recette"><i>recette</i><par n="abeille__n"/></e>
           <e lm="recevoir"><i>re</i><par n="aper/cevoir__vblex"/></e>
@@ -16039,7 +16016,6 @@
           <e lm="recommander"><i>recommand</i><par n="abaiss/er__vblex"/></e>
           <e lm="reconnaissance"><i>reconnaissance</i><par n="abeille__n"/></e>
           <e lm="reconnaître"><i>reconn</i><par n="appar/aître__vblex"/></e>
-          <e lm="recours" r="LR"><i>recours</i><par n="mois__n"/></e>
           <e lm="recouvrer"><i>recouvr</i><par n="abaiss/er__vblex"/></e>
           <e lm="rectifier"><i>rectifi</i><par n="abaiss/er__vblex"/></e>
           <e lm="recueillir" r="LR"><i>recueill</i><par n="accueill/ir__vblex"/></e>
@@ -16105,7 +16081,6 @@
           <e lm="reproduire"><i>reprodui</i><par n="condui/re__vblex"/></e>
           <e lm="représentation"><i>représentation</i><par n="abeille__n"/></e>
           <e lm="représenter"><i>représent</i><par n="abaiss/er__vblex"/></e>
-          <e lm="requête" r="LR"><i>requête</i><par n="abeille__n"/></e>
           <e lm="respect"><i>respect</i><par n="livre__n"/></e>
           <e lm="respecter"><i>respect</i><par n="abaiss/er__vblex"/></e>
           <e lm="respectif"><i>respecti</i><par n="affirmati/f__adj"/></e>
@@ -16170,7 +16145,6 @@
           <e lm="rouler"><i>roul</i><par n="abaiss/er__vblex"/></e>
           <e lm="route"><i>route</i><par n="abeille__n"/></e>
           <e lm="router"><i>rout</i><par n="abaiss/er__vblex"/></e>
-          <e lm="rouvre" r="LR"><i>rouvre</i><par n="livre__n"/></e>
           <e lm="rouvrir"><i>rouv</i><par n="couv/rir__vblex"/></e>
           <e lm="royaume"><i>royaume</i><par n="livre__n"/></e>
           <e lm="ruban"><i>ruban</i><par n="livre__n"/></e>
@@ -16267,7 +16241,6 @@
           <e lm="saluer"><i>salu</i><par n="abaiss/er__vblex"/></e>
           <e lm="salut"><i>salut</i><par n="ah__ij"/></e>
           <e lm="salut"><i>salut</i><par n="livre__n"/></e>
-          <e lm="salutation" r="LR"><i>salutation</i><par n="abeille__n"/></e>
           <e lm="samedi"><i>samedi</i><par n="livre__n"/></e>
           <e lm="sanction"><i>sanction</i><par n="abeille__n"/></e>
           <e lm="sanctuaire"><i>sanctuaire</i><par n="livre__n"/></e>
@@ -16586,7 +16559,6 @@
           <e lm="touriste"><i>touriste</i><par n="artiste__n"/></e>
           <e lm="tourmente"><i>tourmente</i><par n="abeille__n"/></e>
           <e lm="tourner"><i>tourn</i><par n="abaiss/er__vblex"/></e>
-          <e lm="touron" r="LR"><i>touron</i><par n="livre__n"/></e>
           <e lm="tout"><i>tou</i><par n="tou/t__prn"/></e>
       <e lm="tous les deux"><i>tou</i><par n="tou/s_les_deux__prn"/></e>
       <e lm="les deux"><i>les<b/>deux</i><par n="les_deux__det"/></e>
@@ -17347,7 +17319,6 @@
 <e lm="adultère" a="webform"><i>adultère</i><par n="livre__n"/></e>
 <e lm="avertissement" a="webform"><i>avertissement</i><par n="livre__n"/></e>
 <e lm="passionné" a="webform"><i>passionné</i><par n="affecté__n"/></e>
-<e lm="penchant" a="webform" r="LR"><i>penchant</i><par n="livre__n"/></e>
 <e lm="transition" a="webform"><i>transition</i><par n="abeille__n"/></e>
 <e lm="vallée" a="webform"><i>vallée</i><par n="abeille__n"/></e>
 <e lm="cession" a="webform"><i>cession</i><par n="abeille__n"/></e>
@@ -17542,7 +17513,6 @@
 <e lm="négative" a="webform"><i>négative</i><par n="abeille__n"/></e>
 <e lm="médaille" a="webform"><i>médaille</i><par n="abeille__n"/></e>
 <e lm="comptoir" a="webform"><i>comptoir</i><par n="livre__n"/></e>
-<e lm="bourg" a="webform" r="LR"><i>bourg</i><par n="livre__n"/></e>
 <e lm="trophée" a="webform"><i>trophée</i><par n="livre__n"/></e>
 <e lm="thérapie" a="webform"><i>thérapie</i><par n="abeille__n"/></e>
 <e lm="séquestration" a="webform"><i>séquestration</i><par n="abeille__n"/></e>
@@ -17555,7 +17525,6 @@
 <e lm="volcan" a="webform"><i>volcan</i><par n="livre__n"/></e>
 <e lm="requin" a="webform"><i>requin</i><par n="livre__n"/></e>
 <e lm="renom" a="webform"><i>renom</i><par n="livre__n"/></e>
-<e lm="rally" a="webform" r="LR"><i>rally</i><par n="livre__n"/></e>
 <e lm="papa" a="webform"><i>papa</i><par n="livre__n"/></e>
 <e lm="normalité" a="webform"><i>normalité</i><par n="abeille__n"/></e>
 <e lm="laser" a="webform"><i>laser</i><par n="livre__n"/></e>
@@ -17629,7 +17598,6 @@
 <e lm="pluriel" a="webform"><i>pluriel</i><par n="livre__n"/></e>
 <e lm="pessimiste" a="webform"><i>pessimiste</i><par n="artiste__n"/></e>
 <e lm="pelle" a="webform"><i>pelle</i><par n="abeille__n"/></e>
-<e lm="participe" a="webform" r="LR"><i>participe</i><par n="livre__n"/></e>
 <e lm="nécessité" a="webform"><i>nécessité</i><par n="abeille__n"/></e>
 <e lm="justification" a="webform"><i>justification</i><par n="abeille__n"/></e>
 <e lm="juridiction" a="webform"><i>juridiction</i><par n="abeille__n"/></e>
@@ -17780,7 +17748,6 @@
 <e r="LR" lm="étincelle" a="webform"><p><l>Etincelle</l><r>étincelle</r></p><par n="abeille__n"/></e>
 <e lm="étincelle" a="webform"><i>étincelle</i><par n="abeille__n"/></e>
 <e lm="querelle" a="webform"><i>querelle</i><par n="abeille__n"/></e>
-<e lm="gravats" a="webform" r="LR"><i>gravats</i><par n="abords__n"/></e>
 <e lm="méfiance" a="webform"><i>méfiance</i><par n="abeille__n"/></e>
 <e lm="rectification" a="webform"><i>rectification</i><par n="abeille__n"/></e>
 <e lm="référendum" a="webform"><i>référendum</i><par n="livre__n"/></e>
@@ -17863,7 +17830,6 @@
 <e lm="supposition" a="webform" r="RL"><i>supposition</i><par n="abeille__n"/></e>
 <e lm="bringue" a="webform"><i>bringue</i><par n="abeille__n"/></e>
 <e lm="imposition" a="webform"><i>imposition</i><par n="abeille__n"/></e>
-<e lm="enclos" a="webform" r="LR"><i>enclos</i><par n="mois__n"/></e>
 <e lm="guichet" a="webform"><i>guichet</i><par n="livre__n"/></e>
 <e lm="tache" a="webform"><i>tache</i><par n="abeille__n"/></e>
 <e lm="tache" a="webform" r="RL"><i>tache</i><par n="abeille__n"/></e>
@@ -17887,7 +17853,6 @@
 <e lm="chuter" a="webform" r="LR"><i>chut</i><par n="abaiss/er__vblex"/></e>
 <e lm="opportunité" a="webform" r="LR"><i>opportunité</i><par n="abeille__n"/></e>
 <e lm="redistribuer" a="webform"><i>redistribu</i><par n="abaiss/er__vblex"/></e>
-<e lm="passation" a="webform" r="LR"><i>passation</i><par n="livre__n"/></e>
 <e lm="valoriser" a="webform"><i>valoris</i><par n="abaiss/er__vblex"/></e>
 <e lm="confrontation" a="webform"><i>confrontation</i><par n="abeille__n"/></e>
 <e lm="appauvrir" a="webform"><p><l>appauvr</l><r>appauvr</r></p><par n="about/[]ir__vblex" prm=""/></e>
@@ -17895,7 +17860,6 @@
 <e lm="cheville" a="webform"><i>cheville</i><par n="abeille__n"/></e>
 <e lm="unanimité" a="webform"><i>unanimité</i><par n="abeille__n"/></e>
 <e lm="vaillance" a="webform"><i>vaillance</i><par n="abeille__n"/></e>
-<e lm="litée" a="webform" r="LR"><i>litée</i><par n="abeille__n"/></e>
 <e lm="expérience" a="webform"><i>expérience</i><par n="abeille__n"/></e>
 <e lm="rigoler" a="webform"><i>rigol</i><par n="abaiss/er__vblex"/></e>
 <e lm="aggraver" a="webform"><i>aggrav</i><par n="abaiss/er__vblex"/></e>
@@ -17912,7 +17876,6 @@
 <e lm="compétiteur" a="webform" r="LR"><i>compétit</i><par n="administrat/eur__n"/></e>
 <e lm="communiqué" a="webform"><i>communiqué</i><par n="livre__n"/></e>
 <e lm="conte" a="webform"><i>conte</i><par n="livre__n"/></e>
-<e lm="désordre" a="webform" c="desórdenes" r="LR"><i>désordre</i><par n="livre__n"/></e>
 <e lm="déguisement" a="webform" c="disfraces"><i>déguisement</i><par n="livre__n"/></e>
 <e lm="contrariété" a="webform"><i>contrariété</i><par n="abeille__n"/></e>
 <e lm="contrariété" a="webform" r="RL"><i>contrariété</i><par n="abeille__n"/></e>
@@ -17965,7 +17928,6 @@
 <e lm="siège" a="webform" r="LR"><i>siège</i><par n="livre__n"/></e>
 <e lm="tank" a="webform"><i>tank</i><par n="livre__n"/></e>
 <e lm="tronçon" a="webform"><i>tronçon</i><par n="livre__n"/></e>
-<e lm="long métrage" a="webform" r="LR"><i>long<b/>métrage</i><par n="livre__n"/></e>
 <e lm="mail" a="webform" r="LR"><i>mail</i><par n="livre__n"/></e>
 <e lm="e-mail" a="webform"><i>e-mail</i><par n="livre__n"/></e>
 <e lm="e-mail" a="webform" r="RL"><i>e-mail</i><par n="livre__n"/></e>
@@ -19479,7 +19441,6 @@
 <e lm="bûcher" a="webform"><i>bûcher</i><par n="livre__n"/></e>
 <e lm="flexibilité" a="webform"><i>flexibilité</i><par n="abeille__n"/></e>
 <e lm="firmament" a="webform"><i>firmament</i><par n="livre__n"/></e>
-<e lm="filmage" a="webform" r="LR"><i>filmage</i><par n="abeille__n"/></e>
 <e lm="fidélité" a="webform"><i>fidélité</i><par n="abeille__n"/></e>
 <e lm="festivité" a="webform"><i>festivité</i><par n="abeille__n"/></e>
 <e lm="cortège" a="webform" r="LR"><i>cortège</i><par n="livre__n"/></e>
@@ -19519,7 +19480,6 @@
 <e lm="affrontement" a="webform"><i>affrontement</i><par n="livre__n"/></e>
 <e lm="Rojo" a="webform"><i>Rojo</i><par n="Nom__np"/></e>
 <e lm="atteindre" a="webform" r="LR"><i>attei</i><par n="cei/ndre__vblex"/></e>
-<e lm="index" a="webform" r="LR"><i>index</i><par n="mois__n"/></e>
 <e lm="location" a="webform" c="posar loyer de fr a es"><i>location</i><par n="abeille__n"/></e>
 <e lm="fil" a="webform" c="esborrar entrada unidireccional"><i>fil</i><par n="livre__n"/></e>
 <e lm="ensuite" a="webform" r="LR"><i>ensuite</i><par n="hier__adv"/></e>
@@ -19604,7 +19564,6 @@
 <e lm="détention" a="webform" r="LR"><i>détention</i><par n="abeille__n"/></e>
 <e r="LR" lm="évaluation" a="webform"><p><l>Evaluation</l><r>évaluation</r></p><par n="abeille__n"/></e>
 <e lm="évaluation" a="webform"><i>évaluation</i><par n="abeille__n"/></e>
-<e lm="maintien" a="webform" r="LR"><i>maintien</i><par n="livre__n"/></e>
 <e lm="endroit" a="webform" r="LR"><i>endroit</i><par n="livre__n"/></e>
 <e lm="sauf" a="webform"><i>sau</i><par n="affirmati/f__adj"/></e>
 <e lm="sauf" a="webform"><i>sauf</i><par n="attendu__pr"/></e>
@@ -19745,13 +19704,11 @@
 <e lm="quoi que ce soit" a="webform"><i>quoi<b/>que<b/>ce<b/>soit<b/>que</i><par n="afin_que__cnjadv"/></e>
 <e lm="faire appel" a="webform"><i>f</i><par n="déf/aire__vblex"/><p><l><b/>appel</l><r><g><b/>appel</g></r></p></e>
 <e lm="bouclier" a="webform"><i>bouclier</i><par n="livre__n"/></e>
-<e lm="commande" a="webform" r="LR"><i>commande</i><par n="livre__n"/></e>
 <e lm="échec" a="webform" r="LR"><p><l>Echec</l><r>échec</r></p><par n="livre__n"/></e>
 <e lm="échec" a="webform" r="LR"><i>échec</i><par n="livre__n"/></e>
 <e lm="voeu" a="webform" r="LR"><i>voeu</i><par n="lieu__n"/></e>
 <e lm="guérilla" a="webform"><i>guérilla</i><par n="abeille__n"/></e>
 <e lm="mondialisation" a="webform"><i>mondialisation</i><par n="abeille__n"/></e>
-<e lm="sursis" a="webform" r="LR"><i>sursis</i><par n="livre__n"/></e>
 <e lm="préfecture" a="webform"><i>préfecture</i><par n="abeille__n"/></e>
 <e lm="au prétexte de" a="webform"><i>au<b/>prétexte<b/></i><par n="contde__pr"/></e>
 <e lm="au bout de" a="webform"><i>au<b/>bout<b/></i><par n="contde__pr"/></e>
@@ -19807,7 +19764,6 @@
 <e lm="subtilité" a="webform"><i>subtilité</i><par n="abeille__n"/></e>
 <e lm="tranquillité" a="webform"><i>tranquillité</i><par n="abeille__n"/></e>
 <e lm="universalité" a="webform"><i>universalité</i><par n="abeille__n"/></e>
-<e lm="faisabilité" a="webform" r="LR"><i>faisabilité</i><par n="abeille__n"/></e>
 <e lm="volatilité" a="webform"><i>volatilité</i><par n="abeille__n"/></e>
 <e lm="abolition" a="webform"><i>abolition</i><par n="abeille__n"/></e>
 <e lm="affliction" a="webform"><i>affliction</i><par n="abeille__n"/></e>
@@ -19880,60 +19836,39 @@
 <e lm="sustentation" a="webform"><i>sustentation</i><par n="abeille__n"/></e>
 <e lm="traction" a="webform"><i>traction</i><par n="abeille__n"/></e>
 <e lm="unification" a="webform"><i>unification</i><par n="abeille__n"/></e>
-<e lm="argumentation" r="LR" a="webform"><i>argumentation</i><par n="abeille__n"/></e>
 <e lm="celebration" r="LR" a="webform"><i>celebration</i><par n="abeille__n"/></e>
 <e lm="classification" r="LR" a="webform"><i>classification</i><par n="abeille__n"/></e>
 <e lm="colocation" r="LR" a="webform"><i>colocation</i><par n="abeille__n"/></e>
 <e lm="competition" r="LR" a="webform"><i>competition</i><par n="abeille__n"/></e>
-<e lm="comunication" r="LR" a="webform"><i>comunication</i><par n="abeille__n"/></e>
 <e lm="continuation" r="LR" a="webform"><i>continuation</i><par n="abeille__n"/></e>
 <e lm="cooperation" r="LR" a="webform"><i>cooperation</i><par n="abeille__n"/></e>
-<e lm="deception" r="LR" a="webform"><i>deception</i><par n="abeille__n"/></e>
 <e lm="declaration" r="LR" a="webform"><i>declaration</i><par n="abeille__n"/></e>
 <e lm="déduction" r="LR" a="webform"><i>déduction</i><par n="abeille__n"/></e>
-<e lm="décélération" r="LR" a="webform"><i>décélération</i><par n="abeille__n"/></e>
 <e lm="detention" r="LR" a="webform"><i>detention</i><par n="abeille__n"/></e>
 <e lm="execution" r="LR" a="webform"><i>execution</i><par n="abeille__n"/></e>
-<e lm="election" r="LR" a="webform"><i>election</i><par n="abeille__n"/></e>
 <e lm="speculation" r="LR" a="webform"><i>speculation</i><par n="abeille__n"/></e>
 <e lm="expedition" r="LR" a="webform"><i>expedition</i><par n="abeille__n"/></e>
 <e lm="extinction" r="LR" a="webform"><i>extinction</i><par n="abeille__n"/></e>
-<e lm="federation" r="LR" a="webform"><i>federation</i><par n="abeille__n"/></e>
 <e lm="generation" r="LR" a="webform"><i>generation</i><par n="abeille__n"/></e>
 <e lm="jubilation" r="LR" a="webform"><i>jubilation</i><par n="abeille__n"/></e>
 <e lm="liberation" r="LR" a="webform"><i>liberation</i><par n="abeille__n"/></e>
-<e lm="immatriculation" r="LR" a="webform"><i>immatriculation</i><par n="abeille__n"/></e>
-<e lm="operation" r="LR" a="webform"><i>operation</i><par n="abeille__n"/></e>
-<e lm="ordination" r="LR" a="webform"><i>ordination</i><par n="abeille__n"/></e>
 <e lm="organization" r="LR" a="webform"><i>organization</i><par n="abeille__n"/></e>
-<e lm="pénalisation" r="LR" a="webform"><i>pénalisation</i><par n="abeille__n"/></e>
 <e lm="perception" r="LR" a="webform"><i>perception</i><par n="abeille__n"/></e>
-<e lm="pérégrination" r="LR" a="webform"><i>pérégrination</i><par n="abeille__n"/></e>
-<e lm="préinscription" r="LR" a="webform"><i>préinscription</i><par n="abeille__n"/></e>
 <e lm="prevention" r="LR" a="webform"><i>prevention</i><par n="abeille__n"/></e>
-<e lm="reparution" r="LR" a="webform"><i>reparution</i><par n="abeille__n"/></e>
 <e lm="reconciliation" r="LR" a="webform"><i>reconciliation</i><par n="abeille__n"/></e>
-<e lm="recréation" r="LR" a="webform"><i>recréation</i><par n="abeille__n"/></e>
 <e lm="redaction" r="LR" a="webform"><i>redaction</i><par n="abeille__n"/></e>
 <e lm="reduction" r="LR" a="webform"><i>reduction</i><par n="abeille__n"/></e>
 <e lm="réglementation" r="LR" a="webform"><i>réglementation</i><par n="abeille__n"/></e>
 <e lm="regulation" r="LR" a="webform"><i>regulation</i><par n="abeille__n"/></e>
 <e lm="rehabilitation" r="LR" a="webform"><i>rehabilitation</i><par n="abeille__n"/></e>
-<e lm="reorganization" r="LR" a="webform"><i>reorganization</i><par n="abeille__n"/></e>
 <e lm="restriction" r="LR" a="webform"><i>restriction</i><par n="abeille__n"/></e>
 <e lm="revolution" r="LR" a="webform"><i>revolution</i><par n="abeille__n"/></e>
-<e lm="rotation" r="LR" a="webform"><i>rotation</i><par n="abeille__n"/></e>
-<e lm="sujétion" r="LR" a="webform"><i>sujétion</i><par n="abeille__n"/></e>
 <e lm="souscription" r="LR" a="webform"><i>souscription</i><par n="abeille__n"/></e>
 <e lm="votation" a="webform"><i>votation</i><par n="abeille__n"/></e>
 
 <e lm="restriction" a="webform" r="LR">
   <i>restriction</i>
   <par n="abeille__n"/>
-</e>
-<e lm="partage" a="webform" r="LR">
-  <i>partage</i>
-  <par n="livre__n"/>
 </e>
 <e lm="district" a="webform" r="LR">
   <i>district</i>
@@ -20010,10 +19945,6 @@
 <e lm="Antenne 2" a="webform">
   <i>Antenne<b/>2</i>
   <par n="Autre__np"/>
-</e>
-<e lm="impasse" a="webform" r="LR">
-  <i>impasse</i>
-  <par n="livre__n"/>
 </e>
 <e lm="retraiter" a="webform">
   <i>retrait</i>
@@ -26443,10 +26374,6 @@
   <i>stationnement</i>
   <par n="livre__n"/>
 </e>
-<e lm="agrocarburant" a="eleka" r="LR">
-  <i>agrocarburant</i>
-  <par n="livre__n"/>
-</e>
 <e lm="conduite" a="eleka">
   <i>conduite</i>
   <par n="abeille__n"/>
@@ -29067,10 +28994,6 @@
   <i>Lorenzetto</i>
   <par n="Nom__np"/>
 </e>
-<e lm="présaison" a="eleka" r="LR">
-  <i>présaison</i>
-  <par n="abeille__n"/>
-</e>
 <e lm="Urnieta" a="eleka">
   <i>Urnieta</i>
   <par n="Lieu__np"/>
@@ -30535,10 +30458,6 @@
   <i>préventi</i>
   <par n="affirmati/f__adj"/>
 </e>
-<e lm="photo-galerie" a="eleka" r="LR">
-  <i>photo-galerie</i>
-  <par n="abeille__n"/>
-</e>
 <e lm="crack" a="eleka">
   <i>crack</i>
   <par n="livre__n"/>
@@ -31057,14 +30976,6 @@
     <r><g><b/>abstraction</g></r>
   </p>
 </e>-->
-<e lm="marché aux puces" a="eleka" r="LR">
-  <i>marché</i>
-  <par n="livre__n"/>
-<p>
-    <l><b/>aux<b/>puces</l>
-    <r><g><b/>aux<b/>puces</g></r>
-  </p>
-</e>
 <e lm="officialiser" a="eleka">
   <i>officialis</i>
   <par n="abaiss/er__vblex"/>
@@ -32414,10 +32325,6 @@
   <i>Saint<b/>John's</i>
   <par n="Lieu__np"/>
 </e>
-<e lm="bourka" a="eleka" r="LR">
-  <i>bourka</i>
-  <par n="artiste__n"/>
-</e>
 <e lm="énergisant" a="eleka">
   <i>énergisant</i>
   <par n="abaissant__adj"/>
@@ -32893,10 +32800,6 @@
 <e lm="Messi" a="eleka">
   <i>Messi</i>
   <par n="Nom__np"/>
-</e>
-<e lm="marquis" a="eleka" r="LR">
-  <i>marquis</i>
-  <par n="admis__n"/>
 </e>
 <e lm="Interpol" a="eleka">
   <i>Interpol</i>
@@ -33684,10 +33587,6 @@
   <i>escroquerie</i>
   <par n="abeille__n"/>
 </e>
-<e lm="ESK" a="eleka" r="LR">
-  <i>ESK</i>
-  <par n="BBC__n"/>
-</e>
 <e lm="Cassandra" a="eleka">
   <i>Cassandra</i>
   <par n="Nom__np"/>
@@ -33719,10 +33618,6 @@
 </e>
 <e lm="actrice" a="eleka">
   <i>actrice</i>
-  <par n="abeille__n"/>
-</e>
-<e lm="antiglobalisation" a="eleka" r="LR">
-  <i>antiglobalisation</i>
   <par n="abeille__n"/>
 </e>
 <e lm="mondialisation" a="eleka">
@@ -34378,10 +34273,6 @@
   <i>des<b/>Templiers</i>
   <par n="arrière__adj"/>
 </e>
-<e lm="templier" a="eleka" r="LR">
-  <i>templier</i>
-  <par n="livre__n"/>
-</e>
 <e lm="reprocher" a="eleka">
   <i>reproch</i>
   <par n="abaiss/er__vblex"/>
@@ -34413,10 +34304,6 @@
 <e lm="inculper" a="eleka" r="LR">
   <i>inculp</i>
   <par n="abaiss/er__vblex"/>
-</e>
-<e lm="informations" a="eleka" r="LR">
-  <i>informations</i>
-  <par n="vacances__n"/>
 </e>
 <e lm="fermeture" a="eleka">
   <i>fermeture</i>
@@ -36958,14 +36845,6 @@
     <r><g><b/>à<b/>échéance</g></r>
   </p>
 </e>-->
-<e lm="réparateur d'antennes" a="eleka" r="LR">
-  <i>réparat</i>
-  <par n="administrat/eur__n"/>
-<p>
-    <l><b/>d'antennes</l>
-    <r><g><b/>d'antennes</g></r>
-  </p>
-</e>
 <!--<e lm="mettre en évidence" a="eleka">
   <i>m</i>
   <par n="adm/ettre__vblex"/>
@@ -37001,10 +36880,6 @@
 <e lm="gaulois" a="eleka" r="LR">
   <i>gaulois</i>
   <par n="anglais__adj"/>
-</e>
-<e lm="gaulois" a="eleka" r="LR">
-  <i>gaulois</i>
-  <par n="admis__n"/>
 </e>
 <e lm="Batura Mobile Solutions" a="eleka">
   <i>Batura<b/>Mobile<b/>Solutions</i>
@@ -41409,10 +41284,6 @@
   <i>post</i>
   <par n="livre__n"/>
 </e>
-<e lm="gouv" a="eleka" r="LR">
-  <i>gouv</i>
-  <par n="mois__n"/>
-</e>
 <e lm="kg" a="eleka">
   <i>kg</i>
   <par n="mois__n"/>
@@ -42908,7 +42779,6 @@
 <e lm="ouverture" a="eleka"><i>ouverture</i><par n="abeille__n"/></e>
 <e lm="patrimoine" a="eleka"><i>patrimoine</i><par n="livre__n"/></e>
 <e lm="penalty" a="eleka"><i>penalty</i><par n="livre__n"/></e>
-<e lm="photonouvelle" a="eleka" r="LR"><i>photonouvelle</i><par n="abeille__n"/></e>
 <e lm="retrouver" a="eleka"><i>retrouv</i><par n="abaiss/er__vblex"/></e>
 <e lm="intercepter" a="eleka"><i>intercept</i><par n="abaiss/er__vblex"/></e>
 <e lm="démarquer" a="eleka"><i>démarqu</i><par n="abaiss/er__vblex"/></e>
@@ -45890,6 +45760,139 @@
 <!--@@@-->
   <!--<section id="pending" type="standard">
 
+          <e lm="touron" r="LR"><i>touron</i><par n="livre__n"/></e>
+<e lm="templier" a="eleka" r="LR">
+  <i>templier</i>
+  <par n="livre__n"/>
+</e>
+<e lm="sursis" a="webform" r="LR"><i>sursis</i><par n="livre__n"/></e>
+<e lm="sujétion" r="LR" a="webform"><i>sujétion</i><par n="abeille__n"/></e>
+          <e lm="salutation" r="LR"><i>salutation</i><par n="abeille__n"/></e>
+          <e lm="rouvre" r="LR"><i>rouvre</i><par n="livre__n"/></e>
+<e lm="rotation" r="LR" a="webform"><i>rotation</i><par n="abeille__n"/></e>
+          <e lm="requête" r="LR"><i>requête</i><par n="abeille__n"/></e>
+<e lm="reparution" r="LR" a="webform"><i>reparution</i><par n="abeille__n"/></e>
+<e lm="réparateur d'antennes" a="eleka" r="LR">
+  <i>réparat</i>
+  <par n="administrat/eur__n"/>
+<p>
+    <l><b/>d'antennes</l>
+    <r><g><b/>d'antennes</g></r>
+  </p>
+</e>
+<e lm="reorganization" r="LR" a="webform"><i>reorganization</i><par n="abeille__n"/></e>
+<e lm="recréation" r="LR" a="webform"><i>recréation</i><par n="abeille__n"/></e>
+          <e lm="recours" r="LR"><i>recours</i><par n="mois__n"/></e>
+          <e lm="rayonnage" r="LR"><i>rayonnage</i><par n="livre__n"/></e>
+<e lm="rally" a="webform" r="LR"><i>rally</i><par n="livre__n"/></e>
+<e lm="présaison" a="eleka" r="LR">
+  <i>présaison</i>
+  <par n="abeille__n"/>
+</e>
+<e lm="préinscription" r="LR" a="webform"><i>préinscription</i><par n="abeille__n"/></e>
+          <e lm="policier" r="LR"><i>polici</i><par n="bouch/er__n"/></e>
+          <e lm="platane" r="LR"><i>platane</i><par n="livre__n"/></e>
+<e lm="photonouvelle" a="eleka" r="LR"><i>photonouvelle</i><par n="abeille__n"/></e>
+<e lm="photo-galerie" a="eleka" r="LR">
+  <i>photo-galerie</i>
+  <par n="abeille__n"/>
+</e>
+<e lm="pérégrination" r="LR" a="webform"><i>pérégrination</i><par n="abeille__n"/></e>
+<e lm="penchant" a="webform" r="LR"><i>penchant</i><par n="livre__n"/></e>
+<e lm="pénalisation" r="LR" a="webform"><i>pénalisation</i><par n="abeille__n"/></e>
+<e lm="passation" a="webform" r="LR"><i>passation</i><par n="livre__n"/></e>
+<e lm="participe" a="webform" r="LR"><i>participe</i><par n="livre__n"/></e>
+<e lm="partage" a="webform" r="LR">
+  <i>partage</i>
+  <par n="livre__n"/>
+</e>
+          <e lm="oreiller" r="LR"><i>oreiller</i><par n="livre__n"/></e>
+<e lm="ordination" r="LR" a="webform"><i>ordination</i><par n="abeille__n"/></e>
+<e lm="operation" r="LR" a="webform"><i>operation</i><par n="abeille__n"/></e>
+          <e lm="office" r="LR"><i>office</i><par n="abeille__n"/></e>
+          <e lm="office" r="LR"><i>office</i><par n="livre__n"/></e>
+          <e lm="naïveté" r="LR"><i>naïveté</i><par n="abeille__n"/></e>
+          <e lm="montreur" r="LR"><i>montreu</i><par n="causeu/r__n"/></e>
+<e lm="marquis" a="eleka" r="LR">
+  <i>marquis</i>
+  <par n="admis__n"/>
+</e>
+<e lm="marché aux puces" a="eleka" r="LR">
+  <i>marché</i>
+  <par n="livre__n"/>
+<p>
+    <l><b/>aux<b/>puces</l>
+    <r><g><b/>aux<b/>puces</g></r>
+  </p>
+</e>
+<e lm="maintien" a="webform" r="LR"><i>maintien</i><par n="livre__n"/></e>
+<e lm="long métrage" a="webform" r="LR"><i>long<b/>métrage</i><par n="livre__n"/></e>
+<e lm="litée" a="webform" r="LR"><i>litée</i><par n="abeille__n"/></e>
+<e lm="informations" a="eleka" r="LR">
+  <i>informations</i>
+  <par n="vacances__n"/>
+</e>
+<e lm="index" a="webform" r="LR"><i>index</i><par n="mois__n"/></e>
+<e lm="impasse" a="webform" r="LR">
+  <i>impasse</i>
+  <par n="livre__n"/>
+</e>
+<e lm="immatriculation" r="LR" a="webform"><i>immatriculation</i><par n="abeille__n"/></e>
+<e lm="gravats" a="webform" r="LR"><i>gravats</i><par n="abords__n"/></e>
+<e lm="gouv" a="eleka" r="LR">
+  <i>gouv</i>
+  <par n="mois__n"/>
+</e>
+<e lm="gaulois" a="eleka" r="LR">
+  <i>gaulois</i>
+  <par n="admis__n"/>
+</e>
+<e lm="filmage" a="webform" r="LR"><i>filmage</i><par n="abeille__n"/></e>
+<e lm="federation" r="LR" a="webform"><i>federation</i><par n="abeille__n"/></e>
+<e lm="faisabilité" a="webform" r="LR"><i>faisabilité</i><par n="abeille__n"/></e>
+          <e lm="extrême" r="LR"><i>extrême</i><par n="livre__n"/></e>
+<e lm="ESK" a="eleka" r="LR">
+  <i>ESK</i>
+  <par n="BBC__n"/>
+</e>
+          <e lm="enveloppe" r="LR"><i>enveloppe</i><par n="abeille__n"/></e>
+          <e lm="embrun" r="LR"><i>embrun</i><par n="livre__n"/></e>
+<e lm="enclos" a="webform" r="LR"><i>enclos</i><par n="mois__n"/></e>
+<e lm="election" r="LR" a="webform"><i>election</i><par n="abeille__n"/></e>
+          <e lm="détriment" r="LR"><i>détriment</i><par n="livre__n"/></e>
+          <e lm="détente" r="LR"><i>détente</i><par n="abeille__n"/></e>
+<e lm="désordre" a="webform" c="desórdenes" r="LR"><i>désordre</i><par n="livre__n"/></e>
+          <e lm="désordre"><i>désordre</i><par n="livre__n"/></e>
+          <e lm="décoration" r="LR"><i>décoration</i><par n="abeille__n"/></e>
+<e lm="deception" r="LR" a="webform"><i>deception</i><par n="abeille__n"/></e>
+<e lm="décélération" r="LR" a="webform"><i>décélération</i><par n="abeille__n"/></e>
+          <e lm="courtine" r="LR"><i>courtine</i><par n="abeille__n"/></e>
+<e lm="comunication" r="LR" a="webform"><i>comunication</i><par n="abeille__n"/></e>
+<e lm="commande" a="webform" r="LR"><i>commande</i><par n="livre__n"/></e>
+          <e lm="citation" r="LR"><i>citation</i><par n="abeille__n"/></e>
+          <e lm="chair" r="LR"><i>chair</i><par n="abeille__n"/></e>
+          <e lm="carrefour" r="LR"><i>carrefour</i><par n="livre__n"/></e>
+          <e lm="canton" r="LR"><i>canton</i><par n="livre__n"/></e>
+          <e lm="brigand" r="LR"><i>brigand</i><par n="livre__n"/></e>
+<e lm="bourka" a="eleka" r="LR">
+  <i>bourka</i>
+  <par n="artiste__n"/>
+</e>
+<e lm="bourg" a="webform" r="LR"><i>bourg</i><par n="livre__n"/></e>
+          <e lm="bicyclette" r="LR"><i>bicyclette</i><par n="abeille__n"/></e>
+          <e lm="berge" r="LR"><i>berge</i><par n="abeille__n"/></e>
+<e lm="argumentation" r="LR" a="webform"><i>argumentation</i><par n="abeille__n"/></e>
+<e lm="antiglobalisation" a="eleka" r="LR">
+  <i>antiglobalisation</i>
+  <par n="abeille__n"/>
+</e>
+          <e lm="amusement" r="LR"><i>amusement</i><par n="livre__n"/></e>
+          <e lm="accoutrement" r="LR"><i>accoutrement</i><par n="livre__n"/></e>
+          <e lm="agrès" r="LR"><i>agrès</i><par n="mois__n"/></e>
+<e lm="agrocarburant" a="eleka" r="LR">
+  <i>agrocarburant</i>
+  <par n="livre__n"/>
+</e>
     <e r="LR" lm="merci d'"><p><l>merci<b/>d'</l><r>merci<b/>de<s n="pr"/></r></p></e>
 <e lm="merci de" a="eleka">
   <i>merci<b/></i>
@@ -45897,8 +45900,6 @@
 </e>
 <e lm="sous-embr."><i>sous-embr.</i><par n="personnel__n"/></e>
 <e lm="avant J.-C."><i>avant<b/>J.-C.</i><par n="arrière__adj"/></e>
-          <e lm="extrême" r="LR"><i>extrême</i><par n="livre__n"/></e>
-          <e lm="policier" r="LR"><i>polici</i><par n="bouch/er__n"/></e>
 <e lm="familial" a="webform" r="LR"><i>familia</i><par n="amica/l__adj"/></e>
 
 <e r="LR" lm="Bassora" a="webform"><i>Bassora</i><par n="Lieu__np"/></e>
@@ -48033,7 +48034,6 @@
           <e lm="désavantage"><i>désavantage</i><par n="livre__n"/></e>
           <e lm="désespoir"><i>désespoir</i><par n="livre__n"/></e>
           <e lm="désordonné"><i>désordonné</i><par n="abaissant__adj"/></e>
-          <e lm="désordre"><i>désordre</i><par n="livre__n"/></e>
           <e lm="détenteur"><i>détent</i><par n="administrat/eur__n"/></e>
           <e lm="détestable"><i>détestable</i><par n="académique__adj"/></e>
           <e lm="déviation"><i>déviation</i><par n="abeille__n"/></e>
