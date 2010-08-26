@@ -13364,7 +13364,6 @@
           <e lm="agent"><i>agent</i><par n="artiste__n"/></e>
           <e lm="agile"><i>agile</i><par n="académique__adj"/></e>
           <e lm="agilité"><i>agilité</i><par n="abeille__n"/></e>
-          <e lm="agir"><i>ag</i><par n="about/[]ir__vblex" prm=""/></e>
           <e lm="agiter"><i>agit</i><par n="abaiss/er__vblex"/></e>
           <e lm="agneau"><i>agneau</i><par n="livre__n"/></e>
           <e lm="agresseur"><i>agresseu</i><par n="causeu/r__n"/></e>
@@ -13788,7 +13787,6 @@
           <e lm="caractériser"><i>caractéris</i><par n="abaiss/er__vblex"/></e>
           <e lm="caresser"><i>caress</i><par n="abaiss/er__vblex"/></e>
           <e lm="carrefour" r="LR"><i>carrefour</i><par n="livre__n"/></e>
-          <e lm="carrer" r="LR"><i>carr</i><par n="abaiss/er__vblex"/></e>
           <e lm="carrière" r="LR"><i>carrière</i><par n="abeille__n"/></e>
           <e lm="carrément" r="LR"><i>carrément</i><par n="hier__adv"/></e>
           <e lm="carte"><i>carte</i><par n="abeille__n"/></e>
@@ -15769,7 +15767,6 @@
           <e lm="pointe"><i>pointe</i><par n="abeille__n"/></e>
           <e lm="poisson"><i>poisson</i><par n="livre__n"/></e>
           <e lm="poitrine"><i>poitrine</i><par n="abeille__n"/></e>
-          <e lm="policer" r="LR"><i>poli</i><par n="annon/cer__vblex"/></e>
           <e lm="policier" r="LR"><i>polici</i><par n="bouch/er__n"/></e>
           <e lm="pollution"><i>pollution</i><par n="abeille__n"/></e>
           <e lm="polémique"><i>polémique</i><par n="abeille__n"/></e>
@@ -16221,7 +16218,6 @@
           <e lm="réfractaire" r="LR"><i>réfractaire</i><par n="académique__adj"/></e>
           <e lm="réfugier"><i>réfugi</i><par n="abaiss/er__vblex"/></e>
           <e lm="référence"><i>référence</i><par n="abeille__n"/></e>
-          <e lm="réf."><i>réf.</i><par n="personnel__n"/></e>
           <e lm="référendum"><i>référendum</i><par n="livre__n"/></e>
           <e lm="régime"><i>régime</i><par n="livre__n"/></e>
           <e lm="région"><i>région</i><par n="abeille__n"/></e>
@@ -19555,12 +19551,10 @@
 <e lm="abîme" a="webform" r="LR"><i>abîme</i><par n="livre__n"/></e>
 <e lm="affrontement" a="webform"><i>affrontement</i><par n="livre__n"/></e>
 <e lm="Rojo" a="webform"><i>Rojo</i><par n="Nom__np"/></e>
-<e lm="choix" a="webform" r="LR"><i>choix</i><par n="livre__n"/></e>
 <e lm="atteindre" a="webform" r="LR"><i>attei</i><par n="cei/ndre__vblex"/></e>
 <e lm="index" a="webform" r="LR"><i>index</i><par n="mois__n"/></e>
 <e lm="location" a="webform" c="posar loyer de fr a es"><i>location</i><par n="abeille__n"/></e>
 <e lm="fil" a="webform" c="esborrar entrada unidireccional"><i>fil</i><par n="livre__n"/></e>
-<e lm="toutefois" a="webform" r="LR"><i>toutefois</i><par n="hier__adv"/></e>
 <e lm="ensuite" a="webform" r="LR"><i>ensuite</i><par n="hier__adv"/></e>
 <e lm="déléguer" a="webform"><i>dél</i><par n="accél/é[R]er__vblex" prm="gu"/></e>
 <e lm="appeler" a="webform" c="modificar crier por gritar"><p><l>appel</l><r>appel</r></p><par n="appel/er__vblex"/></e>
@@ -36342,10 +36336,6 @@
   <i>reformul</i>
   <par n="abaiss/er__vblex"/>
 </e>
-<e lm="cachet" a="eleka" r="LR">
-  <i>cachet</i>
-  <par n="livre__n"/>
-</e>
 <e lm="Moisés" a="eleka">
   <i>Moisés</i>
   <par n="Nom__np"/>
@@ -46212,7 +46202,17 @@
 <!--@@@-->
   <!--<section id="pending" type="standard">
 
-<e lm="n°"><i>n°</i><par n="mois__n"/></e> <!-- numéro -->
+          <e lm="carrer" r="LR"><i>carr</i><par n="abaiss/er__vblex"/></e>
+<e lm="cachet" a="eleka" r="LR">
+  <i>cachet</i>
+  <par n="livre__n"/>
+</e>
+<e lm="toutefois" a="webform" r="LR"><i>toutefois</i><par n="hier__adv"/></e>
+<e lm="choix" a="webform" r="LR"><i>choix</i><par n="livre__n"/></e>
+          <e lm="policer" r="LR"><i>poli</i><par n="annon/cer__vblex"/></e>
+          <e lm="agir"><i>ag</i><par n="about/[]ir__vblex" prm=""/></e>
+          <e lm="réf."><i>réf.</i><par n="personnel__n"/></e>
+<e lm="n°"><i>n°</i><par n="mois__n"/></e> 
 <e lm="Israël" a="eleka">
   <i>Israël</i>
   <par n="Lieu__np"/>

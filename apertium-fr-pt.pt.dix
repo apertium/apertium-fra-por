@@ -120958,10 +120958,6 @@
         <par n="abal/ar__vblex"/>
       </e>
       
-      <e lm="agir">
-        <i>a</i>
-        <par n="atin/gir__vblex"/>
-      </e>
       
       <e lm="agitar">
         <i>agit</i>
@@ -141418,6 +141414,10 @@
   <!--<section id="pending" type="standard">
 
 
+      <e lm="agir">
+        <i>a</i>
+        <par n="atin/gir__vblex"/>
+      </e>
       <e lm="evidente">
         <i>evidente</i>
         <par n="agrícola__adj"/>
