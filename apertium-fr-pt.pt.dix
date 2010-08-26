@@ -99794,10 +99794,6 @@
       </e>
       
       
-      <e lm="fraudador" r="LR">
-        <i>fraudador</i>
-        <par n="admirador__n"/>
-      </e>
       
       <e lm="delicado">
         <i>delicad</i>
@@ -104749,10 +104745,6 @@
         <par n="accionista__n"/>
       </e>
       
-      <e lm="andamento" r="LR">
-        <i>andamento</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="andar">
         <i>andar</i>
@@ -105316,10 +105308,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="mamadeira" r="LR">
-        <i>mamadeira</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="bando">
         <i>bando</i>
@@ -106129,10 +106117,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="companheiro" r="LR">
-        <i>companheir</i>
-        <par n="adept/o__n"/>
-      </e>
       
       <e lm="companhia">
         <i>companhia</i>
@@ -106154,10 +106138,6 @@
         <par n="aceitaç/ão__n"/>
       </e>
       
-      <e lm="competência" r="LR">
-        <i>competência</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="complicação">
         <i>complicaç</i>
@@ -106542,15 +106522,7 @@
         <par n="actriz__n"/>
       </e>
       
-      <e lm="cor" r="LR">
-        <i>cor</i>
-        <par n="amor__n"/>
-      </e>
      
-      <e lm="contributo" r="LR">
-        <i>contributo</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="coração">
         <i>coraç</i>
@@ -106747,10 +106719,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="câmbio" r="LR">
-        <i>câmbio</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="câmera" v="br">
         <i>câmera</i>
@@ -107593,10 +107561,6 @@
         <par n="abadia__n"/>
       </e>
       
-		<e lm="enfermo" r="LR">
-        <i>enfermo</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="enfoque">
         <i>enfoque</i>
@@ -107705,10 +107669,6 @@
         <par n="escolar__n"/>
       </e>
       
-      <e lm="escolha" r="LR">
-        <i>escolha</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="escombro">
         <i>escombro</i>
@@ -107775,10 +107735,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="esporte" r="LR">
-        <i>esporte</i>
-        <par n="Leste__n"/>
-      </e>
 		<e lm="bem-vindo">
 			<i>bem-vind</i>
 			<par n="abert/o__adj"/>
@@ -107869,10 +107825,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="estupro" r="LR">
-        <i>estupro</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="estádio">
         <i>estádio</i>
@@ -108114,10 +108066,6 @@
         <par n="adept/o__n"/>
       </e>
       
-      <e lm="ferimento" r="LR">
-        <i>ferimento</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="festa">
         <i>festa</i>
@@ -108181,11 +108129,6 @@
       
       <e lm="finança">
         <i>finança</i>
-        <par n="abadia__n"/>
-      </e>
-      
-      <e lm="firma" r="LR">
-        <i>firma</i>
         <par n="abadia__n"/>
       </e>
       
@@ -108568,10 +108511,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="governação" r="LR" >
-        <i>governaç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
       
       <e lm="granada">
         <i>granada</i>
@@ -108961,11 +108900,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="ingresso" r="LR">
-        <i>ingresso</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="iniciativa">
         <i>iniciativa</i>
         <par n="abadia__n"/>
@@ -109251,11 +109185,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="juro" r="LR">
-        <i>juro</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="justiça">
         <i>justiça</i>
         <par n="abadia__n"/>
@@ -109409,11 +109338,6 @@
       <e lm="liga">
         <i>liga</i>
         <par n="abadia__n"/>
-      </e>
-      
-      <e lm="ligação" r="LR">
-        <i>ligaç</i>
-        <par n="aceitaç/ão__n"/>
       </e>
       
       <e lm="limitação">
@@ -109921,10 +109845,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="morador" r="LR">
-        <i>morador</i>
-        <par n="admirador__n"/>
-      </e>
       
       <e lm="mortalidade">
         <i>mortalidade</i>
@@ -110591,11 +110511,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="passagem" r="LR">
-        <i>passage</i>
-        <par n="aterrissage/m__n"/>
-      </e>
-      
       <e lm="passaporte">
         <i>passaporte</i>
         <par n="Leste__n"/>
@@ -110806,15 +110721,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="placar" r="LR">
-        <i>placar</i>
-        <par n="amor__n"/>
-      </e>
-      
-      <e lm="planeamento" r="LR">
-        <i>planeamento</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="planeta">
         <i>planeta</i>
@@ -110880,10 +110786,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="policial" r="LR">
-        <i>policia</i>
-        <par n="genera/l__n"/>
-      </e>
       
       <e lm="poluição">
         <i>poluiç</i>
@@ -111283,11 +111185,6 @@
       <e lm="prudência">
         <i>prudência</i>
         <par n="abadia__n"/>
-      </e>
-      
-      <e lm="prédio" r="LR">
-        <i>prédio</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="príncipe">
@@ -111994,10 +111891,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="safra" r="LR">
-        <i>safra</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="saia">
         <i>saia</i>
@@ -112695,11 +112588,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="time" r="LR">
-        <i>time</i>
-        <par n="Leste__n"/>
-      </e>
-      
       <e lm="tipo">
         <i>tipo</i>
         <par n="Leste__n"/>
@@ -112740,10 +112628,6 @@
         <par n="Leste__n"/>
       </e> 
       
-      <e lm="torcida" r="LR">
-        <i>torcida</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="tormenta">
         <i>tormenta</i>
@@ -112900,11 +112784,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="trem" r="LR">
-        <i>tre</i>
-        <par n="be/m__n"/>
-      </e>
-      
       <e lm="tremor">
         <i>tremor</i>
         <par n="amor__n"/>
@@ -112948,11 +112827,6 @@
       <e lm="tropa">
         <i>tropa</i>
         <par n="abadia__n"/>
-      </e>
-      
-      <e lm="tráfego" r="LR">
-        <i>tráfego</i>
-        <par n="Leste__n"/>
       </e>
       
       <e lm="trânsito">
@@ -113065,11 +112939,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="usina" r="LR">
-        <i>usina</i>
-        <par n="abadia__n"/>
-      </e>
-      
       <e lm="uso">
         <i>uso</i>
         <par n="Leste__n"/>
@@ -113120,10 +112989,6 @@
         <par n="aceitaç/ão__n"/>
       </e>
       
-      <e lm="vazamento" r="LR">
-        <i>vazamento</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="velocidade">
         <i>velocidade</i>
@@ -113145,10 +113010,6 @@
         <par n="Leste__n"/>
       </e>
       
-      <e lm="verba" r="LR">
-        <i>verba</i>
-        <par n="abadia__n"/>
-      </e>
       
       <e lm="verdade">
         <i>verdade</i>
@@ -113403,10 +113264,6 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="êxito" r="LR">
-        <i>êxito</i>
-        <par n="Leste__n"/>
-      </e>
       
       
       <e lm="índice">
@@ -113616,11 +113473,6 @@
       
       <e lm="divulgação">
         <i>divulgaç</i>
-        <par n="aceitaç/ão__n"/>
-      </e>
-      
-      <e lm="agrupação" r="LR">
-        <i>agrupaç</i>
         <par n="aceitaç/ão__n"/>
       </e>
       
@@ -119932,12 +119784,7 @@
         <p><l>ambas</l><r>ambos</r></p>
         <par n="ambas__prn"/>
       </e>
-      
-      <e lm="ambas as" r="LR">
-        <p><l>ambas<b/>as</l><r>ambos<b/>os</r></p>
-        <par n="ambas__prn"/>
-      </e>
-      
+     
       <e lm="ambos">
         <i>ambos</i>
         <par n="ambos__det"/>
@@ -119947,12 +119794,7 @@
         <i>ambos</i>
         <par n="ambos__prn"/>
       </e>
-      
-      <e lm="ambos os" r="LR">
-        <i>ambos<b/>os</i>
-        <par n="ambos__prn"/>
-      </e>
-      
+     
       <e lm="aquele">
         <i>aquel</i>
         <par n="aquel/e__prn"/>
@@ -120212,12 +120054,7 @@
         <i>si</i>
         <par n="si__prn"/>
       </e>
-      
-      <e lm="si próprio" r="LR">
-        <i>si<b/>própri</i>
-        <par n="outr/o__prn"/>
-      </e>
-      
+     
       <e lm="te" r="LR">
         <i>te</i>
         <par n="te__prn"/>
@@ -126587,20 +126424,12 @@
         <par n="abadia__n"/>
       </e>
       
-      <e lm="cinecartaz" r="LR">
-        <i>cinecartaz</i>
-        <par n="amor__n"/>
-      </e>
       
       <e lm="variante">
         <i>variante</i>
         <par n="abadia__n"/>
       </e>
       
-      <e lm="endereço" r="LR">
-        <i>endereço</i>
-        <par n="Leste__n"/>
-      </e>
       
       <e lm="link">
         <i>link</i>
@@ -126904,10 +126733,6 @@
         <par n="conta/_corrente__n"/>
       </e>
       
-      <e lm="shopping center" r="LR">
-        <i>shopping<b/>center</i>
-        <par n="Leste__n"/>
-      </e>
 		
 		<e lm="ter de" v="pt">
 			<i>t</i>
@@ -127432,10 +127257,6 @@
 	<i>Ramón</i>
 	<par n="Nome__np"/>
 </e>
-<e lm="récord" r="LR">
-	<i>récord</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="replicar">
 	<i>repli</i>
 	<par n="abdi/car__vblex"/>
@@ -127495,14 +127316,6 @@
 <e lm="valenciano">
 	<i>valencian</i>
 	<par n="abert/o__adj"/>
-</e>
-<e lm="vasco" r="LR">
-	<i>vasc</i>
-	<par n="adept/o__n"/>
-</e>
-<e lm="vasconço" r="LR">
-	<i>vasconç</i>
-	<par n="adept/o__n"/>
 </e>
 <e lm="web">
 	<i>web</i>
@@ -127772,10 +127585,6 @@
 	<i>sanidade</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="síndroma" r="LR">
-	<i>síndroma</i>
-	<par n="abadia__n"/>
-</e>
 <e lm="Sebastián">
 	<i>Sebastián</i>
 	<par n="Nome__np"/>
@@ -127828,10 +127637,6 @@
 <e lm="clonar">
 	<i>clon</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="cobardia" r="LR">
-	<i>cobardia</i>
-	<par n="abadia__n"/>
 </e>
 <e lm="comarca">
 	<i>comarca</i>
@@ -128263,10 +128068,6 @@
 	<i>coes</i>
 	<par n="aceitaç/ão__n"/>
 </e>
-<e lm="compartilhamento" r="LR">
-	<i>compartilhamento</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="compatibilizar">
 	<i>compatibiliz</i>
 	<par n="abal/ar__vblex"/>
@@ -128309,10 +128110,6 @@
 </e>
 <e lm="couro">
 	<i>couro</i>
-	<par n="Leste__n"/>
-</e>
-<e lm="convívio" r="LR">
-	<i>convívio</i>
 	<par n="Leste__n"/>
 </e>
 <e lm="criatividade">
@@ -129073,10 +128870,6 @@
 	<i>conquistador</i>
 	<par n="conservador__adj"/>
 </e>
-<e lm="crendice" r="LR">
-	<i>crendice</i>
-	<par n="abadia__n"/>
-</e>
 <e lm="crepúsculo">
 	<i>crepúsculo</i>
 	<par n="Leste__n"/>
@@ -129188,10 +128981,6 @@
 <e lm="escorregar">
 	<i>escorreg</i>
 	<par n="abrig/ar__vblex"/>
-</e>
-<e lm="escrita" r="LR">
-	<i>escrita</i>
-	<par n="abadia__n"/>
 </e>
 <e lm="escuridade" r="LR">
 	<i>escuridade</i>
@@ -129493,10 +129282,6 @@
 	<i>lentid</i>
 	<par n="aceitaç/ão__n"/>
 </e>
-<e lm="limiar" r="LR">
-	<i>limiar</i>
-	<par n="amor__n"/>
-</e>
 <e lm="liteira">
 	<i>liteira</i>
 	<par n="abadia__n"/>
@@ -129519,10 +129304,6 @@
 </e>
 <e lm="pálpebra">
 	<i>pálpebra</i>
-	<par n="abadia__n"/>
-</e>
-<e lm="maleta" r="LR">
-	<i>maleta</i>
 	<par n="abadia__n"/>
 </e>
 <e lm="mamã" r="LR">
@@ -129864,14 +129645,6 @@
 <e lm="torcer">
 	<i>tor</i>
 	<par n="abaste/cer__vblex"/>
-</e>
-<e lm="traiçoeiro" r="LR">
-	<i>traiçoeir</i>
-	<par n="adept/o__n"/>
-</e>
-<e lm="umbral" r="LR">
-	<i>umbra</i>
-	<par n="anima/l__n"/>
 </e>
 <e lm="unha">
 	<i>unha</i>
@@ -130289,10 +130062,6 @@
 	<i>bendit</i>
 	<par n="abert/o__adj"/>
 </e>
-<e lm="berro" r="LR">
-	<i>berro</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="bico">
 	<i>bico</i>
 	<par n="Leste__n"/>
@@ -130321,10 +130090,6 @@
 	<i>bravo</i>
 	<par n="adeus__ij"/>
 </e>
-<e lm="brejo" r="LR">
-	<i>brejo</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="bronze">
 	<i>bronze</i>
 	<par n="Leste__n"/>
@@ -130336,10 +130101,6 @@
 <e lm="Buda">
 	<i>Buda</i>
 	<par n="Nome__np"/>
-</e>
-<e lm="burrice" r="LR">
-	<i>burrice</i>
-	<par n="abadia__n"/>
 </e>
 <e lm="caçada">
 	<i>caçada</i>
@@ -130397,10 +130158,6 @@
 	<i>cautela</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="cavaleiro" r="LR">
-	<i>cavaleiro</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="cavalgar">
 	<i>cavalg</i>
 	<par n="abrig/ar__vblex"/>
@@ -130420,10 +130177,6 @@
 <e lm="celeste">
 	<i>celeste</i>
 	<par n="agrícola__adj"/>
-</e>
-<e lm="manchete" r="LR">
-	<i>manchete</i>
-	<par n="Leste__n"/>
 </e>
 <e lm="cercania">
 	<i>cercania</i>
@@ -130937,10 +130690,6 @@
 	<i>escav</i>
 	<par n="abal/ar__vblex"/>
 </e>
-<e lm="escravidão" r="LR">
-	<i>escravid</i>
-	<par n="aceitaç/ão__n"/>
-</e>
 <e lm="escudo">
 	<i>escudo</i>
 	<par n="Leste__n"/>
@@ -130988,10 +130737,6 @@
 <e lm="esquentar" v="br">
 	<i>esquent</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="esquife" r="LR">
-	<i>esquife</i>
-	<par n="Leste__n"/>
 </e>
 <e lm="esticar">
 	<i>esti</i>
@@ -131317,10 +131062,6 @@
 	<i>inquietude</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="insanidade" r="LR">
-	<i>insanidade</i>
-	<par n="abadia__n"/>
-</e>
 <e lm="insígnia">
 	<i>insígnia</i>
 	<par n="abadia__n"/>
@@ -131476,10 +131217,6 @@
 <e lm="luzir">
 	<i>l</i>
 	<par n="cond/uzir__vblex"/>
-</e>
-<e lm="macacão" r="LR">
-	<i>macac</i>
-	<par n="avi/ão__n"/>
 </e>
 <e lm="maçã">
 	<i>maçã</i>
@@ -131721,10 +131458,6 @@
 	<i>pantera</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="parasito" r="LR">
-	<i>parasito</i>
-	<par n="Leste__n"/>
-</e>
 <e lm="parodiar">
 	<i>parodi</i>
 	<par n="abal/ar__vblex"/>
@@ -131739,10 +131472,6 @@
 </e>
 <e lm="peixe">
 	<i>peixe</i>
-	<par n="Leste__n"/>
-</e>
-<e lm="pejo" r="LR">
-	<i>pejo</i>
 	<par n="Leste__n"/>
 </e>
 <e lm="pelota">
@@ -131832,10 +131561,6 @@
 <e lm="plural">
 	<i>plura</i>
 	<par n="anima/l__n"/>
-</e>
-<e lm="podadeira" r="LR">
-	<i>podadeira</i>
-	<par n="abadia__n"/>
 </e>
 <e lm="pombo">
 	<i>pomb</i>
@@ -132189,17 +131914,9 @@
 	<i>singeleza</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="sofreguidão" r="LR">
-	<i>sofreguid</i>
-	<par n="aceitaç/ão__n"/>
-</e>
 <e lm="sospesar">
 	<i>sospes</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="sortudo" r="LR">
-	<i>sortud</i>
-	<par n="adept/o__n"/>
 </e>
 <e lm="súbito">
 	<i>súbit</i>
@@ -132445,10 +132162,6 @@
 	<i>comodidade</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="amostra" a="mikel" r="LR">
-	<i>amostra</i>
-	<par n="abadia__n"/>
-</e>
 <e lm="compatibilidade" a="mikel">
 	<i>compatibilidade</i>
 	<par n="abadia__n"/>
@@ -132491,10 +132204,6 @@
 </e>
 <e lm="estímulo" a="scalco">
 	<i>estímulo</i>
-	<par n="Leste__n"/>
-</e>
-<e lm="acúfeno" a="scalco" r="LR">
-	<i>acúfeno</i>
 	<par n="Leste__n"/>
 </e>
 <e lm="multidiciplinar" a="scalco">
@@ -132568,10 +132277,6 @@
 </e>
 <e lm="quota" a="carmentano">
 	<i>quota</i>
-	<par n="abadia__n"/>
-</e>
-<e lm="solicitude" a="carmentano" r="LR">
-	<i>solicitude</i>
 	<par n="abadia__n"/>
 </e>
 <e lm="subscritor" a="carmentano">
@@ -133502,21 +133207,7 @@
   	<i>hospedeir</i>
     <par n="adept/o__n"/>
 	</e> 
-	  		 	
-	<e lm="dona-de-casa" a="imaxin|software" r="LR">
-		<p>
-			<l>dona-de-casa</l>
-			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="sg"/></r>
-		</p>
-	</e>
-	 	
-	<e lm="dona-de-casa" a="imaxin|software" r="LR">
-		<p>
-			<l>donas-de-casa</l>
-			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="pl"/></r>
-		</p>
-	</e> 
-      
+	  		       
 	<e lm="gerenciar" v="br" a="imaxin|software">
   	<i>gerenci</i>
     <par n="abal/ar__vblex"/>
@@ -133826,7 +133517,6 @@
 <e lm="ud." a="prompsit2cdl"><i>ud.</i><par n="atletismo__n"/></e>
 <e lm="inc." a="prompsit2cdl"><i>inc.</i><par n="atletismo__n"/></e>
 <e lm="acumulável" a="prompsit2cdl"><i>acumuláve</i><par n="aceitáve/l__adj"/></e>
-<e lm="offline" a="prompsit2cdl" r="LR"><p><l>offline</l><r>off-line</r></p><par n="anti__adj"/></e>
 <e lm="veraz" a="prompsit2cdl"><i>veraz</i><par n="anterior__adj"/></e>
 <e lm="Espasa" a="prompsit2cdl"><i>Espasa</i><par n="Outro__np"/></e>
 <e lm="Espasa Calpe" a="prompsit2cdl"><i>Espasa<b/>Calpe</i><par n="Outro__np"/></e>
@@ -140979,7 +140669,340 @@
 
 <!-- @@@ -->
   <!--<section id="pending" type="standard">
+     	
+	<e lm="dona-de-casa" a="imaxin|software" r="LR">
+		<p>
+			<l>dona-de-casa</l>
+			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="sg"/></r>
+		</p>
+	</e>
+	 	
+	<e lm="dona-de-casa" a="imaxin|software" r="LR">
+		<p>
+			<l>donas-de-casa</l>
+			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="pl"/></r>
+		</p>
+	</e> 
+ 
+      <e lm="ambas as" r="LR">
+        <p><l>ambas<b/>as</l><r>ambos<b/>os</r></p>
+        <par n="ambas__prn"/>
+      </e>
+ 
+            
+      <e lm="si próprio" r="LR">
+        <i>si<b/>própri</i>
+        <par n="outr/o__prn"/>
+      </e>
+ 
+      <e lm="ambos os" r="LR">
+        <i>ambos<b/>os</i>
+        <par n="ambos__prn"/>
+      </e>
+ 
+  		 	
+	<e lm="dona de casa" a="imaxin|software">
+		<p>
+			<l>dona<b/>de<b/>casa</l>
+			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="sg"/></r>
+		</p>
+	</e>
+	 	
+	<e lm="dona de casa" a="imaxin|software">
+		<p>
+			<l>donas<b/>de<b/>casa</l>
+			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="pl"/></r>
+		</p>
+	</e>
+ 
+      <e lm="dona de casa">
+        <p>
+          <l>dona</l>
+          <r>dona<b/>de<b/>casa</r>
+        </p>
+        <par n="dona/_de_casa__n"/>
+      </e>
+      
+<e lm="solicitude" a="carmentano" r="LR">
+	<i>solicitude</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="amostra" a="mikel" r="LR">
+	<i>amostra</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="umbral" r="LR">
+	<i>umbra</i>
+	<par n="anima/l__n"/>
+</e>
+<e lm="maleta" r="LR">
+	<i>maleta</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="limiar" r="LR">
+	<i>limiar</i>
+	<par n="amor__n"/>
+</e>
+<e lm="escrita" r="LR">
+	<i>escrita</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="compartilhamento" r="LR">
+	<i>compartilhamento</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="récord" r="LR">
+	<i>récord</i>
+	<par n="Leste__n"/>
+</e>
+      <e lm="agrupação" r="LR">
+        <i>agrupaç</i>
+        <par n="aceitaç/ão__n"/>
+      </e>
+      
+      <e lm="usina" r="LR">
+        <i>usina</i>
+        <par n="abadia__n"/>
+      </e>
+      
+      <e lm="tráfego" r="LR">
+        <i>tráfego</i>
+        <par n="Leste__n"/>
+      </e>
+      
+      <e lm="trem" r="LR">
+        <i>tre</i>
+        <par n="be/m__n"/>
+      </e>
+      
+      <e lm="time" r="LR">
+        <i>time</i>
+        <par n="Leste__n"/>
+      </e>
+      
+      <e lm="prédio" r="LR">
+        <i>prédio</i>
+        <par n="Leste__n"/>
+      </e>
+      
+      <e lm="placar" r="LR">
+        <i>placar</i>
+        <par n="amor__n"/>
+      </e>
+      
+      <e lm="passagem" r="LR">
+        <i>passage</i>
+        <par n="aterrissage/m__n"/>
+      </e>
+      
+      <e lm="ligação" r="LR">
+        <i>ligaç</i>
+        <par n="aceitaç/ão__n"/>
+      </e>
+      
+      <e lm="juro" r="LR">
+        <i>juro</i>
+        <par n="Leste__n"/>
+      </e>
+      
+      <e lm="ingresso" r="LR">
+        <i>ingresso</i>
+        <par n="Leste__n"/>
+      </e>
+      
+      <e lm="firma" r="LR">
+        <i>firma</i>
+        <par n="abadia__n"/>
+      </e>
+      
+      <e lm="esporte" r="LR">
+        <i>esporte</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="cor" r="LR">
+        <i>cor</i>
+        <par n="amor__n"/>
+      </e>
+      <e lm="competência" r="LR">
+        <i>competência</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="companheiro" r="LR">
+        <i>companheir</i>
+        <par n="adept/o__n"/>
+      </e>
 
+<e lm="acúfeno" a="scalco" r="LR">
+	<i>acúfeno</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="sortudo" r="LR">
+	<i>sortud</i>
+	<par n="adept/o__n"/>
+</e>
+<e lm="sofreguidão" r="LR">
+	<i>sofreguid</i>
+	<par n="aceitaç/ão__n"/>
+</e>
+<e lm="podadeira" r="LR">
+	<i>podadeira</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="pejo" r="LR">
+	<i>pejo</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="parasito" r="LR">
+	<i>parasito</i>
+	<par n="Leste__n"/>
+</e>
+
+<e lm="macacão" r="LR">
+	<i>macac</i>
+	<par n="avi/ão__n"/>
+</e>
+<e lm="insanidade" r="LR">
+	<i>insanidade</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="esquife" r="LR">
+	<i>esquife</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="escravidão" r="LR">
+	<i>escravid</i>
+	<par n="aceitaç/ão__n"/>
+</e>
+<e lm="manchete" r="LR">
+	<i>manchete</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="cavaleiro" r="LR">
+	<i>cavaleiro</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="burrice" r="LR">
+	<i>burrice</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="brejo" r="LR">
+	<i>brejo</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="berro" r="LR">
+	<i>berro</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="traiçoeiro" r="LR">
+	<i>traiçoeir</i>
+	<par n="adept/o__n"/>
+</e>
+<e lm="crendice" r="LR">
+	<i>crendice</i>
+	<par n="abadia__n"/>
+</e>
+
+<e lm="convívio" r="LR">
+	<i>convívio</i>
+	<par n="Leste__n"/>
+</e>
+<e lm="cobardia" r="LR">
+	<i>cobardia</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="síndroma" r="LR">
+	<i>síndroma</i>
+	<par n="abadia__n"/>
+</e>
+<e lm="vasconço" r="LR">
+	<i>vasconç</i>
+	<par n="adept/o__n"/>
+</e>
+<e lm="vasco" r="LR">
+	<i>vasc</i>
+	<par n="adept/o__n"/>
+</e>
+      <e lm="endereço" r="LR">
+        <i>endereço</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="cinecartaz" r="LR">
+        <i>cinecartaz</i>
+        <par n="amor__n"/>
+      </e>
+      <e lm="êxito" r="LR">
+        <i>êxito</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="verba" r="LR">
+        <i>verba</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="vazamento" r="LR">
+        <i>vazamento</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="torcida" r="LR">
+        <i>torcida</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="safra" r="LR">
+        <i>safra</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="policial" r="LR">
+        <i>policia</i>
+        <par n="genera/l__n"/>
+      </e>
+      <e lm="planeamento" r="LR">
+        <i>planeamento</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="morador" r="LR">
+        <i>morador</i>
+        <par n="admirador__n"/>
+      </e>
+      <e lm="governação" r="LR" >
+        <i>governaç</i>
+        <par n="aceitaç/ão__n"/>
+      </e>
+      <e lm="ferimento" r="LR">
+        <i>ferimento</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="estupro" r="LR">
+        <i>estupro</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="escolha" r="LR">
+        <i>escolha</i>
+        <par n="abadia__n"/>
+      </e>
+		<e lm="enfermo" r="LR">
+        <i>enfermo</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="câmbio" r="LR">
+        <i>câmbio</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="contributo" r="LR">
+        <i>contributo</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="mamadeira" r="LR">
+        <i>mamadeira</i>
+        <par n="abadia__n"/>
+      </e>
+      <e lm="andamento" r="LR">
+        <i>andamento</i>
+        <par n="Leste__n"/>
+      </e>
+      <e lm="fraudador" r="LR">
+        <i>fraudador</i>
+        <par n="admirador__n"/>
+      </e>
+<e lm="offline" a="prompsit2cdl" r="LR"><p><l>offline</l><r>off-line</r></p><par n="anti__adj"/></e>
 <e lm="off-line" a="prompsit2cdl"><i>off-line</i><par n="anti__adj"/></e>
 <e a="prompsit" lm="estándar" r="LR">
   <i>estándar</i>
@@ -155652,14 +155675,6 @@
         <par n="Depto.__n"/>
       </e>
       
-      <e lm="dona de casa">
-        <p>
-          <l>dona</l>
-          <r>dona<b/>de<b/>casa</r>
-        </p>
-        <par n="dona/_de_casa__n"/>
-      </e>
-      
       <e lm="térreo">
         <i>térreo</i>
         <par n="Leste__n"/>
@@ -158881,21 +158896,7 @@
   	<i>aeromoç</i>
     <par n="adept/o__n"/>
 	</e>
-  		 	
-	<e lm="dona de casa" a="imaxin|software">
-		<p>
-			<l>dona<b/>de<b/>casa</l>
-			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="sg"/></r>
-		</p>
-	</e>
-	 	
-	<e lm="dona de casa" a="imaxin|software">
-		<p>
-			<l>donas<b/>de<b/>casa</l>
-			<r>dona<b/>de<b/>casa<s n="n"/><s n="f"/><s n="pl"/></r>
-		</p>
-	</e>
-      
+     
 	<e lm="gerenciamento" v="br" a="imaxin|software">
   	<i>gerenciamento</i>
     <par n="Leste__n"/>
