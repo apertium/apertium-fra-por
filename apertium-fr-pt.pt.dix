@@ -99562,10 +99562,6 @@
         <par n="agrícola__adj"/>
       </e>
       
-      <e lm="calmo" r="LR">
-        <i>calm</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="capaz">
         <i>capaz</i>
@@ -99797,10 +99793,6 @@
         <par n="conservador__adj"/>
       </e>
       
-      <e lm="fraudador" r="LR">
-        <i>fraudador</i>
-        <par n="conservador__adj"/>
-      </e>
       
       <e lm="fraudador" r="LR">
         <i>fraudador</i>
@@ -100133,10 +100125,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="fraco" r="LR">
-        <i>frac</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="franco">
         <i>franc</i>
@@ -100325,10 +100313,6 @@
         <par n="aceitáve/l__adj"/>
       </e>
       
-		<e lm="judiciário" r="LR">
-			<i>judiciári</i>
-			<par n="abert/o__adj"/>
-		</e>
       
       <e lm="juvenil">
         <i>juveni</i>
@@ -100541,10 +100525,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="orçamentário" r="LR">
-        <i>orçamentári</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="otimista" v="br">
         <i>otimista</i>
@@ -100647,10 +100627,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="preto" r="LR">
-        <i>pret</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="preventivo">
         <i>preventiv</i>
@@ -100927,10 +100903,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="tcheco" r="LR">
-        <i>tchec</i>
-        <par n="abert/o__adj"/>
-      </e>
       
       <e lm="televisivo">
         <i>televisiv</i>
@@ -101104,10 +101076,6 @@
         <par n="abert/o__adj"/>
       </e>
       
-      <e lm="criminal" r="LR">
-        <i>crimina</i>
-        <par n="aceitáve/l__adj"/>
-      </e>
       
       <e lm="cooperativo">
         <i>cooperativ</i>
@@ -101159,10 +101127,6 @@
 			<par n="aceitáve/l__adj"/>
 		</e>
 		
-		<e lm="cotidiano" r="LR">
-			<i>cotidian</i>
-			<par n="abert/o__adj"/>
-		</e>
 		
 <!--		<e lm="iraniano">
 			<i>iranian</i>
@@ -101205,10 +101169,6 @@
 			<par n="civi/l__adj"/>
 		</e>
 		
-		<e lm="fraco" r="LR" >
-			<i>frac</i>
-			<par n="abert/o__adj"/>
-		</e>
 		
 		<e lm="atroz">
 			<i>atroz</i>
@@ -101527,15 +101487,7 @@
         <i>antanho</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="ante-" r="LR">
-        <p>
-          <l>ante-</l>
-          <r>ante</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="antecipadamente">
         <i>antecipadamente</i>
         <par n="Op.Cit.__adv"/>
@@ -101556,13 +101508,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="anti-" r="LR">
-        <p>
-          <l>anti-</l>
-          <r>anti</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="anticonstitucionalmente">
         <i>anticonstitucionalmente</i>
@@ -101631,10 +101576,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-		<e lm="as vezes" r="LR">
-        <i>as<b/>vezes</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="assim">
         <i>assim</i>
@@ -101661,10 +101602,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
        
-      <e lm="até mesmo" r="LR">
-        <i>até<b/>mesmo</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="autenticamente">
         <i>autenticamente</i>
@@ -101743,10 +101680,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="calmamente" r="LR">
-        <i>calmamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="cara a cara">
         <i>cara<b/>a<b/>cara</i>
@@ -102175,14 +102108,7 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="ex-" r="LR">
-        <p>
-          <l>ex-</l>
-          <r>ex</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="exactamente" v="pt">
         <i>exactamente</i>
         <par n="Op.Cit.__adv"/>
@@ -102227,15 +102153,7 @@
         <i>externamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="extra-" r="LR">
-        <p>
-          <l>extra-</l>
-          <r>extra</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="extraordinariamente">
         <i>extraordinariamente</i>
         <par n="Op.Cit.__adv"/>
@@ -102301,10 +102219,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="forçosamente" r="LR">
-        <i>forçosamente</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       
       <e lm="francamente">
@@ -102498,15 +102412,7 @@
         <i>infinitamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="infra-" r="LR">
-        <p>
-          <l>infra-</l>
-          <r>infra</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="inicialmente">
         <i>inicialmente</i>
         <par n="Op.Cit.__adv"/>
@@ -102537,15 +102443,7 @@
         <i>inteiramente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="inter-" r="LR">
-        <p>
-          <l>inter-</l>
-          <r>inter</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="interiormente">
         <i>interiormente</i>
         <par n="Op.Cit.__adv"/>
@@ -102555,15 +102453,7 @@
         <i>internacionalmente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="intra-" r="LR">
-        <p>
-          <l>intra-</l>
-          <r>intra</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="inversamente">
         <i>inversamente</i>
         <par n="Op.Cit.__adv"/>
@@ -102890,15 +102780,7 @@
         <i>pacificamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="pan-" r="LR">
-        <p>
-          <l>pan-</l>
-          <r>pan</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="paradoxalmente">
         <i>paradoxalmente</i>
         <par n="Op.Cit.__adv"/>
@@ -103125,15 +103007,7 @@
         <i>propriamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="proto-" r="LR">
-        <p>
-          <l>proto-</l>
-          <r>proto</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="provavelmente">
         <i>provavelmente</i>
         <par n="Op.Cit.__adv"/>
@@ -103151,14 +103025,6 @@
       </e>
      
      
-      <e lm="pseudo-" r="LR">
-        <p>
-          <l>pseudo-</l>
-          <r>pseudo</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
       <e lm="psicologicamente">
         <i>psicologicamente</i>
         <par n="Op.Cit.__adv"/>
@@ -103178,15 +103044,7 @@
         <i>puramente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="pós-" r="LR">
-        <p>
-          <l>pós-</l>
-          <r>pós</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="quando">
         <i>quando</i>
         <par n="aonde__adv"/>
@@ -103327,15 +103185,7 @@
         <i>semestralmente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="semi-" r="LR">
-        <p>
-          <l>semi-</l>
-          <r>semi</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="sempre">
         <i>sempre</i>
         <par n="Op.Cit.__adv"/>
@@ -103420,15 +103270,7 @@
         <i>somente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="sub-" r="LR">
-        <p>
-          <l>sub-</l>
-          <r>sub</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="sucessivamente">
         <i>sucessivamente</i>
         <par n="Op.Cit.__adv"/>
@@ -103477,10 +103319,6 @@
         <par n="Op.Cit.__adv"/>
       </e>
       
-      <e lm="tampouco" r="LR">
-        <i>tampouco</i>
-        <par n="Op.Cit.__adv"/>
-      </e>
       
       <e lm="tarde">
         <i>tarde</i>
@@ -103562,15 +103400,7 @@
         <i>ultimamente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="ultra-" r="LR">
-        <p>
-          <l>ultra-</l>
-          <r>ultra</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="unicamente">
         <i>unicamente</i>
         <par n="Op.Cit.__adv"/>
@@ -103616,15 +103446,7 @@
         <i>verticalmente</i>
         <par n="Op.Cit.__adv"/>
       </e>
-      
-      <e lm="vice-" r="LR">
-        <p>
-          <l>vice-</l>
-          <r>vice</r>
-        </p>
-        <par n="Op.Cit.__adv"/>
-      </e>
-      
+     
       <e lm="vice-versa">
         <i>vice-versa</i>
         <par n="Op.Cit.__adv"/>
@@ -125745,10 +125567,6 @@
         <par n="abal/ar__vblex"/>
       </e>
       
-      <e lm="zombar" r="LR">
-        <i>zomb</i>
-        <par n="abal/ar__vblex"/>
-      </e>
       
       <e lm="reenviar">
         <i>reenvi</i>
@@ -127477,10 +127295,6 @@
 	<i>deport</i>
 	<par n="abal/ar__vblex"/>
 </e>
-<e lm="desnudar" r="LR">
-	<i>desnud</i>
-	<par n="abal/ar__vblex"/>
-</e>
 <e lm="despir">
 	<i>d</i>
 	<par n="d/espir__vblex"/>
@@ -127680,10 +127494,6 @@
 </e>
 <e lm="valenciano">
 	<i>valencian</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="vasco" r="LR">
-	<i>vasc</i>
 	<par n="abert/o__adj"/>
 </e>
 <e lm="vasco" r="LR">
@@ -128126,10 +127936,6 @@
 <e lm="Albacete">
 	<i>Albacete</i>
 	<par n="Lugar__np"/>
-</e>
-<e lm="altista" r="LR">
-	<i>altista</i>
-	<par n="agrícola__adj"/>
 </e>
 <e lm="barca">
 	<i>barca</i>
@@ -128738,10 +128544,6 @@
 	<i>legislatura</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="leigo" r="LR">
-	<i>leig</i>
-	<par n="abert/o__adj"/>
-</e>
 <e lm="leucemia">
 	<i>leucemia</i>
 	<par n="abadia__n"/>
@@ -128770,10 +128572,6 @@
 <e lm="Mahoma">
 	<i>Mahoma</i>
 	<par n="Nome__np"/>
-</e>
-<e lm="majoritário" r="LR">
-	<i>majoritári</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="Maragall">
 	<i>Maragall</i>
@@ -128886,10 +128684,6 @@
 <e lm="protagonismo">
 	<i>protagonismo</i>
 	<par n="Leste__n"/>
-</e>
-<e lm="protelar" r="LR">
-	<i>protel</i>
-	<par n="abal/ar__vblex"/>
 </e>
 <e lm="realismo">
 	<i>realismo</i>
@@ -129050,10 +128844,6 @@
 <e lm="Vizcaya">
 	<i>Vizcaya</i>
 	<par n="Lugar__np"/>
-</e>
-<e lm="acanhado" r="LR">
-	<i>acanhad</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="acariciar">
 	<i>acarici</i>
@@ -129431,10 +129221,6 @@
 	<i>estreme</i>
 	<par n="abaste/cer__vblex"/>
 </e>
-<e lm="esvair" r="LR">
-	<i>esva</i>
-	<par n="admit/ir__vblex"/>
-</e>
 <e lm="excitação">
 	<i>excitaç</i>
 	<par n="aceitaç/ão__n"/>
@@ -129494,10 +129280,6 @@
 <e lm="franquear">
 	<i>franque</i>
 	<par n="base/ar__vblex"/>
-</e>
-<e lm="franzino" r="LR">
-	<i>franzin</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="franzir">
 	<i>franz</i>
@@ -130483,12 +130265,8 @@
 	<i>bandada</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="banir" r="LR">
-	<i>ban</i>
-	<par n="admit/ir__vblex"/>
-</e>
-<e lm="sólo">
-	<i>sólo</i>
+<e lm="só">
+	<i>só</i>
 	<par n="Op.Cit.__adv"/>
 </e>
 <e lm="bastante">
@@ -130538,10 +130316,6 @@
 <e lm="borboleta">
 	<i>borboleta</i>
 	<par n="abadia__n"/>
-</e>
-<e lm="brando" r="LR">
-	<i>brand</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="bravo">
 	<i>bravo</i>
@@ -130663,10 +130437,6 @@
 	<i>chapin</i>
 	<par n="abal/ar__vblex"/>
 </e>
-<e lm="chateado" r="LR">
-	<i>chatead</i>
-	<par n="abert/o__adj"/>
-</e>
 <e lm="cheirar">
 	<i>cheir</i>
 	<par n="abal/ar__vblex"/>
@@ -130686,10 +130456,6 @@
 <e lm="circundar">
 	<i>circund</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="ciumento" r="LR">
-	<i>ciument</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="clamar">
 	<i>clam</i>
@@ -130722,10 +130488,6 @@
 <e lm="cogitar" r="LR">
 	<i>cogit</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="coitado" r="LR">
-	<i>coitad</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="colmar">
 	<i>colm</i>
@@ -130849,10 +130611,6 @@
 </e>
 <e lm="daninho">
 	<i>daninh</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="danoso" r="LR">
-	<i>danos</i>
 	<par n="abert/o__adj"/>
 </e>
 <e lm="declinação">
@@ -131295,10 +131053,6 @@
 	<i>Ezequiel</i>
 	<par n="Nome__np"/>
 </e>
-<e lm="faiscante" r="LR">
-	<i>faiscante</i>
-	<par n="agrícola__adj"/>
-</e>
 <e lm="falsidade">
 	<i>falsidade</i>
 	<par n="abadia__n"/>
@@ -131333,10 +131087,6 @@
 </e>
 <e lm="feio">
 	<i>fei</i>
-	<par n="abert/o__adj"/>
-</e>
-<e lm="fero" r="LR">
-	<i>fer</i>
 	<par n="abert/o__adj"/>
 </e>
 <e lm="ferreiro">
@@ -131795,10 +131545,6 @@
 	<i>maturidade</i>
 	<par n="abadia__n"/>
 </e>
-<e lm="maturo" r="LR">
-	<i>matur</i>
-	<par n="abert/o__adj"/>
-</e>
 <e lm="meditar">
 	<i>medit</i>
 	<par n="abal/ar__vblex"/>
@@ -131806,10 +131552,6 @@
 <e lm="meditar">
 	<i>medit</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="meigo" r="LR">
-	<i>meig</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="meio_dia">
 	<i>meio</i>
@@ -132063,10 +131805,6 @@
 	<i>Pilar</i>
 	<par n="Nome__np"/>
 </e>
-<e lm="pingar" r="LR">
-	<i>ping</i>
-	<par n="abrig/ar__vblex"/>
-</e>
 <e lm="piscar">
 	<i>pisc</i>
 	<par n="abal/ar__vblex"/>
@@ -132259,10 +131997,6 @@
 	<i>rebanho</i>
 	<par n="Leste__n"/>
 </e>
-<e lm="recender" r="LR">
-	<i>recend</i>
-	<par n="abat/er__vblex"/>
-</e>
 <e lm="recinto">
 	<i>recinto</i>
 	<par n="Leste__n"/>
@@ -132278,10 +132012,6 @@
 <e lm="refinar">
 	<i>refin</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="regatear" r="LR">
-	<i>regate</i>
-	<par n="base/ar__vblex"/>
 </e>
 <e lm="relato">
 	<i>relato</i>
@@ -132534,10 +132264,6 @@
 <e lm="temperar">
 	<i>temper</i>
 	<par n="abal/ar__vblex"/>
-</e>
-<e lm="tenro" r="LR">
-	<i>tenr</i>
-	<par n="abert/o__adj"/>
 </e>
 <e lm="terno">
 	<i>tern</i>
@@ -133982,10 +133708,6 @@
   <par n="abadia__n"/>
 </e>
 
-<e a="prompsit" lm="estándar" r="LR">
-  <i>estándar</i>
-  <par n="anti__adj"/>
-</e>
 
 <e a="prompsit" lm="comunicador">
   <i>comunicador</i>
@@ -141216,6 +140938,10 @@
       
 <e lm="quanto"><i>quanto</i><par n="aonde__adv"/></e>
 
+		<e lm="até">
+			<i>até</i>
+			<par n="a__pr"/>
+		</e>      
 </section>
 
   <section id="final" type="inconditional">
@@ -141253,6 +140979,292 @@
 
 <!-- @@@ -->
   <!--<section id="pending" type="standard">
+
+<e lm="off-line" a="prompsit2cdl"><i>off-line</i><par n="anti__adj"/></e>
+<e a="prompsit" lm="estándar" r="LR">
+  <i>estándar</i>
+  <par n="anti__adj"/>
+</e>
+<e lm="maturo" r="LR">
+	<i>matur</i>
+	<par n="abert/o__adj"/>
+</e>
+		<e lm="cotidiano" r="LR">
+			<i>cotidian</i>
+			<par n="abert/o__adj"/>
+		</e>
+      <e lm="criminal" r="LR">
+        <i>crimina</i>
+        <par n="aceitáve/l__adj"/>
+      </e>
+      <e lm="preto" r="LR">
+        <i>pret</i>
+        <par n="abert/o__adj"/>
+      </e>
+<e lm="tenro" r="LR">
+	<i>tenr</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="meigo" r="LR">
+	<i>meig</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="fero" r="LR">
+	<i>fer</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="faiscante" r="LR">
+	<i>faiscante</i>
+	<par n="agrícola__adj"/>
+</e>
+<e lm="danoso" r="LR">
+	<i>danos</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="coitado" r="LR">
+	<i>coitad</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="ciumento" r="LR">
+	<i>ciument</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="chateado" r="LR">
+	<i>chatead</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="brando" r="LR">
+	<i>brand</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="franzino" r="LR">
+	<i>franzin</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="acanhado" r="LR">
+	<i>acanhad</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="majoritário" r="LR">
+	<i>majoritári</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="leigo" r="LR">
+	<i>leig</i>
+	<par n="abert/o__adj"/>
+</e>
+<e lm="altista" r="LR">
+	<i>altista</i>
+	<par n="agrícola__adj"/>
+</e>
+<e lm="vasco" r="LR">
+	<i>vasc</i>
+	<par n="abert/o__adj"/>
+</e>
+		<e lm="fraco" r="LR" >
+			<i>frac</i>
+			<par n="abert/o__adj"/>
+		</e>
+      <e lm="tcheco" r="LR">
+        <i>tchec</i>
+        <par n="abert/o__adj"/>
+      </e>
+      <e lm="orçamentário" r="LR">
+        <i>orçamentári</i>
+        <par n="abert/o__adj"/>
+      </e>
+		<e lm="judiciário" r="LR">
+			<i>judiciári</i>
+			<par n="abert/o__adj"/>
+		</e>
+      <e lm="fraco" r="LR">
+        <i>frac</i>
+        <par n="abert/o__adj"/>
+      </e>
+      <e lm="fraudador" r="LR">
+        <i>fraudador</i>
+        <par n="conservador__adj"/>
+      </e>
+      <e lm="calmo" r="LR">
+        <i>calm</i>
+        <par n="abert/o__adj"/>
+      </e>
+
+     <e lm="as vezes" r="LR">
+        <i>as<b/>vezes</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="até mesmo" r="LR">
+        <i>até<b/>mesmo</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="calmamente" r="LR">
+        <i>calmamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="forçosamente" r="LR">
+        <i>forçosamente</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      <e lm="tampouco" r="LR">
+        <i>tampouco</i>
+        <par n="Op.Cit.__adv"/>
+      </e>
+            
+      <e lm="vice-" r="LR">
+        <p>
+          <l>vice-</l>
+          <r>vice</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+       
+      <e lm="ultra-" r="LR">
+        <p>
+          <l>ultra-</l>
+          <r>ultra</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+       
+      <e lm="sub-" r="LR">
+        <p>
+          <l>sub-</l>
+          <r>sub</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+       
+      <e lm="semi-" r="LR">
+        <p>
+          <l>semi-</l>
+          <r>semi</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+       
+      <e lm="pós-" r="LR">
+        <p>
+          <l>pós-</l>
+          <r>pós</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="pseudo-" r="LR">
+        <p>
+          <l>pseudo-</l>
+          <r>pseudo</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+       
+      <e lm="proto-" r="LR">
+        <p>
+          <l>proto-</l>
+          <r>proto</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+       
+      <e lm="pan-" r="LR">
+        <p>
+          <l>pan-</l>
+          <r>pan</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+            
+      <e lm="infra-" r="LR">
+        <p>
+          <l>infra-</l>
+          <r>infra</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+ 
+      <e lm="intra-" r="LR">
+        <p>
+          <l>intra-</l>
+          <r>intra</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+  
+      <e lm="inter-" r="LR">
+        <p>
+          <l>inter-</l>
+          <r>inter</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+ 
+      <e lm="anti-" r="LR">
+        <p>
+          <l>anti-</l>
+          <r>anti</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+      
+      <e lm="ante-" r="LR">
+        <p>
+          <l>ante-</l>
+          <r>ante</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+ 
+      <e lm="ex-" r="LR">
+        <p>
+          <l>ex-</l>
+          <r>ex</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+ 
+      
+      <e lm="extra-" r="LR">
+        <p>
+          <l>extra-</l>
+          <r>extra</r>
+        </p>
+        <par n="Op.Cit.__adv"/>
+      </e>
+ 
+
+<e lm="regatear" r="LR">
+	<i>regate</i>
+	<par n="base/ar__vblex"/>
+</e>
+<e lm="recender" r="LR">
+	<i>recend</i>
+	<par n="abat/er__vblex"/>
+</e>
+<e lm="pingar" r="LR">
+	<i>ping</i>
+	<par n="abrig/ar__vblex"/>
+</e>
+<e lm="banir" r="LR">
+	<i>ban</i>
+	<par n="admit/ir__vblex"/>
+</e>
+<e lm="esvair" r="LR">
+	<i>esva</i>
+	<par n="admit/ir__vblex"/>
+</e>
+<e lm="protelar" r="LR">
+	<i>protel</i>
+	<par n="abal/ar__vblex"/>
+</e>
+<e lm="desnudar" r="LR">
+	<i>desnud</i>
+	<par n="abal/ar__vblex"/>
+</e>
+      <e lm="zombar" r="LR">
+        <i>zomb</i>
+        <par n="abal/ar__vblex"/>
+      </e>
 
 		<e lm="ex">
 			<i>ex</i>
@@ -141612,10 +141624,6 @@
         <par n="accionista__n"/>
       </e>
 <e lm="Baçorá"><i>Baçorá</i><par n="Lugar__np"/></e>
-		<e lm="até">
-			<i>até</i>
-			<par n="a__pr"/>
-		</e>      
 <e lm="águia">
 	<i>águia</i>
 	<par n="abadia__n"/>
@@ -159006,7 +159014,6 @@
 <e lm="livreiro" a="prompsit2cdl"><i>livreir</i><par n="adept/o__n"/></e>
 <e lm="dvd" a="prompsit2cdl"><i>dvd</i><par n="FBI__n"/></e>
 <e lm="certificador" a="prompsit2cdl"><i>certificador</i><par n="conservador__adj"/></e>
-<e lm="off-line" a="prompsit2cdl"><i>off-line</i><par n="anti__adj"/></e>
     <e lm="delimitação"><i>delimitaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="descontaminação"><i>descontaminaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="estandardização"><i>estandardizaç</i><par n="aceitaç/ão__n"/></e>

@@ -181,7 +181,7 @@
 				<out>
 					<lu>
 						<get-case-from pos="1">
-						<lit v="sólo"/>
+						<lit v="só"/>
 						</get-case-from>
 						<clip pos="1" part="a_adv"/>
 					</lu> 
