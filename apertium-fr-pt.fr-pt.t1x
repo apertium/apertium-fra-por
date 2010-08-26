@@ -17675,18 +17675,24 @@
                 <lit-tag v="SN"/>
               </tag>
               <tag>
-                <clip pos="3" side="tl" part="tags"/>
+                <clip pos="3" side="tl" part="gen"/>
+              </tag><tag>
+                <clip pos="3" side="tl" part="nbr"/>
               </tag>
             </tags>
             <lu>
               <lit v="tanto"/>
               <lit-tag v="adj"/>
 	          <clip pos="3" side="tl" part="gen"/>
-	          <clip pos="3" side="tl" part="nbr"/>
+	          <clip pos="3" side="tl" part="nbr" link-to="3"/>
             </lu>
             <b/>
             <lu>
-              <clip pos="3" side="tl" part="whole"/>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="gen"/>
+	          <clip pos="3" side="tl" part="nbr" link-to="3"/>
+              <clip pos="3" side="tl" part="lemq"/>
             </lu>
             <b/>
             <lu>
