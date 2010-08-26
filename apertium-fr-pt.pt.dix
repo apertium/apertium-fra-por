@@ -130487,6 +130487,10 @@
 	<i>ban</i>
 	<par n="admit/ir__vblex"/>
 </e>
+<e lm="sólo">
+	<i>sólo</i>
+	<par n="Op.Cit.__adv"/>
+</e>
 <e lm="bastante">
 	<i>bastante</i>
 	<par n="Op.Cit.__adv"/>

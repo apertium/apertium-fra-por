@@ -20288,7 +20288,7 @@ The items below are really verbs, but marked as adjectives on the pt side becaus
 <e v="pt"><p><l>sous<b/>la<b/>protection<b/>de<s n="pr"/></l><r>sob<b/>a<b/>protecção<b/>de<s n="pr"/></r></p></e>
 <e v="br"><p><l>sous<b/>la<b/>protection<b/>de<s n="pr"/></l><r>sob<b/>a<b/>proteção<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>sous<b/>l'effet<b/>de<s n="pr"/></l>   <r>sob<b/>efeito<b/>de<s n="pr"/></r></p></e>
-<e>       <p><l>sur<s n="pr"/></l>                     <r>a<b/>respeito<b/>de<s n="pr"/></r></p></e>
+<e r="RL">       <p><l>sur<s n="pr"/></l>                     <r>a<b/>respeito<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>sur<s n="pr"/></l>                     <r>sobre<s n="pr"/></r></p></e>
 <e>       <p><l>sur<b/>la<b/>rêquete<b/>de<s n="pr"/></l><r>a<b/>requerimento<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>sur<b/>le<b/>point<b/>de<s n="pr"/></l><r>a<b/>ponto<b/>de<s n="pr"/></r></p></e>
