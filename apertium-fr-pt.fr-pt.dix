@@ -17836,10 +17836,9 @@ deal with them here -->
 <e r="RL"><p><l>extérieur<s n="adj"/><s n="GD"/></l>   <r>exterior<s n="adj"/><s n="mf"/></r></p></e>
 <!--<e r="RL"><p><l>extérieur<s n="adj"/><s n="m"/></l>   <r>exterior<s n="adj"/><s n="mf"/></r></p></e>-->
 <!--<e r="RL"><p><l>extérieur<s n="adj"/><s n="f"/></l>   <r>exterior<s n="adj"/><s n="mf"/></r></p></e>-->
-<e>       <p><l>externe<s n="adj"/></l>                <r>externo<s n="adj"/></r></p></e>
-<!--e r="LR"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="GD"/></r></p></e>-->
-<!--<e r="LR"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="m"/></r></p></e>-->
-<!--<e r="LR"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="f"/></r></p></e>-->
+<e r="LR"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>externe<s n="adj"/><s n="mf"/></l>     <r>externo<s n="adj"/><s n="f"/></r></p></e>
 <e>       <p><l>extra<s n="adj"/></l>                  <r>extra<s n="adj"/></r></p></e>
 <e>       <p><l>extrajudiciaire<s n="adj"/></l>        <r>extrajudicial<s n="adj"/></r></p></e>
 <e>       <p><l>extraordinaire<s n="adj"/></l>         <r>extraordinário<s n="adj"/></r></p></e>

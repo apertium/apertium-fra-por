@@ -45392,7 +45392,7 @@
 <!--<e lm="endurant"><i>endurant</i><par n="pèlerin__adj"/></e>-->
 <e lm="enfantin"><i>enfantin</i><par n="abaissant__adj"/></e>
 <!--<e lm="excitant"><i>excitant</i><par n="pèlerin__adj"/></e>-->
-<!--<e lm="externe"><i>externe</i><par n="académique__adj"/></e>-->
+<e lm="externe"><i>externe</i><par n="académique__adj"/></e>
 <e lm="facile"><i>facile</i><par n="académique__adj"/></e>
 <!--<e lm="fécal"><i>féca</i><par n="amica/l__adj"/></e>-->
 <!--<e lm="ferroviaire"><i>ferroviaire</i><par n="académique__adj"/></e>-->

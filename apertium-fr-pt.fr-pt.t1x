@@ -4128,10 +4128,6 @@
         <pattern-item n="ci"/>
       </pattern>
       <action>
-	    <let>
-          <clip pos="1" side="tl" part="lem"/>
-          <lit v="este"/>
-        </let>
 	    <out>
 		  <chunk name="ce_nom_ci">
             <tags>
@@ -4143,11 +4139,20 @@
               </tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <get-case-from pos="1">
+              <lit v="este"/>
+              </get-case-from>
+              <clip pos="1" side="tl" part="a_det"/>
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>
+               <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="gen"/>
+              <clip pos="2" side="tl" part="nbr"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
 		  </chunk>
 		</out>
@@ -4176,11 +4181,11 @@
               </tag>
             </tags>
             <lu>
-              <clip pos="1" side="sl" part="whole"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="sl" part="whole"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
 		  </chunk>
 		</out>
