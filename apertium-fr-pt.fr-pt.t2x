@@ -260,6 +260,14 @@
 								<lit-tag v="f"/>
 							</let>
 						</when>
+						<when> 
+							<test>
+								<equal>
+									<clip pos="1" part="gen"/>
+									<lit-tag v="mf"/>
+								</equal>
+							</test>
+						</when>
 						<otherwise>
 							<let>
 								<clip pos="2" part="gen"/>
