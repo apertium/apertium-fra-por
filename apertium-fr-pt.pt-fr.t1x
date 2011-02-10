@@ -3899,7 +3899,7 @@
               <when>
                 <test>
                   <equal caseless="yes">
-                    <clip pos="1" side="tl" part="lem"/>
+                    <clip pos="2" side="tl" part="lem"/>
                     <lit v="être"/>
                   </equal>
                 </test>
@@ -18380,21 +18380,11 @@
         <out>
           <chunk name="haver_pp" case="caseFirstWord">
             <tags>
-              <tag>
-                <lit-tag v="SV"/>
-              </tag>
-              <tag>
-                <clip pos="2" side="tl" part="a_verb"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="temps"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="pers"/>
-              </tag>
-              <tag>
-                <clip pos="1" side="tl" part="nbr"/>
-              </tag>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="2" side="tl" part="a_verb"/></tag>
+              <tag><clip pos="1" side="tl" part="temps"/></tag>
+              <tag><clip pos="1" side="tl" part="pers"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
@@ -18408,8 +18398,8 @@
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_pp"/>
-              <lit-tag v="m"/>
-              <clip pos="2" side="tl" part="nbr"/>
+              <var n="gen_pp"/>
+              <var n="nbr_pp"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
