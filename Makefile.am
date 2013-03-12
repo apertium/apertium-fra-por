@@ -1,7 +1,7 @@
 VERSION=0.0.1
-LANG1=fr
-LANG2=pt
-LANG2b=pt_BR
+LANG1=fra
+LANG2=por
+LANG2b=por_BR
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX1b=$(LANG1)-$(LANG2b)
 PREFIX2=$(LANG2)-$(LANG1)
@@ -176,7 +176,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(BASENAME).$(LANG2).dix $(BASENAME).$(LANG1).tsx \
            $(BASENAME).$(LANG2).tsx  \
            $(PREFIX1).prob $(PREFIX2).prob \
-           buscaPar.xsl principal.xsl apertium-fr-es.fr.metadix \
+           buscaPar.xsl principal.xsl apertium-fra-por.fr.metadix \
            $(PREFIX1)-supervised.make $(PREFIX1)-unsupervised.make \
            $(PREFIX2)-supervised.make $(PREFIX2)-unsupervised.make \
            $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README \
@@ -186,20 +186,20 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            modes.xml  $(BASENAME).$(LANG1).acx alt.xsl translate-to-default-equivalent.xsl \
 	   $(BASENAME).$(LANG2).acx
 
-apertium-fr-pt.fr.dix: apertium-fr-pt.fr.metadix
-	@xsltproc buscaPar.xsl apertium-fr-pt.fr.metadix | uniq > $$gen.xsl
-	@xsltproc $$gen.xsl apertium-fr-pt.fr.metadix >$@
+apertium-fra-por.fra.dix: apertium-fra-por.fra.metadix
+	@xsltproc buscaPar.xsl apertium-fra-por.fra.metadix | uniq > $$gen.xsl
+	@xsltproc $$gen.xsl apertium-fra-por.fra.metadix >$@
 	@rm $$gen.xsl
 	
-apertium_fr_ptdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_fr_modesdir=$(prefix)/share/apertium/modes/
+apertium_fra_pordir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_fra_modesdir=$(prefix)/share/apertium/modes/
 
 $(PREFIX1).mode: modes.xml
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
 
 
-apertium_fr_pt_DATA=$(PREFVAR1)$(PREFIX1).automorf.bin $(PREFVAR1)$(PREFIX2).automorf.bin \
+apertium_fra_por_DATA=$(PREFVAR1)$(PREFIX1).automorf.bin $(PREFVAR1)$(PREFIX2).automorf.bin \
 	$(PREFVAR1)$(PREFIX1).autobil.bin $(PREFVAR1)$(PREFIX2).autobil.bin \
 	$(PREFVAR1)$(PREFIX1).autogen.bin $(PREFVAR1)$(PREFIX2).autogen.bin \
 	$(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
@@ -211,13 +211,13 @@ apertium_fr_pt_DATA=$(PREFVAR1)$(PREFIX1).automorf.bin $(PREFVAR1)$(PREFIX2).aut
 install-data-local:
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
 	cp *.mode modes/
-	$(INSTALL_DATA) $(PREFVAR1)$(PREFIX1).mode $(apertium_fr_modesdir)
-	$(INSTALL_DATA) $(PREFVAR1)$(PREFIX2).mode $(apertium_fr_modesdir)
-	$(INSTALL_DATA) $(PREFVAR2)$(PREFIX1).mode $(apertium_fr_modesdir)
-	$(INSTALL_DATA) $(PREFVAR2)$(PREFIX2).mode $(apertium_fr_modesdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(apertium_fr_ptdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t1x $(apertium_fr_ptdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x $(apertium_fr_ptdir)
+	$(INSTALL_DATA) $(PREFVAR1)$(PREFIX1).mode $(apertium_fra_modesdir)
+	$(INSTALL_DATA) $(PREFVAR1)$(PREFIX2).mode $(apertium_fra_modesdir)
+	$(INSTALL_DATA) $(PREFVAR2)$(PREFIX1).mode $(apertium_fra_modesdir)
+	$(INSTALL_DATA) $(PREFVAR2)$(PREFIX2).mode $(apertium_fra_modesdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(apertium_fra_pordir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t1x $(apertium_fra_pordir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x $(apertium_fra_pordir)
 
 CLEANFILES = -rf $(TARGETS) modes $(BASENAME).$(LANG1).dix *.mode \
 		$(LANG1).dix $(LANG2).dix $(LANG2b).dix $(PREFIX1).dix $(PREFIX1b).dix
