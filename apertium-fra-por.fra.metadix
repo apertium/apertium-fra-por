@@ -13363,7 +13363,7 @@
           <e lm="agile"><i>agile</i><par n="académique__adj"/></e>
           <e lm="agilité"><i>agilité</i><par n="abeille__n"/></e>
           <e lm="agiter"><i>agit</i><par n="abaiss/er__vblex"/></e>
-          <e lm="agneau"><i>agneau</i><par n="livre__n"/></e>
+          <e lm="agneau"><i>agneau</i><par n="lieu__n"/></e>
           <e lm="agresseur"><i>agresseu</i><par n="causeu/r__n"/></e>
           <e lm="agricole"><i>agricole</i><par n="académique__adj"/></e>
           <e lm="agriculteur"><i>agricult</i><par n="administrat/eur__n"/></e>
@@ -15693,7 +15693,7 @@
           <e lm="planète"><i>planète</i><par n="abeille__n"/></e>
           <e lm="plastique"><i>plastique</i><par n="livre__n"/></e>
           <e lm="plate-forme"><i>plate-forme</i><par n="abeille__n"/></e>
-          <e lm="plateau"><i>plateau</i><par n="livre__n"/></e>
+          <e lm="plateau"><i>plateau</i><par n="lieu__n"/></e>
           <e lm="plein"><i>plein</i><par n="abaissant__adj"/></e>
           <e lm="pleur"><i>pleur</i><par n="livre__n"/></e>
           <e lm="pleurer"><i>pleur</i><par n="abaiss/er__vblex"/></e>
@@ -16435,7 +16435,7 @@
           <e lm="sûrement"><i>sûrement</i><par n="hier__adv"/></e>
           <e lm="tabac"><i>tabac</i><par n="livre__n"/></e>
           <e lm="table"><i>table</i><par n="abeille__n"/></e>
-          <e lm="tableau"><i>tableau</i><par n="livre__n"/></e>
+          <e lm="tableau"><i>tableau</i><par n="lieu__n"/></e>
           <e lm="tacher"><i>tach</i><par n="abaiss/er__vblex"/></e>
           <e lm="tactique"><i>tactique</i><par n="abeille__n"/></e>
           <e lm="taille"><i>taille</i><par n="abeille__n"/></e>
@@ -45620,7 +45620,7 @@
   <i>mec</i>
   <par n="livre__n"/>
 </e>
-          <e lm="manteau" r="LR"><i>manteau</i><par n="livre__n"/></e>
+          <e lm="manteau" r="LR"><i>manteau</i><par n="lieu__n"/></e>
 <e lm="mail" a="webform" r="LR"><i>mail</i><par n="livre__n"/></e>
           <e lm="magazine" r="LR"><i>magazine</i><par n="livre__n"/></e>
 <e lm="magasin" a="webform" r="LR"><i>magasin</i><par n="livre__n"/></e>
@@ -47833,7 +47833,7 @@
           <e lm="britannique"><i>britannique</i><par n="académique__adj"/></e>
           <e lm="brun"><i>brun</i><par n="abaissant__adj"/></e>
           <e lm="brutal"><i>bruta</i><par n="amica/l__adj"/></e>
-          <e lm="bureau de tabac"><i>bureau</i><par n="livre__n"/><p><l><b/>de<b/>tabac</l><r><g><b/>de<b/>tabac</g></r></p></e>
+          <e lm="bureau de tabac"><i>bureau</i><par n="lieu__n"/><p><l><b/>de<b/>tabac</l><r><g><b/>de<b/>tabac</g></r></p></e>
           <e lm="bureaucratie"><i>bureaucratie</i><par n="abeille__n"/></e>
           <e lm="bureaucratique"><i>bureaucratique</i><par n="académique__adj"/></e>
           <e lm="bétail"><i>bétail</i><par n="livre__n"/></e>
@@ -47856,7 +47856,7 @@
           <e lm="caresse"><i>caresse</i><par n="abeille__n"/></e>
           <e lm="carotte"><i>carotte</i><par n="abeille__n"/></e>
           <e lm="carpe"><i>carpe</i><par n="abeille__n"/></e>
-          <e lm="carreau"><i>carreau</i><par n="livre__n"/></e>
+          <e lm="carreau"><i>carreau</i><par n="lieu__n"/></e>
           <e lm="carton"><i>carton</i><par n="livre__n"/></e>
           <e lm="case"><i>case</i><par n="abeille__n"/></e>
           <e lm="casque"><i>casque</i><par n="livre__n"/></e>
