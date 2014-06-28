@@ -5,7 +5,6 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/alt.xsl -text
 /apertium-fra-por.fra-por.dix -text
 /apertium-fra-por.fra-por.t1x -text
 /apertium-fra-por.fra-por.t2x -text
