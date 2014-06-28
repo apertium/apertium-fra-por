@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# run with -p to show only passing tests
+$(dirname $0)/wiki-tests -u "$@" Pending fra por
+$(dirname $0)/wiki-tests -u "$@" Pending por fra

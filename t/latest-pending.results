@@ -1,0 +1,151 @@
+Revision: 55059
+Running Pending-tests with mode "fra-por" with updated tests ...
+
+fra-por	  En ville.
+	- Na cidade.
+	+ Em cidade .
+
+
+fra-por	  En France.
+	- Na França.
+	+ Em França.
+
+
+fra-por	  Le vôtre.
+WORKS	  O vosso.
+
+
+fra-por	  Du vôtre.
+WORKS	  Do vosso.
+
+
+fra-por	  Au vôtre.
+WORKS	  Ao vosso.
+
+
+fra-por	  On ne parle pas.
+	- Não se fala.
+	+ não Se fala .
+
+
+3 / 6, 50%
+Revision: 55059
+Running Pending-tests with mode "por-fra" with updated tests ...
+
+por-fra	  Uma advertência.
+WORKS	  Un avertissement.
+
+
+por-fra	  Esse gato.
+WORKS	  Ce chat.
+
+
+por-fra	  Este gato.
+WORKS	  Ce chat-ci.
+
+
+por-fra	  Aquele gato.
+WORKS	  Ce chat-là.
+
+
+por-fra	  O gato branco.
+WORKS	  Le chat blanc.
+
+
+por-fra	  Uma advertência nova.
+	- Un nouveau avertissement.
+	+ Un nouvel avertissement.
+
+
+por-fra	  Uma advertência grande.
+WORKS	  Un grand avertissement.
+
+
+por-fra	  Uma advertência nova.
+WORKS	  Un nouvel avertissement.
+
+
+por-fra	  Uma advertência velha.
+	- Un vieil avertissement.
+	+ Un #vieux avertissement.
+
+
+por-fra	  Uma advertência bela.
+WORKS	  Un bel avertissement.
+
+
+por-fra	  Tanto cabelo quanto.
+	- Autant de cheveux que vous.
+	+ autant de #cheveu que.
+
+
+por-fra	  Tão pequeno quanto ele.
+	- Aussi petit que lui.
+	+ aussi petit que lui.
+
+
+por-fra	  Na França.
+	- En France :: NOT: Dans la la France.
+	+ Dans la France.
+
+
+por-fra	  Se não fala.
+	- On ne parle pas.
+	+ Si il ne parle pas.
+
+
+por-fra	  João quer.
+	- João veut. :: NOT: João il veut.
+	+ João veut.
+
+
+por-fra	  Ele quer.
+	- Il veut. :: NOT: Il il veut.
+	+ Il veut.
+
+
+por-fra	  Eu quero.
+	- Je veux. :: NOT: Je je veux.
+	+ Je veux.
+
+
+por-fra	  É grande.
+	- C'est grand.
+	+ C'EST grand.
+
+
+por-fra	  Ele é grande.
+WORKS	  Il est grand.
+
+
+por-fra	  Come.
+WORKS	  Il mange.
+
+
+por-fra	  Ele come.
+WORKS	  Il mange.
+
+
+por-fra	  Eu o farei.
+WORKS	  Je le ferai.
+
+
+por-fra	  O farei.
+WORKS	  Je le ferai.
+
+
+por-fra	  João queria.
+	- João voulait.
+	+ João voulais.
+
+
+por-fra	  Ele queria.
+	- Il voulait.
+	+ Il voulais.
+
+
+por-fra	  Eu queria.
+WORKS	  Je voulais.
+
+
+14 / 26, ~53.84615384615384615385%

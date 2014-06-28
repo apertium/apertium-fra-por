@@ -1,0 +1,28 @@
+Revision: 55059
+Running Regression-tests with mode "fra-por" with updated tests ...
+
+0 / 0, Error 10002%
+Revision: 55059
+Running Regression-tests with mode "por-fra" with updated tests ...
+
+por-fra	  Estou.
+WORKS	  Je suis.
+
+
+por-fra	  Estás.
+WORKS	  Tu es.
+
+
+por-fra	  Está.
+WORKS	  Il est.
+
+
+por-fra	  Estamos.
+WORKS	  Nous sommes.
+
+
+por-fra	  Estais.
+WORKS	  Vous êtes.
+
+
+5 / 5, 100%
