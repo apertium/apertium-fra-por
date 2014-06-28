@@ -63,12 +63,11 @@ dev/verify.sh -text
 /modes.xml -text
 /por-fra.prob -text svneol=unset#unset
 /principal.xsl -text
-t/Pending_tests.html -text
-t/Regression_tests.html -text
 t/latest-pending.results -text
 t/latest-regression.results -text
 t/pending-tests -text
 t/regression-tests -text
+t/update-latest -text
 t/wiki-tests -text
 /test.sh -text
 /translate-to-default-equivalent.xsl -text

@@ -2,7 +2,9 @@
 
 set -e -u
 
-declare -r BASEURL="http://wiki.apertium.org/wiki/French_and_Portuguese"
+declare -r PACKAGE=$(grep ^PACKAGE= "$(dirname $0)/../config.log" |grep -o "apertium-[^']*") # e.g. apertium-sme-nob
+declare -r BASEURL="http://wiki.apertium.org/wiki/${PACKAGE}"
+echo "$BASEURL"
 
 UPDATE=false
 ONLYPASS=false

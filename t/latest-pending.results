@@ -1,4 +1,5 @@
-Revision: 55059
+http://wiki.apertium.org/wiki/apertium-fra-por
+Revision: 55067
 Running Pending-tests with mode "fra-por" with updated tests ...
 
 fra-por	  En ville.
@@ -29,7 +30,8 @@ fra-por	  On ne parle pas.
 
 
 3 / 6, 50%
-Revision: 55059
+http://wiki.apertium.org/wiki/apertium-fra-por
+Revision: 55067
 Running Pending-tests with mode "por-fra" with updated tests ...
 
 por-fra	  Uma advertência.
@@ -85,7 +87,7 @@ por-fra	  Tão pequeno quanto ele.
 
 
 por-fra	  Na França.
-	- En France :: NOT: Dans la la France.
+	- En France.
 	+ Dans la France.
 
 
@@ -95,18 +97,15 @@ por-fra	  Se não fala.
 
 
 por-fra	  João quer.
-	- João veut. :: NOT: João il veut.
-	+ João veut.
+WORKS	  João veut.
 
 
 por-fra	  Ele quer.
-	- Il veut. :: NOT: Il il veut.
-	+ Il veut.
+WORKS	  Il veut.
 
 
 por-fra	  Eu quero.
-	- Je veux. :: NOT: Je je veux.
-	+ Je veux.
+WORKS	  Je veux.
 
 
 por-fra	  É grande.
@@ -148,4 +147,4 @@ por-fra	  Eu queria.
 WORKS	  Je voulais.
 
 
-14 / 26, ~53.84615384615384615385%
+17 / 26, ~65.38461538461538461538%
