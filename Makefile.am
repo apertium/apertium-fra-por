@@ -17,85 +17,72 @@ TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autog
      $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
      $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
 
-TARGETS = $(TARGETS_COMMON) trules-$(PREFIX1).bin trules-$(PREFIX2).bin \
-          trules-$(PREFIX1).xml trules-$(PREFIX2).xml
+$(PREFVAR1)$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
+	apertium-validate-dictionary $<
+	lt-comp lr $< $@ $(BASENAME).$(LANG1).acx
 
-$(PREFVAR1)$(LANG1).dix: $(BASENAME).$(LANG1).dix
-	xsltproc --stringparam alt $(VAR1) alt.xsl $< >$@
+$(PREFVAR1)$(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp lr --var-right=pt $< $@
 
-$(PREFVAR1)$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix
-	./filter.sh pt right $(BASENAME).$(PREFIX1).dix >$@
-
-$(PREFVAR1)$(PREFIX1b).dix: $(BASENAME).$(PREFIX1).dix
-	./filter.sh br right $(BASENAME).$(PREFIX1).dix >$@
-
-
-$(PREFVAR1)$(PREFIX1).automorf.bin:$(PREFVAR1)$(LANG1).dix
-	apertium-validate-dictionary $(PREFVAR1)$(LANG1).dix
-	lt-comp lr $(PREFVAR1)$(LANG1).dix $@ $(BASENAME).$(LANG1).acx
-
-$(PREFVAR1)$(PREFIX1).autobil.bin: $(PREFVAR1)$(PREFIX1).dix
-	apertium-validate-dictionary $(PREFVAR1)$(PREFIX1).dix
-	lt-comp lr $(PREFVAR1)$(PREFIX1).dix $@
-
-$(PREFVAR1)$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	lt-comp rl --var=pt $(BASENAME).$(LANG2).dix $@  $(BASENAME).$(LANG2).acx
+$(PREFVAR1)$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix $(BASENAME).$(LANG2).acx
+	apertium-validate-dictionary $<
+	lt-comp rl --var=pt $< $@  $(BASENAME).$(LANG2).acx
 
 $(PREFVAR1)$(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
 	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
 
-$(PREFVAR1)$(PREFIX1b).autobil.bin: $(PREFVAR1)$(PREFIX1b).dix
-	apertium-validate-dictionary $(PREFVAR1)$(PREFIX1b).dix
-	lt-comp lr $(PREFVAR1)$(PREFIX1b).dix $@
+$(PREFVAR1)$(PREFIX1b).autobil.bin: $(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp lr --var-right=br $< $@
 
 $(PREFVAR1)$(PREFIX1b).autogen.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	lt-comp rl --var=br $(BASENAME).$(LANG2).dix $@
+	apertium-validate-dictionary $<
+	lt-comp rl --var=br $< $@
 
-$(PREFVAR1)$(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	lt-comp lr $(BASENAME).$(LANG2).dix $@ $(BASENAME).$(LANG2).acx
+$(PREFVAR1)$(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix $(BASENAME).$(LANG2).acx
+	apertium-validate-dictionary $<
+	lt-comp lr $< $@ $(BASENAME).$(LANG2).acx
 
 $(PREFVAR1)$(PREFIX2).autobil.bin: $(PREFVAR1)$(PREFIX1).dix
-	apertium-validate-dictionary $(PREFVAR1)$(PREFIX1).dix
-	lt-comp rl $(PREFVAR1)$(PREFIX1).dix $@
+	apertium-validate-dictionary $<
+	lt-comp rl $< $@
 
-$(PREFVAR1)$(PREFIX2).autogen.bin: $(PREFVAR1)$(LANG1).dix
-	apertium-validate-dictionary $(PREFVAR1)$(LANG1).dix
-	lt-comp rl $(PREFVAR1)$(LANG1).dix $@ $(BASENAME).$(LANG2).acx
+$(PREFVAR1)$(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).acx
+	apertium-validate-dictionary $<
+	lt-comp rl --alt=$(VAR1) $< $@ $(BASENAME).$(LANG2).acx
 
 $(PREFVAR1)$(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
-	apertium-validate-dictionary $(BASENAME).post-$(LANG1).dix
-	lt-comp lr $(BASENAME).post-$(LANG1).dix $@
+	apertium-validate-dictionary $<
+	lt-comp lr $< $@
 
 
 # Transfer
 
 $(PREFVAR1)$(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
-	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $@
+	apertium-validate-transfer $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFVAR1)$(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
-	apertium-validate-interchunk $(BASENAME).$(PREFIX1).t2x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t2x $@
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFVAR1)$(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
-	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
+	apertium-validate-postchunk $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFVAR1)$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
-	apertium-validate-transfer $(BASENAME).$(PREFIX2).t1x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t1x $@
+	apertium-validate-transfer $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFVAR1)$(PREFIX2).t2x.bin: $(BASENAME).$(PREFIX2).t2x
-	apertium-validate-interchunk $(BASENAME).$(PREFIX2).t2x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t2x $@
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFVAR1)$(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
-	apertium-validate-postchunk $(BASENAME).$(PREFIX2).t3x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t3x $@
+	apertium-validate-postchunk $<
+	apertium-preprocess-transfer $< $@
 
 
 # Distribution

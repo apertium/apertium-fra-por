@@ -56,9 +56,6 @@ dev/testvoc-summary.fr-pt.txt -text
 dev/testvoc-summary.pt-fr.txt -text
 dev/testvoc.sh -text
 dev/verify.sh -text
-/filter.sh -text
-/filter.xsl -text
-/filterrules.xsl -text
 /fra-por.prob -text
 /modes.xml -text
 /por-fra.prob -text svneol=unset#unset
