@@ -4,7 +4,6 @@ set -e -u
 
 declare -r PACKAGE=$(grep ^PACKAGE= "$(dirname $0)/../config.log" |grep -o "apertium-[^']*") # e.g. apertium-sme-nob
 declare -r BASEURL="http://wiki.apertium.org/wiki/${PACKAGE}"
-echo "$BASEURL"
 
 UPDATE=false
 ONLYPASS=false
@@ -47,8 +46,7 @@ declare -r SED
 fetchtests () {
     if ${UPDATE}; then
 	tmp=$(mktemp -t wiki-tests.html.XXXXXXXXXX)
-	wget -O "${tmp}" -q "${BASEURL}/${TESTTYPE}"
-	if [[ -s "${tmp}" ]]; then
+	if wget -O "${tmp}" -q "${BASEURL}/${TESTTYPE}" && [[ -s "${tmp}" ]]; then
 	    mv "${tmp}" "${HTML}"
 	else
 	    rm "${tmp}"
@@ -97,11 +95,20 @@ summary () {
     echo "${correct} / ${total}${pct}"
 }
 
+echo_revision () {
+    if rev=$(svn info 2>/dev/null); then
+	echo "${rev}" | grep ^Revision
+    elif git config --get svn-remote.svn.fetch &>/dev/null; then
+	git svn info | grep ^Revision
+    else
+	echo "(doesn't seem to be a repo)"
+    fi
+}
 showrevisions () {
-    ( svn info 2>/dev/null || git svn info  ) | grep ^Revision
+    echo_revision
     grep ^AP_SRC "$(dirname $0)/../config.log" | while IFS='=' read -r var dir; do
 	printf "%s " "${var}"
-	( cd "${dir//\'}"; ( svn info 2>/dev/null || git svn info  ) | grep ^Revision )
+	( cd "${dir//\'}"; echo_revision )
     done
 }
 
