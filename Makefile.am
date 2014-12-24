@@ -45,7 +45,7 @@ $(PREFVAR1)$(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix $(BASENAME).$(LANG2
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@ $(BASENAME).$(LANG2).acx
 
-$(PREFVAR1)$(PREFIX2).autobil.bin: $(PREFVAR1)$(PREFIX1).dix
+$(PREFVAR1)$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
 
@@ -145,6 +145,23 @@ install-data-local:
 	rm $(PREFVAR2)$(PREFIX2).mode
 
 
+###############################################################################
+## Cleanup
+###############################################################################
+
 CLEANFILES = $(TARGETS_COMMON)
-clean-local:
+clean-local: 
 	-rm -rf .deps modes
+
+###############################################################################
+## Test
+###############################################################################
+
+test: all
+	echo "Onde é" | apertium -d . por-fra | tee .test-mt
+	@echo "Où est" > .test-ref
+	@diff .test-ref .test-mt
+	echo "La plume de ma" | apertium -d . fra-por | tee .test-mt
+	@echo "A pluma de minha" > .test-ref
+	@diff .test-ref .test-mt
+	@rm .test-ref .test-mt
