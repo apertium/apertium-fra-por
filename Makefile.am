@@ -17,6 +17,13 @@ TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autog
      $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
      $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
 
+# This include defines goals for install-modes, .deps/.d and .mode files:
+@ap_include@
+
+###############################################################################
+## Transducers, disambiguation rules, transfer
+###############################################################################
+
 $(PREFVAR1)$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $<
 	lt-comp lr $< $@ $(BASENAME).$(LANG1).acx
@@ -108,12 +115,6 @@ apertium-fra-por.fra.dix: apertium-fra-por.fra.metadix
 	@rm $$gen.xsl
 
 apertium_fra_pordir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_modesdir=$(prefix)/share/apertium/modes/
-
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
 
 apertium_fra_por_DATA=$(PREFVAR1)$(PREFIX1).automorf.bin $(PREFVAR1)$(PREFIX2).automorf.bin \
 	$(PREFVAR1)$(PREFIX1).autobil.bin $(PREFVAR1)$(PREFIX2).autobil.bin \
@@ -129,21 +130,7 @@ apertium_fra_por_DATA=$(PREFVAR1)$(PREFIX1).automorf.bin $(PREFVAR1)$(PREFIX2).a
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFVAR1)$(PREFIX1).mode $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFVAR1)$(PREFIX2).mode $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFVAR2)$(PREFIX1).mode $(DESTDIR)$(apertium_modesdir)
-	$(INSTALL_DATA) $(PREFVAR2)$(PREFIX2).mode $(DESTDIR)$(apertium_modesdir)
-	rm $(PREFVAR1)$(PREFIX1).mode
-	rm $(PREFVAR1)$(PREFIX2).mode
-	rm $(PREFVAR2)$(PREFIX1).mode
-	rm $(PREFVAR2)$(PREFIX2).mode
-
+install-data-local: install-modes
 
 ###############################################################################
 ## Cleanup
