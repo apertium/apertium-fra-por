@@ -92,7 +92,14 @@ $(PREFVAR1)$(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
 	apertium-preprocess-transfer $< $@
 
 
-# Distribution
+apertium-fra-por.fra.dix: apertium-fra-por.fra.metadix
+	@xsltproc buscaPar.xsl apertium-fra-por.fra.metadix | uniq > $$gen.xsl
+	@xsltproc $$gen.xsl apertium-fra-por.fra.metadix >$@
+	@rm $$gen.xsl
+
+###############################################################################
+## Distribution
+###############################################################################
 
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(BASENAME).post-$(LANG1).dix $(BASENAME).post-$(LANG2).dix \
@@ -109,23 +116,21 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            modes.xml  $(BASENAME).$(LANG1).acx alt.xsl translate-to-default-equivalent.xsl \
 	   $(BASENAME).$(LANG2).acx
 
-apertium-fra-por.fra.dix: apertium-fra-por.fra.metadix
-	@xsltproc buscaPar.xsl apertium-fra-por.fra.metadix | uniq > $$gen.xsl
-	@xsltproc $$gen.xsl apertium-fra-por.fra.metadix >$@
-	@rm $$gen.xsl
+###############################################################################
+## Installation
+###############################################################################
 
-apertium_fra_pordir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
+apertium_fra_pordir=$(prefix)/share/apertium/$(BASENAME)/
 
-apertium_fra_por_DATA=$(PREFVAR1)$(PREFIX1).automorf.bin $(PREFVAR1)$(PREFIX2).automorf.bin \
-	$(PREFVAR1)$(PREFIX1).autobil.bin $(PREFVAR1)$(PREFIX2).autobil.bin \
-	$(PREFVAR1)$(PREFIX1).autogen.bin $(PREFVAR1)$(PREFIX2).autogen.bin \
-	$(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
+# Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
+apertium_fra_por_DATA=$(TARGETS_COMMON) \
 	$(PREFIX1).prob $(PREFIX2).prob \
-	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
 	$(BASENAME).$(PREFIX1).t1x \
+	$(BASENAME).$(PREFIX1).t2x \
 	$(BASENAME).$(PREFIX1).t3x \
-	$(BASENAME).$(PREFIX2).t2x
+	$(BASENAME).$(PREFIX2).t1x \
+	$(BASENAME).$(PREFIX2).t2x \
+	$(BASENAME).$(PREFIX2).t3x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
