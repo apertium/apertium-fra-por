@@ -34,5 +34,6 @@
 /por-fra.t3x.bin
 /por.dix
 /stamp-h1
+t/.git
 t/Pending_tests.html
 t/Regression_tests.html

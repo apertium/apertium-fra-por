@@ -59,6 +59,8 @@ dev/verify.sh -text
 /modes.xml -text
 /por-fra.prob -text svneol=unset#unset
 /principal.xsl -text
+t/README.org -text
+t/config.sh -text
 t/latest-pending.results -text
 t/latest-regression.results -text
 t/pending-tests -text
