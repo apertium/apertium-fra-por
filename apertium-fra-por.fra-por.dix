@@ -88,6 +88,360 @@
   <section id="main" type="standard">
     <e>       <p><l>3MA<s n="np"/></l>                <r>3MA<s n="np"/></r></p></e>
     <e>       <p><l>a<s n="n"/></l>                   <r>a<s n="n"/></r></p></e>
+    <e>       <p><l>à<b/>quoi<s n="prn"/></l>         <r>para<b/>que<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>aucun<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></l><r>nenhum<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>aucun<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></l><r>ninguém<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>aucun<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></l><r>nenhum<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>aucun<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l><r>ninguém<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>aucun<s n="prn"/><s n="tn"/></l>  <r>nenhum<s n="prn"/><s n="tn"/></r></p></e>
+    <e r="LR"><p><l>autrui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>outro<s n="prn"/><s n="tn"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>autrui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>outro<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>autrui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>outro<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>autrui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>outro<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>autrui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>outro<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+    <e a="eleka"><p><l>avec<b/>moi<s n="prn"/><s n="tn"/></l><r>comigo<s n="prn"/><s n="tn"/></r></p></e>
+    <e a="eleka"><p><l>avec<b/>soi<s n="prn"/><s n="tn"/></l><r>consigo<s n="prn"/><s n="tn"/></r></p></e>
+    <e a="eleka"><p><l>avec<b/>toi<s n="prn"/><s n="tn"/></l><r>contigo<s n="prn"/><s n="tn"/></r></p></e>
+    <e r="LR"><p><l>ça<s n="prn"/></l>                <r>isto<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>ce<s n="prn"/></l>                <r>isto<s n="prn"/></r></p></e>
+    <e>       <p><l>ceci<s n="prn"/></l>              <r>isto<s n="prn"/></r></p></e>
+    <e>       <p><l>cela<s n="prn"/></l>              <r>isso<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>cela<s n="prn"/></l>              <r>aquilo<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>celui<s n="prn"/></l>             <r>aquele<s n="prn"/></r></p></e>
+    <e>       <p><l>celui-ci<s n="prn"/></l>          <r>este<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>celui-ci<s n="prn"/></l>          <r>este<s n="prn"/></r></p></e>
+    <e>       <p><l>celui-là<s n="prn"/></l>          <r>aquele<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>celui-là<s n="prn"/></l>          <r>aquele<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>celui-là<s n="prn"/></l>          <r>esse<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>certains<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></l><r>algum<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>certains<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></l><r>algum<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>       <p><l>chacun<s n="prn"/></l>            <r>a<b/>cada<b/>um<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>chacun<s n="prn"/></l>            <r>a<b/>cada<b/>qual<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>combien<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>quanto<s n="prn"/><s n="itg"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>combien<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>quanto<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>combien<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>quanto<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>combien<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>quanto<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>combien<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>quanto<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>est-ce<b/>que<s n="prn"/></l>     <r></r></p></e>
+    <e r="LR"><p><l>eux<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></l><r>ele<s n="prn"/><s n="tn"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>       <p><l>il<s n="prn"/></l>                <r>ele<s n="prn"/></r></p></e>
+    <e>       <p><l>je<s n="prn"/></l>                <r>eu<s n="prn"/></r></p></e>
+    <e>       <p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>o<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>o<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></l><r>o<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
+    <e>       <p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></l><r>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
+    <e r="LR"><p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>o<s n="prn"/><s n="enc"/><s n="p3"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>o<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>o<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>o<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>       <p><l>le<b/>mien<s n="prn"/></l>        <r>o<b/>meu<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>le<b/>mien<s n="prn"/></l>        <r>meu<s n="prn"/></r></p></e>
+    <e>       <p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></l><r>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e>       <p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>       <p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<b/>nôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>nosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<b/>sien<s n="prn"/></l>        <r>o<b/>seu<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>le<b/>sien<s n="prn"/></l>        <r>seu<s n="prn"/></r></p></e>
+    <e>       <p><l>le<b/>tien<s n="prn"/></l>        <r>o<b/>teu<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>le<b/>tien<s n="prn"/></l>        <r>teu<s n="prn"/></r></p></e>
+    <e>       <p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e>       <p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>       <p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<b/>vôtre<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>vosso<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>       <p><l>leur<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>lhe<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e>       <p><l>leur<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>lhe<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e>       <p><l>lui<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></l><r>lhe<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>       <p><l>lui<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></l><r>lhe<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>lui<s n="prn"/><s n="tn"/></l>    <r>ele<s n="prn"/><s n="tn"/></r></p></e>
+    <e r="RL"><p><l>lui<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sg"/></l><r>lhe<s n="prn"/><s n="enc"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e>       <p><l>me<s n="prn"/><s n="enc"/></l>    <r>me<s n="prn"/><s n="enc"/></r></p></e>
+    <e>       <p><l>me<s n="prn"/><s n="pro"/></l>    <r>me<s n="prn"/><s n="pro"/></r></p></e>
+    <e>       <p><l>moi<s n="prn"/><s n="tn"/></l>    <r>mim<s n="prn"/><s n="tn"/></r></p></e>
+    <e>       <p><l>n'importe<b/>qui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>quem<b/>quer<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>n'importe<b/>qui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualquer<s n="prn"/><s n="tn"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>n'importe<b/>qui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualquer<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>n'importe<b/>qui<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualquer<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e>       <p><l>n'importe<b/>quoi<s n="prn"/></l> <r>qualquer<b/>coisa<s n="prn"/></r></p></e>
+    <e>       <p><l>nous<s n="prn"/></l>              <r>nos<s n="prn"/></r></p></e>
+    <e>       <p><l>nous<s n="prn"/><s n="tn"/></l>   <r>nós<s n="prn"/><s n="tn"/></r></p></e>
+    <e r="LR"><p><l>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>on<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>on<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e>       <p><l>personne<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>ninguém<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>que<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></l><r>que<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>que<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>que<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>quel<s n="prn"/><s n="itg"/><s n="f"/></l><r>qual<s n="prn"/><s n="itg"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>quel<s n="prn"/><s n="itg"/><s n="m"/></l><r>qual<s n="prn"/><s n="itg"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>quel<s n="prn"/><s n="itg"/><s n="GD"/></l><r>qual<s n="prn"/><s n="itg"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>quelque<s n="prn"/><s n="tn"/><s n="mf"/></l><r>pouco<s n="prn"/><s n="tn"/><s n="GD"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>quelque<s n="prn"/><s n="tn"/><s n="mf"/></l><r>pouco<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>quelque<s n="prn"/><s n="tn"/><s n="mf"/></l><r>pouco<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
+    <e>       <p><l>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></l><r>algo<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r></p></e>
+    <e>       <p><l>quelqu'un<s n="prn"/><s n="tn"/></l><r>algum<s n="prn"/><s n="tn"/></r></p></e>
+    <e>       <p><l>quelqu'un<s n="prn"/><s n="tn"/><s n="mf"/></l><r>alguém<s n="prn"/><s n="tn"/><s n="mf"/></r></p></e>
+    <e>       <p><l>qu'est-ce<b/>que<s n="prn"/></l>  <r>que<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>qu'est-ce<b/>que<b/>c'est<b/>que<s n="prn"/></l><r>que<s n="prn"/></r></p></e>
+    <e>       <p><l>qui<s n="prn"/><s n="itg"/></l>   <r>quem<s n="prn"/><s n="itg"/></r></p></e>
+    <e r="LR"><p><l>qui<b/>est-ce<b/>qui<s n="prn"/><s n="itg"/></l><r>quem<s n="prn"/><s n="itg"/></r></p></e>
+    <e r="LR"><p><l>quoi<s n="prn"/></l>              <r>que<s n="prn"/></r></p></e>
+    <e>       <p><l>rien<s n="prn"/><s n="tn"/><s n="nt"/></l><r>nada<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+    <e>       <p><l>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></l><r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e>       <p><l>soi<s n="prn"/></l>               <r>si<s n="prn"/></r></p></e>
+    <e>       <p><l>te<s n="prn"/></l>                <r>te<s n="prn"/></r></p></e>
+    <e r="LR"><p><l>toi<s n="prn"/></l>               <r>tu<s n="prn"/></r></p></e>
+    <e r="RL"><p><l>toi<s n="prn"/></l>               <r>ti<s n="prn"/></r></p></e>
+    <e>       <p><l>tous<b/>les<b/>deux<s n="prn"/></l><r>ambos<s n="prn"/></r></p></e>
+    <e>       <p><l>tout<s n="prn"/><s n="tn"/></l>   <r>todo<s n="prn"/><s n="tn"/></r></p></e>
+    <e r="RL"><p><l>tout<s n="prn"/><s n="tn"/><s n="m"/></l><r>tudo<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+    <e>       <p><l>tout<b/>le<b/>monde<s n="prn"/></l><r>todo<b/>mundo<s n="prn"/></r></p></e>
+    <e>       <p><l>tu<s n="prn"/></l>                <r>tu<s n="prn"/></r></p></e>
+    <e>       <p><l>un<s n="prn"/></l>                <r>um<s n="prn"/></r></p></e>
+    <e>       <p><l>vous<s n="prn"/></l>              <r>vos<s n="prn"/></r></p></e>
+    <e>       <p><l>vous<s n="prn"/><s n="tn"/></l>   <r>vós<s n="prn"/><s n="tn"/></r></p></e>
+    <e r="RL"><p><l>vous<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>você<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>vous<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>você<s n="prn"/><s n="tn"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>y<s n="prn"/></l>                 <r><s n="prn"/></r></p></e>
+    <e r="LR"><p><l>y<s n="prn"/><s n="enc"/><s n="adv"/></l><r><s n="prn"/></r></p></e>
+    <e r="LR"><p><l>y<s n="prn"/><s n="pro"/><s n="adv"/></l><r><s n="prn"/></r></p></e>
+    <e>       <p><l>à<s n="pr"/></l>                  <r>a<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>cause<b/>de<s n="pr"/></l>   <r>por<b/>causa<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>défaut<b/>de<s n="pr"/></l>  <r>a<b/>falta<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>à<b/>force<b/>de<s n="pr"/></l>   <r>através<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>la<b/>demande<b/>de<s n="pr"/></l><r>a<b/>pedido<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>la<b/>fin<b/>de<s n="pr"/></l><r>no<b/>final<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>à<b/>la<b/>suite<b/>de<s n="pr"/></l><r>após<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>à<b/>l'égard<b/>de<s n="pr"/></l> <r>com<b/>respeito<b/>a<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>à<b/>l'encontre<b/>de<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>l'époque<b/>de<s n="pr"/></l><r>na<b/>época<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>l'exception<b/>de<s n="pr"/></l><r>exceto<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>à<b/>l'exception<b/>de<s n="pr"/></l><r>excepto<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>l'instar<b/>de<s n="pr"/></l><r>à<b/>moda<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>l'occasion<b/>de<s n="pr"/></l><r>por<b/>motivo<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>à<b/>moins<b/>de<s n="pr"/></l>   <r>sem<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>ras<b/>de<s n="pr"/></l>     <r>ao<b/>nivel<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>à<b/>titre<b/>de<s n="pr"/></l>   <r>a<b/>título<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>afin<b/>de<s n="pr"/></l>         <r>a<b/>fim<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>après<s n="pr"/></l>              <r>após<s n="pr"/></r></p></e>
+    <e>       <p><l>après<s n="pr"/></l>              <r>depois<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>après<s n="pr"/></l>              <r>trás<s n="pr"/></r></p></e>
+    <e>       <p><l>attendu<s n="pr"/></l>            <r>considerando<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>bord<b/>de<s n="pr"/></l>   <r>à<b/>beira de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>bout<b/>de<s n="pr"/></l>   <r>no<b/>fim<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>au<b/>cours<b/>de<s n="pr"/></l>  <r>durante<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>au<b/>cours<b/>de<s n="pr"/></l>  <r>em<b/>decorrência<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>au<b/>défaut<b/>de<s n="pr"/></l> <r>a<b/>falta<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>dessus<b/>de<s n="pr"/></l> <r>acima<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>détriment<b/>de<s n="pr"/></l><r>em<b/>detrimento<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>au<b/>dire<b/>de<s n="pr"/></l>   <r>segundo<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>fur<b/>et<b/>à<b/>mesure<b/>de<s n="pr"/></l><r>na<b/>medida<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>gré<b/>de<s n="pr"/></l>    <r>ao<b/>longo<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>lieu<b/>de<s n="pr"/></l>   <r>ao<b/>invés<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>lieu<b/>de<s n="pr"/></l>   <r>em<b/>vez<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>milieu<b/>de<s n="pr"/></l> <r>no<b/>meio<b/>de<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>au<b/>milieu<b/>de<s n="pr"/></l> <r>em<b/>meados<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>moment<b/>de<s n="pr"/></l> <r>no<b/>momento<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>pair<b/>de<s n="pr"/></l>   <r>a<b/>par<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>au<b/>préjudice<b/>de<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>prétexte<b/>de<s n="pr"/></l><r>sob<b/>pretexto<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>profit<b/>de<s n="pr"/></l> <r>em<b/>favor<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>au<b/>sujet<b/>de<s n="pr"/></l>  <r>sobre<s n="pr"/></r></p></e>
+    <e>       <p><l>au<b/>temps<b/>de<s n="pr"/></l>  <r>no<b/>tempo<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>au-delà<b/>de<s n="pr"/></l>      <r>além<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>autour<b/>de<s n="pr"/></l>       <r>em<b/>torno<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>avec<s n="pr"/></l>               <r>com<s n="pr"/></r></p></e>
+    <e>       <p><l>chargé<b/>de<s n="pr"/></l>       <r>cargado<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>chez<s n="pr"/></l>               <r>em<s n="pr"/></r></p></e>
+    <e>       <p><l>comme<s n="pr"/></l>              <r>como<s n="pr"/></r></p></e>
+    <e>       <p><l>comme<b/>preuve<b/>de<s n="pr"/></l><r>como<b/>prova<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>compte<b/>tenu<b/>de<s n="pr"/></l><r>em<b/>vista<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>concernant<s n="pr"/></l>         <r>referente<b/>a<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>contrairement<b/>à<s n="pr"/></l> <r>contra<s n="pr"/></r></p></e>
+    <e>       <p><l>contre<s n="pr"/></l>             <r>contra<s n="pr"/></r></p></e>
+    <e>       <p><l>dans<s n="pr"/></l>               <r>em<s n="pr"/></r></p></e>
+    <e>       <p><l>dans<b/>le<b/>but<b/>de<s n="pr"/></l><r>no<b/>intuito<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>dans<b/>le<b/>cadre<b/>de<s n="pr"/></l><r>no<b/>ambito<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>dans<b/>le<b/>cours<b/>de<s n="pr"/></l><r>em<b/>decorrência<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>dans<b/>l'entourage<b/>de<s n="pr"/></l><r>no<b/>círculo<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>de<s n="pr"/></l>                 <r>de<s n="pr"/></r></p></e>
+    <e>       <p><l>d'entre<s n="pr"/></l>            <r>dentre<s n="pr"/></r></p></e>
+    <e>       <p><l>depuis<s n="pr"/></l>             <r>desde<s n="pr"/></r></p></e>
+    <e>       <p><l>derrière<s n="pr"/></l>           <r>por<b/>trás<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>dès<s n="pr"/></l>                <r>desde<s n="pr"/></r></p></e>
+    <e>       <p><l>devant<s n="pr"/></l>             <r>adiante<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>devant<s n="pr"/></l>             <r>ante<s n="pr"/></r></p></e>
+    <e>       <p><l>devant<s n="pr"/></l>             <r>perante<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>du<b/>fait<b/>de<s n="pr"/></l>   <r>por<b/>causa<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>du<b/>point<b/>de<b/>vue<b/>de<s n="pr"/></l><r>de<b/>ponto<b/>de<b/>vista<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>durant<s n="pr"/></l>             <r>durante<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>en<s n="pr"/></l>                 <r>em<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>accord<b/>avec<s n="pr"/></l><r>no<b/>acordo<b/>com<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>cas<b/>de<s n="pr"/></l>    <r>em<b/>caso<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>ce<b/>qui<b/>concerne<s n="pr"/></l><r>quanto<b/>a<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>en<b/>ce<b/>qui<b/>concerne<s n="pr"/></l><r>no<b/>que<b/>diz<b/>respeito<b/>a<s n="pr"/></r></p></e>
+    <e vr="br"><p><l>en<b/>conséquence<b/>de<s n="pr"/></l><r>em<b/>conseqüência<b/>de<s n="pr"/></r></p></e>
+    <e vr="pt"><p><l>en<b/>conséquence<b/>de<s n="pr"/></l><r>em<b/>consequência<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>cours<b/>de<s n="pr"/></l>  <r>em<b/>decorrência<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>dehors<b/>de<s n="pr"/></l> <r>no<b/>exterior<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>en<b/>dépit<b/>de<s n="pr"/></l>  <r>apesar<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>échange<b/>de<s n="pr"/></l><r>em<b/>troca<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>finissant<s n="pr"/></l>    <r>acabando<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>matière<b/>de<s n="pr"/></l><r>em<b/>termos<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>raison<b/>de<s n="pr"/></l> <r>devido<b/>a<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>vertu<b/>de<s n="pr"/></l>  <r>em<b/>virtude<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>vigueur<b/>à<b/>partir<b/>de<s n="pr"/></l><r>em<b/>vigor<b/>no<b/>prazo<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>voie<b/>de<s n="pr"/></l>   <r>em<b/>via<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>en<b/>vue<b/>de<s n="pr"/></l>    <r>em<b/>vista<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>entre<s n="pr"/></l>              <r>entre<s n="pr"/></r></p></e>
+    <e>       <p><l>entre<s n="pr"/></l>              <r>por<b/>entre<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>envers<s n="pr"/></l>             <r>para<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>envers<s n="pr"/></l>             <r>para<b/>com<s n="pr"/></r></p></e>
+    <e>       <p><l>extra<s n="pr"/></l>              <r>extra<s n="pr"/></r></p></e>
+    <e>       <p><l>face<b/>à<s n="pr"/></l>          <r>em<b/>frente<b/>a<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>faute<b/>de<s n="pr"/></l>        <r>a<b/>falta<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>grâce<b/>à<s n="pr"/></l>         <r>graças<b/>a<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>hors<s n="pr"/></l>               <r>excepto<s n="pr"/></r></p></e>
+    <e>       <p><l>jusqu'à<s n="pr"/></l>            <r>até<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>jusque<s n="pr"/></l>             <r>até<s n="pr"/></r></p></e>
+    <e>       <p><l>le<b/>long<b/>de<s n="pr"/></l>   <r>no<b/>comprimento<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>lors<b/>de<s n="pr"/></l>         <r>durante<s n="pr"/></r></p></e>
+    <e>       <p><l>moyennant<s n="pr"/></l>          <r>mediante<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>outre<s n="pr"/></l>              <r>além<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>par<s n="pr"/></l>                <r>por<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>par<b/>l'intermédiaire<b/>de<s n="pr"/></l><r>através<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>par<b/>rapport<b/>à<s n="pr"/></l><r>com<b/>respeito<b/>a<s n="pr"/></r></p></e>
+    <e>       <p><l>par<b/>suite<b/>de<s n="pr"/></l> <r>portanto<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>parmi<s n="pr"/></l>              <r>entre<s n="pr"/></r></p></e>
+    <e>       <p><l>pendant<s n="pr"/></l>            <r>durante<s n="pr"/></r></p></e>
+    <e>       <p><l>pour<s n="pr"/></l>               <r>para<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>pour<s n="pr"/></l>               <r>pra<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>pour<b/>cause<b/>de<s n="pr"/></l><r>devido<b/>a<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>pour<b/>ce<b/>qui<b/>est<b/>de<s n="pr"/></l><r>com<b/>respeito<b/>a<s n="pr"/></r></p></e>
+    <e>       <p><l>près<s n="pr"/></l>               <r>cerca<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>proche<b/>de<s n="pr"/></l>       <r>próximo<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>quant<b/>à<s n="pr"/></l>         <r>com<b/>respeito<b/>a<s n="pr"/></r></p></e>
+    <e>       <p><l>quitte<b/>à<s n="pr"/></l>        <r>ao<b/>risco<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sans<s n="pr"/></l>               <r>sem<s n="pr"/></r></p></e>
+    <e>       <p><l>sans<b/>détriment<b/>de<s n="pr"/></l><r>sem<b/>detrimento<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sauf<s n="pr"/></l>               <r>excepto<s n="pr"/></r></p></e>
+    <e>       <p><l>selon<s n="pr"/></l>              <r>segundo<s n="pr"/></r></p></e>
+    <e>       <p><l>sous<s n="pr"/></l>               <r>debaixo<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sous<s n="pr"/></l>               <r>embaixo<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sous<s n="pr"/></l>               <r>sob<s n="pr"/></r></p></e>
+    <e vr="br"><p><l>sous<b/>la<b/>protection<b/>de<s n="pr"/></l><r>sob<b/>a<b/>proteção<b/>de<s n="pr"/></r></p></e>
+    <e vr="pt"><p><l>sous<b/>la<b/>protection<b/>de<s n="pr"/></l><r>sob<b/>a<b/>protecção<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sous<b/>l'effet<b/>de<s n="pr"/></l><r>sob<b/>efeito<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sur<s n="pr"/></l>                <r>sobre<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>sur<s n="pr"/></l>                <r>a<b/>respeito<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sur<b/>la<b/>rêquete<b/>de<s n="pr"/></l><r>a<b/>requerimento<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sur<b/>le<b/>point<b/>de<s n="pr"/></l><r>a<b/>ponto<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>sur<b/>proposition<b/>de<s n="pr"/></l><r>sob<b/>proposição<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>tourner<b/>en<b/>faveur<b/>de<s n="pr"/></l><r>virar<b/>a<b/>favor<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>tout<b/>au<b/>long<b/>de<s n="pr"/></l><r>do<b/>começo<b/>ao<b/>fim<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>vers<s n="pr"/></l>               <r>para<s n="pr"/></r></p></e>
+    <e>       <p><l>via<s n="pr"/></l>                <r>por<b/>meio<b/>de<s n="pr"/></r></p></e>
+    <e>       <p><l>aucun<s n="det"/><s n="ind"/></l> <r>nenhum<s n="det"/><s n="ind"/></r></p></e>
+    <e>       <p><l>ce<s n="det"/></l>                <r>esse<s n="det"/></r></p></e>
+    <e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="f"/></l><r>esse<s n="det"/><s n="dem"/><s n="f"/></r></p></e>
+    <e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="mf"/></l><r>esse<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>ce<s n="det"/><s n="dem"/><s n="m"/></l><r>esse<s n="det"/><s n="dem"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>ce<s n="det"/></l>                <r>aquele<s n="det"/></r></p></e>
+    <e r="RL"><p><l>ce<s n="det"/></l>                <r>este<s n="det"/></r></p></e>
+    <e>       <p><l>certain<s n="det"/></l>           <r>certo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>certain<s n="det"/></l>           <r>algum<s n="det"/></r></p></e>
+    <e>       <p><l>chaque<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>chaque<s n="det"/></l>            <r>a<b/>cada<s n="det"/></r></p></e>
+    <e r="LR"><p><l>cinquante<b/>et<b/>un<s n="det"/></l><r>cinquenta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e>       <p><l>cinquante-et-un<s n="det"/></l>   <r>cinquenta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e>       <p><l>divers<s n="det"/></l>            <r>vário<s n="det"/></r></p></e>
+    <e>       <p><l>le<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></l><r>o<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>le<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></l><r>o<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>le<s n="det"/><s n="def"/><s n="mf"/></l><r>o<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>o<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>o<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
+    <e>       <p><l>les<b/>deux<s n="det"/></l>       <r>ambos<s n="det"/></r></p></e>
+    <e r="LR"><p><l>leur<s n="det"/><s n="pos"/><s n="mf"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+    <e>       <p><l>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>meu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>o<b/>meu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>meu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>meu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>meu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>mon<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>o<b/>meu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="f"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="m"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="RL"><p><l>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/></l><r>qualquer<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+    <e r="LR"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>o<b/>nosso<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nosso<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>nosso<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>o<b/>nosso<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>notre<s n="det"/><s n="pos"/><s n="mf"/></l><r>o<b/>nosso<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>plusieurs<s n="det"/><s n="ind"/><s n="mf"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>quarante<b/>et<b/>un<s n="det"/></l><r>quarenta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e>       <p><l>quarante-et-un<s n="det"/></l>    <r>quarenta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e r="LR"><p><l>quatre-vingt-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>quatre-vingt-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="det"/><s n="def"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>quatre-vingt-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="det"/><s n="def"/><s n="m"/></r></p></e>
+    <e>       <p><l>quatre-vingt-un<s n="det"/></l>   <r>oitenta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e r="LR"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>quelque<s n="det"/><s n="ind"/><s n="mf"/></l><r>algum<s n="det"/><s n="ind"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>soixante<b/>et<b/>un<s n="det"/></l><r>sessenta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e>       <p><l>soixante-et-un<s n="det"/></l>    <r>sessenta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e r="LR"><p><l>soixante-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>soixante-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="det"/><s n="def"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>soixante-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="det"/><s n="def"/><s n="m"/></r></p></e>
+    <e>       <p><l>son<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>son<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>o<b/>seu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>seu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>seu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>seu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>son<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>o<b/>seu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e>       <p><l>ton<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>teu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>ton<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>teu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="GD"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>o<b/>teu<s n="det"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>teu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>o<b/>teu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></l><r>teu<s n="det"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>ton<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>o<b/>teu<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>trente<b/>et<b/>un<s n="det"/></l><r>trinta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e>       <p><l>trente-et-un<s n="det"/></l>      <r>trinta<b/>e<b/>um<s n="det"/></r></p></e>
+    <e>       <p><l>un<s n="det"/></l>                <r>um<s n="det"/></r></p></e>
+    <e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l><r>outro<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+    <e>       <p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></l><r>outro<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/></l><r>outro<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>outro<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>un<b/>autre<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>outro<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>vingt<b/>et<b/>un<s n="det"/></l> <r>vinte<b/>e<b/>um<s n="det"/></r></p></e>
+    <e>       <p><l>vingt-et-un<s n="det"/></l>       <r>vinte<b/>e<b/>um<s n="det"/></r></p></e>
+    <e r="LR"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>o<b/>vosso<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+    <e r="LR"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>vosso<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>o<b/>vosso<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>o<b/>vosso<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>vosso<s n="det"/><s n="pos"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>votre<s n="det"/><s n="pos"/><s n="mf"/></l><r>vosso<s n="det"/><s n="pos"/><s n="m"/></r></p></e>
     <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e>       <re>[0-9]+([.,][0-9]+)?%</re><p><l><s n="num"/><s n="percent"/></l><r><s n="num"/><s n="percent"/></r></p></e>
     <e>       <re>[a-z.]+@[a-z.]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>

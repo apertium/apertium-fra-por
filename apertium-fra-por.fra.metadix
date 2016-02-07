@@ -8664,6 +8664,7 @@
     <e lm="audience">                       <i>audience</i><par n="abeille__n"/></e>
     <e lm="audiovisuel">                    <i>audiovisuel</i><par n="annuel__adj"/></e>
     <e lm="au dire de">                     <i>au<b/>dire<b/></i><par n="contde__pr"/></e>
+    <e lm="au dire de" r="LR">              <i>au<b/>dire<b/></i><par n="contde__pr"/></e>
     <e lm="auditer">                        <i>audit</i><par n="abaiss/er__vblex"/></e>
     <e lm="auditeur">                       <i>audit</i><par n="administrat/eur__n"/></e>
     <e lm="audition">                       <i>audition</i><par n="abeille__n"/></e>
@@ -10154,6 +10155,7 @@
     <e lm="cinquante-deux">                 <i>cinquante-deux</i><par n="cinq__num"/></e>
     <e lm="cinquante et un">                <i>cinquante<b/>et<b/>un</i><par n="cinquante_et_un__det"/></e>
     <e lm="cinquante et un">                <i>cinquante<b/>et<b/>un</i><par n="cinquante_et_un__num"/></e>
+    <e lm="cinquante-et-un">                <i>cinquante-et-un</i><par n="cinquante_et_un__det"/></e>
     <e lm="cinquante-huit">                 <i>cinquante-huit</i><par n="cinq__num"/></e>
     <e lm="cinquante-neuf">                 <i>cinquante-neuf</i><par n="cinq__num"/></e>
     <e lm="cinquante-quatre">               <i>cinquante-quatre</i><par n="cinq__num"/></e>
@@ -10659,6 +10661,7 @@
     <e lm="contraire">                      <i>contraire</i><par n="académique__adj"/></e>
     <e lm="contrairement">                  <i>contrairement</i><par n="hier__adv"/></e>
     <e lm="contrairement à">                <i>contrairement<b/></i><par n="conta__pr"/></e>
+    <e lm="contrairement à" r="LR">         <i>contrairement<b/></i><par n="conta__pr"/></e>
     <e lm="contrarier">                     <i>contrari</i><par n="abaiss/er__vblex"/></e>
     <e lm="contrariété">                    <i>contrariété</i><par n="abeille__n"/></e>
     <e lm="contraster">                     <i>contrast</i><par n="abaiss/er__vblex"/></e>
@@ -11275,6 +11278,7 @@
     <e lm="derrière">                       <i>derrière</i><par n="attendu__pr"/></e>
     <e lm="derrière">                       <i>derrière</i><par n="hier__adv"/></e>
     <e lm="dès">                            <i>dès</i><par n="attendu__pr"/></e>
+    <e lm="dès" r="LR">                     <i>dès</i><par n="attendu__pr"/></e>
     <e lm="désabonner">                     <i>désabonn</i><par n="abaiss/er__vblex"/></e>
     <e lm="désaccord">                      <i>désaccord</i><par n="livre__n"/></e>
     <e lm="désactiver">                     <i>désactiv</i><par n="abaiss/er__vblex"/></e>
@@ -12038,6 +12042,8 @@
     <e lm="ENA">                            <i>ENA</i><par n="Autre__np"/></e>
     <e lm="en">                             <i>en</i><par n="en__prn"/></e>
     <e lm="en">                             <p><l>en</l><r>en</r></p><par n="attendu__pr"/></e>
+    <e lm="en" r="LR">                      <i>en</i><par n="en__prn"/></e>
+    <e lm="en" r="RL">                      <p><l><a/>en</l><r>en</r></p><par n="en__prn"/></e>
     <e lm="en accord avec">                 <i>en<b/>accord<b/>avec</i><par n="attendu__pr"/></e>
     <e lm="Enaitz">                         <i>Enaitz</i><par n="Nom__np"/></e>
     <e lm="en bas">                         <i>en<b/>bas</i><par n="hier__adv"/></e>
@@ -15916,6 +15922,7 @@
     <e lm="Lorraine">                       <i>Lorraine</i><par n="Nom__np"/></e>
     <e lm="lors">                           <i>lors</i><par n="hier__adv"/></e>
     <e lm="lors de">                        <i>lors<b/></i><par n="contde__pr"/></e>
+    <e lm="lors de" r="LR">                 <i>lors<b/></i><par n="contde__pr"/></e>
     <e lm="lorsque">                        <i>lorsque</i><par n="afin_que__cnjadv"/></e>
     <e lm="Los Angeles">                    <i>Los<b/>Angeles</i><par n="Lieu__np"/></e>
     <e lm="Lot">                            <i>Lot</i><par n="Lieu__np"/></e>
@@ -16519,6 +16526,7 @@
     <e lm="mer Chilienne">                  <i>mer<b/>Chilienne</i><par n="Lieu__np"/></e>
     <e lm="merci">                          <i>merci</i><par n="ah__ij"/></e>
     <e lm="merci beaucoup">                 <i>merci<b/>beaucoup</i><par n="ah__ij"/></e>
+    <e lm="merci de">                       <i>merci<b/></i><par n="contde__pr"/></e>
     <e lm="Mercie">                         <i>Mercie</i><par n="Lieu__np"/></e>
     <e lm="Merckx">                         <i>Merckx</i><par n="Nom__np"/></e>
     <e lm="Merco">                          <i>Merco</i><par n="Autre__np"/></e>
@@ -17055,6 +17063,7 @@
     <e lm="mythique">                       <i>mythique</i><par n="académique__adj"/></e>
     <e lm="mythologie">                     <i>mythologie</i><par n="abeille__n"/></e>
     <e lm="NA-129">                         <i>NA-129</i><par n="Autre__np"/></e>
+    <e lm="n°">                             <i>n°</i><par n="mois__n"/></e>
     <e lm="NaBai">                          <i>NaBai</i><par n="Autre__np"/></e>
     <e lm="Nablous">                        <i>Nablous</i><par n="Lieu__np"/></e>
     <e lm="Nabuchodonosor">                 <i>Nabuchodonosor</i><par n="Nom__np"/></e>
@@ -17368,6 +17377,7 @@
     <e lm="nucléaire">                      <i>nucléaire</i><par n="académique__adj"/></e>
     <e lm="nuire">                          <i>nui</i><par n="nui/re__vblex"/></e>
     <e lm="nuit">                           <i>nuit</i><par n="abeille__n"/></e>
+    <e lm="nul" r="LR">                     <i>nul</i><par n="nul__det"/></e>
     <e lm="Numance">                        <i>Numance</i><par n="Lieu__np"/></e>
     <e lm="Numancia">                       <i>Numancia</i><par n="Lieu__np"/></e>
     <e lm="Numea">                          <i>Numea</i><par n="Lieu__np"/></e>
@@ -17858,6 +17868,7 @@
     <e lm="parodier">                       <i>parodi</i><par n="abaiss/er__vblex"/></e>
     <e lm="paroi">                          <i>paroi</i><par n="abeille__n"/></e>
     <e lm="parole">                         <i>parole</i><par n="abeille__n"/></e>
+    <e lm="par ordre de">                   <i>par<b/>ordre<b/></i><par n="contde__pr"/></e>
     <e lm="par présomption">                <i>par<b/>présomption</i><par n="hier__adv"/></e>
     <e lm="Parra">                          <i>Parra</i><par n="Autre__np"/></e>
     <e lm="parrainer">                      <i>parrain</i><par n="abaiss/er__vblex"/></e>
@@ -18481,6 +18492,7 @@
     <e lm="pour cause de">                  <i>pour<b/>cause<b/></i><par n="contde__pr"/></e>
     <e lm="pourcentage">                    <i>pourcentage</i><par n="livre__n"/></e>
     <e lm="pour ce qui est de">             <i>pour<b/>ce<b/>qui<b/>est<b/></i><par n="contde__pr"/></e>
+    <e lm="pour ce qui est de" r="LR">      <i>pour<b/>ce<b/>qui<b/>est<b/></i><par n="contde__pr"/></e>
     <e lm="pourchasser">                    <i>pourchass</i><par n="abaiss/er__vblex"/></e>
     <e lm="pour la première fois">          <i>pour<b/>la<b/>première<b/>fois</i><par n="hier__adv" /></e>
     <e lm="pour le moment">                 <i>pour<b/>le<b/>moment</i><par n="hier__adv"/></e>
@@ -18857,6 +18869,7 @@
     <e lm="quarante-deux">                  <i>quarante-deux</i><par n="cinq__num"/></e>
     <e lm="quarante et un">                 <i>quarante<b/>et<b/>un</i><par n="cinquante_et_un__det"/></e>
     <e lm="quarante et un">                 <i>quarante<b/>et<b/>un</i><par n="cinquante_et_un__num"/></e>
+    <e lm="quarante-et-un">                 <i>quarante-et-un</i><par n="cinquante_et_un__det"/></e>
     <e lm="quarante-huit">                  <i>quarante-huit</i><par n="cinq__num"/></e>
     <e lm="quarante-neuf">                  <i>quarante-neuf</i><par n="cinq__num"/></e>
     <e lm="quarante-quatre">                <i>quarante-quatre</i><par n="cinq__num"/></e>
@@ -18872,6 +18885,8 @@
     <e lm="quatre cent">                    <i>quatre<b/>cent</i><par n="cent__num"/></e>
     <e lm="quatre cents">                   <i>quatre<b/>cents</i><par n="cinq__num"/></e>
     <e lm="quatre-vingt">                   <i>quatre-vingt</i><par n="cinq__num"/></e>
+    <e lm="quatre-vingt-onze">              <i>quatre-vingt-onze</i><par n="quatre-vingt-onze__det"/></e>
+    <e lm="quatre-vingt-un">                <i>quatre-vingt-un</i><par n="cinquante_et_un__det"/></e>
     <e lm="quatrième">                      <i>quatrième</i><par n="académique__adj"/></e>
     <e lm="que">                            <i>que</i><par n="que__cnjsub"/></e>
     <e lm="que">                            <i>que</i><par n="que__rel"/></e>
@@ -18893,6 +18908,8 @@
     <e lm="Quevedo">                        <i>Quevedo</i><par n="Nom__np"/></e>
     <e lm="qui">                            <i>qui</i><par n="que__prn"/></e>
     <e lm="qui">                            <i>qui</i><par n="qui__rel"/></e>
+    <e lm="qui" r="LR">                     <i>qui</i><par n="que__prn"/></e>
+    <e lm="qui" r="RL">                     <p><l><a/>qui</l><r>qui</r></p><par n="que__prn"/></e>
     <e lm="Quichotte">                      <i>Quichotte</i><par n="Autre__np"/></e>
     <e lm="qui est-ce qui">                 <i>qui<b/>est-ce<b/>qui</i><par n="que__prn"/></e>
     <e lm="Quiksilver">                     <i>Quiksilver</i><par n="Autre__np"/></e>
@@ -20072,6 +20089,8 @@
     <e lm="Scythie">                        <i>Scythie</i><par n="Lieu__np"/></e>
     <e lm="se">                             <i>se</i><par n="on__prn"/></e>
     <e lm="se">                             <p><l><a/>se</l><r>se</r></p><par n="on__prn"/></e>
+    <e lm="se" r="LR">                      <i>se</i><par n="on__prn"/></e>
+    <e lm="se" r="RL">                      <p><l><a/>se</l><r>se</r></p><par n="on__prn"/></e>
     <e lm="séance">                         <i>séance</i><par n="abeille__n"/></e>
     <e lm="Seat">                           <i>Seat</i><par n="Autre__np"/></e>
     <e lm="Seattle">                        <i>Seattle</i><par n="Lieu__np"/></e>
@@ -20393,6 +20412,7 @@
     <e lm="soixante-douze">                 <i>soixante-deux</i><par n="cinq__num"/></e>
     <e lm="soixante et un">                 <i>soixante<b/>et<b/>un</i><par n="cinquante_et_un__det"/></e>
     <e lm="soixante et un">                 <i>soixante<b/>et<b/>un</i><par n="cinquante_et_un__num"/></e>
+    <e lm="soixante-et-un">                 <i>soixante-et-un</i><par n="cinquante_et_un__det"/></e>
     <e lm="soixante-huit">                  <i>soixante-dix-huit</i><par n="cinq__num"/></e>
     <e lm="soixante-neuf">                  <i>soixante-dix-neuf</i><par n="cinq__num"/></e>
     <e lm="soixante-onze">                  <i>soixante-onze</i><par n="cinq__num"/></e>
@@ -20436,6 +20456,8 @@
     <e lm="sommet">                         <i>sommet</i><par n="livre__n"/></e>
     <e lm="son">                            <i>s</i><par n="m/on__det"/></e>
     <e lm="son">                            <i>son</i><par n="livre__n"/></e>
+    <e lm="son" r="LR">                     <i>s</i><par n="m/on__det"/></e>
+    <e lm="son" r="RL">                     <p><l><a/>s</l><r>s</r></p><par n="m/on__det"/></e>
     <e lm="sonde">                          <i>sonde</i><par n="abeille__n"/></e>
     <e lm="songer">                         <i>song</i><par n="allong/er__vblex"/></e>
     <e lm="Sonia">                          <i>Sonia</i><par n="Nom__np"/></e>
@@ -21338,6 +21360,7 @@
     <e lm="trente-deux">                    <i>trente-deux</i><par n="cinq__num"/></e>
     <e lm="trente et un">                   <i>trente<b/>et<b/>un</i><par n="cinquante_et_un__det"/></e>
     <e lm="trente et un">                   <i>trente<b/>et<b/>un</i><par n="cinquante_et_un__num"/></e>
+    <e lm="trente-et-un">                   <i>trente-et-un</i><par n="cinquante_et_un__det"/></e>
     <e lm="trente-huit">                    <i>trente-huit</i><par n="cinq__num"/></e>
     <e lm="trente-neuf">                    <i>trente-neuf</i><par n="cinq__num"/></e>
     <e lm="trente-quatre">                  <i>trente-quatre</i><par n="cinq__num"/></e>
@@ -21868,6 +21891,7 @@
     <e lm="vingt-deux">                     <i>vingt-deux</i><par n="cinq__num"/></e>
     <e lm="vingt et un">                    <i>vingt<b/>et<b/>un</i><par n="cinquante_et_un__det"/></e>
     <e lm="vingt et un">                    <i>vingt<b/>et<b/>un</i><par n="cinquante_et_un__num"/></e>
+    <e lm="vingt-et-un">                    <i>vingt-et-un</i><par n="cinquante_et_un__det"/></e>
     <e lm="vingt-huit">                     <i>vingt-huit</i><par n="cinq__num"/></e>
     <e lm="vingtième">                      <i>vingtième</i><par n="académique__adj"/></e>
     <e lm="vingtième">                      <i>vingtième</i><par n="affecté__n"/></e>
@@ -22207,7 +22231,6 @@
     <e lm="Alpe d'Huez">                    <i>Alpe<b/>d'Huez</i><par n="Lieu__np"/></e>
     <e lm="Anne d'Autriche">                <i>Anne<b/>d'Autriche</i><par n="Nom__np"/></e>
     <e lm="aujourd'hui">                    <i>aujourd'hui</i><par n="hier__adv"/></e>
-    <e lm="aujourd'hui">                    <i>aujourd'hui</i><par n="hier__adv"/></e>
     <e lm="avoir">                          <par n="/avoir__vblex"/><p><l><b/>l'habitude<b/>d'</l><r><g><b/>l'habitude<b/>de</g></r></p></e>
     <e lm="avoir">                          <par n="/avoir__vblex"/><p><l>envie<b/>d'</l><r><g><b/>envie<b/>de</g></r></p></e>
     <e lm="Banc d'Espagne">                 <i>Banc<b/>d'Espagne</i><par n="Autre__np"/></e>
@@ -22229,6 +22252,7 @@
     <e lm="Côte d'Azur">                    <i>Côte<b/>d'Azur</i><par n="Lieu__np"/></e>
     <e lm="Côte d'Ivoire">                  <i>Côte<b/>d'Ivoire</i><par n="Lieu__np"/></e>
     <e lm="Côte-d'Or">                      <i>Côte-d'Or</i><par n="Lieu__np"/></e>
+    <e lm="d'">                             <p><l>d'</l><r>de<s n="pr"/></r></p></e>
     <e lm="d'abord">                        <i>d'abord</i><par n="hier__adv"/></e>
     <e lm="d'accord">                       <i>d'accord</i><par n="ah__ij"/></e>
     <e lm="d'accord">                       <i>d'accord</i><par n="hier__adv"/></e>
@@ -22240,6 +22264,7 @@
     <e lm="d'avance">                       <i>d'avance</i><par n="hier__adv"/></e>
     <e lm="Déclaration des droits de l'homme et du citoyen"><i>Déclaration<b/>des<b/>droits<b/>de<b/>l'homme<b/>et<b/>du<b/>citoyen</i><par n="Autre__np"/></e>
     <e lm="Déclaration universelle des droits de l'homme"><i>Déclaration<b/>universelle<b/>des<b/>droits<b/>de<b/>l'homme</i><par n="Autre__np"/></e>
+    <e lm="d'entre">                        <i>d'entre</i><par n="attendu__pr"/></e>
     <e lm="Désert d'Atacama">               <i>Désert<b/>d'Atacama</i><par n="Lieu__np"/></e>
     <e lm="d'ores et déjà">                 <i>d'ores<b/>et<b/>déjà</i><par n="hier__adv"/></e>
     <e lm="droits de l'homme et du citoyen"><i>droits<b/>de<b/>l'homme<b/>et<b/>du<b/>citoyen</i><par n="Autre__np"/></e>
@@ -22330,7 +22355,11 @@
     <e lm="Gui d'Arezzo">                   <i>Gui<b/>d'Arezzo</i><par n="Nom__np"/></e>
     <e lm="Guillaume d'Orange">             <i>Guillaume<b/>d'Orange</i><par n="Nom__np"/></e>
     <e lm="Île de l'Ascension">             <i>Île<b/>de<b/>l'Ascension</i><par n="Lieu__np"/></e>
+    <e lm="j'">                             <p><l>j'</l><r>je<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="jusqu'à">                        <i>jusqu'</i><par n="conta__pr"/></e>
+    <e lm="l'" r="LR">                      <p><l>l'</l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="l'" r="LR">                      <p><l>l'</l><r>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="l'" r="LR">                      <p><l>l'</l><r>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="Lac d'Annecy">                   <i>Lac<b/>d'Annecy</i><par n="Lieu__np"/></e>
     <e lm="Lac d'Ourmia">                   <i>Lac<b/>d'Ourmia</i><par n="Lieu__np"/></e>
     <e lm="L'Action Française">             <i>L'Action<b/>Française</i><par n="Autre__np"/></e>
@@ -22344,6 +22373,7 @@
     <e lm="L'Express">                      <i>L'Express</i><par n="Autre__np"/></e>
     <e lm="L'Oréal">                        <i>L'Oréal</i><par n="Autre__np"/></e>
     <e lm="l'un de l'autre">                <p><l>l'un<b/>de<b/>l'autre</l><r>l'un<b/>de<b/>l'autre</r></p><par n="hier__adv"/></e>
+    <e lm="m'">                             <p><l>m'</l><r>me<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="Ma'aleh Adumim">                 <i>Ma'aleh<b/>Adumim</i><par n="Lieu__np"/></e>
     <e lm="McDonald's">                     <i>McDonald's</i><par n="Autre__np"/></e>
     <e lm="mer d'Alboran">                  <i>mer<b/>d'Alboran</i><par n="Lieu__np"/></e>
@@ -22356,8 +22386,11 @@
     <e lm="mer de l'Est">                   <i>mer<b/>de<b/>l'Est</i><par n="Lieu__np"/></e>
     <e lm="mer d'Okhotsk">                  <i>mer<b/>d'Okhotsk</i><par n="Lieu__np"/></e>
     <e lm="mer d'Oman">                     <i>mer<b/>d'Oman</i><par n="Lieu__np"/></e>
-    <e lm="mer d'Oman">                     <i>mer<b/>d'Oman</i><par n="Lieu__np"/></e>
+    <e lm="n'">                             <p><l>n'</l><r>ne<s n="adv"/></r></p></e>
     <e lm="N'Djamena">                      <i>N'Djamena</i><par n="Nom__np"/></e>
+    <e lm="n'importe quel">                 <i>n'importe<b/>quel</i><par n="n'importe_quel__det"/></e>
+    <e lm="n'importe qui">                  <i>n'importe<b/>qui</i><par n="n'importe_qui__prn"/></e>
+    <e lm="n'importe quoi">                 <i>n'importe<b/>quoi</i><par n="ceci__prn"/></e>
     <e lm="Nuku'alofa">                     <i>Nuku'alofa</i><par n="Lieu__np"/></e>
     <e lm="on">                             <p><l>l'on</l><r>on</r></p><par n="on__prn"/></e>
     <e lm="par l'intermédiaire de">         <i>par<b/>l'intermédiaire<b/></i><par n="contde__pr"/></e>
@@ -22372,6 +22405,7 @@
     <e lm="pour plus d'informations">       <i>pour<b/>plus<b/>d'informations</i><par n="afin_que__cnjadv"/></e>
     <e lm="Préfecture d'Akita">             <i>Préfecture<b/>d'Akita</i><par n="Nom__np"/></e>
     <e lm="Provence-Alpes-Côte d'Azur">     <i>Provence-Alpes-Côte<b/>d'Azur</i><par n="Lieu__np"/></e>
+    <e lm="qu'" r="LR">                     <p><l>qu'</l><r>que<s n="rel"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="quelqu'un">                      <i>quelqu'un</i><par n="personne__prn"/></e>
     <e lm="quelqu'un">                      <i>quelqu'un</i><par n="un__prn"/></e>
     <e lm="réservoir d'Alloz">              <i>réservoir<b/>d'Alloz</i><par n="Lieu__np"/></e>
@@ -22380,12 +22414,14 @@
     <e lm="Rizzanese d'Albertine">          <i>Rizzanese<b/>d'Albertine</i><par n="Autre__np"/></e>
     <e lm="Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"><i>Royaume-Uni<b/>de<b/>Grande-Bretagne<b/>et<b/>d'Irlande<b/>du<b/>Nord</i><par n="Lieu__np"/></e>
     <e lm="Royaume-Uni de Grande-Bretagne et d'Irlande"><i>Royaume-Uni<b/>de<b/>Grande-Bretagne<b/>et<b/>d'Irlande</i><par n="Lieu__np"/></e>
+    <e lm="s'">                             <p><l>s'</l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="sainte Thérèse d'Avila">         <i>sainte<b/>Thérèse<b/>d'Avila</i><par n="Nom__np"/></e>
     <e lm="saint François d'Assise">        <i>saint<b/>François<b/>d'Assise</i><par n="Nom__np"/></e>
     <e lm="Saint John's">                   <i>Saint<b/>John's</i><par n="Lieu__np"/></e>
     <e lm="Saint Thomas d'Aquin">           <i>Saint<b/>Thomas<b/>d'Aquin</i><par n="Nom__np"/></e>
     <e lm="Sotheby's">                      <i>Sotheby's</i><par n="Autre__np"/></e>
     <e lm="sous l'effet de">                <i>sous<b/>l'effet<b/></i><par n="contde__pr"/></e>
+    <e lm="t'">                             <p><l>t'</l><r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="tant qu'à">                      <i>tant<b/>qu'à</i><par n="attendu__pr"/></e>
     <e lm="taux d'intérêt">                 <i>taux</i><par n="mois__n"/><p><l><b/>d'intérêt</l><r><g><b/>d'intérêt</g></r></p></e>
     <e lm="Territoire britannique de l'océan Indien"><i>Territoire<b/>britannique<b/>de<b/>l'océan<b/>Indien</i><par n="Lieu__np"/></e>
@@ -24168,7 +24204,6 @@
     <e lm="cyclo-cross">                    <i>cyclo-cross</i><par n="mois__n"/></e>
     <e lm="cyprès" c="cipreses">            <i>cyprès</i><par n="mois__n"/></e>
     <e lm="CZE">                            <i>CZE</i><par n="BBC__n"/></e>
-    <e lm="d'">                             <p><l>d'</l><r>de<s n="pr"/></r></p></e>
     <e lm="d'abord">                        <i>d'abord</i><par n="hier__adv"/></e>
     <e lm="d'accord">                       <i>d'accord</i><par n="ah__ij"/></e>
     <e lm="d'accord">                       <i>d'accord</i><par n="hier__adv"/></e>
@@ -25975,7 +26010,6 @@
     <e lm="IU">                             <i>IU</i><par n="BBC__n"/></e>
     <e lm="ivoire">                         <i>ivoire</i><par n="livre__n"/></e>
     <e lm="ivrogne">                        <i>ivrogne</i><par n="artiste__n"/></e>
-    <e lm="j'">                             <p><l>j'</l><r>je<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="Jamaïcain">                      <i>Jamaïcain</i><par n="affecté__n"/></e>
     <e lm="jamaïcain">                      <i>jamaïcain</i><par n="abaissant__adj"/></e>
     <e lm="jardinage">                      <i>jardinage</i><par n="livre__n"/></e>
@@ -26061,9 +26095,6 @@
     <e lm="kosovar">                        <i>kosovar</i><par n="abaissant__adj"/></e>
     <e lm="kyrielle">                       <i>kyrielle</i><par n="abeille__n"/></e>
     <e lm="kyste">                          <i>kyste</i><par n="livre__n"/></e>
-    <e lm="l'" r="LR">                      <p><l>l'</l><r>le<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></r></p></e>
-    <e lm="l'" r="LR">                      <p><l>l'</l><r>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="l'" r="LR">                      <p><l>l'</l><r>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="-là" r="RL">                     <i>-là</i><par n="hier__adv"/></e>
     <e lm="LAB">                            <i>LAB</i><par n="BBVA__n"/></e>
     <e lm="là-bas">                         <i>là-bas</i><par n="hier__adv"/></e>
@@ -26224,7 +26255,6 @@
     <e lm="lyrique">                        <i>lyrique</i><par n="académique__adj"/></e>
     <e lm="M1-5">                           <i>M1-5</i><par n="Autre__np"/></e>
     <e lm="M">                              <i>M</i><par n="personnel__n"/></e>
-    <e lm="m'">                             <p><l>m'</l><r>me<s n="prn"/><s n="pro"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="macabre">                        <i>macabre</i><par n="académique__adj"/></e>
     <e lm="machination">                    <i>machination</i><par n="abeille__n"/></e>
     <e lm="machine à laver">                <i>machine</i><par n="abeille__n"/><p><l><b/>à<b/>laver</l><r><g><b/>à<b/>laver</g></r></p></e>
@@ -26557,8 +26587,6 @@
     <e lm="mystique">                       <i>mystique</i><par n="abeille__n"/></e>
     <e lm="N1">                             <i>N1</i><par n="BBC__n"/></e>
     <e lm="N-232">                          <i>N-232</i><par n="BBC__n"/></e>
-    <e lm="n'">                             <p><l>n'</l><r>ne<s n="adv"/></r></p></e>
-    <e lm="n°">                             <i>n°</i><par n="mois__n"/></e>
     <e lm="Na-Bai">                         <i>Na-Bai</i><par n="BBVA__n"/></e>
     <e lm="Ñaco">                           <i>Ñaco</i><par n="Nom__np"/></e>
     <e lm="nage">                           <i>nage</i><par n="abeille__n"/></e>
@@ -27352,7 +27380,6 @@
     <e lm="pyrotechnie">                    <i>pyrotechnie</i><par n="abeille__n"/></e>
     <e lm="QMC">                            <i>QMC</i><par n="BBVA__n"/></e>
     <e lm="QST">                            <i>QST</i><par n="BBVA__n"/></e>
-    <e lm="qu'" r="LR">                     <p><l>qu'</l><r>que<s n="rel"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="quadrimestre">                   <i>quadrimestre</i><par n="livre__n"/></e>
     <e lm="quai">                           <i>quai</i><par n="livre__n"/></e>
     <e lm="qualifié">                       <i>qualifié</i><par n="abaissant__adj"/></e>
@@ -27726,7 +27753,6 @@
     <e lm="russe">                          <i>russe</i><par n="artiste__n"/></e>
     <e lm="rustine">                        <i>rustine</i><par n="abeille__n"/></e>
     <e lm="SA">                             <i>SA</i><par n="BBC__n"/></e>
-    <e lm="s'">                             <p><l>s'</l><r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
     <e lm="sabbat">                         <i>sabbat</i><par n="livre__n"/></e>
     <e lm="sables mouvants">                <i>sables<b/>mouvants</i><par n="abords__n"/></e>
     <e lm="sablonneux">                     <i>sablonneu</i><par n="affectueu/x__adj"/></e>
@@ -28173,7 +28199,6 @@
     <e lm="syntaxique">                     <i>syntaxique</i><par n="académique__adj"/></e>
     <e lm="syrien">                         <i>syrien</i><par n="ancien__n"/></e>
     <e lm="système de paiement">            <i>système</i><par n="livre__n"/><p><l><b/>de<b/>paiement</l><r><g><b/>de<b/>paiement</g></r></p></e>
-    <e lm="t'">                             <p><l>t'</l><r>te<s n="prn"/><s n="pro"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
     <e lm="tabagisme">                      <i>tabagisme</i><par n="livre__n"/></e>
     <e lm="tableau d'affichage">            <i>tableau</i><par n="lieu__n"/><p><l><b/>d'affichage</l><r><g><b/>d'affichage</g></r></p></e>
     <e lm="tableau égalitaire">             <p><l>tableau<b/>égalitaire</l><r>tableau<b/>égalitaire<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
