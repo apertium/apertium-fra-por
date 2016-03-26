@@ -14154,228 +14154,6 @@
   <section id="main" type="standard">
     <e lm="a">                              <i/><par n="/a__pr"/></e>
     <e lm="Aaium">                          <i>Aaium</i><par n="Lugar__np"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_meu__det"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_nosso__det"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_seu__det"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_teu__det"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_vosso__det"/></e>
-      <e r="LR"><p><l>pel</l>       <r>por<s n="pr"/><j/></r></p><par n="/o_meu__det"/></e>
-      <e r="LR"><p><l>pel</l>       <r>por<s n="pr"/><j/></r></p><par n="/o_nosso__det"/></e>
-      <e r="LR"><p><l>pel</l>       <r>por<s n="pr"/><j/></r></p><par n="/o_seu__det"/></e>
-      <e r="LR"><p><l>pel</l>       <r>por<s n="pr"/><j/></r></p><par n="/o_teu__det"/></e>
-      <e r="LR"><p><l>pel</l>       <r>por<s n="pr"/><j/></r></p><par n="/o_vosso__det"/></e>
-      <e r="LR"><p><l>n</l>         <r>em<s n="pr"/><j/></r></p><par n="/o_meu__det"/></e>
-      <e r="LR"><p><l>n</l>         <r>em<s n="pr"/><j/></r></p><par n="/o_nosso__det"/></e>
-      <e r="LR"><p><l>n</l>         <r>em<s n="pr"/><j/></r></p><par n="/o_seu__det"/></e>
-      <e r="LR"><p><l>n</l>         <r>em<s n="pr"/><j/></r></p><par n="/o_teu__det"/></e>
-      <e r="LR"><p><l>n</l>         <r>em<s n="pr"/><j/></r></p><par n="/o_vosso__det"/></e>
-    <e lm="algum">                          <i>algu</i><par n="algu/m__det"/></e>
-    <e lm="ambas">                          <p><l>ambas</l><r>ambos</r></p><par n="ambas__det"/></e>
-    <e lm="ambos">                          <i>ambos</i><par n="ambos__det"/></e>
-    <e lm="aquele">                         <i>aquel</i><par n="aquel/e__det"/></e>
-    <e lm="cada">                           <i>cada</i><par n="cada__det"/></e>
-    <e lm="certo">                          <i>cert</i><par n="cert/o__det"/></e>
-    <e lm="cinquenta e um">                 <i>cinquenta<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="esse">                           <i>ess</i><par n="aquel/e__det"/></e>
-    <e lm="este">                           <i>est</i><par n="aquel/e__det"/></e>
-    <e lm="meu">                            <i>m</i><par n="m/eu__det"/></e>
-    <e lm="nenhum">                         <i>nenhu</i><par n="algu/m__det"/></e>
-    <e lm="nosso">                          <i>noss</i><par n="noss/o__det"/></e>
-    <e lm="noventa e um">                   <i>noventa<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="o">                              <par n="/o__det"/></e>
-    <e lm="o" r="RL">                       <p><l><a/></l><r></r></p><par n="/~o__det"/></e>
-    <e lm="oitenta e um">                   <i>oitenta<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="o_meu">                          <par n="/o_meu__det"/></e>
-    <e lm="o_nosso">                        <par n="/o_nosso__det"/></e>
-    <e lm="o_seu">                          <par n="/o_seu__det"/></e>
-    <e lm="o_teu">                          <par n="/o_teu__det"/></e>
-    <e lm="outro" r="LR">                   <i>outr</i><par n="cert/o__det"/></e>
-    <e lm="outro" r="RL">                   <p><l><a/>outr</l><r>outr</r></p><par n="cert/o__det"/></e>
-    <e lm="o_vosso">                        <par n="/o_vosso__det"/></e>
-    <e lm="qualquer">                       <i>qua</i><par n="qua/lquer__det"/></e>
-    <e lm="quarenta e um">                  <i>quarenta<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="sessenta e um">                  <i>sessenta<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="setenta e um">                   <i>setenta<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="seu">                            <i>s</i><par n="s/eu__det"/></e>
-    <e lm="teu">                            <i>t</i><par n="s/eu__det"/></e>
-    <e lm="trinta e um">                    <i>trinta<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="um">                             <i>u</i><par n="algu/m__det"/></e>
-    <e lm="vário">                          <i>vári</i><par n="vári/o__det"/></e>
-    <e lm="vinte e um">                     <i>vinte<b/>e<b/>um</i><par n="cinquenta_e_um__det"/></e>
-    <e lm="vosso">                          <i>voss</i><par n="noss/o__det"/></e>
-    <e lm="a">                              <i/><par n="/a__pr"/></e>
-    <e lm="à beira de">                     <i>à<b/>beira<b/></i><par n="/de__pr"/></e>
-    <e lm="acabando">                       <i>acabando</i><par n="a__pr"/></e>
-    <e lm="acima de">                       <i>acima<b/></i><par n="/de__pr"/></e>
-    <e lm="adiante de">                     <i>adiante<b/></i><par n="/de__pr"/></e>
-    <e lm="a falta de">                     <i>a<b/>falta<b/></i><par n="/de__pr"/></e>
-    <e lm="a fim de">                       <i>a<b/>fim<b/></i><par n="/de__pr"/></e>
-    <e lm="além de" r="LR">                 <p><l>além<b/>de</l><r>além<b/>de</r></p><par n="a__pr"/></e>
-    <e lm="além de" r="RL">                 <p><l>além<b/><a/>de</l><r>além<b/>de</r></p><par n="a__pr"/></e>
-    <e lm="à moda de">                      <i>à<b/>moda<b/></i><par n="/de__pr"/></e>
-    <e lm="ante">                           <i>ante</i><par n="a__pr"/></e>
-    <e lm="ao invés de">                    <i>ao<b/>invés<b/></i><par n="/de__pr"/></e>
-    <e lm="ao longo de">                    <i>ao<b/>longo<b/></i><par n="/de__pr"/></e>
-    <e lm="ao nivel de">                    <i>ao<b/>nivel<b/></i><par n="/de__pr"/></e>
-    <e lm="ao risco de">                    <i>ao<b/>risco<b/></i><par n="/de__pr"/></e>
-    <e lm="a par de">                       <i>a<b/>par<b/></i><par n="/de__pr"/></e>
-    <e lm="a pedido de">                    <i>a<b/>pedido<b/></i><par n="/de__pr"/></e>
-    <e lm="apesar de">                      <i>apesar<b/></i><par n="/de__pr"/></e>
-    <e lm="a ponto de">                     <i>a<b/>ponto<b/></i><par n="/de__pr"/></e>
-    <e lm="após">                           <i>após</i><par n="a__pr"/></e>
-    <e lm="a requerimento de">              <i>a<b/>requerimento<b/></i><par n="/de__pr"/></e>
-    <e lm="a respeito de">                  <i>a<b/>respeito<b/></i><par n="/de__pr"/></e>
-    <e lm="até">                            <i>até</i><par n="a__pr"/></e>
-    <e lm="a título de">                    <i>a<b/>título<b/></i><par n="/de__pr"/></e>
-    <e lm="através de">                     <i>através<b/></i><par n="/de__pr"/></e>
-    <e lm="cargado de">                     <i>cargado<b/></i><par n="/de__pr"/></e>
-    <e lm="cerca de">                       <i>cerca<b/></i><par n="/de__pr"/></e>
-    <e lm="com">                            <i>com</i><par n="a__pr"/></e>
-    <e lm="como">                           <i>como</i><par n="a__pr"/></e>
-    <e lm="como prova de">                  <i>como<b/>prova<b/></i><par n="/de__pr"/></e>
-    <e lm="com respeito a">                 <i>com<b/>respeito<b/></i><par n="/a__pr"/></e>
-    <e lm="considerando">                   <i>considerando</i><par n="a__pr"/></e>
-    <e lm="contra">                         <i>contra</i><par n="a__pr"/></e>
-    <e lm="de">                             <i/><par n="/de__pr"/></e>
-    <e lm="debaixo de">                     <i>debaixo<b/></i><par n="/de__pr"/></e>
-    <e lm="dentre">                         <i>dentre</i><par n="a__pr"/></e>
-    <e lm="depois de">                      <i>depois<b/></i><par n="/de__pr"/></e>
-    <e lm="de ponto de vista de">           <i>de<b/>ponto<b/>de<b/>vista<b/></i><par n="/de__pr"/></e>
-    <e lm="desde">                          <i>desde</i><par n="a__pr"/></e>
-    <e lm="devido a">                       <i>devido<b/></i><par n="/a__pr"/></e>
-    <e lm="do começo ao fim de">            <i>do<b/>começo<b/>ao<b/>fim<b/></i><par n="/de__pr"/></e>
-    <e lm="durante">                        <i>durante</i><par n="a__pr"/></e>
-    <e lm="em">                             <i/><par n="/em__pr"/></e>
-    <e lm="embaixo de">                     <i>embaixo<b/></i><par n="/de__pr"/></e>
-    <e lm="em caso de">                     <i>em<b/>caso<b/></i><par n="/de__pr"/></e>
-    <e lm="em consequência de" v="pt">      <i>em<b/>consequência<b/></i><par n="/de__pr"/></e>
-    <e lm="em conseqüência de" v="br">      <i>em<b/>conseqüência<b/></i><par n="/de__pr"/></e>
-    <e lm="em decorrência de">              <i>em<b/>decorrência<b/></i><par n="/de__pr"/></e>
-    <e lm="em detrimento de">               <i>em<b/>detrimento<b/></i><par n="/de__pr"/></e>
-    <e lm="em favor de">                    <i>em<b/>favor<b/></i><par n="/de__pr"/></e>
-    <e lm="em frente a">                    <i>em<b/>frente<b/></i><par n="/a__pr"/></e>
-    <e lm="em meados de">                   <i>em<b/>meados<b/></i><par n="/de__pr"/></e>
-    <e lm="em termos de">                   <i>em<b/>termos<b/></i><par n="/de__pr"/></e>
-    <e lm="em torno de">                    <i>em<b/>torno<b/></i><par n="/de__pr"/></e>
-    <e lm="em troca de">                    <i>em<b/>troca<b/></i><par n="/de__pr"/></e>
-    <e lm="em vez de">                      <i>em<b/>vez<b/></i><par n="/de__pr"/></e>
-    <e lm="em via de">                      <i>em<b/>via<b/></i><par n="/de__pr"/></e>
-    <e lm="em vigor no prazo de">           <i>em<b/>vigor<b/>no<b/>prazo<b/></i><par n="/de__pr"/></e>
-    <e lm="em virtude de">                  <i>em<b/>virtude<b/></i><par n="/de__pr"/></e>
-    <e lm="em vista de">                    <i>em<b/>vista<b/></i><par n="/de__pr"/></e>
-    <e lm="entre">                          <i>entre</i><par n="a__pr"/></e>
-    <e lm="excepto">                        <i>excepto</i><par n="a__pr"/></e>
-    <e lm="exceto">                         <i>exceto</i><par n="a__pr"/></e>
-    <e lm="extra">                          <i>extra</i><par n="a__pr"/></e>
-    <e lm="graças a">                       <i>graças<b/></i><par n="/a__pr"/></e>
-    <e lm="mediante">                       <i>mediante</i><par n="a__pr"/></e>
-    <e lm="na época de">                    <i>na<b/>época<b/></i><par n="/de__pr"/></e>
-    <e lm="na medida de">                   <i>na<b/>medida<b/></i><par n="/de__pr"/></e>
-    <e lm="no acordo com">                  <i>no<b/>acordo<b/>com</i><par n="a__pr"/></e>
-    <e lm="no ambito de">                   <i>no<b/>ambito<b/></i><par n="/de__pr"/></e>
-    <e lm="no círculo de">                  <i>no<b/>círculo<b/></i><par n="/de__pr"/></e>
-    <e lm="no comprimento de">              <i>no<b/>comprimento<b/></i><par n="/de__pr"/></e>
-    <e lm="no exterior de">                 <i>no<b/>exterior<b/></i><par n="/de__pr"/></e>
-    <e lm="no fim de">                      <i>no<b/>fim<b/></i><par n="/de__pr"/></e>
-    <e lm="no final de">                    <i>no<b/>final<b/></i><par n="/de__pr"/></e>
-    <e lm="no intuito de">                  <i>no<b/>intuito<b/></i><par n="/de__pr"/></e>
-    <e lm="no meio de">                     <i>no<b/>meio<b/></i><par n="/de__pr"/></e>
-    <e lm="no momento de">                  <i>no<b/>momento<b/></i><par n="/de__pr"/></e>
-    <e lm="no que diz respeito a">          <i>no<b/>que<b/>diz<b/>respeito<b/></i><par n="/a__pr"/></e>
-    <e lm="no tempo de">                    <i>no<b/>tempo<b/></i><par n="/de__pr"/></e>
-    <e lm="para">                           <i>para</i><par n="a__pr"/></e>
-    <e lm="para com">                       <i>para<b/>com</i><par n="a__pr"/></e>
-    <e lm="perante">                        <i>perante</i><par n="a__pr"/></e>
-    <e lm="por">                            <i/><par n="/por__pr"/></e>
-    <e lm="por causa de">                   <i>por<b/>causa<b/></i><par n="/de__pr"/></e>
-    <e lm="por entre">                      <i>por<b/>entre</i><par n="a__pr"/></e>
-    <e lm="por meio de">                    <i>por<b/>meio<b/></i><par n="/de__pr"/></e>
-    <e lm="por motivo de">                  <i>por<b/>motivo<b/></i><par n="/de__pr"/></e>
-    <e lm="portanto">                       <i>portanto</i><par n="a__pr"/></e>
-    <e lm="por trás de">                    <i>por<b/>trás<b/></i><par n="/de__pr"/></e>
-    <e lm="pra">                            <i>pra</i><par n="a__pr"/></e>
-    <e lm="próximo de">                     <i>próximo<b/></i><par n="/de__pr"/></e>
-    <e lm="quanto a" a="imaxin|software">   <i>quanto<b/></i><par n="/a__pr"/></e>
-    <e lm="referente a">                    <i>referente<b/></i><par n="/a__pr"/></e>
-    <e lm="segundo">                        <i>segundo</i><par n="a__pr"/></e>
-    <e lm="sem">                            <i>sem</i><par n="a__pr"/></e>
-    <e lm="sem detrimento de">              <i>sem<b/>detrimento<b/></i><par n="/de__pr"/></e>
-    <e lm="sob">                            <i>sob</i><par n="a__pr"/></e>
-    <e lm="sob a protecção de">             <i>sob<b/>a<b/>protecção<b/></i><par n="/de__pr"/></e>
-    <e lm="sob efeito de">                  <i>sob<b/>efeito<b/></i><par n="/de__pr"/></e>
-    <e lm="sob pretexto de">                <i>sob<b/>pretexto<b/></i><par n="/de__pr"/></e>
-    <e lm="sob proposição de">              <i>sob<b/>proposição<b/></i><par n="/de__pr"/></e>
-    <e lm="sobre">                          <i>sobre</i><par n="a__pr"/></e>
-    <e lm="trás">                           <i>trás</i><par n="a__pr"/></e>
-    <e lm="virar a favor de">               <i>virar<b/>a<b/>favor<b/></i><par n="/de__pr"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_meu__prn"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_nosso__prn"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_seu__prn"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_teu__prn"/></e>
-      <e r="LR"><p><l>d</l>         <r>de<s n="pr"/><j/></r></p><par n="/o_vosso__prn"/></e>
-    <e lm="a cada um">                      <i>a<b/>cada<b/>u</i><par n="algu/m__prn"/></e>
-    <e lm="algo">                           <i>algo</i><par n="algo__prn"/></e>
-    <e lm="alguém">                         <i>alguém</i><par n="alguém__prn"/></e>
-    <e lm="algum">                          <i>algu</i><par n="algu/m__prn"/></e>
-    <e lm="ambas">                          <p><l>ambas</l><r>ambos</r></p><par n="ambas__prn"/></e>
-    <e lm="ambos">                          <i>ambos</i><par n="ambos__prn"/></e>
-    <e lm="aquele">                         <i>aquel</i><par n="aquel/e__prn"/></e>
-    <e lm="aquilo">                         <i>aquilo</i><par n="aquilo__prn"/></e>
-    <e lm="ele">                            <i>el</i><par n="el/e__prn"/></e>
-    <e lm="esse">                           <i>ess</i><par n="aquel/e__prn"/></e>
-    <e lm="este">                           <i>est</i><par n="aquel/e__prn"/></e>
-    <e lm="eu">                             <i>eu</i><par n="comigo__prn"/></e>
-    <e lm="isso">                           <i>isso</i><par n="aquilo__prn"/></e>
-    <e lm="isto">                           <i>isto</i><par n="aquilo__prn"/></e>
-    <e lm="lhe" r="LR">                     <i>lhe</i><par n="lhe__prn"/></e>
-    <e lm="lhe" r="RL">                     <p><l><a/>lhe</l><r>lhe</r></p><par n="lhe__prn"/></e>
-    <e lm="me" r="LR">                      <i>me</i><par n="me__prn"/></e>
-    <e lm="me" r="RL">                      <p><l><a/>me</l><r>me</r></p><par n="me__prn"/></e>
-    <e lm="meu">                            <i>m</i><par n="m/eu__prn"/></e>
-    <e lm="mim">                            <i>mim</i><par n="comigo__prn"/></e>
-    <e lm="nada">                           <i>nada</i><par n="aquilo__prn"/></e>
-    <e lm="nenhum">                         <i>nenhu</i><par n="algu/m__prn"/></e>
-    <e lm="ninguém">                        <i>ninguém</i><par n="alguém__prn"/></e>
-    <e lm="nos" r="LR">                     <i>nos</i><par n="nos__prn"/></e>
-    <e lm="nos" r="RL">                     <p><l><a/>nos</l><r>nos</r></p><par n="nos__prn"/></e>
-    <e lm="nós">                            <i>nós</i><par n="connosco__prn"/></e>
-    <e lm="nosso">                          <i>noss</i><par n="noss/o__prn"/></e>
-    <e lm="o">                              <par n="/o__prn"/></e>
-    <e lm="o_meu">                          <par n="/o_meu__prn"/></e>
-    <e lm="o_nosso">                        <par n="/o_nosso__prn"/></e>
-    <e lm="o_seu">                          <par n="/o_seu__prn"/></e>
-    <e lm="o_teu">                          <par n="/o_teu__prn"/></e>
-    <e lm="outro" r="LR">                   <i>outr</i><par n="outr/o__prn"/></e>
-    <e lm="outro" r="RL">                   <p><l><a/>outr</l><r>outr</r></p><par n="outr/o__prn"/></e>
-    <e lm="o_vosso">                        <par n="/o_vosso__prn"/></e>
-    <e lm="pouco">                          <i>pouc</i><par n="outr/o__prn"/></e>
-    <e lm="qual">                           <i>qua</i><par n="qua/l__prn"/></e>
-    <e lm="qualquer">                       <i>qua</i><par n="qua/lquer__prn"/></e>
-    <e lm="qualquer coisa">                 <i>qualquer<b/>coisa</i><par n="aquilo__prn"/></e>
-    <e lm="quanto">                         <i>quant</i><par n="quant/o__prn"/></e>
-    <e lm="que">                            <i>que</i><par n="que__prn"/></e>
-    <e lm="quem">                           <i>quem</i><par n="quem__prn"/></e>
-    <e lm="quem quer">                      <i>quem<b/>quer</i><par n="quem_quer__prn"/></e>
-    <e lm="se">                             <i>se</i><par n="se__prn"/></e>
-    <e lm="seu">                            <i>s</i><par n="t/eu__prn"/></e>
-    <e lm="si">                             <i>si</i><par n="si__prn"/></e>
-    <e lm="te" r="LR">                      <i>te</i><par n="te__prn"/></e>
-    <e lm="te" r="RL">                      <p><l><a/>te</l><r>te</r></p><par n="te__prn"/></e>
-    <e lm="teu">                            <i>t</i><par n="t/eu__prn"/></e>
-    <e lm="ti">                             <i>ti</i><par n="contigo__prn"/></e>
-    <e lm="todo">                           <i>tod</i><par n="tod/o__prn"/></e>
-    <e lm="todo mundo">                     <i>todo<b/>mundo</i><par n="aquilo__prn"/></e>
-    <e lm="tu">                             <i>tu</i><par n="contigo__prn"/></e>
-    <e lm="tudo">                           <i>tudo</i><par n="algo__prn"/></e>
-    <e lm="um">                             <i>u</i><par n="algu/m__prn"/></e>
-    <e lm="você">                           <i>você</i><par n="você__prn"/></e>
-    <e lm="vos">                            <i>vos</i><par n="vos__prn"/></e>
-    <e lm="vos" r="RL">                     <p><l><a/>vos</l><r>vos</r></p><par n="vos__prn"/></e>
-    <e lm="vós">                            <i>vós</i><par n="convosco__prn"/></e>
-    <e lm="vosso">                          <i>voss</i><par n="noss/o__prn"/></e>
-    <e lm="ambas as" r="LR">                <p><l>ambas<b/>as</l><r>ambos<b/>os</r></p><par n="ambas__prn"/></e>
-    <e lm="si próprio" r="LR">              <i>si<b/>própri</i><par n="outr/o__prn"/></e>
-    <e lm="ambos os" r="LR">                <i>ambos<b/>os</i><par n="ambos__prn"/></e>
     <e lm="Aalst">                          <i>Aalst</i><par n="Lugar__np"/></e>
     <e lm="Aaron">                          <i>Aaron</i><par n="Nome__np"/></e>
     <e lm="Aasheim">                        <i>Aasheim</i><par n="Outro__np"/></e>
@@ -15654,6 +15432,9 @@
     <e lm="Amazônia">                       <i>Amazônia</i><par n="Lugar__np"/></e>
     <e lm="amazónico" v="pt">               <i>amazónic</i><par n="abert/o__adj"/></e>
     <e lm="âmbar">                          <i>âmbar</i><par n="amor__n"/></e>
+    <e lm="ambas">                          <p><l>ambas</l><r>ambos</r></p><par n="ambas__det"/></e>
+    <e lm="ambas">                          <p><l>ambas</l><r>ambos</r></p><par n="ambas__prn"/></e>
+    <e lm="ambas as" >                      <p><l>ambas<b/>as</l><r>ambos<b/>os</r></p><par n="ambas__prn"/></e>
     <e lm="ambição">                        <i>ambiç</i><par n="aceitaç/ão__n"/></e>
     <e lm="ambicioso">                      <i>ambicios</i><par n="abert/o__adj"/></e>
     <e lm="ambiental">                      <i>ambienta</i><par n="aceitáve/l__adj"/></e>
@@ -15663,7 +15444,7 @@
     <e lm="Amboise">                        <i>Amboise</i><par n="Lugar__np"/></e>
     <e lm="ambos">                          <i>ambos</i><par n="ambos__det"/></e>
     <e lm="ambos">                          <i>ambos</i><par n="ambos__prn"/></e>
-    <e lm="ambos os" r="LR">                <i>ambos<b/>os</i><par n="ambos__prn"/></e>
+    <e lm="ambos os">                       <i>ambos<b/>os</i><par n="ambos__prn"/></e>
     <e lm="Ambriz">                         <i>Ambriz</i><par n="Nome__np"/></e>
     <e lm="Ambroise">                       <i>Ambroise</i><par n="Nome__np"/></e>
     <e lm="Ambros">                         <i>Ambros</i><par n="Nome__np"/></e>
@@ -16156,6 +15937,7 @@
     <e lm="apelar">                         <i>apel</i><par n="abal/ar__vblex"/></e>
     <e lm="apelo">                          <i>apelo</i><par n="Leste__n"/></e>
     <e lm="apenas">                         <i>apenas</i><par n="Op.Cit.__adv"/></e>
+    <e lm="apêndice">                       <i>apêndice</i><par n="Leste__n"/></e>
     <e lm="Apeninos">                       <i>Apeninos</i><par n="Lugar__np"/></e>
     <e lm="aperceber">                      <i>aperceb</i><par n="abat/er__vblex"/></e>
     <e lm="aperfeiçoar">                    <i>aperfeiço</i><par n="abal/ar__vblex"/></e>
@@ -18470,7 +18252,6 @@
     <e lm="colecção" v="pt">                <i>colecç</i><par n="aceitaç/ão__n"/></e>
     <e lm="coleccionar" v="pt">             <i>coleccion</i><par n="abal/ar__vblex"/></e>
     <e lm="colecionar" v="br">              <i>colecion</i><par n="abal/ar__vblex"/></e>
-    <e lm="colectânea" r="LR" v="pt">       <i>colectânea</i><par n="abadia__n"/></e>
     <e lm="colectânea" v="pt">              <i>colectânea</i><par n="abadia__n"/></e>
     <e lm="colectar" v="pt">                <i>colect</i><par n="abal/ar__vblex"/></e>
     <e lm="colectivo" v="pt">               <i>colectiv</i><par n="abert/o__adj"/></e>
@@ -18480,8 +18261,7 @@
     <e lm="Coleman">                        <i>Coleman</i><par n="Nome__np"/></e>
     <e lm="cólera">                         <i>cólera</i><par n="Leste__n"/></e>
     <e lm="colérico">                       <i>coléric</i><par n="abert/o__adj"/></e>
-    <e lm="coletânea" r="LR" v="br">        <i>coletânea</i><par n="abadia__n"/></e>
-    <e lm="coletânea" v="br">               <p><l>colectánea</l><r>coletânea</r></p><par n="abadia__n"/></e>
+    <e lm="coletânea" v="br">               <i>coletânea</i><par n="abadia__n"/></e>
     <e lm="coletar" v="br">                 <i>colet</i><par n="abal/ar__vblex"/></e>
     <e lm="coletivo" v="br">                <i>coletiv</i><par n="abert/o__adj"/></e>
     <e lm="coletor">                        <i>coletor</i><par n="admirador__n"/></e>
@@ -20578,8 +20358,26 @@
     <e r="LR" lm="pelouro">                 <i>pelouro</i><par n="Leste__n"/></e>
     <e r="LR" lm="subdiretor">              <i>subdiretor</i><par n="admirador__n"/></e>
     <e r="LR" lm="vago">                    <i>vago</i><par n="agrícola__adj"/></e>
-    <e r="RL" lm="apêndice">                <i>apêndice</i><par n="Leste__n"/></e>
-    <e r="RL" lm="mídia">                   <i>mídia</i><par n="abadia__n"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_meu__det"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_meu__prn"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_nosso__det"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_nosso__prn"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_seu__det"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_seu__prn"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_teu__det"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_teu__prn"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_vosso__det"/></e>
+    <e r="LR">                              <p><l>d</l><r>de<s n="pr"/><j/></r></p><par n="/o_vosso__prn"/></e>
+    <e r="LR">                              <p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_meu__det"/></e>
+    <e r="LR">                              <p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_nosso__det"/></e>
+    <e r="LR">                              <p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_seu__det"/></e>
+    <e r="LR">                              <p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_teu__det"/></e>
+    <e r="LR">                              <p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_vosso__det"/></e>
+    <e r="LR">                              <p><l>pel</l><r>por<s n="pr"/><j/></r></p><par n="/o_meu__det"/></e>
+    <e r="LR">                              <p><l>pel</l><r>por<s n="pr"/><j/></r></p><par n="/o_nosso__det"/></e>
+    <e r="LR">                              <p><l>pel</l><r>por<s n="pr"/><j/></r></p><par n="/o_seu__det"/></e>
+    <e r="LR">                              <p><l>pel</l><r>por<s n="pr"/><j/></r></p><par n="/o_teu__det"/></e>
+    <e r="LR">                              <p><l>pel</l><r>por<s n="pr"/><j/></r></p><par n="/o_vosso__det"/></e>
     <e lm="Erauskin">                       <i>Erauskin</i><par n="Nome__np"/></e>
     <e lm="Erdogan">                        <i>Erdogan</i><par n="Nome__np"/></e>
     <e lm="Ereaga">                         <i>Ereaga</i><par n="Lugar__np"/></e>
@@ -24083,7 +23881,6 @@
     <e lm="Lezama">                         <i>Lezama</i><par n="Lugar__np"/></e>
     <e lm="Lezo">                           <i>Lezo</i><par n="Lugar__np"/></e>
     <e lm="lhe">                            <i>lhe</i><par n="lhe__prn"/></e>
-    <e lm="lhe" r="RL">                     <p><l><a/>lhe</l><r>lhe</r></p><par n="lhe__prn"/></e>
     <e lm="Li">                             <i>Li</i><par n="Nome__np"/></e>
     <e lm="Liaño">                          <i>Liaño</i><par n="Lugar__np"/></e>
     <e lm="libanês">                        <i>liban</i><par n="alban/ês__adj"/></e>
@@ -24420,7 +24217,6 @@
     <e lm="Madre Teresa de Calcutá">        <i>Madre<b/>Teresa<b/>de<b/>Calcutá</i><par n="Nome__np"/></e>
     <e lm="Madri">                          <i>Madri</i><par n="Lugar__np"/></e>
     <e lm="Madrid">                         <i>Madrid</i><par n="Lugar__np"/></e>
-    <e lm="Madrid" v="LR">                  <i>Madrid</i><par n="Lugar__np"/></e>
     <e lm="Madrigal">                       <i>Madrigal</i><par n="Lugar__np"/></e>
     <e lm="madrilenho" v="br">              <i>madrilenh</i><par n="abert/o__adj"/></e>
     <e lm="madrileno" v="pt">               <i>madrilen</i><par n="abert/o__adj"/></e>
@@ -24839,8 +24635,7 @@
     <e lm="McLaren">                        <i>McLaren</i><par n="Nome__np"/></e>
     <e lm="MC Mutual">                      <i>MC<b/>Mutual</i><par n="Outro__np"/></e>
     <e lm="McShee">                         <i>McShee</i><par n="Nome__np"/></e>
-    <e lm="me" r="LR">                      <i>me</i><par n="me__prn"/></e>
-    <e lm="me" r="RL">                      <p><l><a/>me</l><r>me</r></p><par n="me__prn"/></e>
+    <e lm="me">                             <i>me</i><par n="me__prn"/></e>
     <e lm="Meca">                           <i>Meca</i><par n="Lugar__np"/></e>
     <e lm="mecânico">                       <i>mecânic</i><par n="abert/o__adj"/></e>
     <e lm="mecanismo">                      <i>mecanismo</i><par n="Leste__n"/></e>
@@ -25038,6 +24833,7 @@
     <e lm="microfone">                      <i>microfone</i><par n="Leste__n"/></e>
     <e lm="Micronésie">                     <i>Micronésie</i><par n="Lugar__np"/></e>
     <e lm="Microsoft">                      <i>Microsoft</i><par n="Outro__np"/></e>
+    <e lm="mídia">                          <i>mídia</i><par n="abadia__n"/></e>
     <e lm="Midland">                        <i>Midland</i><par n="Outro__np"/></e>
     <e lm="Midway">                         <i>Midway</i><par n="Lugar__np"/></e>
     <e lm="MIFID">                          <i>MIFID</i><par n="Outro__np"/></e>
@@ -25746,8 +25542,7 @@
     <e lm="Norte">                          <i>Norte</i><par n="Lugar__np"/></e>
     <e lm="norte-americano">                <i>norte-american</i><par n="abert/o__adj"/></e>
     <e lm="Noruega">                        <i>Noruega</i><par n="Lugar__np"/></e>
-    <e lm="nos" r="LR">                     <i>nos</i><par n="nos__prn"/></e>
-    <e lm="nos" r="RL">                     <p><l><a/>nos</l><r>nos</r></p><par n="nos__prn"/></e>
+    <e lm="nos">                            <i>nos</i><par n="nos__prn"/></e>
     <e lm="nós">                            <i>nós</i><par n="connosco__prn"/></e>
     <e lm="nosso">                          <i>noss</i><par n="noss/o__det"/></e>
     <e lm="nosso">                          <i>noss</i><par n="noss/o__prn"/></e>
@@ -25846,8 +25641,9 @@
     <e lm="Nuuk">                           <i>Nuuk</i><par n="Lugar__np"/></e>
     <e lm="nuvem">                          <i>nuve</i><par n="aterrissage/m__n"/></e>
     <e lm="Nuvens de Magalhães">            <i>Nuvens<b/>de<b/>Magalhães</i><par n="Outro__np"/></e>
-    <e lm="o">                              <par n="/o__det"/></e>
     <e lm="o">                              <par n="/o__prn"/></e>
+    <e lm="o" r="LR">                       <par n="/o__det"/></e>
+    <e lm="o" r="RL">                       <p><l><a/></l><r></r></p><par n="/~o__det"/></e>
     <e lm="oásis">                          <i>oásis</i><par n="caos__n"/></e>
     <e lm="Obama">                          <i>Obama</i><par n="Nome__np"/></e>
     <e lm="Obarema">                        <i>Obarema</i><par n="Outro__np"/></e>
@@ -27470,6 +27266,7 @@
     <e lm="quanto">                         <i>quant</i><par n="quant/o__prn"/></e>
     <e lm="quanto">                         <i>quant</i><par n="quant/o__rel"/></e>
     <e lm="quanto">                         <i>quanto</i><par n="aonde__adv"/></e>
+    <e lm="quanto a" a="imaxin|software">   <i>quanto<b/></i><par n="/a__pr"/></e>
     <e lm="quanto a">                       <i>quanto<b/></i><par n="/a__pr"/></e>
     <e lm="quanto mais">                    <i>quanto<b/>mais</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="quanto menos">                   <i>quanto<b/>menos</i><par n="a_fim_de_que__cnjadv"/></e>
@@ -29053,6 +28850,7 @@
     <e lm="sintetizar">                     <i>sintetiz</i><par n="abal/ar__vblex"/></e>
     <e lm="sintoma">                        <i>sintoma</i><par n="Leste__n"/></e>
     <e lm="sintonia">                       <i>sintonia</i><par n="abadia__n"/></e>
+    <e lm="si próprio">                     <i>si<b/>própri</i><par n="outr/o__prn"/></e>
     <e lm="Siracusa">                       <i>Siracusa</i><par n="Lugar__np"/></e>
     <e lm="sirene">                         <i>sirene</i><par n="Leste__n"/></e>
     <e lm="Síria">                          <i>Síria</i><par n="Lugar__np"/></e>
@@ -29546,8 +29344,7 @@
     <e lm="Tchernenko">                     <i>Tchernenko</i><par n="Nome__np"/></e>
     <e lm="Tcherski">                       <i>Tcherski</i><par n="Lugar__np"/></e>
     <e lm="Tchouvachia">                    <i>Tchouvachia</i><par n="Lugar__np"/></e>
-    <e lm="te" r="LR">                      <i>te</i><par n="te__prn"/></e>
-    <e lm="te" r="RL">                      <p><l><a/>te</l><r>te</r></p><par n="te__prn"/></e>
+    <e lm="te">                             <i>te</i><par n="te__prn"/></e>
     <e lm="Team">                           <i>Team</i><par n="Outro__np"/></e>
     <e lm="teatral">                        <i>teatra</i><par n="aceitáve/l__adj"/></e>
     <e lm="teatro">                         <i>teatro</i><par n="Leste__n"/></e>
@@ -30721,7 +30518,6 @@
     <e lm="voo" v="pt">                     <i>voo</i><par n="Leste__n"/></e>
     <e lm="vôo" v="br">                     <i>vôo</i><par n="Leste__n"/></e>
     <e lm="vos">                            <i>vos</i><par n="vos__prn"/></e>
-    <e lm="vos" r="RL">                     <p><l><a/>vos</l><r>vos</r></p><par n="vos__prn"/></e>
     <e lm="vós">                            <i>vós</i><par n="convosco__prn"/></e>
     <e lm="Vosges">                         <i>Vosges</i><par n="Lugar__np"/></e>
     <e lm="vosso">                          <i>voss</i><par n="noss/o__det"/></e>
