@@ -6829,6 +6829,7 @@
     <e lm="adéquation">                     <i>adéquation</i><par n="abeille__n"/></e>
     <e lm="Adeslas">                        <i>Adeslas</i><par n="Autre__np"/></e>
     <e lm="à des marches forcées">          <i>à<b/>des<b/>marches<b/>forcées</i><par n="hier__adv"/></e>
+    <e lm="à marches forcées">              <i>à<b/>marches<b/>forcées</i><par n="hier__adv"/></e>
     <e lm="Adha">                           <i>Adha</i><par n="Autre__np"/></e>
     <e lm="Adhamiya">                       <i>Adhamiya</i><par n="Lieu__np"/></e>
     <e lm="adhérence">                      <i>adhérence</i><par n="abeille__n"/></e>
@@ -7513,7 +7514,8 @@
     <e lm="Allo">                           <i>Allo</i><par n="Lieu__np"/></e>
     <e lm="Alloatti">                       <i>Alloatti</i><par n="Nom__np"/></e>
     <e lm="allonger">                       <i>allong</i><par n="allong/er__vblex"/></e>
-    <e lm="Allouch">                        <i>Allouch</i><par n="Nom__np"/></e>
+    <e lm="Allouch">                        <i>Allouch</i><par n="Nom__np"/></e>    
+    <e lm="allocation">                     <i>allocation</i><par n="abeille__n"/></e>
     <e lm="allouer">                        <i>allou</i><par n="abaiss/er__vblex"/></e>
     <e lm="Alloz">                          <i>Alloz</i><par n="Lieu__np"/></e>
     <e lm="Alltel">                         <i>Alltel</i><par n="Autre__np"/></e>
@@ -9241,6 +9243,8 @@
     <e lm="bientôt">                        <i>bientôt</i><par n="hier__adv"/></e>
     <e lm="bientôt après">                  <i>bientôt<b/>après</i><par n="hier__adv"/></e>
     <e lm="bienvenu">                       <i>bienvenu</i><par n="abaissant__adj"/></e>
+    <e lm="bienvenu">                       <i>bienvenu</i><par n="livre__n"/></e>
+    <e lm="bienvenue">                      <i>bienvenu</i><par n="soif__n"/></e>
     <e lm="bière">                          <i>bière</i><par n="abeille__n"/></e>
     <e lm="Big Picture">                    <i>Big<b/>Picture</i><par n="Autre__np"/></e>
     <e lm="Biharko">                        <i>Biharko</i><par n="Autre__np"/></e>
@@ -9295,6 +9299,7 @@
     <e lm="blesser">                        <i>bless</i><par n="abaiss/er__vblex"/></e>
     <e lm="blessure">                       <i>blessure</i><par n="abeille__n"/></e>
     <e lm="bleu">                           <i>bleu</i><par n="abaissant__adj"/></e>
+    <e lm="bleu">                           <i>bleu</i><par n="livre__n"/></e>
     <e lm="Blin">                           <i>Blin</i><par n="Nom__np"/></e>
     <e lm="blinder">                        <i>blind</i><par n="abaiss/er__vblex"/></e>
     <e lm="bloc">                           <i>bloc</i><par n="livre__n"/></e>
@@ -9879,7 +9884,6 @@
     <e lm="cautionner">                     <i>cautionn</i><par n="abaiss/er__vblex"/></e>
     <e lm="Cava">                           <i>Cava</i><par n="Lieu__np"/></e>
     <e lm="ça va">                          <i>ça<b/>va</i><par n="ah__ij"/></e>
-    <e lm="Cavalier King Charles Spaniel">  <i>Cavalier<b/>King<b/>Charles<b/>Spaniel</i><par n="Autre__np"/></e>
     <e lm="Cavero">                         <i>Cavero</i><par n="Nom__np"/></e>
     <e lm="cavité">                         <i>cavité</i><par n="abeille__n"/></e>
     <e lm="Cayenne">                        <i>Cayenne</i><par n="Lieu__np"/></e>
@@ -10035,7 +10039,7 @@
     <e lm="Charente">                       <i>Charente</i><par n="Lieu__np"/></e>
     <e lm="Charente-Maritime">              <i>Charente-Maritime</i><par n="Lieu__np"/></e>
     <e lm="charge">                         <i>charge</i><par n="abeille__n"/></e>
-    <e lm="charge">                         <i>charge</i><par n="livre__n"/></e>
+    <e lm="chargement">                     <i>chargement</i><par n="livre__n"/></e>
     <e lm="chargé de">                      <i>chargé<b/></i><par n="contde__pr"/></e>
     <e lm="charger">                        <i>charg</i><par n="allong/er__vblex"/></e>
     <e lm="charité">                        <i>charité</i><par n="abeille__n"/></e>
@@ -10123,6 +10127,7 @@
     <e lm="chilien">                        <i>chilien</i><par n="ancien__n"/></e>
     <e lm="Chillida">                       <i>Chillida</i><par n="Nom__np"/></e>
     <e lm="Chimère">                        <i>Chimère</i><par n="Nom__np"/></e>
+    <e lm="chimère">                        <i>chimère</i><par n="abeille__n"/></e>
     <e lm="chimique">                       <i>chimique</i><par n="académique__adj"/></e>
     <e lm="Chine">                          <i>Chine</i><par n="Lieu__np"/></e>
     <e lm="chiner">                         <i>chin</i><par n="abaiss/er__vblex"/></e>
@@ -10514,6 +10519,7 @@
     <e lm="concernant">                     <i>concernant</i><par n="attendu__pr"/></e>
     <e lm="concerner">                      <i>concern</i><par n="abaiss/er__vblex"/></e>
     <e lm="concert">                        <i>concert</i><par n="livre__n"/></e>
+    <e lm="concertation">                   <i>concertation</i><par n="abeille__n"/></e>
     <e lm="concerter">                      <i>concert</i><par n="abaiss/er__vblex"/></e>
     <e lm="concession">                     <i>concession</i><par n="abeille__n"/></e>
     <e lm="concevoir">                      <i>con</i><par n="aper/cevoir__vblex"/></e>
@@ -10586,6 +10592,7 @@
     <e lm="congénère">                      <i>congénère</i><par n="artiste__n"/></e>
     <e lm="Congo">                          <i>Congo</i><par n="Lieu__np"/></e>
     <e lm="congressiste">                   <i>congressiste</i><par n="académique__adj"/></e>
+    <e lm="congruence">                     <i>congruence</i><par n="abeille__n"/></e>
     <e lm="conjecture">                     <i>conjecture</i><par n="abeille__n"/></e>
     <e lm="conjoint">                       <i>conjoint</i><par n="abaissant__adj"/></e>
     <e lm="conjointement">                  <i>conjointement</i><par n="hier__adv"/></e>
@@ -10647,6 +10654,7 @@
     <e lm="constat">                        <i>constat</i><par n="livre__n"/></e>
     <e lm="constater">                      <i>constat</i><par n="abaiss/er__vblex"/></e>
     <e lm="constellation">                  <i>constellation</i><par n="abeille__n"/></e>
+    <e lm="continuellement">                <i>continuellement</i><par n="hier__adv"/></e>
     <e lm="constituer">                     <i>constitu</i><par n="abaiss/er__vblex"/></e>
     <e lm="constitution">                   <i>constitution</i><par n="abeille__n"/></e>
     <e lm="constitutionnaliser">            <i>constitutionnalis</i><par n="abaiss/er__vblex"/></e>
@@ -10835,6 +10843,7 @@
     <e lm="couleur">                        <i>couleur</i><par n="abeille__n"/></e>
     <e lm="couloir">                        <i>couloir</i><par n="livre__n"/></e>
     <e lm="coup">                           <i>coup</i><par n="livre__n"/></e>
+    <e lm="coup de fil">                    <i>coup</i><par n="livre__n"/><p><l><b/>de<b/>fil</l><r><g><b/>de<b/>fil</g></r></p></e>
     <e lm="coupe">                          <i>coupe</i><par n="abeille__n"/></e>
     <e lm="Coupe Libertadores">             <i>Coupe<b/>Libertadores</i><par n="Autre__np"/></e>
     <e lm="couper">                         <i>coup</i><par n="abaiss/er__vblex"/></e>
@@ -11526,6 +11535,7 @@
     <e lm="diligence">                      <i>diligence</i><par n="abeille__n"/></e>
     <e lm="dimanche">                       <i>dimanche</i><par n="livre__n"/></e>
     <e lm="dimension">                      <i>dimension</i><par n="abeille__n"/></e>
+    <e lm="dimensionner">                   <i>dimensionn</i><par n="abaiss/er__vblex"/></e>
     <e lm="diminuer">                       <i>diminu</i><par n="abaiss/er__vblex"/></e>
     <e lm="diminution">                     <i>diminution</i><par n="abeille__n"/></e>
     <e lm="Dimitri">                        <i>Dimitri</i><par n="Nom__np"/></e>
@@ -11561,6 +11571,7 @@
     <e lm="discrimination">                 <i>discrimination</i><par n="abeille__n"/></e>
     <e lm="discriminer">                    <i>discrimin</i><par n="abaiss/er__vblex"/></e>
     <e lm="discussion">                     <i>discussion</i><par n="abeille__n"/></e>
+    <e lm="discutable">                     <i>discutable</i><par n="académique__adj"/></e>
     <e lm="discuter">                       <i>discut</i><par n="abaiss/er__vblex"/></e>
     <e lm="disette">                        <i>disette</i><par n="abeille__n"/></e>
     <e lm="Disney">                         <i>Disney</i><par n="Nom__np"/></e>
@@ -12210,6 +12221,7 @@
     <e lm="enceinte">                       <i>enceinte</i><par n="abeille__n"/></e>
     <e lm="en ce qui concerne">             <i>en<b/>ce<b/>qui<b/>concerne</i><par n="attendu__pr"/></e>
     <e lm="encercler">                      <i>encercl</i><par n="abaiss/er__vblex"/></e>
+    <e lm="enchantement">                   <i>enchantement</i><par n="livre__n"/></e>
     <e lm="enchanter">                      <i>enchant</i><par n="abaiss/er__vblex"/></e>
     <e lm="enchère">                        <i>enchère</i><par n="abeille__n"/></e>
     <e lm="enchérir">                       <i>enchér</i><par n="about/[]ir__vblex" prm=""/></e>
@@ -14439,6 +14451,7 @@
     <e lm="importation">                    <i>importation</i><par n="abeille__n"/></e>
     <e lm="importer">                       <i>import</i><par n="abaiss/er__vblex"/></e>
     <e lm="importuner">                     <i>importun</i><par n="abaiss/er__vblex"/></e>
+    <e lm="imposable">                      <i>imposable</i><par n="académique__adj"/></e>
     <e lm="imposer">                        <i>impos</i><par n="abaiss/er__vblex"/></e>
     <e lm="imposition">                     <i>imposition</i><par n="abeille__n"/></e>
     <e lm="impossibilité">                  <i>impossibilité</i><par n="abeille__n"/></e>
@@ -14519,6 +14532,7 @@
     <e lm="incorporation">                  <i>incorporation</i><par n="abeille__n"/></e>
     <e lm="incorporer">                     <i>incorpor</i><par n="abaiss/er__vblex"/></e>
     <e lm="incorrect">                      <i>incorrect</i><par n="abaissant__adj"/></e>
+    <e lm="incrémenter">                    <i>incrément</i><par n="abaiss/er__vblex"/></e>
     <e lm="incriminer">                     <i>incrimin</i><par n="abaiss/er__vblex"/></e>
     <e lm="incroyable">                     <i>incroyable</i><par n="académique__adj"/></e>
     <e lm="incroyablement">                 <i>incroyablement</i><par n="hier__adv"/></e>
@@ -15211,6 +15225,7 @@
     <e lm="juridiction">                    <i>juridiction</i><par n="abeille__n"/></e>
     <e lm="juridique">                      <i>juridique</i><par n="académique__adj"/></e>
     <e lm="juridiquement">                  <i>juridiquement</i><par n="hier__adv"/></e>
+    <e lm="juriste">                        <i>juriste</i><par n="artiste__n"/></e>
     <e lm="jury">                           <i>jury</i><par n="livre__n"/></e>
     <e lm="jus">                            <i>jus</i><par n="livre__n"/></e>
     <e lm="jusque">                         <i>jusque</i><par n="attendu__pr"/></e>
@@ -17973,6 +17988,7 @@
     <e lm="pelle">                          <i>pelle</i><par n="abeille__n"/></e>
     <e lm="Pellegrin">                      <i>Pellegrin</i><par n="Nom__np"/></e>
     <e lm="Pellicer">                       <i>Pellicer</i><par n="Nom__np"/></e>
+    <e lm="pellicule">                      <i>pellicule</i><par n="abeille__n"/></e>    
     <e lm="Pello">                          <i>Pello</i><par n="Nom__np"/></e>
     <e lm="Péloponnèse">                    <i>Péloponnèse</i><par n="Lieu__np"/></e>
     <e lm="pelouse">                        <i>pelouse</i><par n="abeille__n"/></e>
@@ -22322,6 +22338,8 @@
     <e r="RL" lm="d'ici que">               <p><l>d'ici<b/><a/>que</l><r>d'ici<b/>que</r></p><par n="afin_que__cnjadv"/></e>
     <e r="RL" lm="jusqu'à ce que">          <p><l>jusqu'à<b/>ce<b/><a/>que</l><r>jusqu'à<b/>ce<b/>que</r></p><par n="afin_que__cnjadv"/></e>
     <e r="RL" lm="s'il arrivait que">       <p><l>s'il<b/>arrivait<b/><a/>que</l><r>s'il<b/>arrivait<b/>que</r></p><par n="afin_que__cnjadv"/></e>
+    <e lm="en d'autres termes">             <i>en<b/>d'autres<b/>termes</i><par n="hier__adv"/></e>
+    <e lm="en d'autres termes">             <i>en<b/>d'autres<b/>termes</i><par n="afin_que__cnjadv"/></e>
     <e lm="Etat libre d'Orange">            <i>Etat<b/>libre<b/>d'Orange</i><par n="Lieu__np"/></e>
     <e lm="Europe de l'Ouest">              <i>Europe<b/>de<b/>l'Ouest</i><par n="Lieu__np"/></e>
     <e lm="Fédération d'aviron de Cantabria"><i>Fédération<b/>d'aviron<b/>de<b/>Cantabria</i><par n="Autre__np"/></e>
@@ -23468,7 +23486,6 @@
     <e lm="blanc-azur">                     <i>blanc-azur</i><par n="académique__adj"/></e>
     <e lm="blanc-bleu">                     <i>blanc-bleu</i><par n="académique__adj"/></e>
     <e lm="blanc-noir">                     <i>blanc-noir</i><par n="abaissant__adj"/></e>
-    <e lm="bleu">                           <i>bleu</i><par n="livre__n"/></e>
     <e lm="bleu-blanc">                     <i>bleu-blan</i><par n="fran/c__adj"/></e>
     <e lm="BM">                             <i>BM</i><par n="BBVA__n"/></e>
     <e lm="BNG">                            <i>BNG</i><par n="BBVA__n"/></e>
@@ -23773,7 +23790,6 @@
     <e lm="chevelure">                      <i>chevelure</i><par n="abeille__n"/></e>
     <e lm="chewing-gum">                    <i>chewing-gum</i><par n="livre__n"/></e>
     <e lm="chiffre de contrôle">            <i>chiffre</i><par n="livre__n"/><p><l><b/>de<b/>contrôle</l><r><g><b/>de<b/>contrôle</g></r></p></e>
-    <e lm="chimère">                        <i>chimère</i><par n="abeille__n"/></e>
     <e lm="chimiste">                       <i>chimiste</i><par n="artiste__n"/></e>
     <e lm="chirurgical">                    <i>chirurgica</i><par n="amica/l__adj"/></e>
     <e lm="chirurgien">                     <i>chirurgien</i><par n="ancien__n"/></e>
@@ -23952,7 +23968,6 @@
     <e lm="con">                            <i>con</i><par n="ancien__n"/></e>
     <e lm="concentrer sur">                 <i>concentr</i><par n="abaiss/er__vblex"/><p><l><b/>sur</l><r><g><b/>sur</g></r></p></e>
     <e lm="concerné">                       <i>concerné</i><par n="abaissant__adj"/></e>
-    <e lm="concertation">                   <i>concertation</i><par n="abeille__n"/></e>
     <e lm="concession administrative">      <p><l>concession<b/>administrative</l><r>concession<b/>administrative<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="concession administrative">      <p><l>concessions<b/>administratives</l><r>concession<b/>administrative<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
     <e lm="concession de licence">          <i>concession</i><par n="abeille__n"/><p><l><b/>de<b/>licence</l><r><g><b/>de<b/>licence</g></r></p></e>
@@ -24777,8 +24792,6 @@
     <e lm="encornet">                       <i>encornet</i><par n="livre__n"/></e>
     <e lm="encourageant">                   <i>encourageant</i><par n="abaissant__adj"/></e>
     <e lm="encrasser">                      <i>encrass</i><par n="abaiss/er__vblex"/></e>
-    <e lm="en d'autres termes">             <i>en<b/>d'autres<b/>termes</i><par n="hier__adv"/></e>
-    <e lm="en d'autres termes">             <i>en<b/>d'autres<b/>termes</i><par n="afin_que__cnjadv"/></e>
     <e lm="en défense">                     <i>en<b/>défense</i><par n="hier__adv"/></e>
     <e lm="en dernier recours">             <i>en<b/>dernier<b/>recours</i><par n="hier__adv"/></e>
     <e lm="en dernier ressort">             <i>en<b/>dernier<b/>ressort</i><par n="hier__adv"/></e>
@@ -25742,7 +25755,6 @@
     <e lm="implant">                        <i>implant</i><par n="livre__n"/></e>
     <e lm="impopulaire">                    <i>impopulaire</i><par n="académique__adj"/></e>
     <e lm="impopularité">                   <i>impopularité</i><par n="abeille__n"/></e>
-    <e lm="imposable">                      <i>imposable</i><par n="académique__adj"/></e>
     <e lm="imposant">                       <i>imposant</i><par n="abaissant__adj"/></e>
     <e lm="imposeur">                       <i>imposeu</i><par n="causeu/r__n"/></e>
     <e lm="imposteur">                      <i>imposteur</i><par n="livre__n"/></e>

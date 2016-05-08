@@ -17827,7 +17827,6 @@
     <e lm="cauteloso">                      <i>cautelos</i><par n="abert/o__adj"/></e>
     <e lm="Cava">                           <i>Cava</i><par n="Lugar__np"/></e>
     <e lm="cavalgar">                       <i>cavalg</i><par n="abrig/ar__vblex"/></e>
-    <e lm="Cavalier King Charles Spaniel">  <i>Cavalier<b/>King<b/>Charles<b/>Spaniel</i><par n="Outro__np"/></e>
     <e lm="cavalo">                         <i>cavalo</i><par n="Leste__n"/></e>
     <e lm="cavar">                          <i>cav</i><par n="abal/ar__vblex"/></e>
     <e lm="caverna">                        <i>caverna</i><par n="abadia__n"/></e>
@@ -27329,6 +27328,7 @@
     <e lm="quilômetro" v="br">              <i>quilômetro</i><par n="Leste__n"/></e>
     <e lm="quilómetro" v="pt">              <i>quilómetro</i><par n="Leste__n"/></e>
     <e lm="Quimera">                        <i>Quimera</i><par n="Nome__np"/></e>
+    <e lm="quimera">                        <i>quimera</i><par n="abadia__n"/></e>
     <e lm="químico">                        <i>químic</i><par n="abert/o__adj"/></e>
     <e lm="Quimper">                        <i>Quimper</i><par n="Lugar__np"/></e>
     <e lm="Quimper">                        <i>Quimper</i><par n="Nome__np"/></e>
@@ -27640,9 +27640,6 @@
     <e lm="Reggeaton">                      <i>Reggeaton</i><par n="Outro__np"/></e>
     <e lm="Reggio">                         <i>Reggio</i><par n="Lugar__np"/></e>
     <e lm="região">                         <i>regi</i><par n="aceitaç/ão__n"/></e>
-    <e lm="Região Autónoma da Madeira">     <i>Região<b/>Autónoma<b/>da<b/>Madeira</i><par n="Lugar__np"/></e>
-    <e lm="Região de Múrcia">               <i>Região<b/>de<b/>Múrcia</i><par n="Lugar__np"/></e>
-    <e lm="Região histórica de Castela">    <i>Região<b/>histórica<b/>de<b/>Castela</i><par n="Lugar__np"/></e>
     <e lm="regime">                         <i>regime</i><par n="Leste__n"/></e>
     <e lm="regional">                       <i>regiona</i><par n="aceitáve/l__adj"/></e>
     <e lm="Régis">                          <i>Régis</i><par n="Nome__np"/></e>
