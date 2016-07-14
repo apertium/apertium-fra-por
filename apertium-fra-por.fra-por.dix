@@ -2540,7 +2540,6 @@
 <!-- <e><p><l>attelage<s n="n"/></l><r>attelage<s n="n"/></r></p></e>-->
     <e>       <p><l>attenant<s n="adj"/></l>          <r>contíguo<s n="adj"/></r></p></e>
     <e>       <p><l>attendre<s n="vblex"/></l>        <r>aguardar<s n="vblex"/></r></p></e>
-    <e>       <p><l>attendre<s n="vblex"/></l>        <r>esperar<s n="vblex"/></r></p></e>
     <e>       <p><l>attendu<s n="pr"/></l>            <r>considerando<s n="pr"/></r></p></e>
     <e>       <p><l>attentat<s n="n"/></l>            <r>atentado<s n="n"/></r></p></e>
     <e>       <p><l>attente<s n="n"/></l>             <r>espera<s n="n"/></r></p></e>
@@ -7402,30 +7401,21 @@
     <e>       <p><l>Espel<s n="np"/></l>              <r>Espel<s n="np"/></r></p></e>
     <e>       <p><l>espérance<s n="n"/></l>           <r>esperança<s n="n"/></r></p></e>
     <e>       <p><l>Esperanza Aguirre<s n="np"/></l>  <r>Esperanza Aguirre<s n="np"/></r></p></e>
-    <e>       <p><l>espérer<s n="vblex"/></l>         <r>aguardar<s n="vblex"/></r></p></e>
     <e>       <p><l>espérer<s n="vblex"/></l>         <r>esperar<s n="vblex"/></r></p></e>
-<!-- <e><p><l>espermatozóide<s n="n"/></l><r>espermatozóide<s n="n"/></r></p></e>-->
+    <e>       <p><l>spermatozoide<s n="n"/></l>       <r>espermatozóide<s n="n"/></r></p></e>
 <!-- <e><p><l>espinhal<s n="adj"/></l><r>espinhal<s n="adj"/></r></p></e>-->
     <e>       <p><l>Espino<s n="np"/></l>             <r>Espino<s n="np"/></r></p></e>
     <e>       <p><l>Espinosa<s n="np"/></l>           <r>Espinosa<s n="np"/></r></p></e>
     <e>       <p><l>espion<s n="adj"/></l>            <r>espião<s n="adj"/></r></p></e>
     <e>       <p><l>Esplugues<s n="np"/></l>          <r>Esplugues<s n="np"/></r></p></e>
     <e>       <p><l>espoir<s n="n"/><s n="m"/></l>    <r>esperança<s n="n"/><s n="f"/></r></p></e>
-    <e>       <p><l>esprit<s n="n"/></l>              <r>ânimo<s n="n"/></r></p></e>
     <e>       <p><l>esprit<s n="n"/></l>              <r>espírito<s n="n"/></r></p></e>
-    <e>       <p><l>esprit<s n="n"/><s n="m"/></l>    <r>mente<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>esprit<s n="n"/></l>              <r>espírito<s n="n"/></r></p></e>
+    <e r="RL"><p><l>esprit<s n="n"/><s n="m"/></l>    <r>mente<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>Esquerdo<s n="np"/></l>           <r>Esquerdo<s n="np"/></r></p></e>
     <e>       <p><l>Esquisabel<s n="np"/></l>         <r>Esquisabel<s n="np"/></r></p></e>
     <e>       <p><l>essai<s n="n"/></l>               <r>ensaio<s n="n"/></r></p></e>
-    <e>       <p><l>essai<s n="n"/><s n="m"/></l>     <r>prova<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>essai<s n="n"/></l>               <r>ensaio<s n="n"/></r></p></e>
-    <e>       <p><l>essayer<s n="vblex"/></l>         <r>provar<s n="vblex"/></r></p></e>
     <e>       <p><l>essayer<s n="vblex"/></l>         <r>tentar<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>essayer<s n="vblex"/></l>         <r>provar<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>essayer<s n="vblex"/></l>         <r>testar<s n="vblex"/></r></p></e>
     <e>       <p><l>essence<s n="n"/></l>             <r>gasolina<s n="n"/></r></p></e>
-    <e>       <p><l>essence<s n="n"/><s n="f"/></l>   <r>gasolina<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>essentiel<s n="adj"/></l>         <r>essencial<s n="adj"/></r></p></e>
     <e>       <p><l>essentiellement<s n="adv"/></l>   <r>essencialmente<s n="adv"/></r></p></e>
     <e>       <p><l>Essery<s n="np"/></l>             <r>Essery<s n="np"/></r></p></e>
@@ -7433,11 +7423,9 @@
     <e>       <p><l>Essonne<s n="np"/></l>            <r>Essonne<s n="np"/></r></p></e>
     <e>       <p><l>essor<s n="n"/></l>               <r>impulso<s n="n"/></r></p></e>
     <e>       <p><l>essouffler<s n="vblex"/></l>      <r>afogar<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>essuie-mains<s n="n"/><s n="m"/><s n="sp"/></l><r>toalha<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-    <e r="RL"><p><l>essuie-mains<s n="n"/><s n="m"/><s n="sp"/></l><r>toalha<s n="n"/><s n="f"/></r></p></e>
+    <e>       <p><l>essuie-mains<s n="n"/><s n="m"/><s n="sp"/></l><r>toalha<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>est<s n="n"/></l>                 <r>leste<s n="n"/></r></p></e>
     <e>       <p><l>estada<s n="n"/></l>              <r>estada<s n="n"/></r></p></e>
-    <e>       <p><l>estada<s n="n"/><s n="f"/></l>    <r>estada<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>estamper<s n="vblex"/></l>        <r>estampar<s n="vblex"/></r></p></e>
     <e>       <p><l>Estanislao<s n="np"/></l>         <r>Estanislao<s n="np"/></r></p></e>
     <e r="LR"><p><l>est-ce<b/>que<s n="prn"/></l>     <r></r></p></e>
@@ -7448,17 +7436,11 @@
     <e>       <p><l>Estévez<s n="np"/></l>            <r>Estévez<s n="np"/></r></p></e>
     <e>       <p><l>Esther<s n="np"/></l>             <r>Esther<s n="np"/></r></p></e>
     <e>       <p><l>esthétique<s n="adj"/></l>        <r>estético<s n="adj"/></r></p></e>
-<!-- <e r="LR"><p><l>esthétique<s n="adj"/></l><r>estético<s n="adj"/><s n="f"/></r></p></e>-->
-<!-- <e r="LR"><p><l>esthétique<s n="adj"/></l><r>estético<s n="adj"/><s n="GD"/></r></p></e>-->
-<!-- <e r="LR"><p><l>esthétique<s n="adj"/></l><r>estético<s n="adj"/><s n="m"/></r></p></e>-->
     <e>       <p><l>esthétiquement<s n="adv"/></l>    <r>esteticamente<s n="adv"/></r></p></e>
     <e>       <p><l>Estíbaliz<s n="np"/></l>          <r>Estíbaliz<s n="np"/></r></p></e>
     <e>       <p><l>estimatif<s n="n"/><s n="f"/></l> <r>estimativa<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>estimation<s n="n"/></l>          <r>estimação<s n="n"/></r></p></e>
-    <e>       <p><l>estimation<s n="n"/></l>          <r>valoração<s n="n"/></r></p></e>
-    <e r="LR"><p><l>estimation<s n="n"/></l>          <r>estimativa<s n="n"/></r></p></e>
     <e>       <p><l>estimer<s n="vblex"/></l>         <r>estimar<s n="vblex"/></r></p></e>
-    <e>       <p><l>estimer<s n="vblex"/></l>         <r>valorizar<s n="vblex"/></r></p></e>
     <e>       <p><l>estomac<s n="n"/></l>             <r>estômago<s n="n"/></r></p></e>
     <e>       <p><l>Estonie<s n="np"/></l>            <r>Estónia<s n="np"/></r></p></e>
     <e r="RL"><p><l>Estonie<s n="np"/></l>            <r>Estônia<s n="np"/></r></p></e>
@@ -7470,12 +7452,9 @@
     <e>       <p><l>ETA<s n="n"/></l>                 <r>ETA<s n="n"/></r></p></e>
     <e>       <p><l>eta<s n="np"/></l>                <r>eta<s n="np"/></r></p></e>
     <e>       <p><l>et<s n="cnjcoo"/></l>             <r>e<s n="cnjcoo"/></r></p></e>
-    <e>       <p><l>établir<s n="vblex"/></l>         <r>assentar<s n="vblex"/></r></p></e>
     <e>       <p><l>établir<s n="vblex"/></l>         <r>estabelecer<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>établir<s n="vblex"/></l>         <r>assentar<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>établir<s n="vblex"/></l>         <r>estabelecer<s n="vblex"/></r></p></e>
     <e>       <p><l>établissement<s n="n"/></l>       <r>estabelecimento<s n="n"/></r></p></e>
-    <e>       <p><l>établissement<s n="n"/><s n="m"/></l><r>entidade<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>étager<s n="vblex"/></l>          <r>escalonar<s n="vblex"/></r></p></e>
     <e>       <p><l>étalager<s n="vblex"/></l>        <r>expor<s n="vblex"/></r></p></e>
     <e>       <p><l>étaler<s n="vblex"/></l>          <r>estender<s n="vblex"/></r></p></e>
@@ -7484,7 +7463,6 @@
     <e r="RL"><p><l>étant<b/>donné<b/>que<s n="cnjadv"/></l><r>contanto<b/>que<s n="cnjadv"/></r></p></e>
     <e>       <p><l>étape<s n="n"/></l>               <r>etapa<s n="n"/></r></p></e>
     <e>       <p><l>etarra<s n="adj"/></l>            <r>etarra<s n="adj"/></r></p></e>
-    <e>       <p><l>etat<s n="n"/></l>                <r>estado<s n="n"/></r></p></e>
     <e>       <p><l>état<s n="n"/></l>                <r>estado<s n="n"/></r></p></e>
     <e>       <p><l>État<b/>de<b/>la<b/>Cité<b/>du<b/>Vatican<s n="np"/></l><r>Vaticano<s n="np"/></r></p></e>
     <e>       <p><l>Etat<b/>libre<b/>d'Orange<s n="np"/></l><r>Estado<b/>Livre<b/>de<b/>Orange<s n="np"/></r></p></e>
@@ -18588,7 +18566,7 @@
     <e>       <p><l>supposition<s n="n"/></l>         <r>suposição<s n="n"/></r></p></e>
     <e r="LR"><p><l>suppression<s n="n"/></l>         <r>exclusão<s n="n"/></r></p></e>
     <e>       <p><l>supprimer<s n="vblex"/></l>       <r>suprimir<s n="vblex"/></r></p></e>
-    <e>       <p><l>supputer<s n="vblex"/></l>        <r>valorizar<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>supputer<s n="vblex"/></l>        <r>valorizar<s n="vblex"/></r></p></e>
     <e>       <p><l>suprême<s n="adj"/></l>           <r>supremo<s n="adj"/></r></p></e>
 <!-- <e r="LR"><p><l>suprême<s n="adj"/></l><r>supremo<s n="adj"/><s n="f"/></r></p></e>-->
 <!-- <e r="LR"><p><l>suprême<s n="adj"/></l><r>supremo<s n="adj"/><s n="GD"/></r></p></e>-->
