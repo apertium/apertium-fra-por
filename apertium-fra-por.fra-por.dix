@@ -7108,9 +7108,8 @@
     <e r="RL"><p><l>en détail<s n="adv"/></l>         <r>detalhadamente<s n="adv"/></r></p></e>
     <e>       <p><l>endettement<s n="n"/></l>         <r>endividamento<s n="n"/></r></p></e>
     <e>       <p><l>endetter<s n="vblex"/></l>        <r>endividar<s n="vblex"/></r></p></e>
-<!-- end of interwiki nouns -->
     <e>       <p><l>endommager<s n="vblex"/></l>      <r>danificar<s n="vblex"/></r></p></e>
-    <e>       <p><l>endommager<s n="vblex"/></l>      <r>deteriorar<s n="vblex"/></r></p></e>
+    <e>       <p><l>déteriorer<s n="vblex"/></l>      <r>deteriorar<s n="vblex"/></r></p></e>
     <e>       <p><l>endormir<s n="vblex"/></l>        <r>adormecer<s n="vblex"/></r></p></e>
     <e>       <p><l>endossement<s n="n"/></l>         <r>aceite<s n="n"/></r></p></e>
     <e>       <p><l>endosser<s n="vblex"/></l>        <r>endossar<s n="vblex"/></r></p></e>
@@ -7137,7 +7136,7 @@
     <e>       <p><l>enfer<s n="n"/></l>               <r>inferno<s n="n"/></r></p></e>
     <e>       <p><l>enfermer<s n="vblex"/></l>        <r>encerrar<s n="vblex"/></r></p></e>
     <e>       <p><l>enfin<s n="adv"/></l>             <r>afinal<s n="adv"/></r></p></e>
-    <e>       <p><l>enfin<s n="adv"/></l>             <r>conclusivamente<s n="adv"/></r></p></e>
+    <e r="RL"><p><l>enfin<s n="adv"/></l>             <r>conclusivamente<s n="adv"/></r></p></e>
     <e>       <p><l>enfin<s n="adv"/></l>             <r>enfim<s n="adv"/></r></p></e>
     <e r="RL"><p><l>enfoncer<s n="vblex"/></l>        <r>enterrar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>enfouir<s n="vblex"/></l>         <r>enterrar<s n="vblex"/></r></p></e>
@@ -7157,11 +7156,9 @@
     <e vr="pt"><p><l>engin<s n="n"/></l>              <r>artefacto<s n="n"/></r></p></e>
     <e>       <p><l>englober<s n="vblex"/></l>        <r>englobar<s n="vblex"/></r></p></e>
     <e>       <p><l>engloutir<s n="vblex"/></l>       <r>engolir<s n="vblex"/></r></p></e>
-    <e>       <p><l>enigma<s n="n"/></l>              <r>enigma<s n="n"/></r></p></e>
-    <e>       <p><l>enigma<s n="n"/><s n="m"/></l>    <r>enigma<s n="n"/><s n="m"/></r></p></e>
+    <e>       <p><l>enigme<s n="n"/><s n="f"/></l>    <r>enigma<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>énigmatique<s n="adj"/></l>       <r>enigmático<s n="adj"/></r></p></e>
     <e>       <p><l>enivrer<s n="vblex"/></l>         <r>inebriar<s n="vblex"/></r></p></e>
-    <e>       <p><l>enlever<s n="vblex"/></l>         <r>sacar<s n="vblex"/></r></p></e>
     <e>       <p><l>enlever<s n="vblex"/></l>         <r>tirar<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>enlever<s n="vblex"/></l>         <r>sacar<s n="vblex"/></r></p></e>
     <e>       <p><l>en ligne<s n="adj"/></l>          <r>on-line<s n="adj"/></r></p></e>
@@ -7170,11 +7167,9 @@
     <e>       <p><l>en même temps que<s n="cnjadv"/></l><r>ao mesmo tempo em que<s n="cnjadv"/></r></p></e>
     <e>       <p><l>ennemi<s n="adj"/></l>            <r>inimigo<s n="adj"/></r></p></e>
     <e>       <p><l>ennemi<s n="n"/></l>              <r>inimigo<s n="n"/></r></p></e>
-    <e r="RL"><p><l>ennemi<s n="adj"/></l>            <r>inimigo<s n="adj"/></r></p></e>
     <e>       <p><l>Ennius<s n="np"/></l>             <r>Quinto Ênio<s n="np"/></r></p></e>
     <e>       <p><l>ennui<s n="n"/></l>               <r>tédio<s n="n"/></r></p></e>
-    <e>       <p><l>ennui<s n="n"/><s n="f"/></l>     <r>monotonia<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>ennui<s n="n"/></l>               <r>tédio<s n="n"/></r></p></e>
+    <e>       <p><l>monotonie<s n="n"/></l>           <r>monotonia<s n="n"/></r></p></e>
     <e>       <p><l>ennuyer<s n="vblex"/></l>         <r>chatear<s n="vblex"/></r></p></e>
     <e>       <p><l>enorgueillir<s n="vblex"/></l>    <r>orgulhar<s n="vblex"/></r></p></e>
     <e>       <p><l>énorme<s n="adj"/></l>            <r>enorme<s n="adj"/></r></p></e>
@@ -7187,7 +7182,6 @@
     <e>       <p><l>enraciner<s n="vblex"/></l>       <r>enraizar<s n="vblex"/></r></p></e>
     <e>       <p><l>enregistrement<s n="n"/><s n="m"/></l><r>gravação<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>enregistrer<s n="vblex"/></l>     <r>gravar<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>enregistrer<s n="vblex"/></l>     <r>registar<s n="vblex"/></r></p></e>
     <e vr="br"><p><l>enregistrer<s n="vblex"/></l>    <r>registrar<s n="vblex"/></r></p></e>
     <e vr="pt"><p><l>enregistrer<s n="vblex"/></l>    <r>registar<s n="vblex"/></r></p></e>
     <e>       <p><l>Enric<s n="np"/></l>              <r>Enric<s n="np"/></r></p></e>
@@ -7213,33 +7207,28 @@
     <e>       <p><l>entendre<s n="vblex"/></l>        <r>entender<s n="vblex"/></r></p></e>
     <e>       <p><l>enterrement<s n="n"/></l>         <r>enterro<s n="n"/></r></p></e>
     <e>       <p><l>enterrer<s n="vblex"/></l>        <r>enterrar<s n="vblex"/></r></p></e>
-    <e>       <p><l>enterrer<s n="vblex"/></l>        <r>soterrar<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>enterrer<s n="vblex"/></l>        <r>soterrar<s n="vblex"/></r></p></e>
     <e>       <p><l>entête<s n="n"/></l>              <r>encabeçamento<s n="n"/></r></p></e>
     <e>       <p><l>enthousiasme<s n="n"/></l>        <r>entusiasmo<s n="n"/></r></p></e>
-    <e>       <p><l>enthousiasme<s n="n"/><s n="m"/></l><r>entusiasmo<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>enthousiasmer<s n="vblex"/></l>   <r>entusiasmar<s n="vblex"/></r></p></e>
     <e>       <p><l>entier<s n="adj"/></l>            <r>inteiro<s n="adj"/></r></p></e>
-    <e>       <p><l>entier<s n="n"/><s n="m"/></l>    <r>inteiro<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>entier<s n="adj"/></l>            <r>inteiro<s n="adj"/></r></p></e>
+    <e>       <p><l>entier<s n="n"/></l>              <r>inteiro<s n="n"/></r></p></e>
     <e>       <p><l>entièrement<s n="adv"/></l>       <r>inteiramente<s n="adv"/></r></p></e>
-    <e>       <p><l>entièrement<s n="adv"/></l>       <r>totalmente<s n="adv"/></r></p></e>
     <e>       <p><l>entité<s n="n"/></l>              <r>entidade<s n="n"/></r></p></e>
     <e>       <p><l>entonner<s n="vblex"/></l>        <r>entoar<s n="vblex"/></r></p></e>
     <e>       <p><l>entortiller<s n="vblex"/></l>     <r>envolver<s n="vblex"/></r></p></e>
     <e>       <p><l>entourage<s n="n"/></l>           <r>meio<s n="n"/></r></p></e>
     <e>       <p><l>entourer<s n="vblex"/></l>        <r>rodear<s n="vblex"/></r></p></e>
-    <e>       <p><l>entraînement<s n="n"/></l>        <r>treinamento<s n="n"/></r></p></e>
+    <e r="RL"><p><l>entraînement<s n="n"/></l>        <r>treinamento<s n="n"/></r></p></e>
     <e>       <p><l>entraînement<s n="n"/></l>        <r>treino<s n="n"/></r></p></e>
     <e>       <p><l>entraîner<s n="vblex"/></l>       <r>treinar<s n="vblex"/></r></p></e>
     <e>       <p><l>entraîneur<s n="n"/></l>          <r>treinador<s n="n"/></r></p></e>
     <e>       <p><l>entraver<s n="vblex"/></l>        <r>travar<s n="vblex"/></r></p></e>
     <e>       <p><l>entre<s n="pr"/></l>              <r>entre<s n="pr"/></r></p></e>
-    <e>       <p><l>entre<s n="pr"/></l>              <r>por<b/>entre<s n="pr"/></r></p></e>
     <e r="RL"><p><l>entre<s n="pr"/></l>              <r>por entre<s n="pr"/></r></p></e>
     <e>       <p><l>entrée<s n="n"/></l>              <r>entrada<s n="n"/></r></p></e>
     <e>       <p><l>entrepas<s n="n"/></l>            <r>andadura<s n="n"/></r></p></e>
     <e r="RL"><p><l>entrepôt<s n="n"/></l>            <r>repositório<s n="n"/></r></p></e>
-    <e>       <p><l>entreprendre<s n="vblex"/></l>    <r>acometer<s n="vblex"/></r></p></e>
     <e>       <p><l>entreprendre<s n="vblex"/></l>    <r>empreender<s n="vblex"/></r></p></e>
     <e r="RL"><p><l>entreprendre<s n="vblex"/></l>    <r>acometer<s n="vblex"/></r></p></e>
     <e>       <p><l>entrepreneur<s n="n"/></l>        <r>empresário<s n="n"/></r></p></e>
@@ -7306,7 +7295,7 @@
     <e>       <p><l>Episkopi<s n="np"/></l>           <r>Episkopi<s n="np"/></r></p></e>
     <e>       <p><l>épisode<s n="n"/></l>             <r>episódio<s n="n"/></r></p></e>
     <e>       <p><l>époque<s n="n"/></l>              <r>época<s n="n"/></r></p></e>
-    <e r="LR"><p><l>épouvantable<s n="adj"/></l><r>horrível<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>épouvantable<s n="adj"/></l>      <r>horrível<s n="adj"/></r></p></e>
     <e>       <p><l>épouvanter<s n="vblex"/></l>      <r>espantar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>épouvanter<s n="vblex"/></l>      <r>assustar<s n="vblex"/></r></p></e>
     <e>       <p><l>époux<s n="n"/><s n="f"/></l>     <r>esposo<s n="n"/><s n="f"/></r></p></e>
@@ -7314,7 +7303,7 @@
     <e>       <p><l>éprouver<s n="vblex"/></l>        <r>experimentar<s n="vblex"/></r></p></e>
     <e>       <p><l>Epsilon<s n="np"/></l>            <r>Epsilon<s n="np"/></r></p></e>
     <e>       <p><l>épuisant<s n="adj"/></l>          <r>esgotador<s n="adj"/></r></p></e>
-    <e>       <p><l>épuiser<s n="vblex"/></l>         <r>apressar<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>épuiser<s n="vblex"/></l>         <r>apressar<s n="vblex"/></r></p></e>
     <e>       <p><l>épuiser<s n="vblex"/></l>         <r>escoar<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>épuration<s n="n"/></l>           <r>depuração<s n="n"/></r></p></e>
     <e>       <p><l>épurer<s n="vblex"/></l>          <r>depurar<s n="vblex"/></r></p></e>
@@ -7331,17 +7320,14 @@
     <e>       <p><l>équipage<s n="n"/><s n="m"/></l>  <r>tripulação<s n="n"/><s n="f"/></r></p></e>
 <!-- <e><p><l>equiparidade<s n="n"/></l><r>equiparidade<s n="n"/></r></p></e>-->
     <e>       <p><l>équipe<s n="n"/></l>              <r>equipe<s n="n"/></r></p></e>
-    <e>       <p><l>équipe<s n="n"/><s n="f"/></l>    <r>equipa<s n="n"/><s n="f"/></r></p></e>
-    <e>       <p><l>équipe<s n="n"/><s n="f"/></l>    <r>equipe<s n="n"/><s n="f"/></r></p></e>
-    <e>       <p><l>équipe<s n="n"/><s n="f"/></l>    <r>time<s n="n"/><s n="m"/></r></p></e>
+    <e r="RL"><p><l>équipe<s n="n"/><s n="f"/></l>    <r>equipa<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL"><p><l>équipe<s n="n"/><s n="f"/></l>    <r>time<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>équipement<s n="n"/></l>          <r>equipamento<s n="n"/></r></p></e>
     <e>       <p><l>équiper<s n="vblex"/></l>         <r>equipar<s n="vblex"/></r></p></e>
     <e>       <p><l>équipier<s n="n"/></l>            <r>jogador<s n="n"/></r></p></e>
     <e>       <p><l>Equis<s n="np"/></l>              <r>Equis<s n="np"/></r></p></e>
     <e>       <p><l>équité<s n="n"/></l>              <r>equidade<s n="n"/></r></p></e>
-<!-- <e r="RL"><p><l>équivalent<s n="adj"/><s n="f"/></l><r>equivalente<s n="adj"/></r></p></e>-->
-    <e r="RL"><p><l>équivalent<s n="adj"/></l>           <r>equivalente<s n="adj"/></r></p></e>
-<!-- <e r="RL"><p><l>équivalent<s n="adj"/><s n="m"/></l><r>equivalente<s n="adj"/></r></p></e>-->
+    <e>       <p><l>équivalent<s n="adj"/></l>        <r>equivalente<s n="adj"/></r></p></e>
     <e>       <p><l>équivaloir<s n="vblex"/></l>      <r>equivaler<s n="vblex"/></r></p></e>
     <e>       <p><l>éradication<s n="n"/></l>         <r>erradicação<s n="n"/></r></p></e>
     <e>       <p><l>éradiquer<s n="vblex"/></l>       <r>erradicar<s n="vblex"/></r></p></e>
@@ -7358,7 +7344,6 @@
     <e>       <p><l>Erik le Rouge<s n="np"/></l>      <r>Erik, o Vermelho<s n="np"/></r></p></e>
     <e>       <p><l>Eriz<s n="np"/></l>               <r>Eriz<s n="np"/></r></p></e>
     <e>       <p><l>ermite<s n="n"/></l>              <r>eremita<s n="n"/></r></p></e>
-    <e>       <p><l>ermite<s n="n"/><s n="mf"/></l>   <r>eremita<s n="n"/><s n="mf"/></r></p></e>
     <e>       <p><l>Ermua<s n="np"/></l>              <r>Ermua<s n="np"/></r></p></e>
     <e>       <p><l>Ernest<s n="np"/></l>             <r>Ernest<s n="np"/></r></p></e>
     <e>       <p><l>Ernesto<s n="np"/></l>            <r>Ernesto<s n="np"/></r></p></e>
@@ -7372,7 +7357,6 @@
     <e>       <p><l>errer<s n="vblex"/></l>           <r>errar<s n="vblex"/></r></p></e>
     <e>       <p><l>erreur<s n="n"/><s n="f"/></l>    <r>erro<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>Erro<s n="np"/></l>               <r>Erro<s n="np"/></r></p></e>
-    <e r="RL"><p><l>erroné<s n="adj"/></l>            <r>erróneo<s n="adj"/></r></p></e>
     <e vr="br"><p><l>erroné<s n="adj"/></l>           <r>errôneo<s n="adj"/></r></p></e>
     <e vr="pt"><p><l>erroné<s n="adj"/></l>           <r>erróneo<s n="adj"/></r></p></e>
     <e>       <p><l>Ertzaintza<s n="np"/></l>         <r>Ertzaintza<s n="np"/></r></p></e>
@@ -7384,7 +7368,7 @@
     <e>       <p><l>Esain<s n="np"/></l>              <r>Esain<s n="np"/></r></p></e>
 <!-- <e><p><l>esbranquiçamento<s n="n"/></l><r>esbranquiçamento<s n="n"/></r></p></e>-->
 <!-- <e><p><l>esbranquiçar<s n="vblex"/></l><r>esbranquiçar<s n="vblex"/></r></p></e>-->
-    <e>       <p><l>escalader<s n="vblex"/></l>       <r>escalar<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>escalader<s n="vblex"/></l>       <r>escalar<s n="vblex"/></r></p></e>
     <e>       <p><l>escalader<s n="vblex"/></l>       <r>trepar<s n="vblex"/></r></p></e>
     <e>       <p><l>escalier<s n="n"/><s n="m"/></l>  <r>escada<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>escarpé<s n="adj"/></l>           <r>escarpado<s n="adj"/></r></p></e>
@@ -7392,12 +7376,12 @@
     <e>       <p><l>Eschyle<s n="np"/></l>            <r>Ésquilo<s n="np"/></r></p></e>
     <e>       <p><l>esclavage<s n="n"/><s n="f"/></l> <r>escravatura<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>esclave<s n="adj"/></l>           <r>escravo<s n="adj"/></r></p></e>
-    <e>       <p><l>esclave<s n="n"/><s n="f"/></l>   <r>escravo<s n="n"/><s n="f"/></r></p></e>
-    <e>       <p><l>esclave<s n="n"/><s n="m"/></l>   <r>escravo<s n="n"/><s n="m"/></r></p></e>
+    <e>       <p><l>esclave<s n="n"/></l>             <r>escravo<s n="n"/></r></p></e>
     <e>       <p><l>escompter<s n="vblex"/></l>       <r>descontar<s n="vblex"/></r></p></e>
     <e>       <p><l>escorter<s n="vblex"/></l>        <r>escoltar<s n="vblex"/></r></p></e>
     <e>       <p><l>Escribano<s n="np"/></l>          <r>Escribano<s n="np"/></r></p></e>
-    <e>       <p><l>escroquerie<s n="n"/></l>         <r>fraude<s n="n"/></r></p></e>
+    <e r="LR"><p><l>escroquerie<s n="n"/></l>         <r>fraude<s n="n"/></r></p></e>
+    <e>       <p><l>fraude<s n="n"/></l>              <r>fraude<s n="n"/></r></p></e>
     <e>       <p><l>Escudero<s n="np"/></l>           <r>Escudero<s n="np"/></r></p></e>
     <e>       <p><l>Esculape<s n="np"/></l>           <r>Esculape<s n="np"/></r></p></e>
 <!-- <e><p><l>esfomeado<s n="adj"/></l><r>esfomeado<s n="adj"/></r></p></e>-->
@@ -7409,7 +7393,6 @@
     <e>       <p><l>Espagne<s n="np"/></l>            <r>Espanha<s n="np"/></r></p></e>
     <e>       <p><l>espagnol<s n="adj"/></l>          <r>espanhol<s n="adj"/></r></p></e>
     <e>       <p><l>espagnol<s n="n"/></l>            <r>espanhol<s n="n"/></r></p></e>
-    <e r="RL"><p><l>espagnol<s n="adj"/></l>          <r>espanhol<s n="adj"/></r></p></e>
     <e>       <p><l>Espanyol<s n="np"/></l>           <r>Espanyol<s n="np"/></r></p></e>
     <e>       <p><l>Espasa<s n="np"/></l>             <r>Espasa<s n="np"/></r></p></e>
     <e>       <p><l>Espasa<b/>Calpe<s n="np"/></l>    <r>Espasa<b/>Calpe<s n="np"/></r></p></e>
@@ -19279,7 +19262,6 @@
     <e r="RL"><p><l>total<s n="adj"/></l>             <r>total<s n="adj"/></r></p></e>
 <!-- <e r="RL"><p><l>total<s n="adj"/><s n="m"/></l><r>total<s n="adj"/></r></p></e>-->
     <e r="RL"><p><l>total<s n="n"/></l>               <r>total<s n="n"/></r></p></e>
-    <e>       <p><l>totalement<s n="adv"/></l>        <r>cabalmente<s n="adv"/></r></p></e>
     <e>       <p><l>totalement<s n="adv"/></l>        <r>totalmente<s n="adv"/></r></p></e>
     <e r="RL"><p><l>totalement<s n="adv"/></l>        <r>cabalmente<s n="adv"/></r></p></e>
     <e>       <p><l>totaliser<s n="vblex"/></l>       <r>totalizar<s n="vblex"/></r></p></e>

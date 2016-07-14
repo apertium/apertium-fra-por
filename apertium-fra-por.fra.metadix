@@ -11421,6 +11421,7 @@
     <e lm="déterminant">                    <i>déterminant</i><par n="abaissant__adj"/></e>
     <e lm="détermination">                  <i>détermination</i><par n="abeille__n"/></e>
     <e lm="déterminer">                     <i>détermin</i><par n="abaiss/er__vblex"/></e>
+    <e lm="dériorer">                       <i>dérior</i><par n="abaiss/er__vblex"/></e>
     <e lm="détester">                       <i>détest</i><par n="abaiss/er__vblex"/></e>
     <e lm="détoner">                        <i>déton</i><par n="abaiss/er__vblex"/></e>
     <e lm="détournement">                   <i>détournement</i><par n="livre__n"/></e>
@@ -12301,6 +12302,7 @@
     <e lm="en haut">                        <i>en<b/>haut</i><par n="hier__adv"/></e>
     <e lm="énigmatique">                    <i>énigmatique</i><par n="académique__adj"/></e>
     <e lm="énigmatique" r="LR">             <p><l>Enigmatique</l><r>énigmatique</r></p><par n="académique__adj"/></e>
+    <e lm="énigme">                         <i>énigme</i><par n="abeille__n"/></e>
     <e lm="enivrer">                        <i>enivr</i><par n="abaiss/er__vblex"/></e>
     <e lm="enlever">                        <i>enl</i><par n="ach/e[T]er__vblex" prm="v"/></e>
     <e lm="en ligne">                       <i>en<b/>ligne</i><par n="arrière__adj"/></e>
@@ -13336,6 +13338,7 @@
     <e lm="frappant">                       <i>frappant</i><par n="abaissant__adj"/></e>
     <e lm="frapper">                        <i>frapp</i><par n="abaiss/er__vblex"/></e>
     <e lm="fraterniser">                    <i>fraternis</i><par n="abaiss/er__vblex"/></e>
+    <e lm="fraude">                         <i>fraude</i><par n="abeille__n"/></e>
     <e lm="frauder">                        <i>fraud</i><par n="abaiss/er__vblex"/></e>
     <e lm="fraudeur">                       <i>fraud</i><par n="conduct/eur__adj"/></e>
     <e lm="Frears">                         <i>Frears</i><par n="Nom__np"/></e>
@@ -15149,7 +15152,7 @@
     <e lm="jouer">                          <i>jou</i><par n="abaiss/er__vblex"/></e>
     <e lm="jouet">                          <i>jouet</i><par n="livre__n"/></e>
     <e lm="joueur">                         <i>joueu</i><par n="causeu/r__n"/></e>
-    <e lm="jouir">                          <i>joui</i><par n="abouti/r__vblex"/></e>
+    <e lm="jouir">                          <i>jou</i><par n="accueill/ir__vblex"/></e>
     <e lm="Joumblatt">                      <i>Joumblatt</i><par n="Nom__np"/></e>
     <e lm="jour">                           <i>jour</i><par n="livre__n"/></e>
     <e lm="journal">                        <i>journa</i><par n="anima/l__n"/></e>
@@ -16818,6 +16821,7 @@
     <e lm="monopole">                       <i>monopole</i><par n="livre__n"/></e>
     <e lm="Monoprix">                       <i>Monoprix</i><par n="Autre__np"/></e>
     <e lm="Monrovia">                       <i>Monrovia</i><par n="Lieu__np"/></e>
+    <e lm="monotonie">                      <i>monotonie</i><par n="abeille__n"/></e>
     <e lm="monsieur">                       <i>m</i><par n="m/onsieur__n"/></e>
     <e lm="monstre">                        <i>monstre</i><par n="livre__n"/></e>
     <e lm="montage">                        <i>montage</i><par n="livre__n"/></e>
@@ -25429,7 +25433,6 @@
     <e lm="frappe de la tête">              <i>frappe</i><par n="abeille__n"/><p><l><b/>de<b/>la<b/>tête</l><r><g><b/>de<b/>la<b/>tête</g></r></p></e>
     <e lm="fraternité">                     <i>fraternité</i><par n="abeille__n"/></e>
     <e lm="fraternité">                     <i>fraternité</i><par n="abeille__n"/></e>
-    <e lm="fraude">                         <i>fraude</i><par n="abeille__n"/></e>
     <e lm="frauduleux">                     <i>frauduleu</i><par n="affectueu/x__adj"/></e>
     <e lm="frayeur">                        <i>frayeur</i><par n="abeille__n"/></e>
     <e lm="frêle">                          <i>frêle</i><par n="académique__adj"/></e>
