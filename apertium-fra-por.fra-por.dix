@@ -6651,7 +6651,7 @@
     <e>       <p><l>eBay<s n="np"/></l>               <r>EBay<s n="np"/></r></p></e>
     <e>       <p><l>EBay<s n="np"/></l>               <r>eBay<s n="np"/></r></p></e>
     <e>       <p><l>EBBerdeak<s n="np"/></l>          <r>EBBerdeak<s n="np"/></r></p></e>
-    <e>       <p><l>éberluer<s n="vblex"/></l>        <r>surpreender<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>éberluer<s n="vblex"/></l>        <r>surpreender<s n="vblex"/></r></p></e>
     <e>       <p><l>éblouissant<s n="adj"/></l>       <r>deslumbrante<s n="adj"/></r></p></e>
     <e>       <p><l>éboueur<s n="n"/></l>             <r>lixeiro<s n="n"/></r></p></e>
     <e>       <p><l>Ebra<s n="np"/></l>               <r>Ebra<s n="np"/></r></p></e>
@@ -7479,14 +7479,11 @@
     <e>       <p><l>et<b/>cetera<s n="cnjadv"/></l>   <r>etcétera<s n="cnjadv"/></r></p></e>
     <e>       <p><l>et<b/>cetera<s n="n"/></l>        <r>etcétera<s n="n"/></r></p></e>
     <e>       <p><l>ETBSAT<s n="np"/></l>             <r>ETBSAT<s n="np"/></r></p></e>
-<!-- <e><p><l>etc<s n="adv"/></l><r>etc<s n="adv"/></r></p></e>-->
+    <e>       <p><l>etc<s n="adv"/></l>               <r>etc<s n="adv"/></r></p></e>-->
     <e r="LR"><p><l>et caetera<s n="n"/></l>          <r>etcétera<s n="n"/></r></p></e>
     <e>       <p><l>été<s n="n"/></l>                 <r>verão<s n="n"/></r></p></e>
-    <e>       <p><l>éteindre<s n="vblex"/></l>        <r>apagar<s n="vblex"/></r></p></e>
     <e>       <p><l>éteindre<s n="vblex"/></l>        <r>extinguir<s n="vblex"/></r></p></e>
-    <e r="RL"><p><l>éteindre<s n="adj"/></l>          <r>extinguir<s n="adj"/></r></p></e>
     <e>       <p><l>étendard<s n="n"/></l>            <r>estandarte<s n="n"/></r></p></e>
-    <e>       <p><l>étendard<s n="n"/><s n="m"/></l>  <r>estandarte<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>étendre<s n="vblex"/></l>         <r>estender<s n="vblex"/></r></p></e>
     <e>       <p><l>étendu<s n="adj"/></l>            <r>extenso<s n="adj"/></r></p></e>
     <e>       <p><l>étendue<s n="n"/></l>             <r>extensão<s n="n"/></r></p></e>
@@ -7495,31 +7492,24 @@
     <e>       <p><l>éternité<s n="n"/></l>            <r>eternidade<s n="n"/></r></p></e>
     <e>       <p><l>Ethiopie<s n="np"/></l>           <r>Etiópia<s n="np"/></r></p></e>
     <e>       <p><l>Éthiopie<s n="np"/></l>           <r>Etiópia<s n="np"/></r></p></e>
-<!-- <e r="LR"><p><l>éthique<s n="adj"/></l><r>ético<s n="adj"/><s n="f"/></r></p></e>-->
-    <e r="LR"><p><l>éthique<s n="adj"/></l><r>ético<s n="adj"/><s n="GD"/></r></p></e>
-<!-- <e r="LR"><p><l>éthique<s n="adj"/></l><r>ético<s n="adj"/><s n="m"/></r></p></e>-->
+    <e>       <p><l>éthique<s n="adj"/></l>           <r>ético<s n="adj"/><s n="GD"/></r></p></e>
     <e>       <p><l>ethnie<s n="n"/></l>              <r>etnia<s n="n"/></r></p></e>
-    <e>       <p><l>ethnie<s n="n"/><s n="f"/></l>    <r>etnia<s n="n"/><s n="f"/></r></p></e>
-<!-- <e r="LR"><p><l>ethnique<s n="adj"/></l><r>étnico<s n="adj"/><s n="f"/></r></p></e>-->
-    <e r="LR"><p><l>ethnique<s n="adj"/></l><r>étnico<s n="adj"/><s n="GD"/></r></p></e>
-<!-- <e r="LR"><p><l>ethnique<s n="adj"/></l><r>étnico<s n="adj"/><s n="m"/></r></p></e>-->
+    <e>       <p><l>ethnique<s n="adj"/></l>          <r>étnico<s n="adj"/><s n="GD"/></r></p></e>
     <e>       <p><l>éthylique<s n="adj"/></l>         <r>etílico<s n="adj"/></r></p></e>
     <e>       <p><l>Etienne<s n="np"/></l>            <r>Etienne<s n="np"/></r></p></e>
-<!-- <e><p><l>etimologicamente<s n="adv"/></l><r>etimologicamente<s n="adv"/></r></p></e>-->
-    <e r="LR"><p><l>étincelle<s n="n"/></l>           <r>chispa<s n="n"/></r></p></e>
+<!-- <e>      <p><l>étimologiquement<s n="adv"/></l>  <r>etimologicamente<s n="adv"/></r></p></e> -->
     <e vr="br"><p><l>étincelle<s n="n"/></l>          <r>faísca<s n="n"/></r></p></e>
     <e vr="pt"><p><l>étincelle<s n="n"/></l>          <r>chispa<s n="n"/></r></p></e>
     <e>       <p><l>étiqueter<s n="vblex"/></l>       <r>etiquetar<s n="vblex"/></r></p></e>
     <e>       <p><l>étiquette<s n="n"/></l>           <r>etiqueta<s n="n"/></r></p></e>
     <e>       <p><l>étoffe<s n="n"/></l>              <r>teia<s n="n"/></r></p></e>
     <e>       <p><l>étoffé<s n="adj"/></l>            <r>estofado<s n="adj"/></r></p></e>
-    <e>       <p><l>étoffé<s n="adj"/></l>            <r>estufado<s n="adj"/></r></p></e>
+    <e r="RL"><p><l>étoffé<s n="adj"/></l>            <r>estufado<s n="adj"/></r></p></e>
     <e>       <p><l>étoile<s n="n"/></l>              <r>estrela<s n="n"/></r></p></e>
     <e>       <p><l>Étoile polaire<s n="np"/></l>     <r>Étoile polaire<s n="np"/></r></p></e>
     <e>       <p><l>étonnant<s n="adj"/></l>          <r>assombroso<s n="adj"/></r></p></e>
     <e>       <p><l>étonnant<s n="adj"/></l>          <r>espantoso<s n="adj"/></r></p></e>
     <e>       <p><l>étonner<s n="vblex"/></l>         <r>assombrar<s n="vblex"/></r></p></e>
-    <e>       <p><l>étonner<s n="vblex"/></l>         <r>surpreender<s n="vblex"/></r></p></e>
     <e>       <p><l>Etosa<s n="np"/></l>              <r>Etosa<s n="np"/></r></p></e>
     <e>       <p><l>étouffer<s n="vblex"/></l>        <r>asfixiar<s n="vblex"/></r></p></e>
     <e>       <p><l>étrange<s n="adj"/></l>           <r>estranho<s n="adj"/></r></p></e>
