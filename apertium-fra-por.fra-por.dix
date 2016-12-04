@@ -2792,7 +2792,6 @@
     <e>       <p><l>Badiola<s n="np"/></l>            <r>Badiola<s n="np"/></r></p></e>
     <e>       <p><l>Baeza<s n="np"/></l>              <r>Baeza<s n="np"/></r></p></e>
     <e>       <p><l>bagarrer<s n="vblex"/></l>        <r>lutar<s n="vblex"/></r></p></e>
-    <e>       <p><l>Bagdad<s n="np"/></l>             <r>Bagdá<s n="np"/></r></p></e>
     <e r="RL"><p><l>Bagdad<s n="np"/></l>             <r>Bagdad<s n="np"/></r></p></e>
     <e vr="br"><p><l>Bagdad<s n="np"/></l>            <r>Bagdá<s n="np"/></r></p></e>
     <e vr="pt"><p><l>Bagdad<s n="np"/></l>            <r>Bagdade<s n="np"/></r></p></e>
@@ -5066,7 +5065,7 @@
     <e>       <p><l>coordination<s n="n"/></l>        <r>coordenação<s n="n"/></r></p></e>
     <e>       <p><l>coordonner<s n="vblex"/></l>      <r>coordenar<s n="vblex"/></r></p></e>
     <e>       <p><l>Copenhague<s n="np"/></l>         <r>Copenhaga<s n="np"/></r></p></e>
-    <e>       <p><l>Copenhague<s n="np"/></l>         <r>Copenhague<s n="np"/></r></p></e>
+    <e r="RL"><p><l>Copenhague<s n="np"/></l>         <r>Copenhague<s n="np"/></r></p></e>
     <e>       <p><l>copie<s n="n"/></l>               <r>cópia<s n="n"/></r></p></e>
     <e>       <p><l>copier<s n="vblex"/></l>          <r>copiar<s n="vblex"/></r></p></e>
     <e>       <p><l>coprophagie<s n="n"/></l>         <r>coprofagia<s n="n"/></r></p></e>
@@ -6779,8 +6778,8 @@
     <e>       <p><l>emprisonnement<s n="n"/></l>      <r>encarceramento<s n="n"/></r></p></e>
     <e>       <p><l>emprisonner<s n="vblex"/></l>     <r>aprisionar<s n="vblex"/></r></p></e>
     <e>       <p><l>Emprosal<s n="np"/></l>           <r>Emprosal<s n="np"/></r></p></e>
-    <e>       <p><l>Empúries<s n="np"/></l>           <r>Ampúrias<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Empúries<s n="np"/></l>           <r>Empúries<s n="np"/></r></p></e>
+    <e>       <p><l>Ampurias<s n="np"/></l>           <r>Ampúrias<s n="np"/></r></p></e>
+    <e>       <p><l>Empúries<s n="np"/></l>           <r>Empúries<s n="np"/></r></p></e>
     <e>       <p><l>ENA<s n="np"/></l>                <r>ENA<s n="np"/></r></p></e>
     <e r="LR"><p><l>en<s n="pr"/></l>                 <r>em<s n="pr"/></r></p></e>
     <e>       <p><l>Enaitz<s n="np"/></l>             <r>Enaitz<s n="np"/></r></p></e>
@@ -8904,7 +8903,7 @@
     <e>       <p><l>Halicarnasse<s n="np"/></l>       <r>Halicarnasso<s n="np"/></r></p></e>
     <e>       <p><l>halluciner<s n="vblex"/></l>      <r>alucinar<s n="vblex"/></r></p></e>
     <e>       <p><l>Hallyday<s n="np"/></l>           <r>Hallyday<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Hallyday<s n="np"/></l>           <r>Halliday<s n="np"/></r></p></e>
+    <e>       <p><l>Halliday<s n="np"/></l>           <r>Halliday<s n="np"/></r></p></e>
     <e>       <p><l>halte<s n="n"/></l>               <r>paragem<s n="n"/></r></p></e>
     <e>       <p><l>Hamar<s n="np"/></l>              <r>Hamar<s n="np"/></r></p></e>
     <e>       <p><l>Hamas<s n="np"/></l>              <r>Hamas<s n="np"/></r></p></e>
@@ -9598,7 +9597,6 @@
     <e>       <p><l>inde<s n="n"/></l>                <r>indiano<s n="n"/></r></p></e>
     <e>       <p><l>inde<s n="n"/></l>                <r>Índia<s n="n"/></r></p></e>
     <e>       <p><l>Inde<s n="np"/></l>               <r>Índia<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Inde<s n="np"/></l>               <r>Índia<s n="np"/></r></p></e>
     <e>       <p><l>indécis<s n="adj"/></l>           <r>indeciso<s n="adj"/></r></p></e>
     <e>       <p><l>indéfini<s n="adj"/></l>          <r>indefinido<s n="adj"/></r></p></e>
     <e>       <p><l>indéfiniment<s n="adv"/></l>      <r>indefinidamente<s n="adv"/></r></p></e>
@@ -10040,9 +10038,7 @@
     <e>       <p><l>Irons<s n="np"/></l>              <r>Irons<s n="np"/></r></p></e>
     <e>       <p><l>irréfutablement<s n="adv"/></l>   <r>fidedignamente<s n="adv"/></r></p></e>
     <e>       <p><l>irrégularité<s n="n"/></l>        <r>irregularidade<s n="n"/></r></p></e>
-    <e r="RL"><p><l>irrégulier<s n="adj"/></l>        <r>irregular<s n="adj"/></r></p></e>
-<!-- <e r="RL"><p><l>irrégulier<s n="adj"/><s n="f"/></l><r>irregular<s n="adj"/></r></p></e>-->
-<!-- <e r="RL"><p><l>irrégulier<s n="adj"/><s n="m"/></l><r>irregular<s n="adj"/></r></p></e>-->
+    <e>       <p><l>irrégulier<s n="adj"/></l>        <r>irregular<s n="adj"/></r></p></e>
     <e>       <p><l>irrémédiablement<s n="adv"/></l>  <r>irremediavelmente<s n="adv"/></r></p></e>
     <e>       <p><l>irresponsablement<s n="adv"/></l> <r>irresponsavelmente<s n="adv"/></r></p></e>
 <!-- <e><p><l>irrestrito<s n="adj"/></l><r>irrestrito<s n="adj"/></r></p></e>-->
@@ -10387,7 +10383,7 @@
     <e>       <p><l>Juan José Ibarretxe<s n="np"/></l><r>Juan José Ibarretxe<s n="np"/></r></p></e>
     <e>       <p><l>Juan José Ibarretxe Markuartu<s n="np"/></l><r>Juan José Ibarretxe Markuartu<s n="np"/></r></p></e>
     <e>       <p><l>Juanma<s n="np"/></l>             <r>Juanma<s n="np"/></r></p></e>
-    <e>       <p><l>Juárez<s n="np"/></l>             <r>Juarez<s n="np"/></r></p></e>
+    <e>       <p><l>Juarez<s n="np"/></l>             <r>Juarez<s n="np"/></r></p></e>
     <e>       <p><l>Juárez<s n="np"/></l>             <r>Juárez<s n="np"/></r></p></e>
     <e>       <p><l>Juaristi<s n="np"/></l>           <r>Juaristi<s n="np"/></r></p></e>
     <e>       <p><l>jubilation<s n="n"/></l>          <r>aposentação<s n="n"/></r></p></e>
@@ -10519,7 +10515,8 @@
     <e>       <p><l>Kepa<s n="np"/></l>               <r>Kepa<s n="np"/></r></p></e>
     <e>       <p><l>Kerejeta<s n="np"/></l>           <r>Kerejeta<s n="np"/></r></p></e>
     <e>       <p><l>Kessler<s n="np"/></l>            <r>Kessler<s n="np"/></r></p></e>
-    <e>       <p><l>Kevin<s n="np"/></l>              <r>Kevin<s n="np"/></r></p></e>
+    <e r="LR"><p><l>Kevin<s n="np"/></l>              <r>Kevin<s n="np"/></r></p></e>
+    <e>       <p><l>Kévin<s n="np"/></l>              <r>Kevin<s n="np"/></r></p></e>
     <e>       <p><l>Kevin<b/>Bacon<s n="np"/></l>     <r>Kevin<b/>Bacon<s n="np"/></r></p></e>
     <e>       <p><l>kg<s n="n"/></l>                  <r>kg<s n="n"/></r></p></e>
     <e>       <p><l>Khaled<s n="np"/></l>             <r>Khaled<s n="np"/></r></p></e>
@@ -11303,6 +11300,7 @@
     <e>       <p><l>Lucia<s n="np"/></l>              <r>Lúcia<s n="np"/></r></p></e>
     <e r="RL"><p><l>Lucia<s n="np"/></l>              <r>Lucia<s n="np"/></r></p></e>
     <e>       <p><l>lucidité<s n="n"/></l>            <r>lucidez<s n="n"/></r></p></e>
+    <e>       <p><l>Lucie<s n="np"/></l>              <r>Lucia<s n="np"/></r></p></e>
     <e>       <p><l>Lucien<s n="np"/></l>             <r>Lucien<s n="np"/></r></p></e>
     <e>       <p><l>Lucio<s n="np"/></l>              <r>Lucio<s n="np"/></r></p></e>
     <e>       <p><l>Luçon<s n="np"/></l>              <r>Luçon<s n="np"/></r></p></e>
@@ -12460,7 +12458,6 @@
     <e>       <p><l>mortier<s n="n"/></l>             <r>morteiro<s n="n"/></r></p></e>
     <e>       <p><l>morue<s n="n"/><s n="f"/></l>     <r>bacalhau<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>mosaïque<s n="n"/></l>            <r>mosaico<s n="n"/></r></p></e>
-    <e>       <p><l>Moscou<s n="np"/></l>             <r>Moscovo<s n="np"/></r></p></e>
     <e vr="br"><p><l>Moscou<s n="np"/></l>            <r>Moscou<s n="np"/></r></p></e>
     <e vr="pt"><p><l>Moscou<s n="np"/></l>            <r>Moscovo<s n="np"/></r></p></e>
     <e>       <p><l>Moscovie<s n="np"/></l>           <r>Moscovie<s n="np"/></r></p></e>
@@ -13530,8 +13527,8 @@
     <e>       <p><l>Panama<s n="np"/></l>             <r>Panamá<s n="np"/></r></p></e>
     <e>       <p><l>panamá<s n="n"/></l>              <r>panamenho<s n="n"/></r></p></e>
     <e r="LR"><p><l>Panamá<s n="np"/></l>             <r>Panamá<s n="np"/></r></p></e>
-    <e>       <p><l>Panathinaïkós<s n="np"/></l>      <r>Panathinaïkós<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Panathinaïkós<s n="np"/></l>      <r>Panathinaikos<s n="np"/></r></p></e>
+    <e>       <p><l>Panathinaïkos<s n="np"/></l>      <r>Panathinaïkós<s n="np"/></r></p></e>
+    <e r="RL"><p><l>Panathinaïkos<s n="np"/></l>      <r>Panathinaikos<s n="np"/></r></p></e>
     <e>       <p><l>pandémie<s n="n"/></l>            <r>pandemia<s n="n"/></r></p></e>
     <e>       <p><l>Pandiani<s n="np"/></l>           <r>Pandiani<s n="np"/></r></p></e>
     <e>       <p><l>Pangma<s n="np"/></l>             <r>Pangma<s n="np"/></r></p></e>
@@ -13963,7 +13960,6 @@
     <e>       <p><l>Perón<s n="np"/></l>              <r>Perón<s n="np"/></r></p></e>
     <e>       <p><l>pérou<s n="n"/></l>               <r>peru<s n="n"/></r></p></e>
     <e>       <p><l>Pérou<s n="np"/></l>              <r>Peru<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Pérou<s n="np"/></l>              <r>Peru<s n="np"/></r></p></e>
     <e>       <p><l>Perouse<s n="np"/></l>            <r>Perouse<s n="np"/></r></p></e>
     <e>       <p><l>perpétrer<s n="vblex"/></l>       <r>perpetrar<s n="vblex"/></r></p></e>
     <e>       <p><l>perpétuel<s n="adj"/></l>         <r>perpétuo<s n="adj"/></r></p></e>
@@ -14344,7 +14340,7 @@
     <e>       <p><l>pomper<s n="vblex"/></l>          <r>aspirar<s n="vblex"/></r></p></e>
     <e>       <p><l>Pompidou<s n="np"/></l>           <r>Pompidou<s n="np"/></r></p></e>
     <e>       <p><l>pompier<s n="n"/></l>             <r>bombeiro<s n="n"/></r></p></e>
-    <e>       <p><l>Ponce<s n="np"/><s n="al"/></l>   <r>Pedra-pomes<s n="np"/><s n="al"/></r></p></e>
+    <e>       <p><l>pierre Ponce<s n="np"/><s n="al"/></l><r>Pedra-pomes<s n="np"/><s n="al"/></r></p></e>
     <e>       <p><l>Ponce<s n="np"/><s n="ant"/></l>  <r>Ponce<s n="np"/><s n="ant"/></r></p></e>
     <e>       <p><l>Ponce Pilate<s n="np"/></l>       <r>Pôncio Pilatos<s n="np"/></r></p></e>
     <e>       <p><l>ponctualité<s n="n"/></l>         <r>pontualidade<s n="n"/></r></p></e>
@@ -16219,7 +16215,7 @@
     <e>       <p><l>Sagarzazu<s n="np"/></l>          <r>Sagarzazu<s n="np"/></r></p></e>
     <e>       <p><l>sage<s n="adj"/></l>              <r>prudente<s n="adj"/></r></p></e>
     <e>       <p><l>Sagem<s n="np"/></l>              <r>Sagem<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Sagem<s n="np"/></l>              <r>SAGEM<s n="np"/></r></p></e>
+    <e>       <p><l>SAGEM<s n="np"/></l>              <r>SAGEM<s n="np"/></r></p></e>
     <e>       <p><l>sagesse<s n="n"/></l>             <r>sabedoria<s n="n"/></r></p></e>
     <e>       <p><l>sagesse<s n="n"/></l>             <r>sensatez<s n="n"/></r></p></e>
     <e r="RL"><p><l>sagesse<s n="n"/></l>             <r>sabedoria<s n="n"/></r></p></e>
@@ -16227,7 +16223,7 @@
     <e>       <p><l>Sagra<s n="np"/></l>              <r>Sagra<s n="np"/></r></p></e>
     <e>       <p><l>Sagrera<s n="np"/></l>            <r>Sagrera<s n="np"/></r></p></e>
     <e>       <p><l>Sagunto<s n="np"/></l>            <r>Sagunto<s n="np"/></r></p></e>
-    <e>       <p><l>Sahara<s n="np"/></l>             <r>Deserto<b/>do<b/>Saara<s n="np"/></r></p></e>
+    <e>       <p><l>Sahara<s n="np"/></l>             <r>Saara<s n="np"/></r></p></e>
     <e>       <p><l>Sahara<b/>marocain<s n="np"/></l> <r>Saara<b/>Ocidental<s n="np"/></r></p></e>
     <e>       <p><l>Sahara<b/>occidental<s n="np"/></l><r>Saara<b/>Ocidental<s n="np"/></r></p></e>
     <e>       <p><l>Said<s n="np"/></l>               <r>Said<s n="np"/></r></p></e>
@@ -17400,7 +17396,6 @@
     <e>       <p><l>suisse<s n="adj"/></l>            <r>suíço<s n="adj"/></r></p></e>
     <e>       <p><l>suisse<s n="n"/></l>              <r>suíço<s n="n"/></r></p></e>
     <e>       <p><l>Suisse<s n="np"/></l>             <r>Suíça<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Suisse<s n="np"/></l>             <r>Suíça<s n="np"/></r></p></e>
     <e>       <p><l>suite<s n="n"/></l>               <r>continuação<s n="n"/></r></p></e>
     <e>       <p><l>suivant<s n="adj"/></l>           <r>seguinte<s n="adj"/></r></p></e>
     <e r="LR"><p><l>suivant<b/>que<s n="cnjadv"/></l> <r>dependendo<b/>do<b/>se<s n="cnjadv"/></r></p></e>
@@ -18086,7 +18081,6 @@
     <e>       <p><l>Tours<s n="np"/></l>              <r>Tours<s n="np"/></r></p></e>
     <e>       <p><l>tous<b/>les<b/>deux<s n="prn"/></l><r>ambos<s n="prn"/></r></p></e>
     <e>       <p><l>Toussaint<s n="np"/></l>          <r>Todos os santos<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Toussaint<s n="np"/></l>          <r>Dia de Todos-os-Santos<s n="np"/></r></p></e>
     <e r="RL"><p><l>Toussaint<s n="np"/></l>          <r>Toussaint<s n="np"/></r></p></e>
     <e>       <p><l>tout<s n="predet"/></l>           <r>todo<s n="predet"/></r></p></e>
     <e>       <p><l>tout<s n="prn"/><s n="tn"/></l>   <r>todo<s n="prn"/><s n="tn"/></r></p></e>
@@ -18332,7 +18326,6 @@
     <e>       <p><l>Trujillo<s n="np"/></l>           <r>Trujillo<s n="np"/></r></p></e>
     <e>       <p><l>Trust<s n="np"/></l>              <r>Trust<s n="np"/></r></p></e>
     <e>       <p><l>Tsahal<s n="np"/></l>             <r>Tsahal<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Tsahal<s n="np"/></l>             <r>Forças de Defesa de Israel<s n="np"/></r></p></e>
     <e>       <p><l>Tschopp<s n="np"/></l>            <r>Tschopp<s n="np"/></r></p></e>
     <e>       <p><l>Tskhinvali<s n="np"/></l>         <r>Tskhinval<s n="np"/></r></p></e>
     <e>       <p><l>Tsuguharu Fujita<s n="np"/></l>   <r>Tsuguharu Fujita<s n="np"/></r></p></e>
@@ -18679,7 +18672,6 @@
     <e>       <p><l>ventilateur<s n="n"/></l>         <r>ventilador<s n="n"/></r></p></e>
     <e>       <p><l>ventre<s n="n"/></l>              <r>ventre<s n="n"/></r></p></e>
     <e>       <p><l>ventura<s n="n"/></l>             <r>ventura<s n="n"/></r></p></e>
-    <e>       <p><l>Vénus<s n="np"/></l>              <r>Vénus<s n="np"/></r></p></e>
     <e>       <p><l>Vénus<s n="np"/></l>              <r>Vênus<s n="np"/></r></p></e>
     <e r="RL"><p><l>Vénus<s n="np"/></l>              <r>Vénus<s n="np"/></r></p></e>
     <e>       <p><l>Veolia<s n="np"/></l>             <r>Veolia<s n="np"/></r></p></e>
@@ -18799,7 +18791,6 @@
     <e>       <p><l>vieillissement<s n="n"/></l>      <r>envelhecimento<s n="n"/></r></p></e>
     <e>       <p><l>Vieira<s n="np"/></l>             <r>Vieira<s n="np"/></r></p></e>
     <e r="LR"><p><l>VIème<s n="adj"/><s n="sp"/></l>  <r>VI<s n="num"/></r></p></e>
-    <e>       <p><l>Vienne<s n="np"/></l>             <r>Viena<s n="np"/></r></p></e>
     <e>       <p><l>Vienne<s n="np"/></l>             <r>Vienne<s n="np"/></r></p></e>
     <e r="RL"><p><l>Vienne<s n="np"/></l>             <r>Viena<s n="np"/></r></p></e>
     <e>       <p><l>Vientiane<s n="np"/></l>          <r>Vienciana<s n="np"/></r></p></e>
@@ -19073,7 +19064,7 @@
     <e>       <p><l>Wii<s n="np"/></l>                <r>Wii<s n="np"/></r></p></e>
     <e>       <p><l>Wikeriadur<s n="np"/></l>         <r>Wikeriadur<s n="np"/></r></p></e>
     <e>       <p><l>Wikimédia<s n="np"/></l>          <r>Wikimédia<s n="np"/></r></p></e>
-    <e>       <p><l>Wikipédia<s n="np"/></l>          <r>Wikipedia<s n="np"/></r></p></e>
+    <e>       <p><l>Wikipedia<s n="np"/></l>          <r>Wikipedia<s n="np"/></r></p></e>
     <e>       <p><l>Wikipédia<s n="np"/></l>          <r>Wikipédia<s n="np"/></r></p></e>
     <e>       <p><l>Wikispecies<s n="np"/></l>        <r>Wikispecies<s n="np"/></r></p></e>
     <e>       <p><l>Wiktionnaire<s n="np"/></l>       <r>Wikcionário<s n="np"/></r></p></e>
@@ -19169,7 +19160,6 @@
 <!-- <e><p><l>y<b/>avoir<s n="vblex"/></l><r>haver<s n="vblex"/></r></p></e>-->
     <e>       <p><l>Yébenes<s n="np"/></l>            <r>Yébenes<s n="np"/></r></p></e>
     <e>       <p><l>Yemen<s n="np"/></l>              <r>Iémen<s n="np"/></r></p></e>
-    <e>       <p><l>Yémen<s n="np"/></l>              <r>Iémen<s n="np"/></r></p></e>
     <e r="RL"><p><l>Yémen<s n="np"/></l>              <r>Yemen<s n="np"/></r></p></e>
     <e r="RL" vr="pt"><p><l>Yémen<s n="np"/></l>      <r>Iémene<s n="np"/></r></p></e>
     <e vr="br"><p><l>Yémen<s n="np"/></l>             <r>Iêmen<s n="np"/></r></p></e>
@@ -19182,7 +19172,6 @@
 <!-- <e><p><l>yorkshire<b/>terrier<s n="n"/></l><r>yorkshire<b/>terrier<s n="n"/></r></p></e>-->
     <e>       <p><l>Yougoslavie<s n="np"/></l>        <r>Jugoslávia<s n="np"/></r></p></e>
     <e r="RL"><p><l>Yougoslavie<s n="np"/></l>        <r>Iugoslávia<s n="np"/></r></p></e>
-    <e r="RL"><p><l>Yougoslavie<s n="np"/></l>        <r>Jugoslávia<s n="np"/></r></p></e>
     <e>       <p><l>Young<s n="np"/></l>              <r>Young<s n="np"/></r></p></e>
     <e>       <p><l>Youssouf<s n="np"/></l>           <r>Youssouf<s n="np"/></r></p></e>
     <e>       <p><l>Youtube<s n="np"/></l>            <r>Youtube<s n="np"/></r></p></e>

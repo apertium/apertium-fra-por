@@ -19383,7 +19383,7 @@
     <e lm="deserto">                        <i>deserto</i><par n="Leste__n"/></e>
     <e lm="Deserto da Líbia">               <i>Deserto<b/>da<b/>Líbia</i><par n="Lugar__np"/></e>
     <e lm="Deserto do Atacama">             <i>Deserto<b/>do<b/>Atacama</i><par n="Lugar__np"/></e>
-    <e lm="Deserto do Saara">               <i>Deserto<b/>do<b/>Saara</i><par n="Lugar__np"/></e>
+    <e lm="Saara">                          <i>Saara</i><par n="Lugar__np"/></e>
     <e lm="desesperar">                     <i>desesper</i><par n="abal/ar__vblex"/></e>
     <e lm="desespero">                      <i>desespero</i><par n="Leste__n"/></e>
     <e lm="desfalecer">                     <i>desfale</i><par n="abaste/cer__vblex"/></e>

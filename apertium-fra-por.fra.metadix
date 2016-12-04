@@ -6768,6 +6768,7 @@
     <e lm="acroissement">                   <i>acroissement</i><par n="livre__n"/></e>
     <e lm="Acropole">                       <i>Acropole</i><par n="Lieu__np"/></e>
     <e lm="acte">                           <i>acte</i><par n="livre__n"/></e>
+    <e lm="Acteon">                         <i>Acteon</i><par n="Nom__np"/></e>
     <e lm="Acteón">                         <i>Acteón</i><par n="Nom__np"/></e>
     <e lm="Acte Unique Européen">           <i>Acte<b/>Unique<b/>Européen</i><par n="Autre__np"/></e>
     <e lm="acteur">                         <i>act</i><par n="administrat/eur__n"/></e>
@@ -12201,6 +12202,7 @@
     <e lm="emprisonner">                    <i>emprisonn</i><par n="abaiss/er__vblex"/></e>
     <e lm="Emprosal">                       <i>Emprosal</i><par n="Autre__np"/></e>
     <e lm="Empúries">                       <i>Empúries</i><par n="Lieu__np"/></e>
+    <e lm="Ampurias">                       <i>Ampurias</i><par n="Lieu__np"/></e>
     <e lm="ENA">                            <i>ENA</i><par n="Autre__np"/></e>
     <e lm="en">                             <i>en</i><par n="en__prn"/></e>
     <e lm="en">                             <p><l>en</l><r>en</r></p><par n="attendu__pr"/></e>
@@ -13963,6 +13965,7 @@
     <e lm="Halgand">                        <i>Halgand</i><par n="Nom__np"/></e>
     <e lm="Halicarnasse">                   <i>Halicarnasse</i><par n="Lieu__np"/></e>
     <e lm="halluciner">                     <i>hallucin</i><par n="abaiss/er__vblex"/></e>
+    <e lm="Halliday">                       <i>Halliday</i><par n="Nom__np"/></e>
     <e lm="Hallyday">                       <i>Hallyday</i><par n="Nom__np"/></e>
     <e lm="halte">                          <i>halte</i><par n="abeille__n"/></e>
     <e lm="Hamar">                          <i>Hamar</i><par n="Autre__np"/></e>
@@ -15182,6 +15185,7 @@
     <e lm="Juan José Ibarretxe Markuartu">  <i>Juan<b/>José<b/>Ibarretxe<b/>Markuartu</i><par n="Nom__np"/></e>
     <e lm="Juanma">                         <i>Juanma</i><par n="Nom__np"/></e>
     <e lm="Juárez">                         <i>Juárez</i><par n="NomLieu__np"/></e>
+    <e lm="Juarez">                         <i>Juarez</i><par n="NomLieu__np"/></e>
     <e lm="Juaristi">                       <i>Juaristi</i><par n="Nom__np"/></e>
     <e lm="jubilation">                     <i>jubilation</i><par n="abeille__n"/></e>
     <e lm="Júbilo">                         <i>Júbilo</i><par n="Nom__np"/></e>
@@ -15297,6 +15301,7 @@
     <e lm="Kerejeta">                       <i>Kerejeta</i><par n="Nom__np"/></e>
     <e lm="Kessler">                        <i>Kessler</i><par n="Nom__np"/></e>
     <e lm="Kevin">                          <i>Kevin</i><par n="Nom__np"/></e>
+    <e lm="Kévin">                          <i>Kévin</i><par n="Nom__np"/></e>
     <e lm="Kevin Bacon">                    <i>Kevin<b/>Bacon</i><par n="Nom__np"/></e>
     <e lm="kg">                             <i>kg</i><par n="mois__n"/></e>
     <e lm="Khaled">                         <i>Khaled</i><par n="Nom__np"/></e>
@@ -15940,6 +15945,7 @@
     <e lm="Lucent">                         <i>Lucent</i><par n="Autre__np"/></e>
     <e lm="Lucia">                          <i>Lucia</i><par n="Nom__np"/></e>
     <e lm="lucidité">                       <i>lucidité</i><par n="abeille__n"/></e>
+    <e lm="Lucie">                          <i>Lucie</i><par n="Nom__np"/></e>
     <e lm="Lucien">                         <i>Lucien</i><par n="Nom__np"/></e>
     <e lm="Lucio">                          <i>Lucio</i><par n="Nom__np"/></e>
     <e lm="Luçon">                          <i>Luçon</i><par n="Lieu__np"/></e>
@@ -17757,7 +17763,7 @@
     <e lm="pamphlet">                       <i>pamphlet</i><par n="livre__n"/></e>
     <e lm="Panama">                         <i>Panama</i><par n="Lieu__np"/></e>
     <e lm="Panamá">                         <i>Panamá</i><par n="Lieu__np"/></e>
-    <e lm="Panathinaïkós">                  <i>Panathinaïkós</i><par n="Autre__np"/></e>
+    <e lm="Panathinaïkos">                  <i>Panathinaïkos</i><par n="Autre__np"/></e>
     <e lm="Pandiani">                       <i>Pandiani</i><par n="Nom__np"/></e>
     <e lm="Pangma">                         <i>Pangma</i><par n="Lieu__np"/></e>
     <e lm="panique">                        <i>panique</i><par n="livre__n"/></e>
@@ -18390,7 +18396,7 @@
     <e lm="pomper">                         <i>pomp</i><par n="abaiss/er__vblex"/></e>
     <e lm="Pompidou">                       <i>Pompidou</i><par n="Nom__np"/></e>
     <e lm="pompier">                        <i>pompi</i><par n="bouch/er__n"/></e>
-    <e lm="Ponce">                          <i>Ponce</i><par n="NomAutre__np"/></e>
+    <e lm="pierre Ponce">                   <i>pierre<b/>Ponce</i><par n="NomAutre__np"/></e>
     <e lm="Ponce Pilate">                   <i>Ponce<b/>Pilate</i><par n="Nom__np"/></e>
     <e lm="ponctualité">                    <i>ponctualité</i><par n="abeille__n"/></e>
     <e lm="ponctuation">                    <i>ponctuation</i><par n="abeille__n"/></e>
@@ -19798,6 +19804,7 @@
     <e lm="Sagarzazu">                      <i>Sagarzazu</i><par n="Nom__np"/></e>
     <e lm="sage">                           <i>sage</i><par n="académique__adj"/></e>
     <e lm="Sagem">                          <i>Sagem</i><par n="Autre__np"/></e>
+    <e lm="SAGEM">                          <i>SAGEM</i><par n="Autre__np"/></e>
     <e lm="sagesse">                        <i>sagesse</i><par n="abeille__n"/></e>
     <e lm="Sagittaire">                     <i>Sagittaire</i><par n="Lieu__np"/></e>
     <e lm="Sagra">                          <i>Sagra</i><par n="Lieu__np"/></e>
@@ -22055,6 +22062,7 @@
     <e lm="Wii">                            <i>Wii</i><par n="Autre__np"/></e>
     <e lm="Wikeriadur">                     <i>Wikeriadur</i><par n="Autre__np"/></e>
     <e lm="Wikimédia">                      <i>Wikimédia</i><par n="Autre__np"/></e>
+    <e lm="Wikipedia">                      <i>Wikipedia</i><par n="Autre__np"/></e>
     <e lm="Wikipédia">                      <i>Wikipédia</i><par n="Autre__np"/></e>
     <e lm="Wikispecies">                    <i>Wikispecies</i><par n="Autre__np"/></e>
     <e lm="Wiktionnaire">                   <i>Wiktionnaire</i><par n="Autre__np"/></e>
