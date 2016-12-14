@@ -5058,7 +5058,6 @@
     <e>       <p><l>Cook<s n="np"/></l>               <r>Cook<s n="np"/></r></p></e>
     <e>       <p><l>Cooper<s n="np"/></l>             <r>Cooper<s n="np"/></r></p></e>
     <e>       <p><l>coopératif<s n="adj"/></l>        <r>cooperativo<s n="adj"/></r></p></e>
-    <e>       <p><l>cooperation<s n="n"/></l>         <r>cooperação<s n="n"/></r></p></e>
     <e>       <p><l>coopération<s n="n"/></l>         <r>cooperação<s n="n"/></r></p></e>
     <e>       <p><l>coopérer<s n="vblex"/></l>        <r>cooperar<s n="vblex"/></r></p></e>
     <e>       <p><l>coordinateur<s n="n"/></l>        <r>coordenador<s n="n"/></r></p></e>
@@ -5901,7 +5900,6 @@
     <e vr="br"><p><l>détective<s n="n"/></l>          <r>detetive<s n="n"/></r></p></e>
     <e vr="pt"><p><l>détective<s n="n"/></l>          <r>detective<s n="n"/></r></p></e>
     <e>       <p><l>détenir<s n="vblex"/></l>         <r>deter<s n="vblex"/></r></p></e>
-    <e>       <p><l>detention<s n="n"/></l>           <r>detenção<s n="n"/></r></p></e>
     <e>       <p><l>détention<s n="n"/></l>           <r>detenção<s n="n"/></r></p></e>
 <!-- <e><p><l>detentor<s n="n"/></l><r>detentor<s n="n"/></r></p></e>-->
     <e>       <p><l>détenu<s n="adj"/></l>            <r>preso<s n="adj"/></r></p></e>
@@ -7445,7 +7443,6 @@
     <e>       <p><l>exécutable<s n="adj"/></l>        <r>executável<s n="adj"/></r></p></e>
     <e>       <p><l>exécuter<s n="vblex"/></l>        <r>executar<s n="vblex"/></r></p></e>
     <e>       <p><l>exécutif<s n="adj"/></l>          <r>executivo<s n="adj"/></r></p></e>
-    <e>       <p><l>execution<s n="n"/></l>           <r>execução<s n="n"/></r></p></e>
     <e>       <p><l>exécution<s n="n"/></l>           <r>execução<s n="n"/></r></p></e>
     <e>       <p><l>exemplaire<s n="n"/></l>          <r>exemplar<s n="n"/></r></p></e>
     <e r="RL"><p><l>exemplaire<s n="n"/></l>          <r>exemplar<s n="n"/></r></p></e>
@@ -7477,7 +7474,6 @@
     <e>       <p><l>expansion<s n="n"/></l>           <r>expansão<s n="n"/></r></p></e>
     <e>       <p><l>expectative<s n="n"/></l>         <r>expectativa<s n="n"/></r></p></e>
     <e>       <p><l>expédier<s n="vblex"/></l>        <r>remeter<s n="vblex"/></r></p></e>
-    <e>       <p><l>expedition<s n="n"/></l>          <r>expedição<s n="n"/></r></p></e>
     <e>       <p><l>expédition<s n="n"/></l>          <r>expedição<s n="n"/></r></p></e>
     <e>       <p><l>expérience<s n="n"/></l>          <r>experiência<s n="n"/></r></p></e>
     <e>       <p><l>expérience<s n="n"/></l>          <r>vivência<s n="n"/></r></p></e>
@@ -7726,7 +7722,6 @@
 <!-- <e r="RL"><p><l>fédéral<s n="adj"/><s n="f"/></l><r>federal<s n="adj"/></r></p></e>-->
 <!-- <e r="RL"><p><l>fédéral<s n="adj"/><s n="m"/></l><r>federal<s n="adj"/></r></p></e>-->
     <e>       <p><l>fédéralisme<s n="n"/></l>         <r>federalismo<s n="n"/></r></p></e>
-    <e r="LR"><p><l>federation<s n="n"/></l>          <r>federação<s n="n"/></r></p></e>
     <e>       <p><l>fédération<s n="n"/></l>          <r>federação<s n="n"/></r></p></e>
     <e>       <p><l>Fédération<b/>de<b/>Russie<s n="np"/></l><r>Rússia<s n="np"/></r></p></e>
     <e>       <p><l>Fédération d'aviron de Cantabria<s n="np"/></l><r>Fédération d'aviron de Cantabria<s n="np"/></r></p></e>
@@ -8420,7 +8415,6 @@
     <e>       <p><l>Generalitat<s n="np"/></l>        <r>Generalitat<s n="np"/></r></p></e>
     <e>       <p><l>généralité<s n="n"/></l>          <r>generalidade<s n="n"/></r></p></e>
     <e>       <p><l>générateur<s n="n"/></l>          <r>gerador<s n="n"/></r></p></e>
-    <e>       <p><l>generation<s n="n"/></l>          <r>geração<s n="n"/></r></p></e>
     <e>       <p><l>génération<s n="n"/></l>          <r>geração<s n="n"/></r></p></e>
     <e>       <p><l>générer<s n="vblex"/></l>         <r>gerar<s n="vblex"/></r></p></e>
     <e>       <p><l>généreux<s n="adj"/></l>          <r>generoso<s n="adj"/></r></p></e>
@@ -13329,7 +13323,6 @@
     <e>       <p><l>organiser<s n="vblex"/></l>       <r>organizar<s n="vblex"/></r></p></e>
     <e>       <p><l>organisme<s n="n"/></l>           <r>ente<s n="n"/></r></p></e>
     <e>       <p><l>organisme<s n="n"/></l>           <r>organismo<s n="n"/></r></p></e>
-    <e>       <p><l>organization<s n="n"/></l>        <r>organização<s n="n"/></r></p></e>
     <e>       <p><l>orgueil<s n="n"/></l>             <r>orgulho<s n="n"/></r></p></e>
     <e>       <p><l>Oribe<s n="np"/></l>              <r>Oribe<s n="np"/></r></p></e>
     <e>       <p><l>orient<s n="n"/></l>              <r>oriente<s n="n"/></r></p></e>
@@ -15491,11 +15484,7 @@
     <e>       <p><l>regulation<s n="n"/></l>          <r>regulação<s n="n"/></r></p></e>
     <e>       <p><l>régulation<s n="n"/></l>          <r>regulação<s n="n"/></r></p></e>
     <e>       <p><l>régulier<s n="adj"/></l>          <r>regular<s n="adj"/></r></p></e>
-<!-- <e r="RL"><p><l>régulier<s n="adj"/></l><r>regular<s n="adj"/></r></p></e>-->
-<!-- <e r="RL"><p><l>régulier<s n="adj"/><s n="f"/></l><r>regular<s n="adj"/></r></p></e>-->
-<!-- <e r="RL"><p><l>régulier<s n="adj"/><s n="m"/></l><r>regular<s n="adj"/></r></p></e>-->
     <e>       <p><l>régulièrement<s n="adv"/></l>     <r>regularmente<s n="adv"/></r></p></e>
-    <e>       <p><l>rehabilitation<s n="n"/></l>      <r>reabilitação<s n="n"/></r></p></e>
     <e>       <p><l>réhabilitation<s n="n"/></l>      <r>reabilitação<s n="n"/></r></p></e>
     <e>       <p><l>réhabiliter<s n="vblex"/></l>     <r>reabilitar<s n="vblex"/></r></p></e>
     <e>       <p><l>rehausser<s n="vblex"/></l>       <r>realçar<s n="vblex"/></r></p></e>
@@ -15891,7 +15880,6 @@
     <e>       <p><l>révolte<s n="n"/><s n="mf"/></l>  <r>rebelde<s n="n"/><s n="mf"/></r></p></e>
     <e>       <p><l>révolte des cipayes<s n="np"/></l><r>révolte des cipayes<s n="np"/></r></p></e>
     <e>       <p><l>révolter<s n="vblex"/></l>        <r>revoltar<s n="vblex"/></r></p></e>
-    <e>       <p><l>revolution<s n="n"/></l>          <r>revolução<s n="n"/></r></p></e>
     <e>       <p><l>révolution<s n="n"/></l>          <r>revolução<s n="n"/></r></p></e>
     <e>       <p><l>révolutionnaire<s n="adj"/></l>   <r>revolucionário<s n="adj"/></r></p></e>
     <e>       <p><l>Revolvo<s n="np"/></l>            <r>Revolvo<s n="np"/></r></p></e>
@@ -17186,7 +17174,6 @@
     <e>       <p><l>spectre<s n="n"/></l>             <r>espectro<s n="n"/></r></p></e>
     <e>       <p><l>spectrométrie<s n="n"/></l>       <r>espectrometria<s n="n"/></r></p></e>
     <e>       <p><l>spéculatif<s n="adj"/></l>        <r>especulativo<s n="adj"/></r></p></e>
-    <e>       <p><l>speculation<s n="n"/></l>         <r>especulação<s n="n"/></r></p></e>
     <e>       <p><l>spéculation<s n="n"/></l>         <r>especulação<s n="n"/></r></p></e>
     <e>       <p><l>spéculation<s n="n"/></l>         <r>especulador<s n="n"/></r></p></e>
     <e>       <p><l>spéculer<s n="vblex"/></l>        <r>especular<s n="vblex"/></r></p></e>
