@@ -610,7 +610,7 @@
       <e><p><l>-soi</l>             <r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l>-toi</l>             <r>te<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>-vous</l>            <r>vous<s n="prn"/><s n="enc"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>-on</l>              <r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>      
+      <e><p><l>-on</l>              <r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l>-les</l>      <r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>-les</l>      <r>leur<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>-les</l>      <r>lui<s n="prn"/><s n="enc"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
@@ -620,8 +620,8 @@
       <e r="RL"><p><l>-soi</l>      <r>se<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>-toi</l>      <r>te<s n="prn"/><s n="enc"/><s n="p2"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>-vous</l>     <r>vous<s n="prn"/><s n="enc"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>-on</l>       <r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>     
-      <e r="RL"><p><l>-on</l>       <r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>     
+      <e r="RL"><p><l>-on</l>       <r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>-on</l>       <r>on<s n="prn"/><s n="enc"/><s n="ref"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>-les</l>      <r>le<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>-les</l>      <r>leur<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>-les</l>      <r>lui<s n="prn"/><s n="enc"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
