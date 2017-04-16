@@ -31,6 +31,37 @@
     </pipeline>
   </mode>
 
+  <mode name="fra-por0" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="fra-por.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="fra-por.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-fra-por.fra-por.t1x-old"/>
+        <file name="fra-por.t1x-old.bin"/>
+        <file name="fra-por.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-fra-por.fra-por.t2x"/>
+        <file name="fra-por.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-fra-por.fra-por.t3x"/>
+        <file name="fra-por.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="fra-por.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="fra-por.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="fra-por-anmor">
     <pipeline>
       <program name="lt-proc">
@@ -167,6 +198,37 @@
       <program name="apertium-transfer">
         <file name="apertium-fra-por.por-fra.t1x"/>
         <file name="por-fra.t1x.bin"/>
+        <file name="por-fra.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-fra-por.por-fra.t2x"/>
+        <file name="por-fra.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-fra-por.por-fra.t3x"/>
+        <file name="por-fra.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="por-fra.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="por-fra.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="por-fra0" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="por-fra.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="por-fra.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-fra-por.por-fra.t1x-old"/>
+        <file name="por-fra.t1x-old.bin"/>
         <file name="por-fra.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
