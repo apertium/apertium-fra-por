@@ -21,7 +21,7 @@
   </def-label>
   <def-label name="INTNOM" closed="true">
     <tags-item tags="prn.itg.*"/>
-  </def-label> 
+  </def-label>
   <def-label name="INTADV" closed="true">
     <tags-item tags="adv.itg"/>
   </def-label>
@@ -54,7 +54,7 @@
   </def-label>
    <def-label name="INTERJ">
     <tags-item tags="ij"/>
-  </def-label> 
+  </def-label>
   <def-label name="ANTROPONIM">
     <tags-item tags="np.ant"/>
   </def-label>
@@ -187,7 +187,7 @@
   </def-label>
   <def-label name="VHABERIMP" closed="true">
     <tags-item tags="vbhaver.imp.*"/>
-  </def-label> 
+  </def-label>
   <def-label name="VHABERPPRS">
     <tags-item tags="vbhaver.pprs.*"/>
   </def-label>
@@ -219,7 +219,7 @@
   </def-label>
   <def-label name="VMODALIMP" closed="true">
     <tags-item tags="vbmod.imp.*"/>
-  </def-label> 
+  </def-label>
   <def-label name="VMODALPPRS">
     <tags-item tags="vbmod.pprs.*"/>
   </def-label>
@@ -234,7 +234,7 @@
  <def-label name="ADJMF">
    <tags-item tags="adj.mf.*"/>
    <tags-item tags="adj.ind.mf.*"/>
-  </def-label> 
+  </def-label>
  <def-label name="ADJINT" closed="true">
     <tags-item tags="adj.itg.*"/>
   </def-label>
@@ -418,7 +418,7 @@
     <label-sequence>
       <label-item label="DETM"/>
       <label-item label="VSERPPRES"/>
-    </label-sequence>     
+    </label-sequence>
     <label-sequence>
       <label-item label="DETM"/>
       <label-item label="VSERINF"/>
@@ -691,7 +691,7 @@
       <label-item label="DETMF"/>
       <label-item label="VMODALINF"/>
     </label-sequence>
-    
+
      <label-sequence>
       <label-item label="DETM"/>
       <label-item label="PRNPROREF"/>
@@ -993,8 +993,8 @@
       <label-item label="VMODALIMP"/>
       <label-item label="IMPMODPRNENC"/>
     </label-sequence>
-    
-  <!--prova prohibició verb que no siga être o avoir + participi-->  
+
+  <!--prova prohibició verb que no siga être o avoir + participi-->
    <!-- <label-sequence>
       <label-item label="VLEXPFCI"/>
       <label-item label="VLEXPARTPI"/>
@@ -1027,8 +1027,8 @@
       <label-item label="VMODALIMP"/>
       <label-item label="VLEXPARTPI"/>
     </label-sequence> -->
-    
-<!--prova prohibició de nom i adj + ger pq trie ppres-->   
+
+<!--prova prohibició de nom i adj + ger pq trie ppres-->
     <label-sequence>
       <label-item label="NOMM"/>
       <label-item label="VLEXGER"/>
@@ -1040,9 +1040,9 @@
     <label-sequence>
       <label-item label="NOMMF"/>
       <label-item label="VLEXGER"/>
-    </label-sequence>   
-    
-      
+    </label-sequence>
+
+
     <label-sequence>
       <label-item label="NOMM"/>
       <label-item label="VSERGER"/>
@@ -1054,7 +1054,7 @@
     <label-sequence>
       <label-item label="NOMMF"/>
       <label-item label="VSERGER"/>
-    </label-sequence>  
+    </label-sequence>
     <label-sequence>
       <label-item label="NOMM"/>
       <label-item label="VHABERGER"/>
@@ -1066,7 +1066,7 @@
     <label-sequence>
       <label-item label="NOMMF"/>
       <label-item label="VHABERGER"/>
-    </label-sequence>  
+    </label-sequence>
       <label-sequence>
       <label-item label="NOMM"/>
       <label-item label="VMODALGER"/>
@@ -1078,9 +1078,9 @@
     <label-sequence>
       <label-item label="NOMMF"/>
       <label-item label="VMODALGER"/>
-    </label-sequence> 
-    
-          
+    </label-sequence>
+
+
     <label-sequence>
       <label-item label="ADJM"/>
       <label-item label="VSERGER"/>
@@ -1092,7 +1092,7 @@
     <label-sequence>
       <label-item label="ADJMF"/>
       <label-item label="VSERGER"/>
-    </label-sequence>  
+    </label-sequence>
     <label-sequence>
       <label-item label="ADJM"/>
       <label-item label="VHABERGER"/>
@@ -1104,7 +1104,7 @@
     <label-sequence>
       <label-item label="ADJMF"/>
       <label-item label="VHABERGER"/>
-    </label-sequence>  
+    </label-sequence>
       <label-sequence>
       <label-item label="ADJM"/>
       <label-item label="VMODALGER"/>
@@ -1116,10 +1116,10 @@
     <label-sequence>
       <label-item label="ADJMF"/>
       <label-item label="VMODALGER"/>
-    </label-sequence> 
-    
- <!--prova prohibir preposició davant de participi de present--> 
-  
+    </label-sequence>
+
+ <!--prova prohibir preposició davant de participi de present-->
+
       <label-sequence>
       <label-item label="PREP"/>
       <label-item label="VLEXPPRES"/>
@@ -1142,8 +1142,8 @@
     </label-sequence>
 
   <!-- fi proves-->
-  
-   
+
+
     <label-sequence>
       <label-item label="DETM"/>
       <label-item label="SENT"/>
@@ -1155,7 +1155,7 @@
     <label-sequence>
       <label-item label="DETMF"/>
       <label-item label="SENT"/>
-    </label-sequence>   
+    </label-sequence>
     <label-sequence>
       <label-item label="PREP"/>
       <label-item label="SENT"/>
@@ -1171,7 +1171,7 @@
     <label-sequence>
       <label-item label="RELAA"/>
       <label-item label="SENT"/>
-    </label-sequence> --> 
+    </label-sequence> -->
     <label-sequence>
       <label-item label="REL"/>
       <label-item label="SENT"/>
@@ -1395,127 +1395,127 @@
     <label-sequence>
       <label-item label="IMPLEXPRNENC"/>
       <label-item label="VMODALSUBJ"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="VLEXIMP"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="VSERIMP"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="VMODALIMP"/>
-    </label-sequence> 
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="VLEXPARTPI"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="VSERPARTPI"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="VMODALPARTPI"/>
-    </label-sequence>   
-    
+    </label-sequence>
+
     <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="VLEXIMP"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="VSERIMP"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="VMODALIMP"/>
-    </label-sequence> 
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="VLEXPARTPI"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="VSERPARTPI"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="VMODALPARTPI"/>
-    </label-sequence>   
-    
+    </label-sequence>
+
     <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="DETM"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="DETF"/>
-    </label-sequence>  
+    </label-sequence>
     <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="DETMF"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="DETM"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="DETF"/>
-    </label-sequence> 
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="DETMF"/>
-    </label-sequence> 
-    
+    </label-sequence>
+
     <label-sequence>
       <label-item label="PRNPROREF"/>
       <label-item label="ADV"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="ADV"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="NOMM"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="NOMF"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="NOMMF"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="ACRONIMOM"/>
-    </label-sequence>  
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="ACRONIMOF"/>
-    </label-sequence>   
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="ACRONIMOMF"/>
-    </label-sequence>    
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="ANTROPONIM"/>
-    </label-sequence>    
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="TOPONIM"/>
-    </label-sequence>    
+    </label-sequence>
      <label-sequence>
       <label-item label="PRNPRO"/>
       <label-item label="NPALTRES"/>
-    </label-sequence> 
-    
+    </label-sequence>
+
     <label-sequence>
       <label-item label="PRNTN"/>
       <label-item label="VMODALINF"/>
@@ -1528,25 +1528,25 @@
       <label-item label="PRNTN"/>
       <label-item label="VSERINF"/>
     </label-sequence>
- 
- 
- <!--prova 29-05-07-->   
+
+
+ <!--prova 29-05-07-->
      <label-sequence>
       <label-item label="VHABERPFCI"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
-    <label-sequence>
-      <label-item label="VHABERPFCI"/>
-      <label-item label="NOMF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERPFCI"/>
+      <label-item label="NOMF"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VHABERPFCI"/>
       <label-item label="NOMMF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERIPI"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERIPI"/>
       <label-item label="NOMF"/>
@@ -1558,19 +1558,19 @@
     <label-sequence>
       <label-item label="VHABERSUBJ"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
-    <label-sequence>
-      <label-item label="VHABERSUBJ"/>
-      <label-item label="NOMF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERSUBJ"/>
+      <label-item label="NOMF"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VHABERSUBJ"/>
       <label-item label="NOMMF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERINF"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERINF"/>
       <label-item label="NOMF"/>
@@ -1582,7 +1582,7 @@
     <label-sequence>
       <label-item label="VHABERGER"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERGER"/>
       <label-item label="NOMF"/>
@@ -1594,7 +1594,7 @@
     <label-sequence>
       <label-item label="VHABERPARTPI"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERPARTPI"/>
       <label-item label="NOMF"/>
@@ -1606,7 +1606,7 @@
     <label-sequence>
       <label-item label="VHABERPPRES"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERPPRES"/>
       <label-item label="NOMF"/>
@@ -1615,24 +1615,24 @@
       <label-item label="VHABERPPRES"/>
       <label-item label="NOMMF"/>
     </label-sequence>
-    
-        
+
+
      <label-sequence>
       <label-item label="VHABERPFCI"/>
       <label-item label="ADJM"/>
-    </label-sequence> 
-    <label-sequence>
-      <label-item label="VHABERPFCI"/>
-      <label-item label="ADJF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERPFCI"/>
+      <label-item label="ADJF"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VHABERPFCI"/>
       <label-item label="ADJMF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERIPI"/>
       <label-item label="ADJM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERIPI"/>
       <label-item label="ADJF"/>
@@ -1644,19 +1644,19 @@
     <label-sequence>
       <label-item label="VHABERSUBJ"/>
       <label-item label="ADJM"/>
-    </label-sequence> 
-    <label-sequence>
-      <label-item label="VHABERSUBJ"/>
-      <label-item label="ADJF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERSUBJ"/>
+      <label-item label="ADJF"/>
+    </label-sequence>
+    <label-sequence>
+      <label-item label="VHABERSUBJ"/>
       <label-item label="ADJMF"/>
     </label-sequence>
     <label-sequence>
       <label-item label="VHABERINF"/>
       <label-item label="ADJM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERINF"/>
       <label-item label="ADJF"/>
@@ -1668,7 +1668,7 @@
     <label-sequence>
       <label-item label="VHABERGER"/>
       <label-item label="ADJM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERGER"/>
       <label-item label="ADJF"/>
@@ -1680,7 +1680,7 @@
     <label-sequence>
       <label-item label="VHABERPARTPI"/>
       <label-item label="ADJM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERPARTPI"/>
       <label-item label="ADJF"/>
@@ -1692,7 +1692,7 @@
     <label-sequence>
       <label-item label="VHABERPPRES"/>
       <label-item label="ADJM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="VHABERPPRES"/>
       <label-item label="ADJF"/>
@@ -1701,20 +1701,20 @@
       <label-item label="VHABERPPRES"/>
       <label-item label="ADJMF"/>
     </label-sequence>
-      
+
      <label-sequence>
       <label-item label="VHABERPFCI"/>
       <label-item label="NUM"/>
-    </label-sequence> 
+    </label-sequence>
 
     <label-sequence>
       <label-item label="PRNPROADV"/>
       <label-item label="NOMM"/>
-    </label-sequence> 
+    </label-sequence>
     <label-sequence>
       <label-item label="PRNPROADV"/>
       <label-item label="NOMF"/>
-    </label-sequence> 
+    </label-sequence>
 
 
 
@@ -1722,11 +1722,11 @@
       <label-item label="VHABERPFCI"/>
       <label-item label="ADV"/>
     </label-sequence>
-    
+
     <label-sequence>
       <label-item label="VHABERIPI"/>
       <label-item label="ADV"/>
-    </label-sequence> 
+    </label-sequence>
 
     <label-sequence>
       <label-item label="VHABERGER"/>
@@ -1737,27 +1737,27 @@
       <label-item label="VHABERSUBJ"/>
       <label-item label="ADV"/>
     </label-sequence>  -->
-      
+
      <label-sequence>
       <label-item label="PRNPROADV"/>
       <label-item label="NOMM"/>
     </label-sequence>
-      
+
      <label-sequence>
       <label-item label="PRNPROADV"/>
       <label-item label="NOMF"/>
     </label-sequence>
-      
+
      <label-sequence>
       <label-item label="PRNPROADV"/>
       <label-item label="NOMMF"/>
     </label-sequence>
-      
+
      <label-sequence>
       <label-item label="PRNPROADV"/>
       <label-item label="TOPONIM"/>
     </label-sequence>
-   
+
   </forbid>
 
 <!--
@@ -1792,19 +1792,19 @@
         <label-item label="VLEXSUBJ"/>
         <label-item label="VSERPFCI"/>
         <label-item label="VSERIPI"/>
-        <label-item label="VSERSUBJ"/>        
+        <label-item label="VSERSUBJ"/>
 	<label-item label="VSERINF"/>
         <label-item label="VSERGER"/>
 	<label-item label="VSERPPRES"/>
         <label-item label="VHABERPFCI"/>
         <label-item label="VHABERIPI"/>
-        <label-item label="VHABERSUBJ"/>        
+        <label-item label="VHABERSUBJ"/>
 	<label-item label="VHABERINF"/>
         <label-item label="VHABERGER"/>
 	<label-item label="VHABERPPRES"/>
         <label-item label="VMODALPFCI"/>
         <label-item label="VMODALIPI"/>
-        <label-item label="VMODALSUBJ"/>  
+        <label-item label="VMODALSUBJ"/>
 	<label-item label="VMODALINF"/>
         <label-item label="VMODALGER"/>
 	<label-item label="VMODALPPRES"/>
@@ -1816,13 +1816,13 @@
       </label-set>
    </enforce-after>
   </enforce-rules>-->
-  
+
 
  <!-- <preferences>
    <prefer tags="vblex.pri.p3.sg"/>
    <prefer tags="vbser.pri.p3.sg"/>
    <prefer tags="vbhaver.pri.p3.sg"/>
-   <prefer tags="vbmod.pri.p3.sg"/>  
+   <prefer tags="vbmod.pri.p3.sg"/>
    <prefer tags="vblex.pii.p3.sg"/>
    <prefer tags="vbser.pii.p3.sg"/>
    <prefer tags="vbhaver.pii.p3.sg"/>
@@ -1840,5 +1840,5 @@
    <prefer tags="vbhaver.pis.p3.sg"/>
    <prefer tags="vbmod.pis.p3.sg"/>
   </preferences> -->
-  
+
 </tagger>

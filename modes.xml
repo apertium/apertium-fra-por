@@ -109,7 +109,7 @@
       </program>
     </pipeline>
   </mode>
-  
+
   <mode name="fra-por-interchunk">
     <pipeline>
       <program name="lt-proc">
@@ -183,9 +183,9 @@
       </program>
     </pipeline>
   </mode>
-  
 
-  
+
+
   <mode name="por-fra" install="yes">
     <pipeline>
       <program name="lt-proc">
@@ -294,8 +294,8 @@
         <file name="por-fra.autobil.bin"/>
       </program>
     </pipeline>
-  </mode>                
-                                          
+  </mode>
+
   <mode name="por-fra-interchunk">
     <pipeline>
       <program name="lt-proc">

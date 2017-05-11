@@ -29,9 +29,9 @@
 
 <xsl:template match="par">
   <xsl:text disable-output-escaping="yes"><![CDATA[		<paradigm name="]]></xsl:text>
-  <xsl:value-of select="@n"/> 
+  <xsl:value-of select="@n"/>
   <xsl:text disable-output-escaping="yes"><![CDATA[" prm="]]></xsl:text>
-  <xsl:value-of select="@prm"/> 
+  <xsl:value-of select="@prm"/>
   <xsl:text disable-output-escaping="yes"><![CDATA["/>
 ]]> </xsl:text>
 </xsl:template>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" 
+<xsl:stylesheet version="1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="xml" encoding="UTF-8"/>
 
 <xsl:template match="/">
   <xsl:value-of select="string('&#xa;')"/> <!-- \n -->
-  <xsl:apply-templates select="dictionary"/> 
+  <xsl:apply-templates select="dictionary"/>
 </xsl:template>
 
 <xsl:template match="dictionary">
@@ -18,7 +18,7 @@
 </xsl:template>
 
 <xsl:template name="alpha" match="alphabet">
-  <alphabet>  
+  <alphabet>
   <xsl:apply-templates />
   </alphabet><xsl:value-of select="string('&#xa;')"/> <!-- \n -->
 </xsl:template>
@@ -64,11 +64,11 @@
          <xsl:call-template name="pardef-generated" select="$mypardefs/pardef[./@n=$paradigmname]">
 	     <xsl:with-param name="parametro" select="$paradigmprm"/>
 	     <xsl:with-param name="ambito" select="$mypardefs/pardef[./@n=$paradigmname]"/>
-	 </xsl:call-template> 
+	 </xsl:call-template>
 
       </pardef>
       <xsl:value-of select="string('&#xa;')"/><!-- \n -->
-    </xsl:for-each> 
+    </xsl:for-each>
 
   </pardefs><!--<xsl:value-of select="string('&#xa;')"/>--><!-- \n -->
 </xsl:template>
@@ -171,7 +171,7 @@
 
 <xsl:template match="prm">
    <xsl:param name="parametro"/>
-   <xsl:value-of select="$parametro"/>   
+   <xsl:value-of select="$parametro"/>
 </xsl:template>
 
 

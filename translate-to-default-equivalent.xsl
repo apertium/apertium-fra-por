@@ -142,7 +142,7 @@
          </xsl:otherwise>
          </xsl:choose>
       </xsl:when>
-  </xsl:choose>    
+  </xsl:choose>
 </xsl:template>
 
 <xsl:template match="e[not(@slr|@srl)]">  <!-- elements sense polisemia -->
