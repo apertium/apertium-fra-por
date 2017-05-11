@@ -2065,156 +2065,13 @@
       </choose>
     </def-macro>
 
-
-    <def-macro n="f_concord1" npar="1">
-      <choose>
-        <!-- To determine value of variables of gender and
-        number and propagate to other rules.  Variables are
-        not used again in this rule -->
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="m"/>
-            </equal>
-          </test>
-          <let>
-            <var n="genero"/>
-            <lit-tag v="m"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="f"/>
-            </equal>
-          </test>
-          <let>
-            <var n="genero"/>
-            <lit-tag v="f"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="mf"/>
-            </equal>
-          </test>
-          <let>
-            <var n="genero"/>
-            <lit-tag v="mf"/>
-          </let>
-        </when>
-      </choose>
-      <choose>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="tl" part="nbr"/>
-              <lit-tag v="sg"/>
-            </equal>
-          </test>
-          <let>
-            <var n="numero"/>
-            <lit-tag v="sg"/>
-          </let>
-        </when>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="tl" part="nbr"/>
-              <lit-tag v="pl"/>
-            </equal>
-          </test>
-          <let>
-            <var n="numero"/>
-            <lit-tag v="pl"/>
-          </let>
-        </when>
-      </choose>
-      <choose>
-        <when>
-          <test>
-            <!-- If word has GD or ND, we try to assign the
-            gender or number of the previous rule. If there is no
-            value for the gender or number variable from previous
-            rules, gender will be masculine and number singular. -->
-            <equal>
-              <clip pos="1" side="tl" part="gen"/>
-              <lit-tag v="GD"/>
-            </equal>
-          </test>
-          <choose>
-            <when>
-              <test>
-                <equal>
-                  <var n="genero"/>
-                  <lit-tag v="f"/>
-                </equal>
-              </test>
-              <let>
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="f"/>
-              </let>
-            </when>
-            <otherwise>
-              <let>
-                <clip pos="1" side="tl" part="gen"/>
-                <lit-tag v="m"/>
-              </let>
-              <let>
-                <var n="genero"/>
-                <lit-tag v="m"/>
-              </let>
-            </otherwise>
-          </choose>
-        </when>
-      </choose>
-      <choose>
-        <when>
-          <test>
-            <equal>
-              <clip pos="1" side="tl" part="nbr"/>
-              <lit-tag v="ND"/>
-            </equal>
-          </test>
-          <choose>
-            <when>
-              <test>
-                <equal>
-                  <var n="numero"/>
-                  <lit-tag v="pl"/>
-                </equal>
-              </test>
-              <let>
-                <clip pos="1" side="tl" part="nbr"/>
-                <lit-tag v="pl"/>
-              </let>
-            </when>
-            <otherwise>
-              <let>
-                <clip pos="1" side="tl" part="nbr"/>
-                <lit-tag v="sg"/>
-              </let>
-              <let>
-                <var n="numero"/>
-                <lit-tag v="sg"/>
-              </let>
-            </otherwise>
-          </choose>
-        </when>
-      </choose>
-    </def-macro>
-
   </section-def-macros>
 
 
 
   <section-rules>
 
-    <!-- *************************************** REGLES DE SN ******************************************** -->
+    <!-- *************************************** REGLES DE SN *************************************** -->
 
     <rule comment="REGLA: NOM (per a collocar la cua en les multiparaules amb g">
       <pattern>
@@ -2222,14 +2079,6 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="det_gd">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="tipus_nom">
           <with-param pos="1"/>
         </call-macro>
@@ -2237,20 +2086,20 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="nom" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
-              <tag><var n="genero"/></tag>
-              <tag><var n="numero"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="gen_sense_mf" link-to="2"/>
+              <clip pos="1" side="tl" part="gen_mf"/>
+              <clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
               <clip pos="1" side="tl" part="nbr_sp"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
@@ -2273,7 +2122,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="ant" case="caseFirstWord">
             <tags>
@@ -2292,7 +2140,7 @@
     </rule>
 
 
-<!-- 
+<!--
     the next two rules can probably be combined with DET NOM below
     or even made into a macro and called from any DET NOM ... rule
 -->
@@ -2304,15 +2152,6 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="det_gd2">
-          <with-param pos="2"/>
-          <with-param pos="1"/>
-        </call-macro>
-
         <out>
           <chunk name="ce_nom_ci">
             <tags>
@@ -2328,15 +2167,15 @@
                 <lit v="este"/>
               </get-case-from>
               <clip pos="1" side="tl" part="a_det"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
             </lu>
             <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_nom"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="2" side="tl" part="gen"/>
+              <clip pos="2" side="tl" part="nbr"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
@@ -2353,15 +2192,6 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="det_gd2">
-          <with-param pos="2"/>
-          <with-param pos="1"/>
-        </call-macro>
-
         <let>
           <clip pos="1" side="tl" part="lem"/>
           <lit v="aquele"/>
@@ -2377,18 +2207,11 @@
               </tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_det"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_nom"/>
-              <var n="genero"/>
-              <var n="numero"/>
-              <clip pos="2" side="tl" part="lemq"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
@@ -2691,7 +2514,6 @@
         </let>
       </action>
     </rule>
-
 
 
     <rule comment="REGLA: NOM ADJ">
@@ -4729,18 +4551,9 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="det_gd">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="det" case="caseFirstWord">
             <tags>
@@ -4751,8 +4564,10 @@
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_det"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="gen_sense_mf" link-to="2"/>
+              <clip pos="1" side="tl" part="gen_mf"/>
+              <clip pos="1" side="tl" part="nbr_sense_sp" link-to="3"/>
+              <clip pos="1" side="tl" part="nbr_sp"/>
             </lu>
           </chunk>
         </out>
@@ -4763,7 +4578,8 @@
       </action>
     </rule>
 
-    <!-- *************************************** REGLES DE SV *********************************************** -->
+
+    <!-- *************************************** REGLES DE SV *************************************** -->
 
     <rule comment="REGLA: VERB">
       <pattern>
@@ -4782,7 +4598,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="verb" case="caseFirstWord">
             <tags>
@@ -4830,7 +4645,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="adv" case="caseFirstWord">
             <tags>
@@ -4974,7 +4788,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="inf" case="caseFirstWord">
             <tags>
@@ -5014,7 +4827,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="ger" case="caseFirstWord">
             <tags>
@@ -5039,8 +4851,84 @@
         </let>
       </action>
     </rule>
+    <!--
+    <rule comment="REGLA: pprs">
+      <pattern>
+        <pattern-item n="pprs"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="que_verb">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="pri"/></tag>
+              <tag><lit-tag v="p3"/></tag>
+              <tag><lit-tag v="ND"/></tag>
+            </tags>
+            <lu>
+              <lit v="que"/>
+              <lit-tag v="cnjsub"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <lit-tag v="2"/>
+              <lit-tag v="3"/>
+              %%<clip pos="1" side="tl" part="pers"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+        <let>
+          <var n="caseFirstWord"/>
+          <lit v="aa"/>
+        </let>
+      </action>
+    </rule>
+    <rule comment="REGLA: prnpro pprs">
+      <pattern>
+        <pattern-item n="prnpro"/>
+        <pattern-item n="pprs"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="que_pro_verb">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="pri"/></tag>
+              <tag><lit-tag v="p3"/></tag>
+              <tag><lit-tag v="ND"/></tag>
 
-
+            </tags>
+            <lu>
+              <lit v="que"/>
+              <lit-tag v="cnjsub"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="prn.pro"/>
+              <clip pos="1" side="tl" part="tipoenc_pro"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="2"/>
+              <lit-tag v="3"/>
+              %%<clip pos="1" side="tl" part="pers"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+        <let>
+          <var n="caseFirstWord"/>
+          <lit v="aa"/>
+        </let>
+      </action>
+    </rule>
+    -->
     <rule comment="REGLA: ALLER INF">
       <pattern>
         <pattern-item n="aller"/>
@@ -5059,7 +4947,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="ir_inf" case="caseFirstWord">
             <tags>
@@ -5116,7 +5003,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -5226,7 +5112,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -5383,7 +5268,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -5482,7 +5366,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="ger" case="caseFirstWord">
             <tags>
@@ -5507,7 +5390,6 @@
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
-
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
@@ -5531,7 +5413,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="ger" case="caseFirstWord">
             <tags>
@@ -5557,7 +5438,6 @@
           <with-param pos="2"/>
           <with-param pos="3"/>
         </call-macro>
-
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
@@ -5578,7 +5458,6 @@
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
-
         <out>
           <chunk name="ger" case="caseFirstWord">
             <tags>
@@ -5606,7 +5485,6 @@
           <with-param pos="3"/>
           <with-param pos="4"/>
         </call-macro>
-
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
@@ -5636,7 +5514,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="estar_ger" case="caseFirstWord">
             <tags>
@@ -5679,7 +5556,6 @@
           <with-param pos="4"/>
           <with-param pos="5"/>
         </call-macro>
-
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
@@ -5710,7 +5586,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -5801,7 +5676,6 @@
           <with-param pos="5"/>
           <with-param pos="6"/>
         </call-macro>
-
         <let>
           <var n="caseFirstWord"/>
           <lit v="aa"/>
@@ -5810,7 +5684,7 @@
     </rule>
 
 
-    <rule comment="prnpro"> <!-- per quan va seguit d'un verb desconegut -->
+    <rule comment="prnpro"><!--per quan va seguit d'un verb desconegut-->
       <pattern>
         <pattern-item n="prnpro"/>
       </pattern>
@@ -5819,7 +5693,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -5834,6 +5707,11 @@
                 </equal>
               </or>
             </test>
+            <!--
+            <call-macro n="f_bcondfirst">
+              <with-param pos="1"/>
+            </call-macro>
+            -->
           </when>
           <otherwise>
             <out>
@@ -5866,10 +5744,6 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="2"/>
         </call-macro>
@@ -5886,7 +5760,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -5912,7 +5785,7 @@
                   <tag><clip pos="2" side="tl" part="a_verb"/></tag>
                   <tag><clip pos="2" side="tl" part="temps"/></tag>
                   <tag><clip pos="2" side="tl" part="pers"/></tag>
-                  <tag><var n="numero"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
                   <tag><var n="tipusverb"/></tag>
                 </tags>
                 <lu>
@@ -5920,7 +5793,7 @@
                   <clip pos="2" side="tl" part="a_verb"/>
                   <clip pos="2" side="tl" part="temps"/>
                   <clip pos="2" side="tl" part="pers"/>
-                  <var n="numero"/>
+                  <clip pos="2" side="tl" part="nbr" link-to="5"/>
                   <clip pos="2" side="tl" part="lemq"/>
                 </lu>
               </chunk>
@@ -5979,10 +5852,6 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="2"/>
         </call-macro>
@@ -6041,7 +5910,7 @@
                       <tag><clip pos="2" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="2" side="tl" part="temps"/></tag>
                       <tag><clip pos="2" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="2" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6057,7 +5926,7 @@
                       <clip pos="2" side="tl" part="a_verb"/>
                       <clip pos="2" side="tl" part="temps"/>
                       <clip pos="2" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="2" side="tl" part="nbr" link-to="5"/>
                       <clip pos="2" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6075,7 +5944,7 @@
                       <tag><clip pos="2" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="2" side="tl" part="temps"/></tag>
                       <tag><clip pos="2" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="2" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6097,7 +5966,7 @@
                       <clip pos="2" side="tl" part="a_verb"/>
                       <clip pos="2" side="tl" part="temps"/>
                       <clip pos="2" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="2" side="tl" part="nbr" link-to="5"/>
                       <clip pos="2" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6202,11 +6071,6 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb2">
-          <with-param pos="1"/>
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="3"/>
         </call-macro>
@@ -6218,7 +6082,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -6242,7 +6105,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6250,7 +6113,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6272,7 +6135,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6284,7 +6147,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6314,7 +6177,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6324,7 +6187,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6338,7 +6201,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6354,7 +6217,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6371,7 +6234,7 @@
     </rule>
 
 
-    <rule comment="prnpro prnpro verbpers-prn"> <!-- en aquesta no poso el tema de l'"on" perquè no sé com es manega, amb tres prn -->
+    <rule comment="prnpro prnpro verbpers-prn"><!--en aquesta no poso el tema de l'"on" perquè no sé com es manega, amb tres prn-->
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="prnpro"/>
@@ -6380,11 +6243,6 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb2">
-          <with-param pos="1"/>
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="3"/>
         </call-macro>
@@ -6396,7 +6254,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -6420,7 +6277,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6428,7 +6285,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6450,7 +6307,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6462,7 +6319,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6492,7 +6349,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6502,7 +6359,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6516,7 +6373,7 @@
                       <tag><clip pos="3" side="tl" part="a_verb"/></tag>
                       <tag><clip pos="3" side="tl" part="temps"/></tag>
                       <tag><clip pos="3" side="tl" part="pers"/></tag>
-                      <tag><var n="numero"/></tag>
+                      <tag><clip pos="3" side="tl" part="nbr"/></tag>
                       <tag><var n="tipusverb"/></tag>
                     </tags>
                     <lu>
@@ -6532,7 +6389,7 @@
                       <clip pos="3" side="tl" part="a_verb"/>
                       <clip pos="3" side="tl" part="temps"/>
                       <clip pos="3" side="tl" part="pers"/>
-                      <var n="numero"/>
+                      <clip pos="3" side="tl" part="nbr" link-to="5"/>
                       <clip pos="3" side="tl" part="lemq"/>
                     </lu>
                   </chunk>
@@ -6556,10 +6413,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="2"/>
         </call-macro>
@@ -6572,7 +6425,6 @@
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -6674,14 +6526,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="3"/>
         </call-macro>
@@ -6689,7 +6533,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -6898,10 +6741,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="3"/>
         </call-macro>
@@ -6918,7 +6757,6 @@
           <with-param pos="2"/>
           <with-param pos="3"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -7045,10 +6883,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -7065,7 +6899,6 @@
           <with-param pos="3"/>
           <with-param pos="4"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -7331,10 +7164,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -7351,7 +7180,6 @@
           <with-param pos="3"/>
           <with-param pos="4"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -7516,10 +7344,6 @@
           <with-param pos="1"/>
         </call-macro>
 
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -7532,7 +7356,6 @@
           <with-param pos="4"/>
           <with-param pos="5"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -7692,14 +7515,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -7711,7 +7526,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -7956,7 +7770,7 @@
     </rule>
 
 
-    <rule comment="aller-subj prnpro prnpro inf"> <!-- aquesta tampoc té "on" pel mateix motiu que l'altra... -->
+    <rule comment="aller-subj prnpro prnpro inf"><!--aquesta tampoc té "on" pel mateix motiu que l'altra...-->
       <pattern>
         <pattern-item n="aller"/>
         <pattern-item n="prnperssubj"/>
@@ -7966,14 +7780,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -7985,7 +7791,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -8244,14 +8049,6 @@
           <with-param pos="1"/>
         </call-macro>
 
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -8259,7 +8056,6 @@
         <call-macro n="f_pprs">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -8546,14 +8342,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="5"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="6"/>
         </call-macro>
@@ -8565,7 +8353,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -8841,7 +8628,6 @@
     </rule>
 
 
-
     <rule comment="REGLA: venir de inf -> acabar de inf">
       <pattern>
         <pattern-item n="venir"/>
@@ -8861,7 +8647,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="acabar_de_inf" case="caseFirstWord">
             <tags>
@@ -8923,7 +8708,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -9027,10 +8811,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -9047,7 +8827,6 @@
           <with-param pos="3"/>
           <with-param pos="4"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -9177,10 +8956,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -9463,14 +9238,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -9482,7 +9249,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -9731,7 +9497,7 @@
     </rule>
 
 
-    <rule comment="venir-subj de prnpro prnpro inf"> <!-- també falta el tema "on" -->
+    <rule comment="venir-subj de prnpro prnpro inf"><!--també falta el tema "on"-->
       <pattern>
         <pattern-item n="venir"/>
         <pattern-item n="prnperssubj"/>
@@ -9742,14 +9508,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="5"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="6"/>
         </call-macro>
@@ -9761,7 +9519,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -10025,7 +9782,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="ne" case="caseFirstWord">
             <tags>
@@ -10088,10 +9844,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -10104,7 +9856,6 @@
           <with-param pos="3"/>
           <with-param pos="4"/>
         </call-macro>
-
         <out>
           <chunk name="ne" case="caseFirstWord">
             <tags>
@@ -10239,14 +9990,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -10254,7 +9997,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="ne" case="caseFirstWord">
             <tags>
@@ -10437,7 +10179,6 @@
           <with-param pos="3"/>
           <with-param pos="4"/>
         </call-macro>
-
         <out>
           <b pos="4"/>
           <chunk name="prn">
@@ -10483,7 +10224,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="continuar_ger" case="caseFirstWord">
             <tags>
@@ -10539,7 +10279,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -10638,10 +10377,6 @@
           <with-param pos="1"/>
         </call-macro>
 
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -10654,7 +10389,6 @@
           <with-param pos="4"/>
           <with-param pos="5"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -10908,14 +10642,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -10927,7 +10653,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -11159,7 +10884,7 @@
     </rule>
 
 
-    <rule comment="continuer-subj à prnpro prnpro inf"> <!-- tpc es té en compte "on" -->
+    <rule comment="continuer-subj à prnpro prnpro inf"><!--tpc es té en compte "on"-->
       <pattern>
         <pattern-item n="continuer"/>
         <pattern-item n="prnperssubj"/>
@@ -11174,14 +10899,6 @@
           <with-param pos="1"/>
         </call-macro>
 
-        <call-macro n="f_concord1">
-          <with-param pos="4"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="5"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="6"/>
         </call-macro>
@@ -11189,7 +10906,6 @@
         <call-macro n="f_pprs">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -11428,10 +11144,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="2"/>
         </call-macro>
@@ -11444,7 +11156,6 @@
           <with-param pos="1"/>
           <with-param pos="2"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -11548,14 +11259,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="3"/>
         </call-macro>
@@ -11563,7 +11266,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -11772,10 +11474,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="3"/>
         </call-macro>
@@ -11783,7 +11481,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -11895,14 +11592,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -11910,7 +11599,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -12130,10 +11818,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="1"/>
         </call-macro>
@@ -12146,7 +11830,6 @@
           <with-param pos="2"/>
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -12234,14 +11917,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="3"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="1"/>
         </call-macro>
@@ -12249,7 +11924,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -12450,7 +12124,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -12544,7 +12217,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -12627,7 +12299,6 @@
     </rule>
 
 
-
     <rule comment="aux + pp">
       <pattern>
         <pattern-item n="aux"/>
@@ -12651,7 +12322,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="aux_pp" case="caseFirstWord">
             <tags>
@@ -12714,7 +12384,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -12830,7 +12499,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -12950,7 +12618,6 @@
         <call-macro n="f_pprs">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -13078,10 +12745,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="2"/>
           <with-param pos="3"/>
@@ -13099,7 +12762,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -13206,10 +12868,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="2"/>
           <with-param pos="4"/>
@@ -13227,7 +12885,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -13460,10 +13117,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="2"/>
           <with-param pos="4"/>
@@ -13481,7 +13134,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -13612,10 +13264,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="2"/>
           <with-param pos="5"/>
@@ -13633,7 +13281,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -13887,14 +13534,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="3"/>
           <with-param pos="4"/>
@@ -13912,7 +13551,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -14099,7 +13737,7 @@
     </rule>
 
 
-    <rule comment="prnpro prnpro auxpers-subj pp"> <!-- no hi ha tema "on" -->
+    <rule comment="prnpro prnpro auxpers-subj pp"><!--no hi ha tema "on"-->
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="prnpro"/>
@@ -14109,14 +13747,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="3"/>
           <with-param pos="5"/>
@@ -14134,7 +13764,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -14331,14 +13960,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="3"/>
           <with-param pos="5"/>
@@ -14356,7 +13977,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -14569,7 +14189,7 @@
     </rule>
 
 
-    <rule comment="prnpro prnpro auxpers-subj adv pp"> <!-- tbé falta l'"on" -->
+    <rule comment="prnpro prnpro auxpers-subj adv pp"><!--tbé falta l'"on"-->
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="prnpro"/>
@@ -14580,14 +14200,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="comprova_auxiliar_ref">
           <with-param pos="3"/>
           <with-param pos="6"/>
@@ -14605,7 +14217,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -14832,10 +14443,6 @@
           <with-param pos="1"/>
         </call-macro>
 
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="3"/>
         </call-macro>
@@ -14843,7 +14450,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -14963,10 +14569,6 @@
           <with-param pos="1"/>
         </call-macro>
 
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -14974,7 +14576,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -15112,14 +14713,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="4"/>
         </call-macro>
@@ -15127,7 +14720,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -15357,14 +14949,6 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="f_concord1">
-          <with-param pos="2"/>
-        </call-macro>
-
         <call-macro n="tipus_verb">
           <with-param pos="5"/>
         </call-macro>
@@ -15372,7 +14956,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -15614,7 +15197,7 @@
       </action>
     </rule>
 
-    <!-- ************************************ ALTRES ************************************************ -->
+    <!--************************************ ALTRES ************************************************ -->
     <rule comment="ADV">
       <pattern>
         <pattern-item n="adv"/>
@@ -15628,7 +15211,6 @@
         <call-macro n="tipus_adv">
           <with-param pos="1"/>
         </call-macro>
-
         <choose>
           <when>
             <test>
@@ -15677,14 +15259,9 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="prnperssubj" case="caseFirstWord">
             <tags>
@@ -15718,14 +15295,9 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="prnsubj" case="caseFirstWord">
             <tags>
@@ -15760,14 +15332,9 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
 
           <chunk name="prnitg" case="caseFirstWord">
@@ -15802,14 +15369,9 @@
       </pattern>
 
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="rel" case="caseFirstWord">
             <tags>
@@ -16068,7 +15630,6 @@
     </rule>
 
 
-
     <rule comment="cnjcoo">
       <pattern>
         <pattern-item n="cnjcoo"/>
@@ -16078,7 +15639,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="cnjcoo" case="caseFirstWord">
             <tags>
@@ -16106,7 +15666,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="cnjsub" case="caseFirstWord">
             <tags>
@@ -16134,7 +15693,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="cnjadv" case="caseFirstWord">
             <tags>
@@ -16166,7 +15724,6 @@
         <call-macro n="f_prep">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="pr" case="caseFirstWord">
             <tags>
@@ -16192,18 +15749,9 @@
       </pattern>
 
       <action>
-        <call-macro n="det_nb">
-          <with-param pos="1"/>
-        </call-macro>
-
-        <call-macro n="det_gd">
-          <with-param pos="1"/>
-        </call-macro>
-
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="num" case="caseFirstWord">
             <tags>
@@ -16222,8 +15770,7 @@
       </action>
     </rule>
 
-
-    <rule> <!-- REGLA: coma -->
+    <rule> <!-- REGLA: coma-->
       <pattern>
         <pattern-item n="coma"/>
       </pattern>
@@ -16232,7 +15779,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-
         <out>
           <chunk name="coma" case="caseFirstWord">
             <tags>
@@ -16246,8 +15792,7 @@
       </action>
     </rule>
 
-
-    <rule> <!-- REGLA: reset variables -->
+    <rule> <!-- REGLA: reset variables-->
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
@@ -16300,11 +15845,10 @@
       </action>
     </rule>
 
-
-<!-- 
+    <!--
     separate rules for the personal pronoun case and the general case
     because some personal pronouns require partioular forms
--->
+    -->
     <rule comment="REGLA: autant de NOM que PRNPERSOBJ">
       <pattern>
         <pattern-item n="autant"/>
