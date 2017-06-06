@@ -2435,99 +2435,6 @@
       </choose>
     </def-macro>
 
-    <def-macro n="f_concord_prn_pp" npar="2">
-      <choose>
-        <when>
-          <test>
-            <!-- Propagate the main parameter gender if it has been modified during the translation -->
-            <and>
-              <not>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/>
-                  <lit-tag v="mf"/>
-                </equal>
-              </not>
-              <not>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/>
-                  <lit-tag v="nt"/>
-                </equal>
-              </not>
-              <not>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/>
-                  <lit-tag v="GD"/>
-                </equal>
-              </not>
-            </and>
-          </test>
-          <let>
-            <clip pos="2" side="tl" part="gen"/>
-            <clip pos="1" side="tl" part="gen"/>
-          </let>
-          <let>
-            <var n="genero"/>
-            <clip pos="1" side="tl" part="gen"/>
-          </let>
-        </when>
-        <otherwise>
-          <let>
-            <clip pos="2" side="tl" part="gen"/>
-            <lit-tag v="m"/>
-          </let>
-          <let>
-            <var n="genero"/>
-            <lit-tag v="m"/>
-          </let>
-        </otherwise>
-      </choose>
-      <choose>
-        <when>
-          <test>
-            <!-- Propagate the main parameter gender if it has been modified during the translation -->
-            <and>
-              <not>
-                <equal>
-                  <clip pos="1" side="tl" part="nbr"/>
-                  <lit-tag v="sp"/>
-                </equal>
-              </not>
-              <not>
-                <equal>
-                  <clip pos="1" side="tl" part="nbr"/>
-                  <lit-tag v="ND"/>
-                </equal>
-              </not>
-              <not>
-                <equal>
-                  <clip pos="1" side="tl" part="gen"/>
-                  <lit-tag v="nt"/>
-                </equal>
-              </not>
-            </and>
-          </test>
-          <let>
-            <clip pos="2" side="tl" part="nbr"/>
-            <clip pos="1" side="tl" part="nbr"/>
-          </let>
-          <let>
-            <var n="numero"/>
-            <clip pos="1" side="tl" part="nbr"/>
-          </let>
-        </when>
-        <otherwise>
-          <let>
-            <clip pos="2" side="tl" part="nbr"/>
-            <lit-tag v="sg"/>
-          </let>
-          <let>
-            <var n="numero"/>
-            <lit-tag v="sg"/>
-          </let>
-        </otherwise>
-      </choose>
-    </def-macro>
-
   </section-def-macros>
 
 
@@ -16836,7 +16743,12 @@
           <with-param pos="3"/>
         </call-macro>
 
-        <call-macro n="f_concord_prn_pp">
+        <call-macro n="det_gd2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+
+        <call-macro n="det_nb2">
           <with-param pos="1"/>
           <with-param pos="3"/>
         </call-macro>
@@ -17355,7 +17267,12 @@
           <with-param pos="3"/>
         </call-macro>
 
-        <call-macro n="f_concord_prn_pp">
+        <call-macro n="det_gd2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+
+        <call-macro n="det_nb2">
           <with-param pos="1"/>
           <with-param pos="3"/>
         </call-macro>
@@ -17540,7 +17457,12 @@
           <with-param pos="5"/>
         </call-macro>
 
-        <call-macro n="f_concord_prn_pp">
+        <call-macro n="det_gd2">
+          <with-param pos="3"/>
+          <with-param pos="5"/>
+        </call-macro>
+
+        <call-macro n="det_nb2">
           <with-param pos="3"/>
           <with-param pos="5"/>
         </call-macro>
@@ -17808,7 +17730,12 @@
           <with-param pos="3"/>
         </call-macro>
 
-        <call-macro n="f_concord_prn_pp">
+        <call-macro n="det_gd2">
+          <with-param pos="3"/>
+          <with-param pos="5"/>
+        </call-macro>
+
+        <call-macro n="det_nb2">
           <with-param pos="2"/>
           <with-param pos="3"/>
         </call-macro>
@@ -18343,7 +18270,12 @@
           <with-param pos="5"/>
         </call-macro>
 
-        <call-macro n="f_concord_prn_pp">
+        <call-macro n="det_gd2">
+          <with-param pos="4"/>
+          <with-param pos="5"/>
+        </call-macro>
+
+        <call-macro n="det_nb2">
           <with-param pos="4"/>
           <with-param pos="5"/>
         </call-macro>
