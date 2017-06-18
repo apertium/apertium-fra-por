@@ -2947,7 +2947,10 @@
               <tag><var n="numero"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="whole"/>
+              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="a_det"/>
+              <var n="genero"/>
+              <var n="numero"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -3001,7 +3004,10 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="whole"/>
+              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="a_det"/>
+              <var n="genero"/>
+              <var n="numero"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -3077,11 +3083,17 @@
                   <tag><var n="numero"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="whole"/>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_det"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
-                  <clip pos="2" side="tl" part="whole"/>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_num"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
                 </lu>
               </chunk>
             </out>
@@ -3186,7 +3198,10 @@
                   <tag><var n="numero"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="whole"/>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_det"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
@@ -3194,7 +3209,11 @@
                 </lu>
                 <b pos="2"/>
                 <lu>
-                  <clip pos="4" side="tl" part="whole"/>
+                  <clip pos="4" side="tl" part="lemh"/>
+                  <clip pos="4" side="tl" part="a_nom"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
+                  <clip pos="4" side="tl" part="lemq"/>
                 </lu>
                 <b pos="4"/>
                 <lu>
@@ -3296,7 +3315,10 @@
                   <tag><var n="numero"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="whole"/>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_det"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
@@ -3304,7 +3326,11 @@
                 </lu>
                 <b pos="2"/>
                 <lu>
-                  <clip pos="4" side="tl" part="whole"/>
+                  <clip pos="4" side="tl" part="lemh"/>
+                  <clip pos="4" side="tl" part="a_nom"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
+                  <clip pos="4" side="tl" part="lemq"/>
                 </lu>
               </chunk>
             </out>
@@ -3322,7 +3348,10 @@
                   <tag><var n="numero"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="whole"/>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_det"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
@@ -3392,7 +3421,10 @@
                   <tag><var n="numero"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="whole"/>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_det"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
@@ -3400,7 +3432,11 @@
                 </lu>
                 <b pos="2"/>
                 <lu>
-                  <clip pos="5" side="tl" part="whole"/>
+                  <clip pos="5" side="tl" part="lemh"/>
+                  <clip pos="5" side="tl" part="a_nom"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
+                  <clip pos="5" side="tl" part="lemq"/>
                 </lu>
                 <b pos="3"/>
                 <lu>
@@ -3425,7 +3461,10 @@
                   <tag><var n="numero"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="whole"/>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_det"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
@@ -3502,7 +3541,11 @@
                 </lu>
                 <b pos="1"/>
                 <lu>
-                  <clip pos="3" side="tl" part="whole"/>
+                  <clip pos="3" side="tl" part="lemh"/>
+                  <clip pos="3" side="tl" part="a_nom"/>
+                  <var n="genero"/>
+                  <var n="numero"/>
+                  <clip pos="3" side="tl" part="lemq"/>
                 </lu>
               </chunk>
             </out>
