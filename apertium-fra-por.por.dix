@@ -80,7 +80,6 @@
   </sdefs>
 
   <pardefs>
-
     <pardef n="numeros">
       <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
       <e><re>[0-9]+([.,][0-9]+)?%</re><p><l/><r><s n="num"/><s n="percent"/></r></p></e>
@@ -19075,6 +19074,7 @@
     <e lm="conter">                         <i>cont</i><par n="abst/er__vblex"/></e>
     <e lm="contestação">                    <i>contestaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="contestar">                      <i>contest</i><par n="abal/ar__vblex"/></e>
+    <e lm="contestável">                    <i>contestáve</i><par n="aceitáve/l__adj"/></e>
     <e lm="conteúdo">                       <i>conteúdo</i><par n="abatimento__n"/></e>
     <e lm="contexto">                       <i>contexto</i><par n="abatimento__n"/></e>
     <e lm="contigo">                        <i>contigo</i><par n="contigo__prn"/></e>
@@ -20073,7 +20073,6 @@
     <e lm="discurso">                       <i>discurso</i><par n="abatimento__n"/></e>
     <e lm="discussão">                      <i>discuss</i><par n="aceitaç/ão__n"/></e>
     <e lm="discutir">                       <i>discut</i><par n="admit/ir__vblex"/></e>
-    <e lm="contestável">                    <i>contestáve</i><par n="aceitáve/l__adj"/></e>
     <e lm="discutível">                     <i>discutíve</i><par n="aceitáve/l__adj"/></e>
     <e lm="disfarçar">                      <i>disfar</i><par n="abra/çar__vblex"/></e>
     <e lm="disfarce">                       <i>disfarce</i><par n="abatimento__n"/></e>
@@ -26571,10 +26570,10 @@
     <e lm="para o qual">                    <i>para<b/>o<b/>qual</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="parapente">                      <i>parapente</i><par n="Depto.__n"/></e>
     <e lm="para que">                       <i>para<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
-    <e lm="pára-quedismo">                  <i>pára-quedismo</i><par n="abatimento__n"/></e>
     <e lm="paraquedismo">                   <i>paraquedismo</i><par n="abatimento__n"/></e>
-    <e lm="pára-quedista">                  <i>pára-quedista</i><par n="accionista__n"/></e>
+    <e lm="pára-quedismo">                  <i>pára-quedismo</i><par n="abatimento__n"/></e>
     <e lm="paraquedista">                   <i>paraquedista</i><par n="accionista__n"/></e>
+    <e lm="pára-quedista">                  <i>pára-quedista</i><par n="accionista__n"/></e>
     <e lm="parar">                          <i>par</i><par n="par/ar__vblex"/></e>
     <e lm="parasita">                       <i>parasita</i><par n="abatimento__n"/></e>
     <e lm="parasita">                       <i>parasita</i><par n="agrícola__adj"/></e>
@@ -27618,8 +27617,8 @@
     <e lm="Prússia Ocidental">              <i>Prússia<b/>Ocidental</i><par n="Lugar__np"/></e>
     <e lm="Prússia Oriental">               <i>Prússia<b/>Oriental</i><par n="Lugar__np"/></e>
     <e lm="psicologia">                     <i>psicologia</i><par n="abadia__n"/></e>
-    <e lm="psicologicamente">               <i>psicologicamente</i><par n="Op.Cit.__adv"/></e>
     <e lm="psicólogia">                     <i>psicólogia</i><par n="abadia__n"/></e>
+    <e lm="psicologicamente">               <i>psicologicamente</i><par n="Op.Cit.__adv"/></e>
     <e lm="psicólogo">                      <i>psicólog</i><par n="adept/o__n"/></e>
     <e lm="psiquicamente">                  <i>psiquicamente</i><par n="Op.Cit.__adv"/></e>
     <e lm="psíquico">                       <i>psíquic</i><par n="abert/o__adj"/></e>
@@ -27728,8 +27727,8 @@
     <e lm="queimar">                        <i>queim</i><par n="abal/ar__vblex"/></e>
     <e lm="queixa">                         <i>queixa</i><par n="abadia__n"/></e>
     <e lm="queixar">                        <i>queix</i><par n="abal/ar__vblex"/></e>
-    <e lm="quem">                           <i>quem</i><par n="que__prn"/></e>
     <e lm="quem">                           <i>quem</i><par n="quem__rel"/></e>
+    <e lm="quem">                           <i>quem</i><par n="que__prn"/></e>
     <e lm="quem quer">                      <i>quem<b/>quer</i><par n="quem_quer__prn"/></e>
     <e lm="Quénia">                         <i>Quénia</i><par n="Lugar__np"/></e>
     <e lm="queniano">                       <i>quenian</i><par n="abert/o__adj"/></e>
@@ -30616,8 +30615,8 @@
     <e lm="Vasallo">                        <i>Vasallo</i><par n="Nome__np"/></e>
     <e lm="Vasco da Gama">                  <i>Vasco<b/>da<b/>Gama</i><par n="Nome__np"/></e>
     <e lm="vascularização">                 <i>vascularizaç</i><par n="aceitaç/ão__n"/></e>
-    <e lm="vassalo">                        <i>vassalo</i><par n="accionista__n"/></e>
     <e lm="vassalo">                        <i>vassal</i><par n="abert/o__adj"/></e>
+    <e lm="vassalo">                        <i>vassalo</i><par n="accionista__n"/></e>
     <e lm="Vasseur">                        <i>Vasseur</i><par n="Nome__np"/></e>
     <e lm="vasto">                          <i>vast</i><par n="abert/o__adj"/></e>
     <e lm="Vaticano">                       <i>Vaticano</i><par n="Lugar__np"/></e>
@@ -30636,7 +30635,6 @@
     <e lm="veículo">                        <i>veículo</i><par n="abatimento__n"/></e>
     <e lm="Veiga">                          <i>Veiga</i><par n="Lugar__np"/></e>
     <e lm="vela">                           <i>vela</i><par n="abadia__n"/></e>
-    <e lm="véu">                            <i>véu</i><par n="abatimento__n"/></e>
     <e lm="velar">                          <i>vel</i><par n="abal/ar__vblex"/></e>
     <e lm="Velasco">                        <i>Velasco</i><par n="Outro__np"/></e>
     <e lm="Velázquez">                      <i>Velázquez</i><par n="Nome__np"/></e>
@@ -30732,6 +30730,7 @@
     <e lm="veterinário">                    <i>veterinári</i><par n="adept/o__n"/></e>
     <e lm="veto">                           <i>veto</i><par n="abatimento__n"/></e>
     <e lm="vetorial" v="br">                <i>vetoria</i><par n="aceitáve/l__adj"/></e>
+    <e lm="véu">                            <i>véu</i><par n="abatimento__n"/></e>
     <e lm="vez">                            <i>vez</i><par n="actriz__n"/></e>
     <e lm="via">                            <i>via</i><par n="abadia__n"/></e>
     <e lm="VI">                             <i>VI</i><par n="C__num"/></e>
