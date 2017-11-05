@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
 
   <section-def-cats>
@@ -2424,16 +2424,14 @@
       </pattern>
 
       <action>
-        <call-macro n="det_gd2">
+        <call-macro n="det_nb2">
           <with-param pos="2"/>
           <with-param pos="1"/>
         </call-macro>
 
-        <!-- le nombre est supérieur à 1, car "un" est aussi un déterminant, donc toujours pluriel -->
-        <let>
-          <var n="numero"/>
-          <lit-tag v="pl"/>
-        </let>
+        <call-macro n="det_gd">
+          <with-param pos="2"/>
+        </call-macro>
 
         <call-macro n="firstWord">
           <with-param pos="1"/>
@@ -2460,10 +2458,7 @@
                   <tag><var n="tipusnom"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <clip pos="1" side="tl" part="a_num"/>
-                  <var n="genero"/>
-                  <var n="numero"/>
+                  <clip pos="1" side="tl" part="whole"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
@@ -2491,10 +2486,7 @@
                   <tag><var n="tipusnom"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <clip pos="1" side="tl" part="a_num"/>
-                  <var n="genero"/>
-                  <var n="numero"/>
+                  <clip pos="1" side="tl" part="whole"/>
                 </lu>
                 <b pos="1"/>
                 <lu>
@@ -2894,8 +2886,8 @@
                 </lu>
                 <b pos="1"/>
                 <lu>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <clip pos="1" side="tl" part="a_det"/>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_num"/>
                   <var n="genero"/>
                   <var n="numero"/>
                 </lu>
@@ -2991,10 +2983,7 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -3010,10 +2999,7 @@
             </lu>
             <b pos="2"/>
             <lu>
-              <clip pos="4" side="tl" part="lem"/>
-              <clip pos="4" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="4" side="tl" part="whole"/>
             </lu>
             <b pos="3"/>
             <lu>
@@ -3063,10 +3049,7 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -3082,10 +3065,7 @@
             </lu>
             <b pos="2"/>
             <lu>
-              <clip pos="4" side="tl" part="lem"/>
-              <clip pos="4" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="4" side="tl" part="whole"/>
             </lu>
             <b pos="3"/>
             <lu>
@@ -3148,10 +3128,7 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -3167,10 +3144,7 @@
             </lu>
             <b pos="3"/>
             <lu>
-              <clip pos="5" side="tl" part="lem"/>
-              <clip pos="5" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="5" side="tl" part="whole"/>
             </lu>
             <b pos="3"/>
             <lu>
@@ -3233,10 +3207,7 @@
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>
-              <clip pos="2" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="2" side="tl" part="whole"/>
             </lu>
             <b pos="2"/>
             <lu>
@@ -3252,10 +3223,7 @@
             </lu>
             <b pos="3"/>
             <lu>
-              <clip pos="5" side="tl" part="lem"/>
-              <clip pos="5" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="5" side="tl" part="whole"/>
             </lu>
             <b pos="3"/>
             <lu>
@@ -3660,10 +3628,7 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -3734,10 +3699,7 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -3808,10 +3770,7 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -3887,10 +3846,7 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>
@@ -4163,10 +4119,7 @@
               <tag><var n="tipusnom"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_num"/>
-              <var n="genero"/>
-              <var n="numero"/>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
             <b pos="1"/>
             <lu>

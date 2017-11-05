@@ -3961,7 +3961,7 @@
     <e>       <p><l>censure<s n="n"/></l>             <r>censura<s n="n"/></r></p></e>
     <e>       <p><l>censurer<s n="vblex"/></l>        <r>censurar<s n="vblex"/></r></p></e>
     <e>       <p><l>cent<s n="num"/></l>              <r>cento<s n="num"/></r></p></e>
-    <e r="RL"><p><l>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>cem<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="RL"><p><l>cent<s n="num"/></l>              <r>cem<s n="num"/></r></p></e>
     <e>       <p><l>centaine<s n="n"/></l>            <r>centena<s n="n"/></r></p></e>
     <e>       <p><l>Cent Ans<s n="np"/></l>           <r>Cent Ans<s n="np"/></r></p></e>
     <e>       <p><l>Centaure<s n="np"/></l>           <r>Centauro<s n="np"/></r></p></e>
@@ -4298,17 +4298,12 @@
     <e r="RL"><p><l>cinéma<s n="n"/></l>              <r>cine<s n="n"/></r></p></e>
     <e>       <p><l>cinématographique<s n="adj"/></l> <r>cinematográfico<s n="adj"/></r></p></e>
     <e>       <p><l>cinq<s n="num"/></l>              <r>cinco<s n="num"/></r></p></e>
-    <e r="LR"><p><l>cinq<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>quinhentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>cinq<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>quinhentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>cinq<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>quinhentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>cinq<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>quinhentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>cinq<b/>cent<s n="num"/></l>      <r>quinhentos<s n="num"/></r></p></e>
     <e>       <p><l>cinquante<s n="num"/></l>         <r>cinquenta<s n="num"/></r></p></e>
     <e>       <p><l>cinquante<b/>et<b/>un<s n="num"/></l><r>cinquenta<b/>e<b/>um<s n="num"/></r></p></e>
     <e r="LR"><p><l>cinquante<b/>et<b/>un<s n="det"/></l><r>cinquenta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>cinquante-cinq<s n="num"/></l>    <r>cinquenta<b/>e<b/>cinco<s n="num"/></r></p></e>
-    <e r="LR"><p><l>cinquante-deux<s n="num"/><s n="mf"/></l><r>cinquenta<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>cinquante-deux<s n="num"/><s n="mf"/></l><r>cinquenta<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>cinquante-deux<s n="num"/><s n="mf"/></l><r>cinquenta<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>cinquante-deux<s n="num"/></l>    <r>cinquenta<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>cinquante-et-un<s n="det"/></l>   <r>cinquenta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>cinquante-huit<s n="num"/></l>    <r>cinquenta<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>cinquante-neuf<s n="num"/></l>    <r>cinquenta<b/>e<b/>nove<s n="num"/></r></p></e>
@@ -5636,8 +5631,7 @@
     <e>       <p><l>demeurer<s n="vblex"/></l>        <r>permanecer<s n="vblex"/></r></p></e>
     <e>       <p><l>demi<s n="n"/><s n="m"/></l>      <r>metade<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>demi-finale<s n="n"/></l>         <r>semifinal<s n="n"/></r></p></e>
-    <e r="LR"><p><l>démission<s n="n"/></l>           <r>demissão<s n="n"/></r></p></e>
-    <e vr="br"><p><l>démission<s n="n"/></l>          <r>demissão<s n="n"/></r></p></e>
+    <e>       <p><l>démission<s n="n"/></l>           <r>demissão<s n="n"/></r></p></e>
     <e>       <p><l>démissionner<s n="vblex"/></l>    <r>demitir<s n="vblex"/></r></p></e>
     <e>       <p><l>démocrate<s n="adj"/></l>         <r>democrata<s n="adj"/></r></p></e>
     <e>       <p><l>démocratie<s n="n"/></l>          <r>democracia<s n="n"/></r></p></e>
@@ -5849,13 +5843,8 @@
     <e>       <p><l>Deusto<s n="np"/></l>             <r>Deusto<s n="np"/></r></p></e>
     <e>       <p><l>Deutsche<s n="np"/></l>           <r>Deutsche<s n="np"/></r></p></e>
     <e>       <p><l>Deutshe<s n="np"/></l>            <r>Deutshe<s n="np"/></r></p></e>
-    <e r="LR"><p><l>deux<s n="num"/><s n="mf"/></l>   <r>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>deux<s n="num"/><s n="mf"/></l>   <r>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>deux<s n="num"/><s n="mf"/></l>   <r>dois<s n="num"/><s n="m"/></r></p></e>
-    <e r="LR"><p><l>deux<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>duzentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>deux<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>duzentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>deux<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>duzentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>deux<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>duzentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>deux<s n="num"/></l>              <r>dois<s n="num"/></r></p></e>
+    <e>       <p><l>deux<b/>cent<s n="num"/></l>      <r>duzentos<s n="num"/></r></p></e>
     <e r="LR"><p><l>deuxième<s n="adj"/></l>          <r>segundo<s n="adj"/></r></p></e>
     <e>       <p><l>deuxièmement<s n="adv"/></l>      <r>segundamente<s n="adv"/></r></p></e>
     <e>       <p><l>Deux-Roses<s n="np"/></l>         <r>Deux-Roses<s n="np"/></r></p></e>
@@ -9015,10 +9004,7 @@
     <e>       <p><l>huile<s n="n"/><s n="f"/></l>     <r>óleo<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>huiler<s n="vblex"/></l>          <r>azeitar<s n="vblex"/></r></p></e>
     <e>       <p><l>huit<s n="num"/></l>              <r>oito<s n="num"/></r></p></e>
-    <e r="LR"><p><l>huit<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>oitocentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>huit<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>oitocentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>huit<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>oitocentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>huit<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>oitocentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>huit<b/>cent<s n="num"/></l>      <r>oitocentos<s n="num"/></r></p></e>
     <e>       <p><l>huitième<s n="adj"/></l>          <r>oitavo<s n="adj"/></r></p></e>
     <e>       <p><l>Hu Jintao<s n="np"/></l>          <r>Hu Jintao<s n="np"/></r></p></e>
     <e>       <p><l>Hulot<s n="np"/></l>              <r>Hulot<s n="np"/></r></p></e>
@@ -11647,10 +11633,8 @@
     <e>       <p><l>membre<g><b/>de<b/>l'équipage</g><s n="n"/></l><r>tripulante<s n="n"/></r></p></e>
     <e>       <p><l>même<s n="adv"/></l>              <r>até<b/>mesmo<s n="adv"/></r></p></e>
     <e>       <p><l>même<s n="adv"/></l>              <r>inclusive<s n="adv"/></r></p></e>
-    <e r="LR"><p><l>même<s n="adj"/><s n="ind"/><s n="mf"/></l><r>mesmo<s n="adj"/><s n="GD"/></r></p></e>
     <e r="LR"><p><l>Mème<s n="adj"/><s n="sp"/></l>   <r>M<s n="num"/></r></p></e>
-    <e r="RL"><p><l>même<s n="adj"/><s n="ind"/><s n="mf"/></l><r>mesmo<s n="adj"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>même<s n="adj"/><s n="ind"/><s n="mf"/></l><r>mesmo<s n="adj"/><s n="m"/></r></p></e>
+    <e>       <p><l>même<s n="adj"/><s n="ind"/></l><r>mesmo<s n="adj"/></r></p></e>
     <e>       <p><l>même<b/>pas<s n="cnjadv"/></l>    <r>sequer<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>même<b/>si<s n="cnjadv"/></l>     <r>ainda<b/>que<s n="cnjadv"/></r></p></e>
     <e>       <p><l>mémoire<s n="n"/></l>             <r>memória<s n="n"/></r></p></e>
@@ -12494,10 +12478,7 @@
     <e>       <p><l>nettoyer<s n="vblex"/></l>        <r>limpar<s n="vblex"/></r></p></e>
     <e>       <p><l>neuf<s n="num"/></l>              <r>nove<s n="num"/></r></p></e>
     <e r="LR"><p><l>neuf<s n="adj"/></l>              <r>novo<s n="adj"/></r></p></e>
-    <e r="LR"><p><l>neuf<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>novecentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>neuf<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>novecentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>neuf<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>novecentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>neuf<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>novecentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>neuf<b/>cent<s n="num"/></l>      <r>novecentos<s n="num"/></r></p></e>
     <e>       <p><l>Neuilly<s n="np"/></l>            <r>Neuilly<s n="np"/></r></p></e>
     <e>       <p><l>neurologique<s n="adj"/></l>      <r>neurológico<s n="adj"/></r></p></e>
     <e>       <p><l>neuro-musculaire<s n="adj"/></l>  <r>neuro-muscular<s n="adj"/></r></p></e>
@@ -13302,7 +13283,7 @@
     <e>       <p><l>parier<s n="vblex"/></l>          <r>apostar<s n="vblex"/></r></p></e>
     <e>       <p><l>parier<g><b/>sur</g><s n="vblex"/></l><r>apostar<g><b/>por</g><s n="vblex"/></r></p></e>
     <e>       <p><l>Paris<s n="np"/></l>              <r>Paris<s n="np"/></r></p></e>
-    <e r="RL" c="new-category"><p><l>parisien<s n="adj"/></l><r>parisiense<s n="adj"/></r></p></e>
+    <e>       <p><l>parisien<s n="adj"/></l>          <r>parisiense<s n="adj"/></r></p></e>
     <e>       <p><l>parité<s n="n"/></l>              <r>paridade<s n="n"/></r></p></e>
     <e>       <p><l>Parker<s n="np"/></l>             <r>Parker<s n="np"/></r></p></e>
     <e>       <p><l>Parkinson<s n="np"/></l>          <r>Parkinson<s n="np"/></r></p></e>
@@ -14587,9 +14568,7 @@
     <e>       <p><l>quarante<b/>et<b/>un<s n="num"/></l><r>quarenta<b/>e<b/>um<s n="num"/></r></p></e>
     <e r="LR"><p><l>quarante<b/>et<b/>un<s n="det"/></l><r>quarenta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>quarante-cinq<s n="num"/></l>     <r>quarenta<b/>e<b/>cinco<s n="num"/></r></p></e>
-    <e r="LR"><p><l>quarante-deux<s n="num"/><s n="mf"/></l><r>quarenta<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>quarante-deux<s n="num"/><s n="mf"/></l><r>quarenta<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>quarante-deux<s n="num"/><s n="mf"/></l><r>quarenta<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>quarante-deux<s n="num"/></l>     <r>quarenta<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>quarante-et-un<s n="det"/></l>    <r>quarenta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>quarante-huit<s n="num"/></l>     <r>quarenta<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>quarante-neuf<s n="num"/></l>     <r>quarenta<b/>e<b/>nove<s n="num"/></r></p></e>
@@ -14604,29 +14583,18 @@
     <e>       <p><l>quatorze<s n="num"/></l>          <r>quatorze<s n="num"/></r></p></e>
     <e r="RL"><p><l>quatorze<s n="num"/></l>          <r>catorze<s n="num"/></r></p></e>
     <e>       <p><l>quatre<s n="num"/></l>            <r>quatro<s n="num"/></r></p></e>
-    <e r="LR"><p><l>quatre<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>quatrocentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>quatre<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>quatrocentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>quatre<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>quatrocentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>quatre<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>quatrocentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>quatre<b/>cent<s n="num"/></l>    <r>quatrocentos<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-cinq<s n="num"/></l> <r>oitenta<b/>e<b/>cinco<s n="num"/></r></p></e>
-    <e r="LR"><p><l>quatre-vingt-deux<s n="num"/><s n="mf"/></l><r>oitenta<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-deux<s n="num"/><s n="mf"/></l><r>oitenta<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-deux<s n="num"/><s n="mf"/></l><r>oitenta<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>quatre-vingt-deux<s n="num"/></l> <r>oitenta<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-dix<s n="num"/></l>  <r>noventa<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-dix-huit<s n="num"/></l><r>noventa<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-dix-neuf<s n="num"/></l><r>noventa<b/>e<b/>nove<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-dix-sept<s n="num"/></l><r>noventa<b/>e<b/>sete<s n="num"/></r></p></e>
-    <e r="LR"><p><l>quatre-vingt-douze<s n="num"/><s n="mf"/></l><r>noventa<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-douze<s n="num"/><s n="mf"/></l><r>noventa<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-douze<s n="num"/><s n="mf"/></l><r>noventa<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>quatre-vingt-douze<s n="num"/></l><r>noventa<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-huit<s n="num"/></l> <r>oitenta<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-neuf<s n="num"/></l> <r>oitenta<b/>e<b/>nove<s n="num"/></r></p></e>
-    <e r="LR"><p><l>quatre-vingt-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>quatre-vingt-onze<s n="num"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="det"/><s n="def"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="det"/><s n="def"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-onze<s n="num"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>quatre-vingt-onze<s n="num"/><s n="mf"/></l><r>noventa<b/>e<b/>um<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>quatre-vingt-onze<s n="det"/><s n="def"/></l><r>noventa<b/>e<b/>um<s n="det"/><s n="def"/></r></p></e>
+    <e>       <p><l>quatre-vingt-onze<s n="num"/></l> <r>noventa<b/>e<b/>um<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-quatorze<s n="num"/></l><r>noventa<b/>e<b/>quatro<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-quatre<s n="num"/></l><r>oitenta<b/>e<b/>quatro<s n="num"/></r></p></e>
     <e>       <p><l>quatre-vingt-quinze<s n="num"/></l><r>noventa<b/>e<b/>cinco<s n="num"/></r></p></e>
@@ -16233,10 +16201,7 @@
     <e>       <p><l>séparatiste<s n="adj"/></l>       <r>separatista<s n="adj"/></r></p></e>
     <e>       <p><l>séparer<s n="vblex"/></l>         <r>separar<s n="vblex"/></r></p></e>
     <e>       <p><l>sept<s n="num"/></l>              <r>sete<s n="num"/></r></p></e>
-    <e r="LR"><p><l>sept<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>setecentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>sept<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>setecentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>sept<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>setecentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>sept<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>setecentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>sept<b/>cent<s n="num"/></l>      <r>setecentos<s n="num"/></r></p></e>
     <e>       <p><l>septembre<s n="n"/></l>           <r>setembro<s n="n"/></r></p></e>
     <e>       <p><l>septentrional<s n="adj"/></l>     <r>setentrional<s n="adj"/></r></p></e>
     <e>       <p><l>septième<s n="adj"/></l>          <r>sétimo<s n="adj"/></r></p></e>
@@ -16436,10 +16401,7 @@
     <e r="RL"><p><l>situer<s n="vblex"/></l>          <r>situar<s n="vblex"/></r></p></e>
     <e>       <p><l>Siurana<s n="np"/></l>            <r>Siurana<s n="np"/></r></p></e>
     <e>       <p><l>six<s n="num"/></l>               <r>seis<s n="num"/></r></p></e>
-    <e r="LR"><p><l>six<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>seiscentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>six<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>seiscentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>six<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>seiscentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>six<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>seiscentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>six<b/>cent<s n="num"/></l>       <r>seiscentos<s n="num"/></r></p></e>
     <e>       <p><l>sixième<s n="adj"/></l>           <r>sexto<s n="adj"/></r></p></e>
     <e vr="br"><p><l>ski<s n="n"/></l>                <r>esquí<s n="n"/></r></p></e>
     <e vr="pt"><p><l>ski<s n="n"/></l>                <r>esqui<s n="n"/></r></p></e>
@@ -16506,25 +16468,17 @@
     <e>       <p><l>soixante<b/>et<b/>un<s n="num"/></l><r>sessenta<b/>e<b/>um<s n="num"/></r></p></e>
     <e r="LR"><p><l>soixante<b/>et<b/>un<s n="det"/></l><r>sessenta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>soixante-cinq<s n="num"/></l>     <r>sessenta<b/>e<b/>cinco<s n="num"/></r></p></e>
-    <e r="LR"><p><l>soixante-deux<s n="num"/><s n="mf"/></l><r>sessenta<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>soixante-deux<s n="num"/><s n="mf"/></l><r>sessenta<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>soixante-deux<s n="num"/><s n="mf"/></l><r>sessenta<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>soixante-deux<s n="num"/></l>     <r>sessenta<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>soixante-dix<s n="num"/></l>      <r>setenta<s n="num"/></r></p></e>
     <e>       <p><l>soixante-dix-huit<s n="num"/></l> <r>setenta<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>soixante-dix-neuf<s n="num"/></l> <r>setenta<b/>e<b/>nove<s n="num"/></r></p></e>
     <e>       <p><l>soixante-dix-sept<s n="num"/></l> <r>setenta<b/>e<b/>sete<s n="num"/></r></p></e>
-    <e r="LR"><p><l>soixante-douze<s n="num"/><s n="mf"/></l><r>setenta<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>soixante-douze<s n="num"/><s n="mf"/></l><r>setenta<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>soixante-douze<s n="num"/><s n="mf"/></l><r>setenta<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>soixante-douze<s n="num"/></l>    <r>setenta<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>soixante-et-un<s n="det"/></l>    <r>sessenta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>soixante-huit<s n="num"/></l>     <r>sessenta<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>soixante-neuf<s n="num"/></l>     <r>sessenta<b/>e<b/>nove<s n="num"/></r></p></e>
-    <e r="LR"><p><l>soixante-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
-    <e r="LR"><p><l>soixante-onze<s n="num"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>soixante-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="det"/><s n="def"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>soixante-onze<s n="det"/><s n="def"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="det"/><s n="def"/><s n="m"/></r></p></e>
-    <e r="RL"><p><l>soixante-onze<s n="num"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>soixante-onze<s n="num"/><s n="mf"/></l><r>setenta<b/>e<b/>um<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>soixante-onze<s n="det"/><s n="def"/></l><r>setenta<b/>e<b/>um<s n="det"/><s n="def"/></r></p></e>
+    <e>       <p><l>soixante-onze<s n="num"/></l>     <r>setenta<b/>e<b/>um<s n="num"/></r></p></e>
     <e>       <p><l>soixante-quatorze<s n="num"/></l> <r>setenta<b/>e<b/>quatro<s n="num"/></r></p></e>
     <e>       <p><l>soixante-quatre<s n="num"/></l>   <r>sessenta<b/>e<b/>quatro<s n="num"/></r></p></e>
     <e>       <p><l>soixante-quinze<s n="num"/></l>   <r>setenta<b/>e<b/>cinco<s n="num"/></r></p></e>
@@ -17724,9 +17678,7 @@
     <e>       <p><l>trente<b/>et<b/>un<s n="num"/></l><r>trinta<b/>e<b/>um<s n="num"/></r></p></e>
     <e r="LR"><p><l>trente<b/>et<b/>un<s n="det"/></l><r>trinta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>trente-cinq<s n="num"/></l>       <r>trinta<b/>e<b/>cinco<s n="num"/></r></p></e>
-    <e r="LR"><p><l>trente-deux<s n="num"/><s n="mf"/></l><r>trinta<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>trente-deux<s n="num"/><s n="mf"/></l><r>trinta<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>trente-deux<s n="num"/><s n="mf"/></l><r>trinta<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>trente-deux<s n="num"/></l>       <r>trinta<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>trente-et-un<s n="det"/></l>      <r>trinta<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>trente-huit<s n="num"/></l>       <r>trinta<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>trente-neuf<s n="num"/></l>       <r>trinta<b/>e<b/>nove<s n="num"/></r></p></e>
@@ -17774,10 +17726,7 @@
     <e>       <p><l>Trocadéro<s n="np"/></l>          <r>Trocadéro<s n="np"/></r></p></e>
     <e>       <p><l>Troie<s n="np"/></l>              <r>Troia<s n="np"/></r></p></e>
     <e>       <p><l>trois<s n="num"/></l>             <r>três<s n="num"/></r></p></e>
-    <e r="LR"><p><l>trois<b/>cent<s n="num"/><s n="mf"/><s n="pl"/></l><r>trezentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>trois<b/>cent<s n="num"/><s n="mf"/><s n="sg"/></l><r>trezentos<s n="num"/><s n="GD"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>trois<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>trezentos<s n="num"/><s n="f"/><s n="sp"/></r></p></e>
-    <e r="RL"><p><l>trois<b/>cent<s n="num"/><s n="mf"/><s n="ND"/></l><r>trezentos<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>trois<b/>cent<s n="num"/></l>     <r>trezentos<s n="num"/></r></p></e>
     <e>       <p><l>troisième<s n="adj"/></l>         <r>terceiro<s n="adj"/></r></p></e>
     <e>       <p><l>tromper<s n="vblex"/></l>         <r>enganar<s n="vblex"/></r></p></e>
     <e>       <p><l>tromper<s n="vblex"/></l>         <r>equivocar<s n="vblex"/></r></p></e>
@@ -17896,7 +17845,7 @@
     <e>       <p><l>UMP<s n="np"/></l>                <r>UMP<s n="np"/></r></p></e>
     <e>       <p><l>Umpro<s n="np"/></l>              <r>Umpro<s n="np"/></r></p></e>
     <e>       <p><l>un<s n="det"/></l>                <r>um<s n="det"/></r></p></e>
-    <e>       <p><l>un<s n="num"/><s n="m"/><s n="sg"/></l><r>um<s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+    <e>       <p><l>un<s n="num"/></l>                <r>um<s n="num"/></r></p></e>
     <e>       <p><l>un<s n="prn"/></l>                <r>um<s n="prn"/></r></p></e>
     <e>       <p><l>Unai<s n="np"/></l>               <r>Unai<s n="np"/></r></p></e>
     <e>       <p><l>unanime<s n="adj"/></l>           <r>unânime<s n="adj"/></r></p></e>
@@ -18332,9 +18281,7 @@
     <e>       <p><l>vingt<b/>et<b/>un<s n="num"/></l> <r>vinte<b/>e<b/>um<s n="num"/></r></p></e>
     <e r="LR"><p><l>vingt<b/>et<b/>un<s n="det"/></l> <r>vinte<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>vingt-cinq<s n="num"/></l>        <r>vinte<b/>e<b/>cinco<s n="num"/></r></p></e>
-    <e r="LR"><p><l>vingt-deux<s n="num"/><s n="mf"/></l><r>vinte<b/>e<b/>dois<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>vingt-deux<s n="num"/><s n="mf"/></l><r>vinte<b/>e<b/>dois<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>vingt-deux<s n="num"/><s n="mf"/></l><r>vinte<b/>e<b/>dois<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>vingt-deux<s n="num"/></l>        <r>vinte<b/>e<b/>dois<s n="num"/></r></p></e>
     <e>       <p><l>vingt-et-un<s n="det"/></l>       <r>vinte<b/>e<b/>um<s n="det"/></r></p></e>
     <e>       <p><l>vingt-huit<s n="num"/></l>        <r>vinte<b/>e<b/>oito<s n="num"/></r></p></e>
     <e>       <p><l>vingtième<s n="adj"/></l>         <r>vigésimo<s n="adj"/></r></p></e>
@@ -18686,9 +18633,7 @@
     <e>       <p><l>Zeltia<s n="np"/></l>             <r>Zeltia<s n="np"/></r></p></e>
     <e>       <p><l>Zenarrutzabeitia<s n="np"/></l>   <r>Zenarrutzabeitia<s n="np"/></r></p></e>
     <e>       <p><l>Zengotitabengoa<s n="np"/></l>    <r>Zengotitabengoa<s n="np"/></r></p></e>
-    <e r="LR"><p><l>zéro<s n="num"/><s n="mf"/></l>   <r>zero<s n="num"/><s n="GD"/></r></p></e>
-    <e r="RL"><p><l>zéro<s n="num"/><s n="mf"/></l>   <r>zero<s n="num"/><s n="f"/></r></p></e>
-    <e r="RL"><p><l>zéro<s n="num"/><s n="mf"/></l>   <r>zero<s n="num"/><s n="m"/></r></p></e>
+    <e>       <p><l>zéro<s n="num"/></l>              <r>zero<s n="num"/></r></p></e>
     <e>       <p><l>Zeta<s n="np"/></l>               <r>Zeta<s n="np"/></r></p></e>
     <e>       <p><l>Zeus<s n="np"/></l>               <r>Zeus<s n="np"/></r></p></e>
     <e>       <p><l>Zhang<s n="np"/></l>              <r>Zhang<s n="np"/></r></p></e>
