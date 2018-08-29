@@ -28142,6 +28142,7 @@
     <e lm="remédio">                        <i>remédio</i><par n="abatimento__n"/></e>
     <e lm="Remei">                          <i>Remei</i><par n="Nome__np"/></e>
     <e lm="remessa">                        <i>remessa</i><par n="abadia__n"/></e>
+    <e lm="remetente">                      <i>remetente</i><par n="accionista__n"/></e>
     <e lm="remeter">                        <i>remet</i><par n="abat/er__vblex"/></e>
     <e lm="reminiscência">                  <i>reminiscência</i><par n="abadia__n"/></e>
     <e lm="remo">                           <i>remo</i><par n="abatimento__n"/></e>

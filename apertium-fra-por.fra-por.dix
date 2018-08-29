@@ -7345,7 +7345,9 @@
     <e>       <p><l>expansion<s n="n"/></l>           <r>expansão<s n="n"/></r></p></e>
     <e>       <p><l>expectative<s n="n"/></l>         <r>expectativa<s n="n"/></r></p></e>
     <e>       <p><l>expédier<s n="vblex"/></l>        <r>remeter<s n="vblex"/></r></p></e>
-    <e>       <p><l>expédition<s n="n"/></l>          <r>expedição<s n="n"/></r></p></e>
+    <e>       <p><l>expéditeur<s n="n"/></l>          <r>remetente<s n="n"/></r></p></e>
+    <e>       <p><l>expédition<s n="n"/></l>          <r>expedição<s n="n"/></r></p></e>    
+    <e r="LR"><p><l>d'un<b/>coté<s n="cnjadv"/></l>   <r>por<b/>una<b/>parte<s n="cnjadv"/></r></p></e>
     <e>       <p><l>expérience<s n="n"/></l>          <r>experiência<s n="n"/></r></p></e>
     <e>       <p><l>expérience<s n="n"/><s n="f"/></l><r>experimento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>expérience<s n="n"/></l>          <r>vivência<s n="n"/></r></p></e>
