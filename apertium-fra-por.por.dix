@@ -21411,6 +21411,7 @@
     <e lm="facturar">                       <i>factur</i><par n="abal/ar__vblex"/></e>
     <e lm="faculdade">                      <i>faculdade</i><par n="abadia__n"/></e>
     <e lm="facultar">                       <i>facult</i><par n="abal/ar__vblex"/></e>
+    <e lm="facultativo">                    <i>facultativ</i><par n="abert/o__adj"/></e>
     <e lm="fadiga">                         <i>fadiga</i><par n="abadia__n"/></e>
     <e lm="Fadura">                         <i>Fadura</i><par n="Lugar__np"/></e>
     <e lm="Fagatogo">                       <i>Fagatogo</i><par n="Lugar__np"/></e>
@@ -24687,6 +24688,7 @@
     <e lm="mais">                           <i>mais</i><par n="Op.Cit.__adv"/></e>
     <e lm="mais rápido">                    <i>mais<b/>rápido</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="Maite">                          <i>Maite</i><par n="Nome__np"/></e>
+    <e lm="maiúscula">                      <i>maiúscula</i><par n="abadia__n"/></e>
     <e lm="maiúsculo">                      <i>maiúscul</i><par n="abert/o__adj"/></e>
     <e lm="Maiza">                          <i>Maiza</i><par n="Nome__np"/></e>
     <e lm="majestade">                      <i>majestade</i><par n="abadia__n"/></e>
@@ -25027,9 +25029,11 @@
     <e lm="Mauritânia">                     <i>Mauritânia</i><par n="Lugar__np"/></e>
     <e lm="Max">                            <i>Max</i><par n="Nome__np"/></e>
     <e lm="Maxi">                           <i>Maxi</i><par n="Outro__np"/></e>
+    <e lm="Maxime">                         <i>Maxime</i><par n="Nome__np"/></e>
     <e lm="maximizar">                      <i>maximiz</i><par n="abal/ar__vblex"/></e>
     <e lm="Maximo">                         <i>Maximo</i><par n="Nome__np"/></e>
     <e lm="máximo">                         <i>máxim</i><par n="abert/o__adj"/></e>
+    <e lm="máximo">                         <i>máximo</i><par n="abatimento__n"/></e>
     <e lm="Maya">                           <i>Maya</i><par n="Nome__np"/></e>
     <e lm="Mayenne">                        <i>Mayenne</i><par n="Lugar__np"/></e>
     <e lm="Mayotte">                        <i>Mayotte</i><par n="Lugar__np"/></e>
@@ -25120,6 +25124,7 @@
     <e lm="Melun">                          <i>Melun</i><par n="Lugar__np"/></e>
     <e lm="membro">                         <i>membro</i><par n="abatimento__n"/></e>
     <e lm="memória">                        <i>memória</i><par n="abadia__n"/></e>
+    <e lm="memorizar">                      <i>memoriz</i><par n="abal/ar__vblex"/></e>
     <e lm="Mena">                           <i>Mena</i><par n="Lugar__np"/></e>
     <e lm="menção">                         <i>menç</i><par n="aceitaç/ão__n"/></e>
     <e lm="mencionar">                      <i>mencion</i><par n="abal/ar__vblex"/></e>
@@ -25317,6 +25322,7 @@
     <e lm="miniatura">                      <i>miniatura</i><par n="abadia__n"/></e>
     <e lm="minimizar">                      <i>minimiz</i><par n="abal/ar__vblex"/></e>
     <e lm="mínimo">                         <i>mínim</i><par n="abert/o__adj"/></e>
+    <e lm="mínimo">                         <i>mínimo</i><par n="abatimento__n"/></e>
     <e lm="ministerial">                    <i>ministeria</i><par n="aceitáve/l__adj"/></e>
     <e lm="ministério">                     <i>ministério</i><par n="abatimento__n"/></e>
     <e lm="ministro">                       <i>ministr</i><par n="adept/o__n"/></e>
@@ -25327,6 +25333,7 @@
     <e lm="minoritário">                    <i>minoritári</i><par n="abert/o__adj"/></e>
     <e lm="Minsk">                          <i>Minsk</i><par n="Lugar__np"/></e>
     <e lm="Mintzola">                       <i>Mintzola</i><par n="Outro__np"/></e>
+    <e lm="minúscula">                      <i>minúscula</i><par n="abadia__n"/></e>
     <e lm="minúsculo">                      <i>minúscul</i><par n="abert/o__adj"/></e>
     <e lm="minuto">                         <i>minuto</i><par n="abatimento__n"/></e>
     <e lm="miologia">                       <i>miologia</i><par n="abadia__n"/></e>
@@ -26251,6 +26258,7 @@
     <e lm="opacidade">                      <i>opacidade</i><par n="abadia__n"/></e>
     <e lm="opaco">                          <i>opac</i><par n="abert/o__adj"/></e>
     <e lm="opção">                          <i>opç</i><par n="aceitaç/ão__n"/></e>
+    <e lm="opcional">                       <i>opciona</i><par n="aceitáve/l__adj"/></e>
     <e lm="Opel">                           <i>Opel</i><par n="Outro__np"/></e>
     <e lm="Open Office">                    <i>Open<b/>Office</i><par n="Outro__np"/></e>
     <e lm="ópera">                          <i>ópera</i><par n="abadia__n"/></e>

@@ -11923,7 +11923,7 @@
     <e lm="Détroit de Floride">             <i>Détroit<b/>de<b/>Floride</i><par n="Lieu__np"/></e>
     <e lm="détroit de Gibraltar">           <i>détroit<b/>de<b/>Gibraltar</i><par n="Lieu__np"/></e>
     <e lm="Détroit de Messine">             <i>Détroit<b/>de<b/>Messine</i><par n="Lieu__np"/></e>
-    <e lm="détruire">                       <i>détru</i><par n="lu/i[]re__vblex" prm=""/></e>
+    <e lm="détruire">                       <i>détrui</i><par n="condui/re__vblex" prm=""/></e>
     <e lm="dette">                          <i>dette</i><par n="abeille__n"/></e>
     <e lm="deuil">                          <i>deuil</i><par n="livre__n"/></e>
     <e lm="Deusto">                         <i>Deusto</i><par n="Lieu__np"/></e>
@@ -13480,6 +13480,7 @@
     <e lm="facturation">                    <i>facturation</i><par n="abeille__n"/></e>
     <e lm="facture">                        <i>facture</i><par n="abeille__n"/></e>
     <e lm="facturer">                       <i>factur</i><par n="abaiss/er__vblex"/></e>
+    <e lm="facultatif">                     <i>facultati</i><par n="affirmati/f__adj"/></e>
     <e lm="faculté">                        <i>faculté</i><par n="abeille__n"/></e>
     <e lm="Fadura">                         <i>Fadura</i><par n="Lieu__np"/></e>
     <e lm="Fagatogo">                       <i>Fagatogo</i><par n="Lieu__np"/></e>
@@ -16750,6 +16751,8 @@
     <e lm="majorité">                       <i>majorité</i><par n="abeille__n"/></e>
     <e lm="Majorque">                       <i>Majorque</i><par n="Lieu__np"/></e>
     <e lm="Majuro">                         <i>Majuro</i><par n="Lieu__np"/></e>
+    <e lm="majuscule">                      <i>majuscule</i><par n="abeille__n"/></e>
+    <e lm="majuscule">                      <i>majuscule</i><par n="académique__adj"/></e>
     <e lm="mal">                            <i>ma</i><par n="anima/l__n"/></e>
     <e lm="mal">                            <i>mal</i><par n="hier__adv"/></e>
     <e lm="mal">                            <i>mal</i><par n="très__preadv"/></e>
@@ -17053,8 +17056,11 @@
     <e lm="Max">                            <i>Max</i><par n="Nom__np"/></e>
     <e lm="Maxi">                           <i>Maxi</i><par n="Autre__np"/></e>
     <e lm="maximal">                        <i>maxima</i><par n="amica/l__adj"/></e>
+    <e lm="Maxime">                         <i>Maxime</i><par n="Nom__np"/></e>
     <e lm="maximiser">                      <i>maximis</i><par n="abaiss/er__vblex"/></e>
     <e lm="Maximo">                         <i>Maximo</i><par n="Nom__np"/></e>
+    <e lm="maximum">                        <i>maximum</i><par n="académique__adj"/></e>
+    <e lm="maximum">                        <i>maximum</i><par n="livre__n"/></e>
     <e lm="Maya">                           <i>Maya</i><par n="Nom__np"/></e>
     <e lm="Mayence">                        <i>Mayence</i><par n="Lieu__np"/></e>
     <e lm="Mayenne">                        <i>Mayenne</i><par n="Lieu__np"/></e>
@@ -17144,6 +17150,7 @@
     <e lm="même pas">                       <i>même<b/>pas</i><par n="afin_que__cnjadv"/></e>
     <e lm="même si">                        <i>même<b/>si</i><par n="afin_que__cnjadv"/></e>
     <e lm="mémoire">                        <i>mémoire</i><par n="abeille__n"/></e>
+    <e lm="mémoriser">                      <i>mémoris</i><par n="abaiss/er__vblex"/></e>
     <e lm="Mena">                           <i>Mena</i><par n="Lieu__np"/></e>
     <e lm="menace">                         <i>menace</i><par n="abeille__n"/></e>
     <e lm="menacer">                        <i>mena</i><par n="annon/cer__vblex"/></e>
@@ -17369,6 +17376,8 @@
     <e lm="minimal">                        <i>minima</i><par n="amica/l__adj"/></e>
     <e lm="minime">                         <i>minime</i><par n="académique__adj"/></e>
     <e lm="minimiser">                      <i>minimis</i><par n="abaiss/er__vblex"/></e>
+    <e lm="minimum">                        <i>minimum</i><par n="académique__adj"/></e>
+    <e lm="minimum">                        <i>minimum</i><par n="livre__n"/></e>
     <e lm="ministère">                      <i>ministère</i><par n="livre__n"/></e>
     <e lm="ministériel">                    <i>ministériel</i><par n="annuel__adj"/></e>
     <e lm="ministre">                       <i>ministre</i><par n="artiste__n"/></e>
@@ -17382,6 +17391,7 @@
     <e lm="Mintzola">                       <i>Mintzola</i><par n="Autre__np"/></e>
     <e lm="minuit">                         <i>minuit</i><par n="hier__adv"/></e>
     <e lm="minuit">                         <i>minuit</i><par n="livre__n"/></e>
+    <e lm="minuscule">                      <i>minuscule</i><par n="abeille__n"/></e>
     <e lm="minuscule">                      <i>minuscule</i><par n="académique__adj"/></e>
     <e lm="minute">                         <i>minute</i><par n="abeille__n"/></e>
     <e lm="Miquel">                         <i>Miquel</i><par n="Nom__np"/></e>
@@ -18263,6 +18273,7 @@
     <e lm="optimisme">                      <i>optimisme</i><par n="livre__n"/></e>
     <e lm="optimiste">                      <i>optimiste</i><par n="académique__adj"/></e>
     <e lm="option">                         <i>option</i><par n="abeille__n"/></e>
+    <e lm="optionnel">                      <i>optionnel</i><par n="annuel__adj"/></e>
     <e lm="or">                             <i>or</i><par n="afin_que__cnjadv"/></e>
     <e lm="or">                             <i>or</i><par n="livre__n"/></e>
     <e lm="oraison">                        <i>oraison</i><par n="abeille__n"/></e>

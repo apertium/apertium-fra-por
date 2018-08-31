@@ -6284,6 +6284,7 @@
     <e>       <p><l>Dumons<s n="np"/></l>             <r>Dumons<s n="np"/></r></p></e>
     <e>       <p><l>Dumont<s n="np"/></l>             <r>Dumont<s n="np"/></r></p></e>
     <e>       <p><l>dumper<s n="vblex"/></l>          <r>verter<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>d'un<b/>coté<s n="cnjadv"/></l>   <r>por<b/>una<b/>parte<s n="cnjadv"/></r></p></e>
     <e>       <p><l>Dunkerque<s n="np"/></l>          <r>Dunkerque<s n="np"/></r></p></e>
     <e>       <p><l>Dunkerque<s n="np"/></l>          <r>Dunquerque<s n="np"/></r></p></e>
     <e>       <p><l>duper<s n="vblex"/></l>           <r>enganar<s n="vblex"/></r></p></e>
@@ -7346,8 +7347,7 @@
     <e>       <p><l>expectative<s n="n"/></l>         <r>expectativa<s n="n"/></r></p></e>
     <e>       <p><l>expédier<s n="vblex"/></l>        <r>remeter<s n="vblex"/></r></p></e>
     <e>       <p><l>expéditeur<s n="n"/></l>          <r>remetente<s n="n"/></r></p></e>
-    <e>       <p><l>expédition<s n="n"/></l>          <r>expedição<s n="n"/></r></p></e>    
-    <e r="LR"><p><l>d'un<b/>coté<s n="cnjadv"/></l>   <r>por<b/>una<b/>parte<s n="cnjadv"/></r></p></e>
+    <e>       <p><l>expédition<s n="n"/></l>          <r>expedição<s n="n"/></r></p></e>
     <e>       <p><l>expérience<s n="n"/></l>          <r>experiência<s n="n"/></r></p></e>
     <e>       <p><l>expérience<s n="n"/><s n="f"/></l><r>experimento<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>expérience<s n="n"/></l>          <r>vivência<s n="n"/></r></p></e>
@@ -7467,6 +7467,7 @@
     <e r="RL"><p><l>facturer<s n="vblex"/></l>        <r>faturar<s n="vblex"/></r></p></e>
     <e vr="br"><p><l>facturer<s n="vblex"/></l>       <r>faturar<s n="vblex"/></r></p></e>
     <e vr="pt"><p><l>facturer<s n="vblex"/></l>       <r>facturar<s n="vblex"/></r></p></e>
+    <e>       <p><l>facultatif<s n="adj"/></l>        <r>facultativo<s n="adj"/></r></p></e>
     <e>       <p><l>faculté<s n="n"/></l>             <r>faculdade<s n="n"/></r></p></e>
     <e>       <p><l>Fadura<s n="np"/></l>             <r>Fadura<s n="np"/></r></p></e>
     <e>       <p><l>Fagatogo<s n="np"/></l>           <r>Fagatogo<s n="np"/></r></p></e>
@@ -11210,6 +11211,7 @@
     <e>       <p><l>Majorque<s n="np"/></l>           <r>Maiorca<s n="np"/></r></p></e>
     <e>       <p><l>Majuro<s n="np"/></l>             <r>Majuro<s n="np"/></r></p></e>
     <e>       <p><l>majuscule<s n="adj"/></l>         <r>maiúsculo<s n="adj"/></r></p></e>
+    <e>       <p><l>majuscule<s n="n"/></l>           <r>maiúscula<s n="n"/></r></p></e>
     <e>       <p><l>mal<s n="adv"/></l>               <r>mal<s n="adv"/></r></p></e>
     <e>       <p><l>mal<s n="n"/></l>                 <r>mal<s n="n"/></r></p></e>
     <e>       <p><l>mal<s n="preadv"/></l>            <r>mal<s n="preadv"/></r></p></e>
@@ -11540,8 +11542,11 @@
     <e>       <p><l>Max<s n="np"/></l>                <r>Max<s n="np"/></r></p></e>
     <e>       <p><l>Maxi<s n="np"/></l>               <r>Maxi<s n="np"/></r></p></e>
     <e>       <p><l>maximal<s n="adj"/></l>           <r>máximo<s n="adj"/></r></p></e>
+    <e>       <p><l>Maxime<s n="np"/></l>             <r>Maxime<s n="np"/></r></p></e>
     <e>       <p><l>maximiser<s n="vblex"/></l>       <r>maximizar<s n="vblex"/></r></p></e>
     <e>       <p><l>Maximo<s n="np"/></l>             <r>Maximo<s n="np"/></r></p></e>
+    <e>       <p><l>maximum<s n="n"/></l>             <r>máximo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>maximum<s n="adj"/></l>           <r>máximo<s n="adj"/></r></p></e>
     <e>       <p><l>Maya<s n="np"/></l>               <r>Maya<s n="np"/></r></p></e>
     <e>       <p><l>Mayence<s n="np"/></l>            <r>Mainz<s n="np"/></r></p></e>
     <e>       <p><l>Mayenne<s n="np"/></l>            <r>Mayenne<s n="np"/></r></p></e>
@@ -11633,13 +11638,14 @@
     <e>       <p><l>membre<s n="n"/></l>              <r>membro<s n="n"/></r></p></e>
     <e r="RL"><p><l>membre de l'équipage<s n="n"/></l><r>tripulante<s n="n"/></r></p></e>
     <e>       <p><l>membre<g><b/>de<b/>l'équipage</g><s n="n"/></l><r>tripulante<s n="n"/></r></p></e>
+    <e>       <p><l>même<s n="adj"/><s n="ind"/></l>  <r>mesmo<s n="adj"/></r></p></e>
     <e>       <p><l>même<s n="adv"/></l>              <r>até<b/>mesmo<s n="adv"/></r></p></e>
     <e>       <p><l>même<s n="adv"/></l>              <r>inclusive<s n="adv"/></r></p></e>
     <e r="LR"><p><l>Mème<s n="adj"/><s n="sp"/></l>   <r>M<s n="num"/></r></p></e>
-    <e>       <p><l>même<s n="adj"/><s n="ind"/></l><r>mesmo<s n="adj"/></r></p></e>
     <e>       <p><l>même<b/>pas<s n="cnjadv"/></l>    <r>sequer<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>même<b/>si<s n="cnjadv"/></l>     <r>ainda<b/>que<s n="cnjadv"/></r></p></e>
     <e>       <p><l>mémoire<s n="n"/></l>             <r>memória<s n="n"/></r></p></e>
+    <e>       <p><l>mémoriser<s n="vblex"/></l>       <r>memorizar<s n="vblex"/></r></p></e>
     <e>       <p><l>Mena<s n="np"/></l>               <r>Mena<s n="np"/></r></p></e>
     <e>       <p><l>menace<s n="n"/></l>              <r>ameaça<s n="n"/></r></p></e>
     <e>       <p><l>menacer<s n="vblex"/></l>         <r>ameaçar<s n="vblex"/></r></p></e>
@@ -11902,6 +11908,8 @@
     <e r="LR"><p><l>minimal<s n="adj"/></l>           <r>mínimo<s n="adj"/></r></p></e>
     <e>       <p><l>minime<s n="adj"/></l>            <r>mínimo<s n="adj"/></r></p></e>
     <e>       <p><l>minimiser<s n="vblex"/></l>       <r>minimizar<s n="vblex"/></r></p></e>
+    <e>       <p><l>minimum<s n="n"/></l>             <r>mínimo<s n="n"/></r></p></e>
+    <e r="LR"><p><l>minimum<s n="adj"/></l>           <r>mínimo<s n="adj"/></r></p></e>
     <e>       <p><l>ministère<s n="n"/></l>           <r>ministério<s n="n"/></r></p></e>
     <e>       <p><l>ministère<b/>public<s n="n"/><s n="m"/></l><r>promotoria<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>ministériel<s n="adj"/></l>       <r>ministerial<s n="adj"/></r></p></e>
@@ -11916,6 +11924,7 @@
     <e>       <p><l>minuit<s n="adv"/></l>            <r>meia<b/>noite<s n="adv"/></r></p></e>
     <e>       <p><l>minuit<s n="n"/><s n="m"/></l>    <r>meia-noite<s n="n"/><s n="f"/></r></p></e>
     <e>       <p><l>minuscule<s n="adj"/></l>         <r>minúsculo<s n="adj"/></r></p></e>
+    <e>       <p><l>minuscule<s n="n"/></l>           <r>minúscula<s n="n"/></r></p></e>
     <e r="RL"><p><l>minuscule<s n="adj"/></l>         <r>diminuto<s n="adj"/></r></p></e>
     <e>       <p><l>minute<s n="n"/><s n="f"/></l>    <r>minuto<s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>Miquel<s n="np"/></l>             <r>Miquel<s n="np"/></r></p></e>
@@ -12942,6 +12951,7 @@
     <e vr="br"><p><l>optimiste<s n="adj"/></l>        <r>otimista<s n="adj"/></r></p></e>
     <e vr="pt"><p><l>optimiste<s n="adj"/></l>        <r>optimista<s n="adj"/></r></p></e>
     <e>       <p><l>option<s n="n"/></l>              <r>opção<s n="n"/></r></p></e>
+    <e>       <p><l>optionnel<s n="adj"/></l>         <r>opcional<s n="adj"/></r></p></e>
     <e>       <p><l>or<s n="n"/></l>                  <r>ouro<s n="n"/></r></p></e>
     <e r="LR"><p><l>or<s n="cnjadv"/></l>             <r>não<b/>obstante<s n="cnjadv"/></r></p></e>
     <e>       <p><l>oraison<s n="n"/></l>             <r>oração<s n="n"/></r></p></e>
