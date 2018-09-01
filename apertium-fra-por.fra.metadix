@@ -13087,7 +13087,7 @@
     <e lm="essor">                          <i>essor</i><par n="livre__n"/></e>
     <e lm="essouffler">                     <i>essouffl</i><par n="abaiss/er__vblex"/></e>
     <e lm="essuie-mains">                   <i>essuie-mains</i><par n="mois__n"/></e>
-    <e lm="est">                            <i>est</i><par n="personnel__n"/></e>
+    <e r="RL" lm="est">                     <i>est</i><par n="personnel__n"/></e>  <!-- restriction de direction pour éviter une ambiguité d'analyse avec le verbe être ! -->
     <e lm="estamper">                       <i>estamp</i><par n="abaiss/er__vblex"/></e>
     <e lm="Estanislao">                     <i>Estanislao</i><par n="Nom__np"/></e>
     <e lm="Esteban">                        <i>Esteban</i><par n="Nom__np"/></e>
