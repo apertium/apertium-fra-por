@@ -3256,6 +3256,10 @@
     <e>       <p><l>bois<s n="n"/><s n="m"/></l>      <r>madeira<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>bois<s n="n"/></l>                <r>arvoredo<s n="n"/></r></p></e>
     <e>       <p><l>boisson<s n="n"/></l>             <r>bebida<s n="n"/></r></p></e>
+    <e>       <p><l>boîte<s n="n"/></l>               <r>caixa<s n="n"/></r></p></e>
+    <e>       <p><l>boîte<g><b/>aux<b/>lettres</g><s n="n"/></l><r>caixa<g><b/>de<b/>correio</g><s n="n"/></r></p></e>
+    <e>       <p><l>boîte<g><b/>de<b/>conserve</g><s n="n"/></l><r>lata<g><b/>de<b/>conservas</g><s n="n"/></r></p></e>
+    <e>       <p><l>boîte<g><b/>postale</g><s n="n"/><s n="f"/></l><r>caixa<g><b/>postal</g><s n="n"/><s n="m"/></r></p></e>
     <e>       <p><l>boitement<s n="n"/></l>           <r>manqueira<s n="n"/></r></p></e>
     <e>       <p><l>Bolado<s n="np"/></l>             <r>Bolado<s n="np"/></r></p></e>
     <e>       <p><l>Bolena<s n="np"/></l>             <r>Bolena<s n="np"/></r></p></e>
@@ -3594,7 +3598,6 @@
     <e>       <p><l>Caïn<s n="np"/></l>               <r>Caim<s n="np"/></r></p></e>
     <e>       <p><l>Caïphe<s n="np"/></l>             <r>Caifás<s n="np"/></r></p></e>
     <e>       <p><l>caisse<s n="n"/></l>              <r>caixa<s n="n"/></r></p></e>
-    <e>       <p><l>Caisse d'Éparge de Saint-Sébastien<s n="np"/></l><r>Caisse d'Éparge de Saint-Sébastien<s n="np"/></r></p></e>
     <e>       <p><l>caisse d'épargne<s n="np"/></l>   <r>caisse d'épargne<s n="np"/></r></p></e>
     <e>       <p><l>Caixa<s n="np"/></l>              <r>Caixa<s n="np"/></r></p></e>
     <e>       <p><l>Caixanova<s n="np"/></l>          <r>Caixanova<s n="np"/></r></p></e>

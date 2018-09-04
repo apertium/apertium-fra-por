@@ -9671,11 +9671,14 @@
     <e lm="bois">                           <i>bois</i><par n="mois__n"/></e>
     <e lm="boisson">                        <i>boisson</i><par n="abeille__n"/></e>
     <e lm="boite" r="LR">                   <i>boite</i><par n="abeille__n"/></e>
+    <e lm="boîte">                          <i>boîte</i><par n="abeille__n"/></e>
     <e lm="boite aux lettres" r="LR">       <i>boite</i><par n="abeille__n"/><p><l><b/>aux<b/>lettres</l><r><g><b/>aux<b/>lettres</g></r></p></e>
+    <e lm="boîte aux lettres">              <i>boîte</i><par n="abeille__n"/><p><l><b/>aux<b/>lettres</l><r><g><b/>aux<b/>lettres</g></r></p></e>
     <e lm="boite de conserve" r="LR">       <i>boite</i><par n="abeille__n"/><p><l><b/>de<b/>conserve</l><r><g><b/>de<b/>conserve</g></r></p></e>
-    <e lm="boite de durabilité" r="LR">     <i>boite</i><par n="abeille__n"/><p><l><b/>de<b/>durabilité</l><r><g><b/>de<b/>durabilité</g></r></p></e>
+    <e lm="boîte de conserve">              <i>boîte</i><par n="abeille__n"/><p><l><b/>de<b/>conserve</l><r><g><b/>de<b/>conserve</g></r></p></e>
     <e lm="boitement">                      <i>boitement</i><par n="livre__n"/></e>
     <e lm="boite postale" r="LR">           <i>boite</i><par n="abeille__n"/><p><l><b/>postale</l><r><g><b/>postale</g></r></p></e>
+    <e lm="boîte postale">                  <i>boîte</i><par n="abeille__n"/><p><l><b/>postale</l><r><g><b/>postale</g></r></p></e>
     <e lm="Bolado">                         <i>Bolado</i><par n="Nom__np"/></e>
     <e lm="Bolena">                         <i>Bolena</i><par n="Nom__np"/></e>
     <e lm="bolet">                          <i>bolet</i><par n="livre__n"/></e>
@@ -13007,6 +13010,7 @@
     <e lm="équivalent" r="LR">              <p><l>Equivalent</l><r>équivalent</r></p><par n="abaissant__adj"/></e>
     <e lm="équivaloir">                     <i>équiva</i><par n="va/loir__vblex"/></e>
     <e lm="équivaloir" r="LR">              <p><l>Equiva</l><r>équiva</r></p><par n="va/loir__vblex"/></e>
+    <e r="RL" lm="est">                     <i>est</i><par n="personnel__n"/></e><!-- restriction de direction pour éviter une ambiguité d'analyse avec le verbe être ! -->
     <e lm="éradication">                    <i>éradication</i><par n="abeille__n"/></e>
     <e lm="éradiquer">                      <i>éradiqu</i><par n="abaiss/er__vblex"/></e>
     <e lm="Erauskin">                       <i>Erauskin</i><par n="Nom__np"/></e>
@@ -13087,7 +13091,6 @@
     <e lm="essor">                          <i>essor</i><par n="livre__n"/></e>
     <e lm="essouffler">                     <i>essouffl</i><par n="abaiss/er__vblex"/></e>
     <e lm="essuie-mains">                   <i>essuie-mains</i><par n="mois__n"/></e>
-    <e r="RL" lm="est">                     <i>est</i><par n="personnel__n"/></e>  <!-- restriction de direction pour éviter une ambiguité d'analyse avec le verbe être ! -->
     <e lm="estamper">                       <i>estamp</i><par n="abaiss/er__vblex"/></e>
     <e lm="Estanislao">                     <i>Estanislao</i><par n="Nom__np"/></e>
     <e lm="Esteban">                        <i>Esteban</i><par n="Nom__np"/></e>
@@ -19156,6 +19159,7 @@
     <e lm="Pombo">                          <i>Pombo</i><par n="Nom__np"/></e>
     <e lm="Pomeranie">                      <i>Pomeranie</i><par n="Lieu__np"/></e>
     <e lm="pomme">                          <i>pomme</i><par n="abeille__n"/></e>
+    <e lm="pomme de terre">                 <i>pomme</i><par n="abeille__n"/><p><l><b/>de<b/>terre</l><r><g><b/>de<b/>terre</g></r></p></e>
     <e lm="Pomone">                         <i>Pomone</i><par n="Nom__np"/></e>
     <e lm="pompe">                          <i>pompe</i><par n="abeille__n"/></e>
     <e lm="Pompée">                         <i>Pompée</i><par n="Nom__np"/></e>
@@ -23176,7 +23180,6 @@
     <e lm="bataille d'Austerlitz">          <i>bataille<b/>d'Austerlitz</i><par n="Autre__np"/></e>
     <e lm="Batailles d'Aboukir">            <i>Batailles<b/>d'Aboukir</i><par n="Autre__np"/></e>
     <e lm="Bruegel l'Ancien">               <i>Bruegel<b/>l'Ancien</i><par n="Nom__np"/></e>
-    <e lm="Caisse d'Éparge de Saint-Sébastien"><i>Caisse<b/>d'Éparge<b/>de<b/>Saint-Sébastien</i><par n="Autre__np"/></e>
     <e lm="caisse d'épargne">               <i>caisse<b/>d'épargne</i><par n="Autre__np"/></e>
     <e lm="Catherine d'Aragon">             <i>Catherine<b/>d'Aragon</i><par n="Nom__np"/></e>
     <e lm="ce n'est pas pourquoi">          <i>ce<b/>n'est<b/>pas<b/>pourquoi</i><par n="afin_que__cnjadv"/></e>

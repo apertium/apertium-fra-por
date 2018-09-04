@@ -1214,13 +1214,6 @@
       <e><p><l><b/>da<b/>manhã</l>  <r><b/>da<b/>manhã<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
-    <pardef n="caixa__n">
-      <e><p><l/>                    <r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>s</l>                <r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p><l/>                    <r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>s</l>                <r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-    </pardef>
-
     <pardef n="caos__n">
       <e><p><l/>                    <r><s n="n"/><s n="m"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l/>             <r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -17899,12 +17892,13 @@
     <e lm="Caio Plínio Segundo">            <i>Caio<b/>Plínio<b/>Segundo</i><par n="Nome__np"/></e>
     <e lm="cair">                           <i>ca</i><par n="atra/ir__vblex"/></e>
     <e lm="Cairo">                          <i>Cairo</i><par n="Lugar__np"/></e>
-    <e lm="Caisse d'Éparge de Saint-Sébastien"><i>Caisse<b/>d'Éparge<b/>de<b/>Saint-Sébastien</i><par n="Outro__np"/></e>
     <e lm="caisse d'épargne">               <i>caisse<b/>d'épargne</i><par n="Outro__np"/></e>
     <e lm="caixa">                          <i>caixa</i><par n="abadia__n"/></e>
     <e lm="Caixa">                          <i>Caixa</i><par n="Outro__np"/></e>
+    <e lm="caixa de correio">               <i>caixa</i><par n="abadia__n"/><p><l><b/>de<b/>correio</l><r><g><b/>de<b/>correio</g></r></p></e>
     <e lm="Caixanova">                      <i>Caixanova</i><par n="Outro__np"/></e>
     <e lm="caixão">                         <i>caix</i><par n="avi/ão__n"/></e>
+    <e lm="caixa postal">                   <i>caixa</i><par n="abadia__n"/><p><l><b/>postal</l><r><g><b/>postal</g></r></p></e>
     <e lm="Caja Laboral">                   <i>Caja<b/>Laboral</i><par n="Outro__np"/></e>
     <e lm="Cajasol">                        <i>Cajasol</i><par n="Outro__np"/></e>
     <e lm="CajaSur">                        <i>CajaSur</i><par n="Outro__np"/></e>
@@ -24118,6 +24112,7 @@
     <e lm="Las Vegas">                      <i>Las<b/>Vegas</i><par n="Lugar__np"/></e>
     <e lm="László Sólyom">                  <i>László<b/>Sólyom</i><par n="Nome__np"/></e>
     <e lm="lata">                           <i>lata</i><par n="abadia__n"/></e>
+    <e lm="lata de conservas">              <i>lata</i><par n="abadia__n"/><p><l><b/>de<b/>conservas</l><r><g><b/>de<b/>conservas</g></r></p></e>
     <e lm="Latasa">                         <i>Latasa</i><par n="Lugar__np"/></e>
     <e lm="latido">                         <i>latido</i><par n="abatimento__n"/></e>
     <e lm="latim">                          <i>lati</i><par n="be/m__n"/></e>
