@@ -2770,8 +2770,9 @@
               <tag><lit-tag v="sg"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -2801,13 +2802,15 @@
               <tag><lit-tag v="sg"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -2838,18 +2841,21 @@
               <tag><lit-tag v="sg"/></tag>
             </tags>
             <lu>
-              <clip pos="1" side="tl" part="lem"/>
+              <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
             <b pos="1"/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lemih"/>
               <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
             <lu>
-              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -3484,10 +3490,11 @@
                 </lu>
                 <b pos="3"/>
                 <lu>
-                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="lemh"/>
                   <clip pos="2" side="tl" part="a_adj"/>
                   <var n="genero"/>
                   <var n="numero"/>
+                  <clip pos="2" side="tl" part="lemq"/>
                 </lu>
               </chunk>
             </out>
@@ -3512,10 +3519,11 @@
                 </lu>
                 <b pos="1"/>
                 <lu>
-                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="lemh"/>
                   <clip pos="2" side="tl" part="a_adj"/>
                   <var n="genero"/>
                   <var n="numero"/>
+                  <clip pos="2" side="tl" part="lemq"/>
                 </lu>
                 <b pos="2"/>
                 <lu>
@@ -21320,10 +21328,11 @@
             </lu>
             <b pos="2"/>
             <lu>
-              <clip pos="3" side="tl" part="lem"/>
+              <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_adj"/>
               <var n="genero"/>
               <var n="numero"/>
+              <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -21391,10 +21400,11 @@
             </lu>
             <b/>
             <lu>
-              <clip pos="2" side="tl" part="lem"/>
+              <clip pos="2" side="tl" part="lemh"/>
               <clip pos="2" side="tl" part="a_adj"/>
               <var n="genero"/>
               <var n="numero"/>
+              <clip pos="2" side="tl" part="lemq"/>
             </lu>
             <b pos="2"/>
             <lu>
