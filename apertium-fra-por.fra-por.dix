@@ -14224,8 +14224,8 @@
     <e>       <p><l>prescrire<g><b/>un<b/>arrêt-maladie</g><s n="vblex"/></l><r>dar<g><b/>baixa</g><s n="vblex"/></r></p></e>
     <e>       <p><l>présélection<s n="n"/></l>        <r>pré-seleção<s n="n"/></r></p></e>
     <e>       <p><l>présence<s n="n"/></l>            <r>presença<s n="n"/></r></p></e>
-    <e>       <p><l>présent<s n="n"/></l>             <r>presente<s n="n"/></r></p></e>
-    <e r="RL"><p><l>présent<s n="adj"/></l>           <r>presente<s n="adj"/></r></p></e>
+    <e r="LR"><p><l>présent<s n="n"/></l>             <r>presente<s n="n"/></r></p></e>
+    <e>       <p><l>présent<s n="adj"/></l>           <r>presente<s n="adj"/></r></p></e>
     <e>       <p><l>présentation<s n="n"/></l>        <r>apresentação<s n="n"/></r></p></e>
     <e>       <p><l>présenter<s n="vblex"/></l>       <r>apresentar<s n="vblex"/></r></p></e>
     <e>       <p><l>préservatif<s n="n"/></l>         <r>preservativo<s n="n"/></r></p></e>
