@@ -1,0 +1,50 @@
+[0Pq83vsu0G9o#0] ^Prnperssubj<SN><tn><p1><mf><sg>{^je<prn><tn><p1><mf><5>$}$ ^verb<SV><vblex><pri><p1><sg>{^vouloir<vblex><pri><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/0Pq83vsu0G9o]
+[2Pgxohlh45to#0] ^Det_nom<SN><DET><m><sg>{^un<det><ind><m><sg>$ ^avertissement<n><m><sg>$}$
+[/2Pgxohlh45to]
+[6oDdxGdq9cWy#0] ^Det_nom_adj<SN><DET><m><sg>{^un<det><ind><m><sg>$ ^nouveau<adj><m><sg>$ ^avertissement<n><m><sg>$}$
+[/6oDdxGdq9cWy]
+[6w6yGfCSulBf#0] ^Det_nom<SN><DET><m><sg>{^ce<det><dem><m><sg>$ ^chat<n><m><sg>$}$
+[/6w6yGfCSulBf]
+[ACfwwm9oG9Uw#0] ^Det_nom_adj<SN><DET><m><sg>{^un<det><ind><m><sg>$ ^beau<adj><m><sg>$ ^avertissement<n><m><sg>$}$
+[/ACfwwm9oG9Uw]
+[FBajQ22bPzS-#0] ^Det_nom_adj<SN><DET><m><sg>{^un<det><ind><m><sg>$ ^vieux<adj><m><sg>$ ^avertissement<n><m><sg>$}$
+[/FBajQ22bPzS-]
+[J8LvugcUYyCa#0] ^Prnperssubj<SN>{^ce<prn><tn><nt><sg>$}$ ^verb<SV><vbser><pri><p3><sg>{^être<vbser><pri><p3><sg>$}$ ^adj<SA><mf><sg>{^grand<adj><m><sg>$}$^punt<sent>{^.<sent>$}$
+[/J8LvugcUYyCa]
+[KVs_RVx-0WiZ#0] ^ant<SN><sg>{^João<np><ant>$}$ ^verb<SV><vblex><pii><p3><sg>{^vouloir<vblex><pii><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/KVs_RVx-0WiZ]
+[Ob76mFHAELLk#0] ^Prnperssubj<SN><tn><p3><m><sg>{^il<prn><tn><p3><4><5>$}$ ^verb<SV><vblex><pri><p3><sg>{^vouloir<vblex><pri><p3><sg>$}$^punt<sent>{^.<sent>$}$
+[/Ob76mFHAELLk]
+[P0woZC-cwcu5#0] ^Det_nom_adj<SN><DET><m><sg>{^un<det><ind><m><sg>$ ^grand<adj><m><sg>$ ^avertissement<n><m><sg>$}$
+[/P0woZC-cwcu5]
+[QYCmrFu4O8rz#0] ^Cnj<cnjadv>{^si<cnjadv>$}$ ^prnperssubj<SN>{^il<prn><tn><p3><m><sg>$}$ ^adv<adv>{^non<adv>$}$ ^verb<SV><vblex><pri><p3><sg>{^parler<vblex><pri><p3><sg>$}$ ^pas<adv>{^pas<adv>$}$^punt<sent>{^.<sent>$}$
+[/QYCmrFu4O8rz]
+[QtWfC-hlIpbe#0] ^tanto_nom_quanto<SN><n><m><sg>{^autant<adv>$ ^de<pr>$ ^cheveu<n><m><sg>/poil<n><m><sg>$ ^que<cnjsub>$}$
+[/QtWfC-hlIpbe]
+[_kcy_RH61x3q#0] ^Prnperssubj<SN><tn><p1><mf><sg>{^je<prn><tn><p1><mf><5>$}$ ^verb<SV><vblex><pii><p1><sg>{^vouloir<vblex><pii><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/_kcy_RH61x3q]
+[dC9I4Oq-XzAf#0] ^Prnperssubj<SN><tn><p3><m><sg>{^il<prn><tn><p3><4><5>$}$ ^verb<SV><vbser><pri><p3><sg>{^être<vbser><pri><p3><sg>$}$ ^adj<SA><m><sg>{^grand<adj><m><sg>$}$^punt<sent>{^.<sent>$}$
+[/dC9I4Oq-XzAf]
+[dCxj9rwVf8vg#0] ^ant<SN><sg>{^João<np><ant>$}$ ^verb<SV><vblex><pri><p3><sg>{^vouloir<vblex><pri><p3><sg>$}$^punt<sent>{^.<sent>$}$
+[/dCxj9rwVf8vg]
+[dsjYUFL0oJhz#0] ^Prnperssubj<SN>{^il<prn><tn><p3><m><sg>$}$ ^verb<SV><vblex><pri><p3><sg>{^manger<vblex><pri><p3><sg>$}$^punt<sent>{^.<sent>$}$
+[/dsjYUFL0oJhz]
+[dw13eYn3UoeI#0] ^Prnperssubj<SN>{^je<prn><tn><p1><mf><sg>$}$ ^pro_verb<SV><vblex><fti><p1><sg>{^le<prn><pro><p3><nt>$ ^faire<vblex><fti><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/dw13eYn3UoeI]
+[dwlRAECB6mk_#0] ^Prnperssubj<SN><tn><p3><m><sg>{^il<prn><tn><p3><4><5>$}$ ^verb<SV><vblex><pii><p3><sg>{^vouloir<vblex><pii><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/dwlRAECB6mk_]
+[gpO4l4LOifDr#0] ^Prnperssubj<SN><tn><p3><m><sg>{^il<prn><tn><p3><4><5>$}$ ^verb<SV><vblex><pri><p3><sg>{^manger<vblex><pri><p3><sg>$}$^punt<sent>{^.<sent>$}$
+[/gpO4l4LOifDr]
+[jhukziQOjT6E#0] ^este_nom<SN><det><dem><m><sg><m><sg>{^Ce<det><dem><m><sg>$ ^chat<n><m><sg>$ ^ci<adv>$}$
+[/jhukziQOjT6E]
+[qi1vcGL5k7xa#0] ^tão_adj_quanto_prnperssubj<SN><adj><m><sg>{^aussi<adv>$ ^petit<adj><m><sg>$ ^que<cnjsub>$ ^lui<prn><tn><p3><m><sg>$}$
+[/qi1vcGL5k7xa]
+[sSfwTrVoqJdJ#0] ^Nploc<SPREP>{^Dans<pr>$ ^le<det><def><f><sg>$ ^France<np><loc>$}$
+[/sSfwTrVoqJdJ]
+[vmsVAVvCvllc#0] ^Prnperssubj<SN><tn><p1><mf><sg>{^je<prn><tn><p1><mf><5>$}$ ^pro_verb<SV><vblex><fti><p1><sg>{^le<prn><pro><p3><nt>$ ^faire<vblex><fti><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/vmsVAVvCvllc]
+[y-0jyvFBmr9W#0] ^aquele_nom<SN><det><dem><m><sg><m><sg>{^Ce<det><dem><m><sg>$ ^chat<n><m><sg>$ ^là<adv>$}$
+[/y-0jyvFBmr9W]
+[zV7it_aEyDnD#0] ^Det_nom_adj<SN><DET><m><sg>{^le<det><def><m><sg>$ ^chat<n><m><sg>$ ^blanc<adj><m><sg>$}$
+[/zV7it_aEyDnD]

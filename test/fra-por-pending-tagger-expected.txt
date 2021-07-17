@@ -1,0 +1,12 @@
+[F_SQbv32ZxZ_#0] ^Le vôtre<prn><tn><pos><m><sg>$
+[/F_SQbv32ZxZ_]
+[JB7Xuk45y-hH#0] ^On<prn><pro><ref><p3><mf><sp>$ ^ne<adv>$ ^parler<vblex><pri><p3><sg>$ ^pas<adv>$^.<sent>$
+[/JB7Xuk45y-hH]
+[RKSJlD_25WjG#0] ^De<pr>+le vôtre<prn><tn><pos><m><sg>$
+[/RKSJlD_25WjG]
+[X8vN2Za8WCWk#0] ^À<pr>+le vôtre<prn><tn><pos><m><sg>$
+[/X8vN2Za8WCWk]
+[iaPswN5P5AUg#0] ^En<pr>$ ^ville<n><f><sg>$
+[/iaPswN5P5AUg]
+[vOeELpFqveK2#0] ^En<pr>$ ^France<np><loc>$
+[/vOeELpFqveK2]

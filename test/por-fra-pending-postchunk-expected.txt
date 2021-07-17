@@ -1,0 +1,50 @@
+[0Pq83vsu0G9o#0] ^Je<prn><tn><p1><mf><sg>$ ^vouloir<vblex><pri><p1><sg>$^.<sent>$
+[/0Pq83vsu0G9o]
+[2Pgxohlh45to#0] ^Un<det><ind><m><sg>$ ^avertissement<n><m><sg>$
+[/2Pgxohlh45to]
+[6oDdxGdq9cWy#0] ^Un<det><ind><m><sg>$ ^nouveau<adj><m><sg>$ ^avertissement<n><m><sg>$
+[/6oDdxGdq9cWy]
+[6w6yGfCSulBf#0] ^Ce<det><dem><m><sg>$ ^chat<n><m><sg>$
+[/6w6yGfCSulBf]
+[ACfwwm9oG9Uw#0] ^Un<det><ind><m><sg>$ ^beau<adj><m><sg>$ ^avertissement<n><m><sg>$
+[/ACfwwm9oG9Uw]
+[FBajQ22bPzS-#0] ^Un<det><ind><m><sg>$ ^vieux<adj><m><sg>$ ^avertissement<n><m><sg>$
+[/FBajQ22bPzS-]
+[J8LvugcUYyCa#0] ^Ce<prn><tn><nt><sg>$ ^être<vbser><pri><p3><sg>$ ^grand<adj><m><sg>$^.<sent>$
+[/J8LvugcUYyCa]
+[KVs_RVx-0WiZ#0] ^João<np><ant>$ ^vouloir<vblex><pii><p1><sg>$^.<sent>$
+[/KVs_RVx-0WiZ]
+[Ob76mFHAELLk#0] ^Il<prn><tn><p3><m><sg>$ ^vouloir<vblex><pri><p3><sg>$^.<sent>$
+[/Ob76mFHAELLk]
+[P0woZC-cwcu5#0] ^Un<det><ind><m><sg>$ ^grand<adj><m><sg>$ ^avertissement<n><m><sg>$
+[/P0woZC-cwcu5]
+[QYCmrFu4O8rz#0] ^Si<cnjadv>$ ^il<prn><tn><p3><m><sg>$ ^non<adv>$ ^parler<vblex><pri><p3><sg>$ ^pas<adv>$^.<sent>$
+[/QYCmrFu4O8rz]
+[QtWfC-hlIpbe#0] ^autant<adv>$ ^de<pr>$ ^cheveu<n><m><sg>/poil<n><m><sg>$ ^que<cnjsub>$
+[/QtWfC-hlIpbe]
+[_kcy_RH61x3q#0] ^Je<prn><tn><p1><mf><sg>$ ^vouloir<vblex><pii><p1><sg>$^.<sent>$
+[/_kcy_RH61x3q]
+[dC9I4Oq-XzAf#0] ^Il<prn><tn><p3><m><sg>$ ^être<vbser><pri><p3><sg>$ ^grand<adj><m><sg>$^.<sent>$
+[/dC9I4Oq-XzAf]
+[dCxj9rwVf8vg#0] ^João<np><ant>$ ^vouloir<vblex><pri><p3><sg>$^.<sent>$
+[/dCxj9rwVf8vg]
+[dsjYUFL0oJhz#0] ^Il<prn><tn><p3><m><sg>$ ^manger<vblex><pri><p3><sg>$^.<sent>$
+[/dsjYUFL0oJhz]
+[dw13eYn3UoeI#0] ^Je<prn><tn><p1><mf><sg>$ ^le<prn><pro><p3><nt>$ ^faire<vblex><fti><p1><sg>$^.<sent>$
+[/dw13eYn3UoeI]
+[dwlRAECB6mk_#0] ^Il<prn><tn><p3><m><sg>$ ^vouloir<vblex><pii><p1><sg>$^.<sent>$
+[/dwlRAECB6mk_]
+[gpO4l4LOifDr#0] ^Il<prn><tn><p3><m><sg>$ ^manger<vblex><pri><p3><sg>$^.<sent>$
+[/gpO4l4LOifDr]
+[jhukziQOjT6E#0] ^Ce<det><dem><m><sg>$ ^chat<n><m><sg>$ ^ci<adv>$
+[/jhukziQOjT6E]
+[qi1vcGL5k7xa#0] ^aussi<adv>$ ^petit<adj><m><sg>$ ^que<cnjsub>$ ^lui<prn><tn><p3><m><sg>$
+[/qi1vcGL5k7xa]
+[sSfwTrVoqJdJ#0] ^Dans<pr>$ ^le<det><def><f><sg>$ ^France<np><loc>$
+[/sSfwTrVoqJdJ]
+[vmsVAVvCvllc#0] ^Je<prn><tn><p1><mf><sg>$ ^le<prn><pro><p3><nt>$ ^faire<vblex><fti><p1><sg>$^.<sent>$
+[/vmsVAVvCvllc]
+[y-0jyvFBmr9W#0] ^Ce<det><dem><m><sg>$ ^chat<n><m><sg>$ ^là<adv>$
+[/y-0jyvFBmr9W]
+[zV7it_aEyDnD#0] ^Le<det><def><m><sg>$ ^chat<n><m><sg>$ ^blanc<adj><m><sg>$
+[/zV7it_aEyDnD]

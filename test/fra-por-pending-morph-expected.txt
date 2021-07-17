@@ -1,0 +1,12 @@
+[F_SQbv32ZxZ_#0] ^Le vôtre/Le vôtre<prn><tn><pos><m><sg>$
+[/F_SQbv32ZxZ_]
+[JB7Xuk45y-hH#0] ^On/On<prn><pro><ref><p3><mf><sp>$ ^ne/ne<adv>$ ^parle/parler<vblex><pri><p3><sg>/parler<vblex><pri><p1><sg>/parler<vblex><imp><p2><sg>/parler<vblex><prs><p3><sg>/parler<vblex><prs><p1><sg>$ ^pas/pas<adv>$^./.<sent>$
+[/JB7Xuk45y-hH]
+[RKSJlD_25WjG#0] ^Du vôtre/De<pr>+le vôtre<prn><tn><pos><m><sg>$
+[/RKSJlD_25WjG]
+[X8vN2Za8WCWk#0] ^Au vôtre/À<pr>+le vôtre<prn><tn><pos><m><sg>$
+[/X8vN2Za8WCWk]
+[iaPswN5P5AUg#0] ^En/En<pr>/En<prn><pro><adv>$ ^ville/ville<n><f><sg>$
+[/iaPswN5P5AUg]
+[vOeELpFqveK2#0] ^En/En<pr>/En<prn><pro><adv>$ ^France/France<np><loc>$
+[/vOeELpFqveK2]

@@ -1,0 +1,2 @@
+[YGHaaqq28oul#0] ^det_nom<SN><f><sg>{^O<det><def><f><sg>$ ^pluma<n><f><sg>$}$ ^pr<PREP><de>{^de<pr>$}$ ^det<DET><f><sg>{^meu<det><pos><2><3>$}$
+[/YGHaaqq28oul]

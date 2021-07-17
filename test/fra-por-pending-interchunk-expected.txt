@@ -1,0 +1,12 @@
+[F_SQbv32ZxZ_#0] ^prnsubj<SN><prn><tn><pos><m><sg>{^O vosso<prn><tn><pos><m><sg>$}$
+[/F_SQbv32ZxZ_]
+[JB7Xuk45y-hH#0] ^ne<SV><vblex><pri><p3><sg>{^não<adv>$ ^Se<prn><pro><ref><p3><mf><sp>$ ^falar<vblex><pri><p3><sg>$}$ ^adv{}$^punt<sent>{^.<sent>$}$
+[/JB7Xuk45y-hH]
+[RKSJlD_25WjG#0] ^pr<PREP><>{^De<pr>$}$ ^prnsubj<SN><prn><tn><pos><m><sg>{^o vosso<prn><tn><pos><m><sg>$}$
+[/RKSJlD_25WjG]
+[X8vN2Za8WCWk#0] ^pr<PREP><>{^A<pr>$}$ ^prnsubj<SN><prn><tn><pos><m><sg>{^o vosso<prn><tn><pos><m><sg>$}$
+[/X8vN2Za8WCWk]
+[iaPswN5P5AUg#0] ^pr<PREP><>{^Em<pr>$}$ ^nom<SN><f><sg>{^cidade<n><2><3>$}$
+[/iaPswN5P5AUg]
+[vOeELpFqveK2#0] ^pr<PREP><>{^Em<pr>$}$ ^nom<SN><loc>{^França<np><loc>$}$
+[/vOeELpFqveK2]

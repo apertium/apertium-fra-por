@@ -1,0 +1,22 @@
+{
+    "fra-por-pending": {
+        "input": "fra-por-pending-input.txt",
+        "mode": "fra-por"
+    },
+    "por-fra-pending": {
+        "input": "por-fra-pending-input.txt",
+        "mode": "por-fra"
+    },
+    "por-fra-regression": {
+        "input": "por-fra-regression-input.txt",
+        "mode": "por-fra"
+    },
+    "por-fra": {
+        "input": "por-fra-input.txt",
+        "mode": "por-fra"
+    },
+    "fra-por": {
+        "input": "fra-por-input.txt",
+        "mode": "fra-por"
+    }
+}

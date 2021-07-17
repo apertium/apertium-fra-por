@@ -1,0 +1,12 @@
+[F_SQbv32ZxZ_#0] ^O vosso<prn><tn><pos><m><sg>$
+[/F_SQbv32ZxZ_]
+[JB7Xuk45y-hH#0] ^não<adv>$ ^Se<prn><pro><ref><p3><mf><sp>$ ^falar<vblex><pri><p3><sg>$ ^.<sent>$
+[/JB7Xuk45y-hH]
+[RKSJlD_25WjG#0] ^De<pr>$ ^o vosso<prn><tn><pos><m><sg>$
+[/RKSJlD_25WjG]
+[X8vN2Za8WCWk#0] ^A<pr>$ ^o vosso<prn><tn><pos><m><sg>$
+[/X8vN2Za8WCWk]
+[iaPswN5P5AUg#0] ^Em<pr>$ ^cidade<n><f><sg>$
+[/iaPswN5P5AUg]
+[vOeELpFqveK2#0] ^Em<pr>$ ^França<np><loc>$
+[/vOeELpFqveK2]

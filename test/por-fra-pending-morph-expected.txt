@@ -1,0 +1,50 @@
+[0Pq83vsu0G9o#0] ^Eu/Eu<prn><tn><p1><mf><sg>$ ^quero/querer<vblex><pri><p1><sg>/querer<vbmod><pri><p1><sg>$^./.<sent>$
+[/0Pq83vsu0G9o]
+[2Pgxohlh45to#0] ^Uma/Um<prn><tn><f><sg>/Um<det><ind><f><sg>$ ^advertência/advertência<n><f><sg>$
+[/2Pgxohlh45to]
+[6oDdxGdq9cWy#0] ^Uma/Um<prn><tn><f><sg>/Um<det><ind><f><sg>$ ^advertência/advertência<n><f><sg>$ ^nova/novo<adj><f><sg>$
+[/6oDdxGdq9cWy]
+[6w6yGfCSulBf#0] ^Esse/Esse<prn><tn><m><sg>/Esse<det><dem><m><sg>$ ^gato/gato<n><m><sg>$
+[/6w6yGfCSulBf]
+[ACfwwm9oG9Uw#0] ^Uma/Um<prn><tn><f><sg>/Um<det><ind><f><sg>$ ^advertência/advertência<n><f><sg>$ ^bela/belo<adj><f><sg>$
+[/ACfwwm9oG9Uw]
+[FBajQ22bPzS-#0] ^Uma/Um<prn><tn><f><sg>/Um<det><ind><f><sg>$ ^advertência/advertência<n><f><sg>$ ^velha/velho<adj><f><sg>$
+[/FBajQ22bPzS-]
+[J8LvugcUYyCa#0] ^É/SER<vbser><pri><p3><sg>$ ^grande/grande<adj><mf><sg>$^./.<sent>$
+[/J8LvugcUYyCa]
+[KVs_RVx-0WiZ#0] ^João/João<np><ant>$ ^queria/querer<vblex><pii><p1><sg>/querer<vblex><pii><p3><sg>/querer<vbmod><pii><p1><sg>/querer<vbmod><pii><p3><sg>$^./.<sent>$
+[/KVs_RVx-0WiZ]
+[Ob76mFHAELLk#0] ^Ele/Ele<prn><tn><p3><m><sg>$ ^quer/querer<vblex><imp><p2><sg>/querer<vblex><pri><p3><sg>/querer<vbmod><imp><p2><sg>/querer<vbmod><pri><p3><sg>$^./.<sent>$
+[/Ob76mFHAELLk]
+[P0woZC-cwcu5#0] ^Uma/Um<prn><tn><f><sg>/Um<det><ind><f><sg>$ ^advertência/advertência<n><f><sg>$ ^grande/grande<adj><mf><sg>$
+[/P0woZC-cwcu5]
+[QYCmrFu4O8rz#0] ^Se/Se<cnjadv>/Se<prn><pro><ref><p3><mf><sp>$ ^não/não<adv>$ ^fala/fala<n><f><sg>/falar<vblex><imp><p2><sg>/falar<vblex><pri><p3><sg>$^./.<sent>$
+[/QYCmrFu4O8rz]
+[QtWfC-hlIpbe#0] ^Tanto/Tanto<adv>/Tanto<adj><m><sg>$ ^cabelo/cabelo<n><m><sg>$ ^quanto/quanto<adv><itg>/quanto<prn><itg><m><sg>/quanto<rel><nn><m><sg>$
+[/QtWfC-hlIpbe]
+[_kcy_RH61x3q#0] ^Eu/Eu<prn><tn><p1><mf><sg>$ ^queria/querer<vblex><pii><p1><sg>/querer<vblex><pii><p3><sg>/querer<vbmod><pii><p1><sg>/querer<vbmod><pii><p3><sg>$^./.<sent>$
+[/_kcy_RH61x3q]
+[dC9I4Oq-XzAf#0] ^Ele/Ele<prn><tn><p3><m><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^grande/grande<adj><mf><sg>$^./.<sent>$
+[/dC9I4Oq-XzAf]
+[dCxj9rwVf8vg#0] ^João/João<np><ant>$ ^quer/querer<vblex><imp><p2><sg>/querer<vblex><pri><p3><sg>/querer<vbmod><imp><p2><sg>/querer<vbmod><pri><p3><sg>$^./.<sent>$
+[/dCxj9rwVf8vg]
+[dsjYUFL0oJhz#0] ^Come/Comer<vblex><imp><p2><sg>/Comer<vblex><pri><p3><sg>$^./.<sent>$
+[/dsjYUFL0oJhz]
+[dw13eYn3UoeI#0] ^O/O<prn><pro><p3><nt>/O<det><def><m><sg>/O<prn><pro><p3><m><sg>$ ^farei/fazer<vblex><fti><p1><sg>$^./.<sent>$
+[/dw13eYn3UoeI]
+[dwlRAECB6mk_#0] ^Ele/Ele<prn><tn><p3><m><sg>$ ^queria/querer<vblex><pii><p1><sg>/querer<vblex><pii><p3><sg>/querer<vbmod><pii><p1><sg>/querer<vbmod><pii><p3><sg>$^./.<sent>$
+[/dwlRAECB6mk_]
+[gpO4l4LOifDr#0] ^Ele/Ele<prn><tn><p3><m><sg>$ ^come/comer<vblex><imp><p2><sg>/comer<vblex><pri><p3><sg>$^./.<sent>$
+[/gpO4l4LOifDr]
+[jhukziQOjT6E#0] ^Este/Este<prn><tn><m><sg>/Este<det><dem><m><sg>$ ^gato/gato<n><m><sg>$
+[/jhukziQOjT6E]
+[qi1vcGL5k7xa#0] ^Tão/Tão<preadv>$ ^pequeno/pequeno<adj><m><sg>$ ^quanto/quanto<adv><itg>/quanto<prn><itg><m><sg>/quanto<rel><nn><m><sg>$ ^ele/ele<prn><tn><p3><m><sg>$
+[/qi1vcGL5k7xa]
+[sSfwTrVoqJdJ#0] ^Na/Em<pr>+o<det><def><f><sg>$ ^França/França<np><loc>$
+[/sSfwTrVoqJdJ]
+[vmsVAVvCvllc#0] ^Eu/Eu<prn><tn><p1><mf><sg>$ ^o/o<prn><pro><p3><nt>/o<det><def><m><sg>/o<prn><pro><p3><m><sg>$ ^farei/fazer<vblex><fti><p1><sg>$^./.<sent>$
+[/vmsVAVvCvllc]
+[y-0jyvFBmr9W#0] ^Aquele/Aquele<prn><tn><m><sg>/Aquele<det><dem><m><sg>$ ^gato/gato<n><m><sg>$
+[/y-0jyvFBmr9W]
+[zV7it_aEyDnD#0] ^O/O<prn><pro><p3><nt>/O<det><def><m><sg>/O<prn><pro><p3><m><sg>$ ^gato/gato<n><m><sg>$ ^branco/branco<adj><m><sg>$
+[/zV7it_aEyDnD]

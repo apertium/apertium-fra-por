@@ -1,0 +1,10 @@
+[DYlktE3sWcol#0] ^Prnperssubj<SN>{^nous<prn><tn><p1><mf><pl>$}$ ^verb<SV><vblex><pri><p1><pl>{^être<vblex><pri><p1><pl>$}$
+[/DYlktE3sWcol]
+[P_guwJkx8GB1#0] ^Prnperssubj<SN>{^vous<prn><tn><p2><mf><pl>$}$ ^verb<SV><vblex><pri><p2><pl>{^être<vblex><pri><p2><pl>$}$
+[/P_guwJkx8GB1]
+[Y0bBnI2mlu7A#0] ^Prnperssubj<SN>{^tu<prn><tn><p2><mf><sg>$}$ ^verb<SV><vblex><pri><p2><sg>{^être<vblex><pri><p2><sg>$}$
+[/Y0bBnI2mlu7A]
+[Zzi_B0tf5mpa#0] ^Prnperssubj<SN>{^il<prn><tn><p3><m><sg>$}$ ^verb<SV><vblex><pri><p3><sg>{^être<vblex><pri><p3><sg>$}$
+[/Zzi_B0tf5mpa]
+[pfF6vfoPW2No#0] ^Prnperssubj<SN>{^je<prn><tn><p1><mf><sg>$}$ ^verb<SV><vblex><pri><p1><sg>{^être<vblex><pri><p1><sg>$}$
+[/pfF6vfoPW2No]

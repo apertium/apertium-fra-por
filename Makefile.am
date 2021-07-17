@@ -160,10 +160,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "Onde é" | apertium -d . por-fra | tee .test-mt
-	@echo "Où est" > .test-ref
-	@diff .test-ref .test-mt
-	echo "La plume de ma" | apertium -d . fra-por | tee .test-mt
-	@echo "A pluma de minha" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test

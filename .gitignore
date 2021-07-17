@@ -37,3 +37,6 @@
 t/.git
 t/Pending_tests.html
 t/Regression_tests.html
+/*.bin
+/ap_include.am
+/test/*-output.txt
